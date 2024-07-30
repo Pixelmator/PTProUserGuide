@@ -47,6 +47,7 @@
   * [Replace image](working-with-layers/replace-image.md)
   * [Use the Arrange tool](working-with-layers/use-the-arrange-tool.md)
   * [Select layers](working-with-layers/select-layers.md)
+  * [Move and align layers](working-with-layers/move-and-align-layers.md)
 * [Page](page.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
