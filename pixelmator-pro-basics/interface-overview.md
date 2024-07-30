@@ -14,7 +14,7 @@ layout:
 
 # Interface overview
 
-Pixelmator Pro features a single-window, easy-to-use interface, designed for editing images and creating graphic designs. The main parts of the interface are the image canvas in the center, the Tools sidebar on the right, the Layers sidebar on the left, and the toolbar at the top. You can also customize the default layout of Pixelmator Pro to arrange the interface elements differently. See [Change the Pixelmator Pro layout](../.gitbook/assets/1310) to learn more.
+Pixelmator Pro features a single-window, easy-to-use interface, designed for editing images and creating graphic designs. The main parts of the interface are the image canvas in the center, the Tools sidebar on the right, the Layers sidebar on the left, and the toolbar at the top. You can also customize the default layout of Pixelmator Pro to arrange the interface elements differently. See [Change the Pixelmator Pro layout](change-the-pixelmator-pro-layout.md) to learn more.
 
 There are also additional elements such as overlays or rulers that are hidden by default. You can choose to view them if you need them from the View menu at the top of your screen.
 
@@ -24,11 +24,11 @@ There are also additional elements such as overlays or rulers that are hidden by
 
 The Tools sidebar contains the tools you need to create graphic designs, draw, or enhance the look of images. The default set of Pixelmator Pro tools is conveniently arranged based on their function. You can find groups of tools for making selections, painting and erasing, retouching, and more.
 
-You can also [customize the Tools sidebar](../.gitbook/assets/1312) to create a toolset for your specific editing style.
+You can also [customize the Tools sidebar ](customize-the-tools-sidebar.md)to create a toolset for your specific editing style.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1652093242000.png)
 
-Some tools in the Tools sidebar are grouped with one or a few other tools. To select a different tool from a group, click the grouped tool twice, force click, or Control ⌃ – click it. For more information about the different tools and their functions, see [Pixelmator Pro tools](../.gitbook/assets/1194).
+Some tools in the Tools sidebar are grouped with one or a few other tools. To select a different tool from a group, click the grouped tool twice, force click, or `Control ⌃` – click it. For more information about the different tools and their functions, see [Pixelmator Pro tools](pixelmator-pro-tools.md).
 
 #### Show or hide the Tools sidebar
 
@@ -68,7 +68,7 @@ You can `Control ⌃` – click the toolbar and choose Customize Toolbar to add,
 2. Drag the zoom slider to zoom in or out of your image. Double-click the zoom slider to fill the entire work area with the image. See [Zoom in and out of an image ](zoom-in-and-out-of-an-image.md)to learn more about zooming in Pixelmator Pro.
 3. Click the title at the top of the Pixelmator Pro document window to give your document a new name, change its location, or add tags.
 4. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line"> to open the Pixelmator Pro color picker or drag from the color well onto the canvas to fill a layer, text, shape, or selection with the currently selected color.
-5. Click Remove Background to clear the background of a photo and replace it with something else or save the image with a transparent background. See [Remove layer background](broken-reference) to learn more.
+5. Click Remove Background to clear the background of a photo and replace it with something else or save the image with a transparent background. See [Remove layer background](../remove-image-background.md) to learn more.
 6. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110188000.png" alt="" data-size="line"> to view document info (document type, size, and other properties), add a description or keywords.
 7. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110328000.png" alt="" data-size="line"> to rotate the image or video to the left. Press and hold the `Option ⌥` key to rotate the image to the right.
 8. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605162881000.png" alt="" data-size="line"> to access various document properties, including the image and canvas sizes, Color Depth, and Color Profile. Here, you’ll also find tools such as [Super Resolution](../.gitbook/assets/1006) and [Trim](../.gitbook/assets/1021).
@@ -214,7 +214,7 @@ Do one of the following:
    * _Quick Canvas Controls_: Shows or hides media placeholder or alternative element group buttons on the canvas.
 
 {% hint style="info" %}
-To enable shape outlines, you can also Control ⌃ – click any shape on the canvas and choose Show Shape Outline from the menu that appears.
+To enable shape outlines, you can also `Control ⌃` – click any shape on the canvas and choose Show Shape Outline from the menu that appears.
 {% endhint %}
 
 ***
@@ -226,7 +226,7 @@ The Info bar provides useful information about the image or a selected layer. Th
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605448653000.png)
 
 {% hint style="info" %}
-You can Control ⌃ – click the Info bar to add or remove certain properties.
+You can `Control ⌃` – click the Info bar to add or remove certain properties.
 {% endhint %}
 
 The Info bar also offers quick access to [Image Size](../.gitbook/assets/1006), Color Profile, and Color Depth settings. Double-click the desired setting in the Info bar to open a dedicated edit sheet.
@@ -235,6 +235,6 @@ The Info bar also offers quick access to [Image Size](../.gitbook/assets/1006), 
 
 Do one of the following:
 
-* Click **View > Show (or Hide) Info Bar** (from the View menu at the top of your screen).
+* Click **View > Show (or Hide) Info Bar** from the View menu at the top of your screen.
 * Click the disclosure arrow next to the <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line"> item in the toolbar, then choose Show (or hide) Info Bar.
 * Press `Command ⌘` + Forward Slash `/` on your keyboard.

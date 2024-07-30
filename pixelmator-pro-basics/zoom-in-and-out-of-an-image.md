@@ -27,21 +27,21 @@ Do any of the following:
 * Choose **View > Zoom In** or **View > Zoom Out** (from the View menu at the top of the screen).
 * Press `Command ⌘` and Plus `+` on your keyboard to zoom in, or `Command ⌘` and Minus `-` to zoom out.
 * `Option ⌥` – scroll an image.
-* Click "100%" in the [toolbar](https://about/support/guide/pixelmator-pro/#glossary), then select an option (if the zoom button is not visible, you can choose **Window > Customize Toolbar** to add it):
+* Click "100%" in the toolbar, then select an option (if the zoom button is not visible, you can choose **Window > Customize Toolbar** to add it):
   * _A percentage:_ The image zooms in or out accordingly.
   * _Zoom to fit:_ The image adjusts to fill the application window. If you enlarge or reduce the size of the Pixelmator Pro application window, the zoom level changes so that the image always fills the window.
   * _Enter a value:_ You can also zoom in on an image by entering a specific zoom percentage. Double-click the number field to enter the desired value.
-* Use the Zoom tool.
+* Use the [Zoom tool](zoom-in-and-out-of-an-image.md#use-the-zool-tool).
 
 ### Zoom an image to fit the application window
 
 Do one of the following:
 
 * Double-click the Zoom slider.
-* Press Command ⌘ + 0 on your keyboard.
+* Press `Command ⌘` + `0` on your keyboard.
 * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the Tools sidebar and click Actual Size in the Tool Options pane.
-* Choose **Tools > Zoom** (from the Tools menu at the top of your screen) and click Zoom to Fit in the Tool Options pane.
-* Choose **View > Zoom to Fit** (from the View menu at the top of your screen).
+* Choose **Tools > Zoom** from the Tools menu at the top of your screen and click Zoom to Fit in the Tool Options pane.
+* Choose **View > Zoom to Fit** from the View menu at the top of your screen.
 
 ### View an image at its actual size
 
@@ -49,8 +49,8 @@ Do one of the following:
 
 * Choose **View > Actual Size** from the View menu at the top of your screen.
 * Press `Option ⌥` + `Command ⌘` + `0` or `Command ⌘` + `1` on your keyboard.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the [Tools sidebar](https://about/support/guide/pixelmator-pro/#glossary) and click Actual Size in the [Tool Options pane](https://about/support/guide/pixelmator-pro/#glossary).
-* Choose **Tools > Zoom** (from the Tools menu at the top of your screen) and click Actual Size in the Tool Options pane. This displays the image as it would appear in a web browser.
+* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the Tools sidebar and click Actual Size in the Tool Options pane.
+* Choose **Tools > Zoom** from the Tools menu at the top of your screen and click Actual Size in the Tool Options pane. This displays the image as it would appear in a web browser.
 
 {% hint style="warning" %}
 Pixelmator Pro is optimized for the Retina display, so if you have a Mac computer with a Retina display, keep in mind that the image will appear twice as small as on other displays or in apps like Preview. To view the image as it would appear on those displays or on a website not optimized for Retina, set the zoom percentage to 200%.
@@ -64,7 +64,7 @@ The Pixelmator Pro Zoom tool lets you zoom in and out of the image using the zoo
 
 1. Choose the Zoom tool by doing one of the following:
    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the Tools sidebar.
-   * Choose **Tools > Zoom** (from the Tools menu at the top of your screen).
+   * Choose **Tools > Zoom** from the Tools menu at the top of your screen.
    * Press `Z` on your keyboard.
 2. Do any of the following:
    * In the Tool Options pane, drag the Zoom slider to zoom in or out of the image. You can also use the Navigator box to change the area of an image on which you’re zoomed in.
