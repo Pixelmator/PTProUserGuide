@@ -8,7 +8,7 @@ In Pixelmator Pro, video layers work just like regular image layers. This lets y
 
 Video layers have easy-to-use, on-canvas video controls you can use to quickly play or pause videos, select poster frames, mute or unmute audio, or access more advanced video controls.
 
-You can open videos in popular image formats including MP4 and QuickTime Movie, or [export videos](.gitbook/assets/798) by customizing settings like compression type (QuickTime Movie format only) frame rate, or size.
+You can open videos in popular image formats including MP4 and QuickTime Movie, or [export videos](../.gitbook/assets/798) by customizing settings like compression type (QuickTime Movie format only) frame rate, or size.
 
 Play, pause, or mute video
 
