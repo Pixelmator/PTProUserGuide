@@ -22,20 +22,12 @@ You can move and align any layer or multiple layers using the Arrange <img src="
    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
-2. Drag the layer on the canvas to move it.
+2. Do any of the following:&#x20;
+   * _Move a layer:_ Drag the layer on the canvas to move it.
+   * _Move a layer by one pixel:_ Press an arrow key.
+   * _Move a layer by ten pixels:_ Press and hold the `Shift ⇧` key while you press an arrow key.
 
 When you move layers, they automatically snap to other layers on the canvas. You can press and hold the `Command ⌘` key to temporarily disable snapping, or deselect the alignment guides in the View menu at the top of the screen to turn off snapping completely.
-
-## Move a layer incrementally
-
-1. Choose the Arrange tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
-   * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
-   * Press the `V` key on your keyboard.
-2. Select the layer you'd like to position.
-3. Do one of the following:
-   * _Move an object one pixel:_ Press an arrow key.
-   * _Move an object ten pixels:_ Press and hold the `Shift ⇧` key while you press an arrow key.
 
 ## Position a layer using x and y coordinates
 
@@ -109,16 +101,15 @@ Distributing layers lets you arrange them according to their edges or centers. F
 
 Distributing layers vertically or horizontally lets you automatically create equal spaces between them.
 
-To equally distribute objects accross a vertical axis:
-
 1. Select three or more layers you’d like to equally space.
-2. Do one of the following:
-   * Choose **Arrange > Distribute Objects > Vertical Spacing** from the Arrange menu at the top of your screen.
-   * Press `Option ⌥` + `Command ⌘` + `Control ⌃` + `V`
+2.  Do one of the following:\
+    \
+    _Equally space objects accross a vertical axis:_
 
-To equally space objects accross a horizontal axis:
+    * Choose **Arrange > Distribute Objects > Vertical Spacing** from the Arrange menu at the top of your screen.
+    * Press `Option ⌥` + `Command ⌘` + `Control ⌃` + `V`
 
-1. Select three or more layers you’d like to equally space.
-2. Do one of the following:
-   * Choose **Arrange > Distribute Objects > Horizontal Spacing** from the Arrange menu at the top of your screen.
-   * Press `Option ⌥` + `Command ⌘` + `Control ⌃ + H`
+    _Equally space objects accross a horizontal axis:_
+
+    * Choose **Arrange > Distribute Objects > Horizontal Spacing** from the Arrange menu at the top of your screen.
+    * Press `Option ⌥` + `Command ⌘` + `Control ⌃ + H`
