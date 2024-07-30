@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Apple Pencil settings
 
 If you're working with Pixelmator Pro on an iPad (using Sidecar), you can speed up certain actions using the double-tap gesture of Apple Pencil.

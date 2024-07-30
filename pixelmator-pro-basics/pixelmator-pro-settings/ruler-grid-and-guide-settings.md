@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Ruler, grid, and guide settings
 
 The Rulers' settings let you change the rulers' measurement units, the colors of the guides or grid, the spacing between gridlines and grid subdivisions. You can also turn on or off the alignment and object spacing guides.

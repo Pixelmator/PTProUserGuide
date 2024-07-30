@@ -14,7 +14,7 @@ layout:
 
 # Choose and manage colors in Pixelmator Pro
 
-Pixelmator Pro lets you quickly choose colors for different tools, color adjustments, or effects using a color picker that appears when you click any color well in Pixelmator Pro. Using the color picker, you can quickly select a color using the color square or hue slider, choose colors by specific RGB values, choose from beautiful color palette collections, save your custom colors or color collections, and more. And, you can also easily acess the Colors window.
+Pixelmator Pro lets you quickly choose colors for different tools, color adjustments, or effects using the color pickers that appear when you click any color well in Pixelmator Pro. Using the color picker, you can quickly select a color using the color square or hue slider, choose colors by specific RGB values, choose from beautiful color palette collections, save your custom colors or color collections, and more. And, you can also easily acess the Colors window.
 
 ***
 
@@ -63,10 +63,10 @@ Foreground and background colors are the two primary colors Pixelmator Pro will 
 
 To switch between foreground and background colors, do one of the following:
 
-* Press X on your keyboard.
+* Press `X` on your keyboard.
 * Click the switch arrow next to the color well <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line">.
 
-To reset foreground and background colors to black and white press the D key on your keyboard.
+To reset foreground and background colors to black and white press the `D` key on your keyboard.
 
 ***
 
