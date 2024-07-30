@@ -4,7 +4,7 @@
 
 You can open images in a variety of different image formats saved on your Mac, in [iCloud Drive](https://about/support/guide/pixelmator-pro/#glossary), on connected servers, and in third-party storage providers. The following file formats are supported in Pixelmator Pro: PXD, JPEG, PNG, TIFF, HEIC, PSD, SVG, PDF, GIF, BMP, TGA, WebP, JPEG-2000, macOS-supported RAW formats.
 
-When you open an image in one of the above formats, it is automatically converted to PXD — the [Pixelmator Pro file format](.gitbook/assets/639) — so when you save the image, any additional layers and advanced formatting you add are not lost and remain editable. Once you finish editing and would like to share an image with someone else or upload it online, you can save it as a JPEG, PNG, TIFF, WebP, or HEIC image or [export](.gitbook/assets/798) it.
+When you open an image in one of the above formats, it is automatically converted to PXD — the [Pixelmator Pro file format](../.gitbook/assets/639) — so when you save the image, any additional layers and advanced formatting you add are not lost and remain editable. Once you finish editing and would like to share an image with someone else or upload it online, you can save it as a JPEG, PNG, TIFF, WebP, or HEIC image or [export](../.gitbook/assets/798) it.
 
 Alternatively, instead of importing images as PXD documents, you can choose to open them in their original file format — JPEG, PNG, TIFF, WebP, or HEIC — and save changes directly back to the same file format using sidecar files. This workflow lets you share the edited images directly, without having to export them first. You can learn more about different editing workflows in Pixelmator Pro and change how it opens images in the article about Editing settings.
 
