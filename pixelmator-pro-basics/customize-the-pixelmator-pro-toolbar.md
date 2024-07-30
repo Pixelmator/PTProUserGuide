@@ -34,5 +34,3 @@ Do one of the following:
    * _Add items:_ Drag and drop items from the list onto the Pixelmator Pro toolbar.
    * _Remove items:_ Drag items out of the Pixelmator Pro toolbar.
    * _Rearrange items:_ Drag items in the toolbar.
-
-\

@@ -32,5 +32,3 @@ The Pixelmator Pro workspace is freely customizable — you can change the arran
     For instance, the Tools sidebar will snap to any edge of the application window, while the Tool Options pane and the Layers sidebar can be placed on the left or the right side of the screen.
 
 To revert any changes made to the original layout, click Reset at the bottom of the layout customization window.
-
-***

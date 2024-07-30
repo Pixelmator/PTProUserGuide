@@ -41,5 +41,3 @@ If you don’t see the controls for editing text and performing other tasks in P
 3. Click the pop-up menu next to "Touch Bar shows," then choose App controls.
 
 You can find more information about how to use the Touch Bar in the [macOS User Guide](https://support.apple.com/guide/mac-help/welcome/mac).
-
-\
