@@ -61,6 +61,8 @@
   * [Working with layer styles](customize-layers-using-styles/working-with-layer-styles.md)
   * [Adjust the opacity of a layer](customize-layers-using-styles/adjust-the-opacity-of-a-layer.md)
   * [Change the blend mode of a layer](customize-layers-using-styles/change-the-blend-mode-of-a-layer.md)
+  * [Add an outline around a layer](customize-layers-using-styles/add-an-outline-around-a-layer.md)
+  * [Fill a layer with a color or gradient](customize-layers-using-styles/fill-a-layer-with-a-color-or-gradient.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
