@@ -21,11 +21,15 @@ Alternatively, instead of importing images as PXD documents, you can choose to o
 
 **Tip:** You can also open images by simply dragging them from a website on Safari or a folder in Finder onto the Pixelmator Pro icon in the Dock.
 
+
+
+If a photo you add happens to be larger than the canvas, some of its content may be hidden beyond the edges of the canvas. [Zoom out](pixelmator-pro-basics/zoom-in-and-out-of-an-image.md) of the image until you see the layer handles, then resize it to fit the canvas. If you don't mind changing the canvas size, you can also choose **Image > Reveal Canvas** from the Image menu at the top of your screen to show the entire image.
+
 ***
 
 When you open a Pixelmator Pro document that uses fonts not installed on your Mac, a missing font notification appears briefly at the top of the image. In the notification, click Show and choose a replacement font.
 
-Opening vector and bitmap PDFs
+## Opening vector and bitmap PDFs
 
 In Pixelmator Pro, you can choose to open PDF documents as bitmaps (an image-based type of PDF), or vector PDFs (PDFs that support layers). Vector PDFs let you edit shape and image elements in PDFs as separate layers and scale documents to any size without losing quality. Bitmap PDFs open with all their contents merged into a single page which also has a fixed resolution. Because of this, bitmap PDFs have more limited options for editing and may lose quality when upscaling.
 
