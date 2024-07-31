@@ -14,8 +14,6 @@ layout:
 
 # Remove image background
 
-### Remove image background
-
 The Remove Background tool automatically removes the background from various types of layers and layer groups. The AI-powered object detection algorithm lets you quickly process images with solid-color backgrounds (such as green screen and product photos) and isolate objects placed in busier settings. Because background removal is such a fundamental part of image editing, you'll always find the Remove Background tool within easy reach when working on your projects.
 
 ***
