@@ -61,12 +61,12 @@ Once you copy the selection, you can deselect it by pressing Command ⌘ + D on 
 ## Add an image or video from Photos or Photo Booth as a layer
 
 1. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and choose Photos.
+   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Photos.
    * Choose **Insert > Photos** (from the Insert menu at the top of your screen).
    * Press `Shift ⇧` + `Command ⌘` + `P` on your keyboard.
 2. Navigate to the image or video in your Photos or Photo Booth library and choose Insert.
 
-**Tip:** If a photo you add happens to be larger than the canvas, some of its content may be hidden beyond the edges of the canvas. [Zoom out](https://www.pixelmator.com/support/guide/pixelmator-pro/1279) of the image until you see the layer handles, then resize it to fit the canvas. If you don't mind changing the canvas size, you can also choose **Image > Reveal Canvas** (from the Image menu at the top of your screen) to show the entire image.
+
 
 ## Capture an image with iPhone or iPad camera to add as a layer
 
