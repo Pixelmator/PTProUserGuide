@@ -50,7 +50,7 @@ Editing masks is easy with handy on-canvas controls that appear when you select 
    * _Adjust the mask softness:_ Click Mask Settings and drag the Feather slider to control how much to soften the edges of the mask.
    * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
 
-**Refine a mask**
+**Refine a bitmap mask**
 
 Once you've made some basic adjustments to your mask, you can further refine it using the Refine Mask tool.
 
@@ -99,9 +99,11 @@ Editing vector masks is easy with handy on-canvas controls that appear when you 
    * _Adjust the mask softness:_ Click Mask Settings and drag the Feather slider to control how much to soften the edges of the mask.
    * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
 
-**Refine a mask**
+**Refine a vector mask**
 
-You can also refine vector masks just like you refine bitmap masks using the [Refine Mask](use-layer-masks.md#edit-and-refine-bitmap-masks) tool, but this converts them to bitmap, too.&#x20;
+To refine a vector mask, you can make it editable and adjust its individual points, or use different blend modes just like when editing shapes. Refer to the article about editing shapes to learn more.
+
+You can refine vector masks using the Refine Mask tool just like you refine [bitmap masks](use-layer-masks.md#edit-and-refine-bitmap-masks), but this process converts them to bitmap as well.
 
 </details>
 
