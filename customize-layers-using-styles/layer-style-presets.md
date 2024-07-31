@@ -54,6 +54,7 @@ Once you've created a preset or a preset collection, you can rename, redefine th
 2. `Control ⌃` – click an individual preset or More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the collection you want to manage.
 3. Do any of the following:&#x20;
    * _Redefine a style preset:_ If you’d like to overwrite or update an existing preset with new settings, you can redefine it.
+   * _Add a style preset to favorites:_ To quickly access your favorite and most-used presets, save them to the special Favorites collection.
    * _Rename a style preset or preset collection:_ You can give individual style presets or preset collections distinguishable names or rename the default presets and collections that come with Pixelmator Pro.
    * _Remove a style preset or preset collection:_ If you’ve accidentally duplicated a layer style preset or would simply like to delete a preset collection you no longer use, you can remove it from the presets bar.
    * _Import layer style presets or preset collections:_ In the Collections pop-up menu, choose import and browse your Mac for a .layerstyles file to import. You can also drag and drop a preset or a preset collection to the Pixelmator Pro icon in the Dock.
