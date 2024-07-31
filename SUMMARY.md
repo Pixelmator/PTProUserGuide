@@ -54,7 +54,7 @@
   * [Use rulers](working-with-layers/use-rulers.md)
   * [Use alignment guides](working-with-layers/use-alignment-guides.md)
   * [Organize and manage layers](working-with-layers/organize-and-manage-layers.md)
-* [Page](page.md)
+  * [Use layer masks](working-with-layers/use-layer-masks.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
