@@ -16,6 +16,8 @@ layout:
 
 A layer mask is like an additional sheet you can place over a layer or layer group to hide parts of it. Layer masks are nondestructive because even though the parts they hide are no longer shown, the original layer is fully preserved, and if you turn off or remove the mask, the full layer will reappear. You can also go back to make adjustments to layer masks after adding them.
 
+***
+
 ## Add bitmap or vector masks
 
 The quickest way to add a mask is by choosing an option from the special Mask <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649061178000.png" alt="" data-size="line"> menu at the top of the layers sidebar. Alternatively, you can do any of the following:
@@ -106,4 +108,30 @@ To refine a vector mask, you can make it editable and adjust its individual poin
 You can refine vector masks using the Refine Mask tool just like you refine [bitmap masks](use-layer-masks.md#edit-and-refine-bitmap-masks), but this process converts them to bitmap as well.
 
 </details>
+
+<details>
+
+<summary>Replace a mask</summary>
+
+You can change the content of a bitmap layer mask by replacing it with any other image on your Mac. You can also replace vector masks with other shapes from your Shapes library.
+
+**Replace a bitmap mask**
+
+1. In the Layers sidebar, click to select a layer mask you want to replace.
+2. Do any of the following:
+   1. Choose **Format > Mask > Replace Image Mask** from the Format menu at the top of your screen.
+   2. In the Layers sidebar `Control ⌃` – click the layer mask, and choose Mask > Replace Image Mask.
+   3. In the mask on-canvas controls, click More and choose Replace Image Mask.&#x20;
+
+**Replace a vector mask**
+
+1. In the Layers sidebar, click to select the vector mask you want to replace.
+2. Do any of the following:
+   1. Choose **Format > Mask > Replace Shape Mask** from the Format menu at the top of your screen.
+   2. In the Layers sidebar `Control ⌃` – click the layer mask, and choose Mask > Replace Shape Mask.
+   3. In the mask on-canvas controls, click More and choose Replace Shape Mask.&#x20;
+
+</details>
+
+
 
