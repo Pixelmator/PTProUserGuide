@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Remove image background
 
 ### Remove image background
@@ -6,7 +20,7 @@ The Remove Background tool automatically removes the background from various typ
 
 ***
 
-### Remove background from a layer or layer group
+### Remove the background from a layer or layer group
 
 Do any of the following:
 
@@ -14,19 +28,14 @@ Do any of the following:
 
     &#x20;**Tip:** In case there are multiple subjects in your image, you can use any of the selection tools to mark only the ones you'd like to keep. The background removal algorithm may still remove areas within your selection if these are not identified as subjects.
 * Choose **Edit > Remove Background** from the Edit menu at the top of your screen.
-* Press Shift ⇧ + Backspace ⌫ on your keyboard.
+* Press `Shift ⇧` + `Backspace ⌫` on your keyboard.
 * While pressing and holding the Command ⌘ key, drag and drop an image from your Mac or the web to the [Layers sidebar](https://about/support/guide/pixelmator-pro/#glossary).
-*   Control ⌃ – click a layer or a layer group in the Layers sidebar and choose Remove Background.
+*   `Control ⌃` – click a layer or a layer group in the Layers sidebar and choose Remove Background.
 
     _Note:_ When removing background from a layer group, Pixelmator Pro creates a layer mask for that layer group. To delete the background completely, the Remove Background action would have to be performed on each layer within the group individually.
 * Choose **Tools > Smart Erase** from the Tools menu at the top of the screen and click Remove Background.
 
-***
+{% hint style="info" %}
+If you'd like to hide the background instead of removing it completely, hold down the `Option ⌥` key when clicking Remove Background in the menu. This will mask the background instead of deleting it and you'll be able to edit the mask manually once it's added.
+{% endhint %}
 
-&#x20;**Tip:** If you'd like to hide the background instead of removing it completely, hold down the Option ⌥ key when clicking Remove Background in the menu. This will mask the background instead of deleting it and you'll be able to edit the mask manually once it's added.
-
-***
-
-**Resources**
-
-### Tutorials

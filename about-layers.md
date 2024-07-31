@@ -33,9 +33,3 @@ To work with layers, you should have the [Layers sidebar](https://about/support/
 {% hint style="info" %}
 The layer you are working on is highlighted so you can easily identify it. It’s a good idea always to check which layer is active — for example, if you choose a command and nothing happens, check whether you’re editing the right layer.
 {% endhint %}
-
-***
-
-**Resources**
-
-### Tutorials
