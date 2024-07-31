@@ -55,6 +55,8 @@
   * [Use alignment guides](working-with-layers/use-alignment-guides.md)
   * [Organize and manage layers](working-with-layers/organize-and-manage-layers.md)
   * [Use layer masks](working-with-layers/use-layer-masks.md)
+  * [Use clipping masks](working-with-layers/use-clipping-masks.md)
+  * [Open and edit images with Portrait Masks](working-with-layers/open-and-edit-images-with-portrait-masks.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
