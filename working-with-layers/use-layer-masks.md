@@ -40,76 +40,57 @@ The quickest way to add a mask is by choosing an option from the special Mask <i
 
 <summary>Edit and refine bitmap masks</summary>
 
-**Edit a mask using on-canvas controls**
+**Edit using on-canvas controls**
 
-When you place a layer mask over an image, it is completely white by default. The completely white parts of a mask are 100% transparent, meaning everything below the white areas is visible. If you paint over the mask with pure black, the areas you paint over are completely hidden. Pure white is 100% transparent, pure black is 0% transparent, and shades of grey range from 1% to 99% transparency — the darkest grey is 1% transparent, 50% grey is 50% transparent, and off-white is 99% transparent.
+Editing masks is easy with handy on-canvas controls that appear when you select a mask layer. If the controls are not visible, make sure the Arrange tool is selected.
 
 1. Select the bitmap mask you want to edit.
 2. Do any of the following:&#x20;
-   * _Paint to hide or reveal additional areas:_ Use Paint and Erase brushes in the on-canvas controls at the bottom of the screen to hide or reveal the layer. When working on the mask, you can adjust the Brush Settings to control the brush size, softness, and opacity.\
-     You can also select the [Paint tool](https://www.pixelmator.com/support/guide/pixelmator-pro/1038) and paint on the mask with black or white brushes to edit it.
+   * _Paint to hide or reveal additional areas:_ Use Paint and Erase brushes in the on-canvas controls at the bottom of the screen to hide or reveal the layer. When working on the mask, you can adjust the Brush Settings to control the brush size, softness, and opacity.
    * _Adjust the mask opacity:_ Click Mask Settings and drag the Opacity slider to control the overall transparency of the mask, including the unmasked areas of a layer.
    * _Adjust the mask density:_ Click Mask Settings and drag the Density slider to control the strength of the masking effect in the masked areas of a layer.
    * _Adjust the mask softness:_ Click Mask Settings and drag the Feather slider to control how much to soften the edges of the mask.
    * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
-
-When editing masks using the Paint tool, you can use the keyboard shortcut `D` to reset the primary and secondary colors in Pixelmator Pro to black and white and `X` to switch between the primary and secondary colors.
 
 **Refine a mask**
 
 Once you've made some basic adjustments to your mask, you can further refine it using the Refine Mask tool.
 
-1. To choose the Refine Mask tool, do one of the following:
-   * In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), `Control ⌃` – click the layer mask, and choose Refine Mask.
-   * In the Layers sidebar `Control ⌃` – click the masked layer, and choose Refine Mask.
-   * [Select the layer](https://www.pixelmator.com/support/guide/pixelmator-pro/662) over which you have placed a mask. Then, choose **Format > Mask > Refine Mask** (from the Format menu at the top of your screen).
-2. Refine your mask by adjusting the options in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary):
+1. Select the mask you want to refine.
+2. To choose the Refine Mask tool, do one of the following:
+   * Click More in the on-canvas mask controls and choose Refine Mask.
+   * In the Layers sidebar, `Control ⌃` – click the layer mask, and choose Refine Mask.
+   * Select the mask or the masked layer, then choose **Format > Mask > Refine Mask** from the Format menu at the top of your screen.
+3. Refine your mask by adjusting the options in the Tool Options pane:
    * _Shape Roundness:_ Adjust how much to round the mask outline.&#x20;
    * _Edge Softness:_ Adjust how much to soften the edges of the mask outline. With softer edges, the masked area will blend in better with other parts of the image should you copy or edit it.
    * _Expand:_ Change the size of the mask.
    * _Mask Subject:_ Automatically create a mask for the subject in your image.
    * _Smart Refine:_ Use a machine learning-based algorithm to intelligently detect intricate details like hair or fur at the edges of the mask and automatically refine the outline.
    * _Invert Mask:_ Inverting a mask makes the opaque areas of the masked image transparent and vice versa.
-3. Add or subtract areas from the mask:
-   * Use the Refine Edge Brush to add or subtract only at the edges of the mask.
-   * Use the Quick Selection Brush to add or subtract from the mask as if using the Quick Selection tool.
-   * Use the Basic Brush to add or subtract from the mask as if painting with a basic brush.
+   * _Add or subtract areas from the mask:_\
+     \
+     Use the Refine Edge Brush to add or subtract only at the edges of the mask.\
+     \
+     Use the Quick Selection Brush to add or subtract from the mask as if using the Quick Selection tool.\
+     \
+     Use the Basic Brush to add or subtract from the mask as if painting with a basic brush.
+
+**Edit a mask using the Paint tool**
+
+When you place a layer mask over an image, it is completely white by default. The completely white parts of a mask are 100% transparent, meaning everything below the white areas is visible. If you paint over the mask with pure black, the areas you paint over are completely hidden. Pure white is 100% transparent, pure black is 0% transparent, and shades of grey range from 1% to 99% transparency — the darkest grey is 1% transparent, 50% grey is 50% transparent, and off-white is 99% transparent. \
+\
+This lets you edit masks — hide or reveal areas — by simply painting on the mask with black or white brushes. See [Paint tool](https://www.pixelmator.com/support/guide/pixelmator-pro/1038) to learn more.
+
+:bulb: **Tip:** When editing masks using the Paint tool, you can use the keyboard shortcut `D` to reset the primary and secondary colors in Pixelmator Pro to black and white and `X` to switch between the primary and secondary colors.
 
 </details>
 
-## Edit and refine bitmap masks
+<details>
 
-When you place a layer mask over an image, it is completely white by default. The completely white parts of a mask are 100% transparent, meaning everything below the white areas is visible. If you paint over the mask with pure black, the areas you paint over are completely hidden. Pure white is 100% transparent, pure black is 0% transparent, and shades of grey range from 1% to 99% transparency — the darkest grey is 1% transparent, 50% grey is 50% transparent, and off-white is 99% transparent.
+<summary>Edit vector masks</summary>
 
-1. Select the bitmap mask you want to edit.
-2. Do any of the following:&#x20;
-   * _Paint to hide or reveal additional areas:_ Use Paint and Erase brushes in the on-canvas controls at the bottom of the screen to hide or reveal the layer. When working on the mask, you can adjust the Brush Settings to control the brush size, softness, and opacity.\
-     You can also select the [Paint tool](https://www.pixelmator.com/support/guide/pixelmator-pro/1038) and paint on the mask with black or white brushes to edit it.
-   * _Adjust the mask opacity:_ Click Mask Settings and drag the Opacity slider to control the overall transparency of the mask, including the unmasked areas of a layer.
-   * _Adjust the mask density:_ Click Mask Settings and drag the Density slider to control the strength of the masking effect in the masked areas of a layer.
-   * _Adjust the mask softness:_ Click Mask Settings and drag the Feather slider to control how much to soften the edges of the mask.
-   * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
 
-{% hint style="info" %}
-When editing masks using the Paint tool, you can use the keyboard shortcut `D` to reset the primary and secondary colors in Pixelmator Pro to black and white and `X` to switch between the primary and secondary colors.
-{% endhint %}
 
-Once you've made some basic adjustments to your mask, you can further refine it using the Refine Mask tool.
+</details>
 
-1. To choose the Refine Mask tool, do one of the following:
-   * In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), `Control ⌃` – click the layer mask, and choose Refine Mask.
-   * In the Layers sidebar `Control ⌃` – click the masked layer, and choose Refine Mask.
-   * [Select the layer](https://www.pixelmator.com/support/guide/pixelmator-pro/662) over which you have placed a mask. Then, choose **Format > Mask > Refine Mask** (from the Format menu at the top of your screen).
-2. Refine your mask by adjusting the options in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary):
-   * _Shape Roundness:_ Adjust how much to round the mask outline.&#x20;
-   * _Edge Softness:_ Adjust how much to soften the edges of the mask outline. With softer edges, the masked area will blend in better with other parts of the image should you copy or edit it.
-   * _Expand:_ Change the size of the mask.
-   * _Mask Subject:_ Automatically create a mask for the subject in your image.
-   * _Smart Refine:_ Use a machine learning-based algorithm to intelligently detect intricate details like hair or fur at the edges of the mask and automatically refine the outline.
-   * _Invert Mask:_ Inverting a mask makes the opaque areas of the masked image transparent and vice versa.
-3. Add or subtract areas from the mask:
-   * Use the Refine Edge Brush to add or subtract only at the edges of the mask.
-   * Use the Quick Selection Brush to add or subtract from the mask as if using the Quick Selection tool.
-   * Use the Basic Brush to add or subtract from the mask as if painting with a basic brush.
-
-## Edit and refine vector masks
