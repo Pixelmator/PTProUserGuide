@@ -52,6 +52,7 @@
   * [Transform layers](working-with-layers/transform-layers.md)
   * [Convert layers into pixels](working-with-layers/convert-layers-into-pixels.md)
   * [Use rulers](working-with-layers/use-rulers.md)
+  * [Use alignment guides](working-with-layers/use-alignment-guides.md)
 * [Page](page.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
