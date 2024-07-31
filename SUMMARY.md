@@ -57,6 +57,8 @@
   * [Use layer masks](working-with-layers/use-layer-masks.md)
   * [Use clipping masks](working-with-layers/use-clipping-masks.md)
   * [Open and edit images with Portrait Masks](working-with-layers/open-and-edit-images-with-portrait-masks.md)
+* [Customize layers using styles](customize-layers-using-styles/README.md)
+  * [Working with layer styles](customize-layers-using-styles/working-with-layer-styles.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
