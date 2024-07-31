@@ -14,7 +14,7 @@ layout:
 
 # Transform layers
 
-The Transform tool in Pixelmator Pro lets you easily transform images, text, shapes or layer masks. Not only you can use it to resize, position, and rotate layers as you normally would using the [Arrange tool](use-the-arrange-tool.md), but also manipulate them in a number of different ways. You can slant the objects on your canvas vertically or horizontally, stretch their corners to any direction you want, or change their perspective.
+The Transform tool in Pixelmator Pro lets you easily transform images, text, shapes, or layer masks. Not only you can use it to resize, position, and rotate layers as you normally would using the [Arrange tool](use-the-arrange-tool.md), but also manipulate them in a number of different ways. You can slant the objects on your canvas vertically or horizontally, stretch their corners to any direction you want, or change their perspective.
 
 ***
 

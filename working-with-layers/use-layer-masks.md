@@ -18,7 +18,7 @@ A layer mask is like an additional sheet you can place over a layer or layer gro
 
 ***
 
-## Add bitmap or vector masks
+## Add a mask
 
 The quickest way to add a mask is by choosing an option from the special Mask <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649061178000.png" alt="" data-size="line"> menu at the top of the layers sidebar. Alternatively, you can do any of the following:
 
@@ -40,7 +40,7 @@ The quickest way to add a mask is by choosing an option from the special Mask <i
 
 <details>
 
-<summary>Edit and refine bitmap masks</summary>
+<summary><strong>Edit and refine bitmap masks</strong></summary>
 
 Editing masks is easy with handy on-canvas controls that appear when you select a mask layer. If the controls are not visible, make sure the Arrange tool is selected.
 
