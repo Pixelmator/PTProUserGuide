@@ -18,9 +18,9 @@ When copying and pasting objects from one image to another, or across different 
 
 ***
 
-### Decontaminate colors of an image
+### Decontaminate the colors of a pasted selection
 
-1. [Select](https://www.pixelmator.com/support/guide/pixelmator-pro/662) the layer you'd like to decontaminate.
+1. Select the layer you'd like to decontaminate.
 2. Choose **Format > Image > Decontaminate Colors** (from the Format menu at the top of the screen).
 
 {% hint style="info" %}

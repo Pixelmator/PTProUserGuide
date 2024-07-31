@@ -25,6 +25,6 @@ You can reduce noise in a single layer or, using a color adjustments layer, mult
 To denoise the currently selected layer, do one of the following:
 
 * Choose **Format > Denoise** from the Format menu at the top of your screen.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and choose Denoise from the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu.
+* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar and choose Denoise from the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu.
 * Press A on your keyboard, then click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> at the very top of the Color Adjustments pane and choose Denoise.
 * Press `Control ⌃` + `Shift ⇧` + `D` on your keyboard.
