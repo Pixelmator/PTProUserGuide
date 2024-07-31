@@ -27,7 +27,7 @@ When a layer style is turned off, it no longer shows on the layer but is still v
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
    * Press the `S` key on your keyboard.
 2. Select the layer or layers you would like to edit.
-3. Turn the switch next to Fill, Stroke, Shadow, or Drop Shadow styles on or off. If a style you want to add is not visible, click Add Style at the top of the tool options pane.
+3. Turn the switch next to [Fill](fill-a-layer-with-a-color-or-gradient.md), [Stroke](add-an-outline-around-a-layer.md), [Shadow](add-a-drop-shadow-to-a-layer.md), or [Inner Shadow](add-an-inner-shadow-to-a-layer.md) styles on or off. If a style you want to add is not visible, click Add Style at the top of the tool options pane.
 
 ## Remove a style
 
