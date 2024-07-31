@@ -40,8 +40,6 @@ The quickest way to add a mask is by choosing an option from the special Mask <i
 
 <summary>Edit and refine bitmap masks</summary>
 
-**Edit using on-canvas controls**
-
 Editing masks is easy with handy on-canvas controls that appear when you select a mask layer. If the controls are not visible, make sure the Arrange tool is selected.
 
 1. Select the bitmap mask you want to edit.
@@ -100,6 +98,10 @@ Editing vector masks is easy with handy on-canvas controls that appear when you 
    * _Adjust the mask density:_ Click Mask Settings and drag the Density slider to control the strength of the masking effect in the masked areas of a layer.
    * _Adjust the mask softness:_ Click Mask Settings and drag the Feather slider to control how much to soften the edges of the mask.
    * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
+
+**Refine a mask**
+
+You can also refine vector masks just like you refine bitmap masks using the [Refine Mask](use-layer-masks.md#edit-and-refine-bitmap-masks) tool, but this converts them to bitmap, too.&#x20;
 
 </details>
 
