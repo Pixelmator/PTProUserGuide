@@ -90,7 +90,16 @@ This lets you edit masks — hide or reveal areas — by simply painting on the 
 
 <summary>Edit vector masks</summary>
 
+Editing vector masks is easy with handy on-canvas controls that appear when you select a mask layer. If the controls are not visible, make sure the Arrange tool is selected.
 
+1. Select the vector mask you want to edit.
+2. Do any of the following:&#x20;
+   * _Change the mask shape:_ To replace your current mask, use the Shape tool in the on-canvas controls to open the Shapes browser and select a shape.
+   * _Change the mask fill type:_ Click Mask Settings, and in the Mask Fill Type menu, select whether you want your mask to be a solid color or a gradient. You can edit the gradient mask just as you edit gradients.
+   * _Adjust the mask opacity:_ Click Mask Settings and drag the Opacity slider to control the overall transparency of the mask, including the unmasked areas of a layer.
+   * _Adjust the mask density:_ Click Mask Settings and drag the Density slider to control the strength of the masking effect in the masked areas of a layer.
+   * _Adjust the mask softness:_ Click Mask Settings and drag the Feather slider to control how much to soften the edges of the mask.
+   * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
 
 </details>
 
