@@ -58,3 +58,4 @@
 * [Quickly export or share an optimized image](quickly-export-or-share-an-optimized-image.md)
 * [Remove color banding](remove-color-banding.md)
 * [Pixelmator Pro keyboard shortcuts](pixelmator-pro-keyboard-shortcuts.md)
+* [Use the Type tool](use-the-type-tool.md)
