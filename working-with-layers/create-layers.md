@@ -32,7 +32,7 @@ Do one of the following:
 
 New empty layers are completely transparent and have no content yet. This means they don't show up on the canvas and can only be selected from the Layers sidebar. If you don't see the Layers sidebar, choose **View > Show Layers** (from the View menu at the top of your screen).
 
-## Add shape, text, effect, and color adjustment layers
+## Add image, shape, text, effect, and color adjustment layers
 
 1. Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar or open the Insert menu in the menu bar at the top of your screen.
 2. Choose any of the following:
@@ -57,16 +57,6 @@ New empty layers are completely transparent and have no content yet. This means 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655725499000.jpeg)
 
 Once you copy the selection, you can deselect it by pressing Command ⌘ + D on your keyboard or continue working within the boundaries of the selection.
-
-## Add an image or video from Photos or Photo Booth as a layer
-
-1. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Photos.
-   * Choose **Insert > Photos** (from the Insert menu at the top of your screen).
-   * Press `Shift ⇧` + `Command ⌘` + `P` on your keyboard.
-2. Navigate to the image or video in your Photos or Photo Booth library and choose Insert.
-
-
 
 ## Capture an image with iPhone or iPad camera to add as a layer
 
