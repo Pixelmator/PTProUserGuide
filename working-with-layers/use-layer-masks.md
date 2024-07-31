@@ -119,17 +119,18 @@ You can change the content of a bitmap layer mask by replacing it with any other
 
 1. In the Layers sidebar, click to select a layer mask you want to replace.
 2. Do any of the following:
-   1. Choose **Format > Mask > Replace Image Mask** from the Format menu at the top of your screen.
-   2. In the Layers sidebar `Control ⌃` – click the layer mask, and choose Mask > Replace Image Mask.
-   3. In the mask on-canvas controls, click More and choose Replace Image Mask.&#x20;
+   * Choose **Format > Mask > Replace Image Mask** from the Format menu at the top of your screen.
+   * In the Layers sidebar `Control ⌃` – click the layer mask, and choose Mask > Replace Image Mask.
+   * In the mask on-canvas controls, click More and choose Replace Image Mask.&#x20;
 
 **Replace a vector mask**
 
 1. In the Layers sidebar, click to select the vector mask you want to replace.
 2. Do any of the following:
-   1. Choose **Format > Mask > Replace Shape Mask** from the Format menu at the top of your screen.
-   2. In the Layers sidebar `Control ⌃` – click the layer mask, and choose Mask > Replace Shape Mask.
-   3. In the mask on-canvas controls, click More and choose Replace Shape Mask.&#x20;
+   * In the on-canvas controls, click to open the Shape browser and select a shape.
+   * In the mask on-canvas controls, click More and choose Replace Shape Mask.
+   * Choose **Format > Mask > Replace Shape Mask** from the Format menu at the top of your screen.
+   * In the Layers sidebar `Control ⌃` – click the layer mask, and choose Mask > Replace Shape Mask.
 
 </details>
 
