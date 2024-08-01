@@ -45,6 +45,12 @@ To add an effects layer, do any of the following:
 
 **Tip:** If you'd like to apply an effects layer to only one layer or layer group below it, you can do that using a clipping mask. See [Use clipping masks](https://www.pixelmator.com/support/guide/pixelmator-pro/1156) to learn more about working with clipping masks.
 
+## Rearrange the order of effects
+
+If you apply two or more effects to a single layer, you can rearrange the order in which they are combined. For example, if you apply a Gaussian blur effect and a Kaleidoscope effect, putting the Gaussian effect on top will mean your original layer is tiled first, then the result is blurred.
+
+To rearrange effects, click and drag the effect up or down the list of effects.
+
 ## Copy an effect from one layer to another
 
 A quick way to apply the same effect to multiple layers is by using [effect presets](effect-presets.md). However, you can apply the same effect to multiple layers by copying it over.
@@ -58,43 +64,11 @@ A quick way to apply the same effect to multiple layers is by using [effect pres
    * Choose **Format > Effects > Paste Effects** from the Format menu at the top of your screen.
    * In the Layers sidebar, `Control ⌃` – click the layer to which you’d like to paste the effects and choose **Effects > Paste Effects**.
 
-## Rearrange the order of effects
-
-If you apply two or more effects to a single layer, you can rearrange the order in which they are combined. For example, if you apply a Gaussian blur effect and a Kaleidoscope effect, putting the Gaussian effect on top will mean your original layer is tiled first, then the result is blurred.
-
-To rearrange effects, click and drag the effect up or down the list of effects.
-
-Temporarily see the original layer without any effects
-
-1. In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click to select the layer you'd like to see without any effect.
-2. Click and hold the Show Original button at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), or press Control ⌃ + M on your keyboard.
-
-**Tip:** If you're editing an effects layer, you can also click its visibility checkbox in the Layers sidebar to hide all effects.
-
-## Turn on Split Comparison view
-
-Using the Split Comparison view, you can see what an image looked like before and after you applied any effects to it. There are a few ways you can turn on the Split Comparison view:
-
-* Option ⌥ – click the Show Original button at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-* Press Control ⌃ + C on your keyboard.
-* If you're using a trackpad, force click the canvas or two-finger tap the canvas and choose Split Comparison.
-* Choose **Window > Customize Toolbar** and drag the Compare item to the toolbar.
-
-## Temporarily turn off a single effect
-
-1. In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click to select the layer in which you'd like to turn off an effect.
-2. In the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), turn off the effect you want.
-
-## Remove an effect
-
-1. In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click to select the layer that has an unwanted effect.
-2. Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png) next to the effect you want to remove.
-
 ## Reset all effects applied to a layer
 
 Do one of the following:
 
-* In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), Control ⌃ – click a layer and choose **Effects > Reset Effects**.
+* In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), `Control ⌃` – click a layer and choose **Effects > Reset Effects**.
 * Choose **Tools > Effects** and click the Reset Effects button at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
 
 ## Flatten effects
@@ -103,8 +77,26 @@ Flattening all the effects applied to a layer can be useful when you’re happy 
 
 Do any of the following:
 
-* In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), Control ⌃ – click a layer and choose **Effects > Flatten Effects**.
+* In the Layers sidebar, `Control ⌃` – click a layer and choose **Effects > Flatten Effects**.
 * Choose **Format > Effects > Flatten Effects**.
-* Option ⌥ – click the Reset button at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* `Option ⌥` – click the Reset button at the bottom of the Tool Options pane.
 
-\
+## Temporarily see the original layer without any effects
+
+When editing effects, you can quickly compare what an image looked like before and after you applied any effects to it.
+
+There are a few ways you can compare or turn on the Split Comparison view:
+
+1. In the Layers sidebar, click to select the layer you'd like to see without any effect.
+2. Do any of the following:&#x20;
+   * Click and hold the Show Original button at the bottom of the Tool Options pane, or press `Control ⌃` + `M` on your keyboard.
+   * `Option ⌥` – click the Show Original button at the bottom of the Tool Options pane.
+   * Press `Control ⌃` + `C` on your keyboard.
+   * If you're using a trackpad, force-click the canvas or two-finger tap the canvas and choose Split Comparison.
+
+**Tip:** If you're editing an effects layer, you can also click its visibility checkbox in the Layers sidebar to hide all effects.
+
+## Remove an effect
+
+1. In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click to select the layer that has an unwanted effect.
+2. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to the effect you want to remove.
