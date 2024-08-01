@@ -68,8 +68,8 @@ A quick way to apply the same effect to multiple layers is by using [effect pres
 
 Do one of the following:
 
-* In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), `Control ⌃` – click a layer and choose **Effects > Reset Effects**.
-* Choose **Tools > Effects** and click the Reset Effects button at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* In the Layers sidebar, `Control ⌃` – click a layer and choose **Effects > Reset Effects**.
+* Choose **Tools > Effects** and click the Reset Effects button at the bottom of the Tool Options pane.
 
 ## Flatten effects
 
@@ -98,5 +98,5 @@ There are a few ways you can compare or turn on the Split Comparison view:
 
 ## Remove an effect
 
-1. In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click to select the layer that has an unwanted effect.
+1. In the Layers sidebar, click to select the layer that has an unwanted effect.
 2. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to the effect you want to remove.
