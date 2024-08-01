@@ -23,15 +23,12 @@ The Lighten tool is used to lighten a specific area of an image. You could, for 
 1. Do one of the following:
    * Choose the Lighten <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999589000.png" alt="" data-size="line"> tool in the Tools sidebar, or choose it from the [grouped tools](#user-content-fn-1)[^1].
    * Choose **Tools > Retouch > Lighten** from the Tools menu at the top of your screen.
-2.  In the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), customize the Lighten tool.
+2. In the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), customize the Lighten tool.
+   *   _Brush Size:_ Drag the Brush Size slider to adjust the size of the Lighten tool brush. Press and hold the Option ⌥ key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 
 
-    _Brush Size:_ Drag the Brush Size slider to adjust the size of the Lighten tool brush. Press and hold the Option ⌥ key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 
-
-    **Tip:** You can use the \[ and ] keys on your keyboard to change the size of the Lighten tool brush.
-
-    _Softness:_ Drag the Softness slider to adjust the softness of the edges of the Lighten tool brush. With softer edges, the lightened areas will usually blend in better with the rest of the image.
-
-    _Strength:_ Drag the Strength slider to adjust the intensity of the lightening effect.
+       **Tip:** You can use the \[ and ] keys on your keyboard to change the size of the Lighten tool brush.
+   * _Softness:_ Drag the Softness slider to adjust the softness of the edges of the Lighten tool brush. With softer edges, the lightened areas will usually blend in better with the rest of the image.
+   * _Strength:_ Drag the Strength slider to adjust the intensity of the lightening effect.
 3. Select a tonal range to lighten: 
    * _All_: When you brush over an area to lighten it, the darkest, brightest, and midtone areas are lightened equally. 
    * _Shadows_: When you brush over an area to lighten it, only the shadows are lightened. 
