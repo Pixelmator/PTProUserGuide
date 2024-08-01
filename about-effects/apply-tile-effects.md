@@ -18,23 +18,26 @@ The effects in the Tile category repeatedly tile the selected layer in artistic 
 
 ***
 
-### Repeatedly tile an image
+## Repeatedly tile an image
 
 Tile effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 
-To tile the currently selected layer, do one of the following:
+1. Select the layer or layers you want to edit.
+2.  Do any of the following:\
+    \
+    Apply effects to a currently selected layer:
 
-* Choose **Format > Effects > Tile** (from the Format menu at the top of your screen) and choose the Tile effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Tile effect you want.
-* Press F on your keyboard, click Add Effect and add the Tile effect you want.
+    * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Tile collection.
+    * Choose **Format > Effects > Tile** and choose an effect.
+    * Press `F` on your keyboard, click Add Effect, and select an effect from the Tile collection.
 
-To sharpen multiple layers in a composition using an [effects layer](https://www.pixelmator.com/support/guide/pixelmator-pro/861) (all layers below this layer will be affected):
+    Apply effects to multiple layers:
 
-* Choose **Insert > Effects** (from the Insert menu at the top of your screen), click Add Effect in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and add the Tile effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Effects, click Add Effect in the Tool Options pane and add the Tile effect you want.
-* Press Shift ⇧ + Command ⌘ + F on your keyboard, click Add Effect in the Tool Options pane and add the Tile effect you want.
+    * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Tile collection.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Tile collection.
+    * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Tile collection.
 
-Apply a Kaleidoscope effect
+### Kaleidoscope tile effect
 
 The Kaleidoscope effect symmetrically reflects your image to create a kaleidoscopic pattern.
 
@@ -46,15 +49,9 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058821000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Kaleidoscope effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Triangle Kaleidoscope effect
+### Triangle Kaleidoscope tile effect
 
 The Triangle Kaleidoscope effect symmetrically reflects your image to create a kaleidoscopic pattern composed of triangular segments.
 
@@ -67,15 +64,9 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994816000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Triangle Kaleidoscope effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Snowflake effect
+### Snowflake tile effect
 
 The Snowflake effect produces a tiled image from a source image by applying eight-way reflected symmetry.
 
@@ -87,15 +78,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994823000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Snowflake effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Tessera effect
+### Tessera tile effect
 
 The Tessera effect produces a tiled image by reflecting it in a parallelogram and angling individual segments.
 
@@ -108,15 +93,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994830000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Tessera effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Pinwheel effect
+### Pinwheel tile effect
 
 The Pinwheel effect rotates the source image at increments of 90° to create a pinwheel-like pattern.
 
@@ -128,15 +107,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994837000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Pinwheel effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Shutters effect
+### Shutters tile effect
 
 The Shutters effect produces a tiled image from a source image by applying four translation operations.
 
@@ -149,15 +122,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994845000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Shutters effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Brickwork effect
+### Brickwork tile effect
 
 The Brickwork effect produces a tiled image from a source image in the style of a brick wall.
 
@@ -169,15 +136,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994859000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Brickwork effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply an Op effect
+### Op tile effect
 
 The Op tile effect segments an image and transforms each segment, then assembles them to create an effect in the style of optical art.
 
@@ -190,15 +151,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994867000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Op effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Funhouse effect
+### Funhouse tile effect
 
 The Funhouse effect warps an image by reflecting it in a parallelogram, and then tiles the result.
 
@@ -211,15 +166,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994930000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Funhouse effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Lattice effect
+### Lattice tile effect
 
 The Lattice effect sections an image into hexagon fragments each reflecting the image to create a mosaic look.
 
@@ -231,15 +180,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994937000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Lattice effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Windmill effect
+### Windmill tile effect
 
 The Windmill effect rotates the source image at increments of 60° which creates a pattern consisting of tiles resembling the sails of a windmill.
 
@@ -251,15 +194,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994874000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Windmill effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Triangle effect
+### Triangle tile effect
 
 The Triangle effect tiles a triangular segment of your selected layer.
 
@@ -272,15 +209,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994893000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Triangle effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Hexagon effect
+### Hexagon tile effect
 
 The Hexagon effect produces a tiled image from a source image by rotating the source image at increments of 30°.
 
@@ -292,15 +223,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994901000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Hexagon effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Affine Tile effect
+### Affine Tile effect
 
 The Affine Tile effect lets you stretch, skew, and rotate your selected image and then tiles the result.
 
@@ -314,15 +239,9 @@ Customize the effect:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994910000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Affine Tile effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Perspective Tile effect
+### Perspective Tile effect
 
 The Perspective Tile effect changes the perspective of your selected image and then tiles the result.
 
@@ -330,10 +249,14 @@ The Perspective Tile effect changes the perspective of your selected image and t
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994917000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Perspective Tile effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
+
+***
+
+## Show before and after or reset effects
+
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
+
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+
+To reset all effects, click Reset at the bottom of the Tool Options pane.

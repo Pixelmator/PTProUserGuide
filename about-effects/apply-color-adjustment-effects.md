@@ -22,17 +22,20 @@ The Color Adjustments category features effects that let you change the colors, 
 
 Color Adjustments effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 
-To adjust colors of the currently selected layer, do one of the following:
+1. Select the layer or layers you want to edit.
+2.  Do any of the following:\
+    \
+    Apply effects to a currently selected layer:
 
-* Choose **Format > Effects > Color Adjustments** (from the Format menu at the top of your screen) and choose the sharpen effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Color Adjustments effect you want.
-* Press F on your keyboard, click Add Effect and add the Color Adjustments effect you want.
+    * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Color Adjustments collection.
+    * Choose **Format > Effects > Color Adjustments** and choose an effect.
+    * Press `F` on your keyboard, click Add Effect, and select an effect from the Color Adjustments collection.
 
-To adjust colors of multiple layers in a composition using an [effects layer](https://www.pixelmator.com/support/guide/pixelmator-pro/861) (all layers below this layer will be affected):
+    Apply effects to multiple layers:
 
-* Choose **Insert > Effects** (from the Insert menu at the top of your screen), click Add Effect in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and add the Color Adjustments effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Effects, click Add Effect in the Tool Options pane and add the Color Adjustments effect you want.
-* Press Shift ⇧ + Command ⌘ + F on your keyboard, click Add Effect in the Tool Options pane and add the Color Adjustments effect you want.
+    * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Color Adjustments collection.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Color Adjustments collection.
+    * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Color Adjustments collection.
 
 Apply a Color Controls effect
 

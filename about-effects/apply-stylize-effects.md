@@ -18,23 +18,26 @@ The effects in the Stylize category apply differrent artistic effects to your se
 
 ***
 
-### Stylize an image
+## Stylize an image
 
 Stylize effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 
-To stylize the currently selected layer, do one of the following:
+1. Select the layer or layers you want to edit.
+2.  Do any of the following:\
+    \
+    Apply effects to a currently selected layer:
 
-* Choose **Format > Effects > Stylize** (from the Format menu at the top of your screen) and choose the Stylize effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Stylize effect you want.
-* Press F on your keyboard, click Add Effect and add the Stylize effect you want.
+    * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Stylize collection.
+    * Choose **Format > Effects > Stylize** and choose an effect.
+    * Press `F` on your keyboard, click Add Effect, and select an effect from the Stylize collection.
 
-To sharpen multiple layers in a composition using an [effects layer](https://www.pixelmator.com/support/guide/pixelmator-pro/861) (all layers below this layer will be affected):
+    Apply effects to multiple layers:
 
-* Choose **Insert > Effects** (from the Insert menu at the top of your screen), click Add Effect in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and add the Stylize effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Effects, click Add Effect in the Tool Options pane and add the Stylize effect you want.
-* Press Shift ⇧ + Command ⌘ + F on your keyboard, click Add Effect in the Tool Options pane and add the Stylize effect you want.
+    * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Stylize collection.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Stylize collection.
+    * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Stylize collection.
 
-Apply a Light Leak effect
+### Apply a Light Leak effect
 
 The Light Leak effect imitates the look and feel of vintage analog photography by adding artistic glares.
 
@@ -47,13 +50,7 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094931000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Bokeh effect
+### Apply a Bokeh effect
 
 The Bokeh effect adds artistic, colorful bokeh shapes to an image.
 
@@ -66,13 +63,7 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094926000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Vignette effect
+### Apply a Vignette effect
 
 The Vignette effect gradually darkens the outer edges of your selected layer, drawing attention to the center.
 
@@ -85,13 +76,7 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094921000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Grain effect
+### Apply a Grain effect
 
 The Grain effect emulates the look of analog film. You can use it to add some film grain to digital images.
 
@@ -102,13 +87,7 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094914000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Pixelate effect
+### Apply a Pixelate effect
 
 The Pixelate effect pixelates your selected layer, recreating the look of early digital graphics and games.
 
@@ -119,13 +98,7 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094855000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Pointillize effect
+### Apply a Pointillize effect
 
 The Pointillize effect transforms your selected layer into a pointillist painting.
 
@@ -136,13 +109,7 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094907000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Crystallize effect
+### Apply a Crystallize effect
 
 The Crystallize effect recreates your selected layer using crystal-shaped blocks.
 
@@ -153,13 +120,7 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094902000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Spot Light effect
+### Apply a Spot Light effect
 
 The Spot Light effect adds an adjustable spotlight to your selected layer, which illuminates a precise area while darkening everything that falls outside the spotlight.
 
@@ -175,15 +136,9 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094895000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Spot Light effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Bloom effect
+### Apply a Bloom effect
 
 The Bloom effect softens edges and applies an ethereal glow to your selected layer.
 
@@ -194,15 +149,9 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094890000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Bloom effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Gloom effect
+### Apply a Gloom effect
 
 The Gloom effect dulls highlights and applies a dark and gloomy glow to your selected layer.
 
@@ -213,29 +162,19 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094884000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Gloom effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Posterize effect
+### Apply a Posterize effect
 
 The Posterize effect recreates your selected layer using fewer colors, emulating the look of a silk-screen poster.
 
-* Move the Levels slider to choose how many brightness levels should be used for each color (red, green, and blue) that makes up an image. At 2 levels, the image will be recreated using 9 colors. You can also enter a value from 2 to 30.
+Customize the effect:
+
+* Move the _Levels_ slider to choose how many brightness levels should be used for each color (red, green, and blue) that makes up an image. At 2 levels, the image will be recreated using 9 colors. You can also enter a value from 2 to 30.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094879000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Noise effect
+### Apply a Noise effect
 
 The Noise effect adds colored or monochrome digital noise to an image.
 
@@ -246,24 +185,22 @@ Customize the effect: 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094873000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-Apply a Comics effect
+### Apply a Comics effect
 
 The Comics effect simulates a comic book drawing by outlining edges and applying a color halftone effect.
 
-You can also apply the Comics effect by choosing **Format > Effects > Stylize > Comics** (from the Format menu at the top of your screen).
+You can also apply the Comics effect by choosing **Format > Effects > Stylize > Comics** from the Format menu at the top of your screen.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094864000.jpeg)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Comics effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
+
+***
+
+## Show before and after or reset effects
+
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
+
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+
+To reset all effects, click Reset at the bottom of the Tool Options pane.

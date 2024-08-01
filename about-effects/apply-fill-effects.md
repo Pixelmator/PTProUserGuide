@@ -18,28 +18,26 @@ The effects in the Fill category fill your selected layer using a color, gradien
 
 ***
 
-### Fill an image with color, gradient, pattern, or image
+## Fill an image with color, gradient, pattern, or image
 
 Fill effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 
 1. Select the layer or layers you want to edit.
 2.  Do any of the following:\
     \
-    Apply Fill effects to a currently selected layer:
+    Apply effects to a currently selected layer:
 
     * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Fill collection.
     * Choose **Format > Effects > Fill** and choose an effect.
     * Press `F` on your keyboard, click Add Effect, and select an effect from the Fill collection.
 
-    Apply Fill effects to multiple layers:
+    Apply effects to multiple layers:
 
-    * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect in the Tool Options pane, and choose a Fill effect.
-    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect in the Tool Options pane, and add the Perspective Transform effect.
-    * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect in the Tool Options pane, and add the Perspective Transform effect.
+    * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Fill collection.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Fill collection.
+    * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Fill collection.
 
-
-
-Fill a layer with solid color
+### Fill with a solid color
 
 The Color effect fills your selected layer with a custom color.
 
@@ -49,15 +47,9 @@ Customize the effect:
 * Move the _Opacity_ slider to adjust the transparency of the fill effect.
 * Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when filling a layer with a solid color, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Fill a layer with a gradual transition between colors
+### Fill with a gradual transition between colors
 
 The Gradient effect fills your selected layer with a gradual transition between multiple colors.
 
@@ -68,15 +60,9 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the rotation of the gradient. You can also enter a value from 0.0º to 359.9º.  Move the _Opacity_ slider to adjust the transparency of the gradient. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
 * Move the handles of the effect rope to adjust the position of the gradient. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when filling a layer with a transition between two colors, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-## Fill a layer with a repeating pattern
+### Fill a layer with a repeating pattern
 
 The Pattern effect fills your selected layer with a repeating pattern.
 
@@ -87,7 +73,7 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the rotation of the pattern. You can also enter a value from 0.0º to 359.9º.  Move the _Opacity_ slider to adjust the transparency of the pattern. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
 * Move the handles of the effect rope to adjust the position of the pattern. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
 
-## Fill a layer with a custom image
+### Fill a layer with a custom image
 
 The Image effect fills your selected layer with a custom image, similar to the way a clipping mask clips the contents of one layer to the outline of another.
 
@@ -102,12 +88,10 @@ Customize the effect:
 
 ***
 
+## Show before and after or reset effects
+
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
 
 _Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
 
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-To preserve layer transparency when filling a layer with a custom image, click the effect name in the Tool Options pane and choose Preserve Transparency.
-
-\
+To reset all effects, click Reset at the bottom of the Tool Options pane.
