@@ -55,7 +55,7 @@ Customize the effect:
 * Drag the _Opacity_ slider to the right to increase the contrast of the effect, or to the left to decrease it. You can also enter a value from 0% to 100%.
 * Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — and choose a blend mode.
 
-&#x20;**Tip:** The High Pass effect is often used in combination with [contrast blend modes](https://www.pixelmator.com/support/guide/pixelmator-pro/905) (such as Overlay, Hard Light, etc.) to create different image sharpening effects.
+&#x20;**Tip:** The High Pass effect is often used in combination with contrast blend modes (such as Overlay, Hard Light, etc.) to create different image sharpening effects.
 
 ### Low Pass effect
 

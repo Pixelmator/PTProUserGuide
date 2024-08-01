@@ -72,7 +72,7 @@ Customize the effect: 
 * Move the _Radius_ slider to adjust how much of the image should be darkened. You can also enter a value from 0% to 100%.
 * Move the _Intensity_ slider to change the strength of the vignetting effect (moving it into negative values will brighten the edges instead of darkening them). You can also enter a value from -100% to 100%.
 * Move the _Falloff_ slider to adjust how gradually the edges should darken. You can also enter a value from 0% to 100%.
-* Move the handle of the effect rope to choose where the vignette should be centered around. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handle of the effect rope to choose where the vignette should be centered around. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094921000.jpeg)
 
@@ -94,7 +94,7 @@ The Pixelate effect pixelates your selected layer, recreating the look of early 
 Customize the effect: 
 
 * Move the _Scale_ slider to adjust the size of the pixel blocks used to create the effect. You can also enter a value from 1.0 px to 100.0 px.
-* Move the handle of the effect rope to choose where to place the new pixel blocks. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handle of the effect rope to choose where to place the new pixel blocks. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094855000.jpeg)
 
@@ -105,7 +105,7 @@ The Pointillize effect transforms your selected layer into a pointillist paintin
 Customize the effect: 
 
 * Move the _Radius_ slider to adjust the size of the points used to create the effect. You can also enter a value from 1.0 px to 100.0 px.
-* Move the handle of the effect rope to adjust the position of the points. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handle of the effect rope to adjust the position of the points. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094907000.jpeg)
 
@@ -116,7 +116,7 @@ The Crystallize effect recreates your selected layer using crystal-shaped blocks
 Customize the effect: 
 
 * Move the _Radius_ slider to adjust the size of the crystals used to create the effect. You can also enter a value from 1.0 px to 100.0 px.
-* Move the handle of the effect rope to adjust the position of the crystals. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handle of the effect rope to adjust the position of the crystals. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094902000.jpeg)
 
@@ -132,7 +132,7 @@ Customize the effect: 
 * Move the _Concentration_ slider to adjust how concentrated the light should be. You can also enter a value from 0% to 100%.
 * Click the _Light Color_ color well to choose a color for the light using the Colors window or click the Color Picker next to the color well and click to pick a color from your image.
 * Click the _Background Color_ color well to choose a color for the shadows using the Colors window or click the Color Picker next to the color well and click to pick a color from your image.
-* Move the handles of the effect rope to adjust the position of the light source and its target. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the light source and its target. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094895000.jpeg)
 

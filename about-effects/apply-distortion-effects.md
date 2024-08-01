@@ -44,7 +44,7 @@ The bump effect bumps areas inwards or outwards.
 1. Customize the Bump effect:
    * Drag the Radius slider to the right to make the bumped area larger, or to the left to make it smaller. You can also enter a value from 0% to 200%.
    * Drag the Scale slider to the right to create an outward bump and increase its size, or to the left to create an inward bump and reduce its size. You can also enter a value from -100% to 100%.
-2. Move the handle of the effect rope to choose which area should be bumped. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to choose which area should be bumped. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984925000.png)
 
@@ -55,7 +55,7 @@ The Pinch effect moves the image towards a point, creating a squeezed look.
 1. Customize the effect:
    * Drag the Radius slider to the right to make the pinched area larger, or to the left to make it smaller. You can also enter a value from 0% to 200%.
    * Drag the Scale slider to the right to make the pinch more intense or to the left to reduce its intensity. You can also enter a value from 0% to 200%.
-2. Move the handle of the effect rope to choose which area should be pinched. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to choose which area should be pinched. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984900000.png)
 
@@ -63,27 +63,25 @@ The Pinch effect moves the image towards a point, creating a squeezed look.
 
 The Twirl effect twirls the image clockwise, or counterclockwise.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984886000.png)
-
 1. Customize the effect:
    * Drag the Radius slider to the right to make the twirled area larger, or to the left to make it smaller. You can also enter a value from 0% to 200%.
    * Move the Angle wheel to adjust the direction of the twirl. You can also enter a value from 0º to 359.9º.
-2. Move the handle of the effect rope to choose which area should be twirled. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to choose which area should be twirled. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
+
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984886000.png)
 
 ### Apply a Circle Splash effect
 
 The Circle Splash effect stretches the image from a circular area towards the edges of an image.
 
 1. Drag the Radius slider to the right to reduce the Circle Splash effect, or to the left to expand it. You can also enter a value from 0% to 100%.
-2. Move the handle of the effect rope to set the center of the Circle Splash effect. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to set the center of the Circle Splash effect. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984859000.png)
 
 ### Apply a Displacement Map effect
 
 The Displacement Map effect distorts images based on the dark and light values of a grayscale map. This effect is often used to realistically imitate depth and texture for things like cloth wrinkles, rugged surfaces, etc.
-
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1608549769000.png)
 
 Customize the effect:
 
@@ -96,14 +94,16 @@ Customize the effect:
 * Move the handles of the effect rope to adjust the position of the image. If the effect rope isn’t visible, click the effect rope button in the Tool Options pane.
 * Select "Use grayscale image for map" to automatically convert color images used for the displacement map to grayscale.
 
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1608549769000.png)
+
 ### Apply a Hole effect
 
 The Hole effect adds a hole to the image, pushing and distorting any areas near the hole outward.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984845000.png)
-
 1. Drag the Radius slider to the left to reduce the Hole effect, or to the right to expand it. You can also enter a value from 0% to 100%.
-2. Move the handle of the effect rope to set the center of the Hole effect. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to set the center of the Hole effect. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
+
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984845000.png)
 
 ### Apply a Light Tunnel effect
 
@@ -112,7 +112,7 @@ The Light Tunnel effect stretches images from a circular area towards the edges 
 1. Customize the effect:
    * Drag the Radius slider to the right to reduce the Light Tunnel effect, or to the left to increase it. You can also enter a value from 0% to 100%.
    * Move the Rotation wheel to rotate the Light Tunnel effect. You can also enter a value from 0.0º to 359.9º.
-2. Move the handle of the effect rope to set the center of the Light Tunnel effect. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to set the center of the Light Tunnel effect. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984827000.png)
 
@@ -123,7 +123,7 @@ The Vortex effect twists images around a central point to simulate a vortex.
 1. Customize the effect:
    * Drag the Radius slider to the right to make the distorted area larger or to the left to make it smaller. You can also enter a value from 0% to 200%.
    * Drag the Amount slider to the right to increase the intensity of the vortex, or to the left to decrease it. You can also enter a value from 0.0 px to 1000.0 px
-2. Move the handle of the effect rope to set the center of the Vortex effect. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to set the center of the Vortex effect. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984788000.png)
 

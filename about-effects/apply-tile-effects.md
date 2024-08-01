@@ -45,7 +45,7 @@ Customize the effect: 
 
 * Move the _Count_ slider to change the number of reflections. You can also enter a value from 1 to 64.
 * Move the _Angle_ wheel to change the angle of the reflections. You can also enter a value from 0.0º to 359.9º.
-* Move the handle of the effect rope to choose the center of the kaleidoscope pattern. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handle of the effect rope to choose the center of the kaleidoscope pattern. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058821000.png)
 
@@ -60,7 +60,7 @@ Customize the effect: 
 * Move the _Size_ slider to change the size and the number of reflections. You can also enter a value from 0.0 px to 1000.0 px.
 * Move the _Decay_ slider to the left to darken any triangles further away from the original triangle or to the right to reduce the darkening effect.
 * Move the _Rotation_ wheel to change the angle of the reflections. You can also enter a value from 0.0º to 359.9º.
-* Move the handle of the effect rope to choose the center of the kaleidoscope pattern. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handle of the effect rope to choose the center of the kaleidoscope pattern. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994816000.png)
 
@@ -74,7 +74,7 @@ Customize the effect:
 
 * Move the _Angle_ wheel to change the angle of the snowflakes. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the snowflakes. You can also enter a value from 0.0 px to 200.0 px.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994823000.png)
 
@@ -89,7 +89,7 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the angle of the tiles in the pattern. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the segments that make up the Tessera effect. You can also enter a value from 0.0 px to 200.0 px.
 * Move the _Acute Angle_ wheel to adjust the shape of the tiles — small values create thin, diamond-shaped tiles, while large values create thicker tiles. You can also enter a value from 0.0º to 359.9º.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994830000.png)
 
@@ -103,7 +103,7 @@ Customize the effect:
 
 * Move the _Angle_ wheel to adjust the angle of the tiles in the pattern. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the individual segments that make up the Pinwheel effect. You can also enter a value from 0.0 px to 200.0 px.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994837000.png)
 
@@ -118,7 +118,7 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the angle of the tiles in the pattern. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the individual segments that make up the Shutters effect. You can also enter a value from 0.0 px to 200.0 px.
 * Move the _Acute Angle_ wheel to change the angle of the effect tiles. You can also enter a value from 0.0º to 359.9º.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994845000.png)
 
@@ -132,7 +132,7 @@ Customize the effect:
 
 * Move the _Angle_ wheel to adjust the angle of the brick tiles in the pattern. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the tiles in the pattern. You can also enter a value from 0.0 px to 200.0 px.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994859000.png)
 
@@ -147,7 +147,7 @@ Customize the effect:
 * Move the _Scale_ slider to adjust the size of the image resulting from the Op effect. You can also enter a value from 10% to 1000%.
 * Move the _Angle_ wheel to rotate the result of the Op effect. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the individual segments that make up the Op effect.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994867000.png)
 
@@ -162,7 +162,7 @@ Customize the effect:
 * Move the _Angle_ wheel to rotate the result of the Funhouse effect. You can also enter a value from 0.0º to 359.9º.
 * Move the _Acute Angle_ wheel to change the angle of the effect tiles. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the individual segments that make up the Funhouse effect. You can also enter a value from 0.0 px to 200.0 px.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994930000.png)
 
@@ -176,7 +176,7 @@ Customize the effect:
 
 * Move the _Angle_ wheel to rotate the result of the Lattice effect. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the individual segments that make up the Lattice effect. You can also enter a value from 0.0 px to 200.0 px.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994937000.png)
 
@@ -190,7 +190,7 @@ Customize the effect:
 
 * Move the _Angle_ wheel to rotate the result of the Windmill effect. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the individual segments that make up the Windmill effect. You can also enter a value from 0.0 px to 200.0 px.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994874000.png)
 
@@ -205,7 +205,7 @@ Customize the effect:
 * Move the _Size_ slider to adjust the size of the triangle that is tiled. You can also enter a value from 0.0 px to 1000.0 px.
 * Move the _Rotation_ wheel to rotate the triangle that is tiled. You can also enter a value from 0.0º to 359.9º.
 * Move the _Decay_ slider to the left to darken any triangles further away from the original triangle or to the right to reduce the darkening effect.
-* Move the effect handle to choose which area should be tiled. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to choose which area should be tiled. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994893000.png)
 
@@ -219,7 +219,7 @@ Customize the effect:
 
 * Move the _Angle_ wheel to rotate the result of the Hexagon effect. You can also enter a value from 0.0º to 359.9º.
 * Move the _Width_ slider to adjust the size of the individual segments that make up the Hexagon effect. You can also enter a value from 0.0 px to 200.0 px.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994901000.png)
 
@@ -235,7 +235,7 @@ Customize the effect:
 * Move the _Scale_ slider to the right to make the layer larger or to the left to make it smaller. You can also enter a value from 1% to 1000%.
 * Move the _Stretch_ slider to the right to horizontally stretch the layer or to the left to shrink it.
 * Move the _Skew_ slider to slate the image. You can also enter a value from -1000% to 1000%.
-* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the effect handle to adjust the position of the effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994910000.png)
 
@@ -245,7 +245,7 @@ To preserve layer transparency when applying the Affine Tile effect, click the e
 
 The Perspective Tile effect changes the perspective of your selected image and then tiles the result.
 
-* Move each of the effect handles to adjust the perspective. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move each of the effect handles to adjust the perspective. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994917000.png)
 

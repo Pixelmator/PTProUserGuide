@@ -123,7 +123,7 @@ You can also customize where the blend mode and opacity controls will appear in 
 
 You can search your document for specific layers by typing their name into the search field at the bottom of the Layers sidebar. The filter search can also help sort layers based on their type (images, shapes, text, RAW images, groups, masks, color adjustments, effects, videos) or tags.
 
-Learn more about managing layers
+See [about layers](../working-with-layers/) to learn more about managing layers.
 
 #### Show or hide the Layers sidebar
 
@@ -197,7 +197,7 @@ Overlays are non-printing elements such as the grid, layer handles, or active se
 
 Do one of the following:
 
-* Choose **View > Hide Overlay** or **View > Show Overlay** (from the View menu at the top of your screen).
+* Choose **View > Hide Overlay** or **View > Show Overlay** from the View menu at the top of your screen.
 * Press `Command ⌘` + `Shift ⇧` + `H` on your keyboard.
 
 #### Show or hide specific overlays
@@ -229,7 +229,7 @@ The Info bar provides useful information about the image or a selected layer. Th
 You can `Control ⌃` – click the Info bar to add or remove certain properties.
 {% endhint %}
 
-The Info bar also offers quick access to [Image Size](../.gitbook/assets/1006), Color Profile, and Color Depth settings. Double-click the desired setting in the Info bar to open a dedicated edit sheet.
+The Info bar also offers quick access to Image Size, Color Profile, and Color Depth settings. Double-click the desired setting in the Info bar to open a dedicated edit sheet.
 
 #### Show or hide the Info bar
 

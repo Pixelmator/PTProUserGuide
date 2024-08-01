@@ -45,7 +45,7 @@ Customize the effect: 
 
 * Move the _Width_ slider to adjust the distance between each circle in the pattern. You can also enter a value from 2.0 px to 50.0 px.
 * Move the _Sharpness_ slider to adjust the sharpness of the circles. You can also enter a value from 0% to 100%.
-* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590090393000.jpeg)
 
@@ -60,7 +60,7 @@ Customize the effect: 
 * Move the _Sharpness_ slider to adjust the sharpness of the dots. You can also enter a value from 0% to 100%.
 * Move the _Gray Component Replacement_ slider to adjust how grays are created — either with a mix of cyan, magenta, and yellow or two of the primary colors and black.
 * Move the _Under Color Removal_ slider to adjust how much of any near-black areas are replaced with pure black ink.
-* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590090403000.jpeg)
 
@@ -73,7 +73,7 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the angle of the pattern. You can also enter a value from 0.0º to 359.9º. 
 * Move the _Width_ slider to adjust the size of each dot in the pattern. You can also enter a value from 2.0 px to 50.0 px.
 * Move the _Sharpness_ slider to adjust the sharpness of the dots. You can also enter a value from 0% to 100%.
-* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590090429000.jpeg)
 
@@ -86,7 +86,7 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the angle of the pattern. You can also enter a value from 0.0º to 359.9º. 
 * Move the _Width_ slider to adjust the size of each line in the pattern. You can also enter a value from 2.0 px to 50.0 px.
 * Move the _Sharpness_ slider to adjust the sharpness of the lines. You can also enter a value from 0% to 100%.
-* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590090413000.jpeg)
 
@@ -99,15 +99,9 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the angle of the pattern. You can also enter a value from 0.0º to 359.9º. 
 * Move the _Width_ slider to adjust the size of each line in the pattern. You can also enter a value from 2.0 px to 50.0 px.
 * Move the _Sharpness_ slider to adjust the sharpness of the lines. You can also enter a value from 0% to 100%.
-* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590090420000.jpeg)
-
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
 
 ***
 

@@ -48,7 +48,7 @@ Customize the effect:
 * Move the _Width_ slider to adjust the size of the squares in the pattern. You can also enter a value from 0.0 px to 800.0 px.
 * Move the _Sharpness_ slider to adjust the sharpness of the squares. You can also enter a value from 0% to 100%.
 * Move the _Opacity_ slider to adjust the transparency of the pattern. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
-* Move the handles of the effect rope to adjust the position of the checkerboard. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the checkerboard. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590494397000.jpeg)
 
@@ -65,7 +65,7 @@ Customize the effect:
 * Move the _Width_ slider to adjust the width of the stripes in the pattern. You can also enter a value from 0.0 px to 800.0 px.
 * Move the _Sharpness_ slider to adjust the sharpness of the stripes. You can also enter a value from 0% to 100%.
 * Move the _Opacity_ slider to adjust the transparency of the pattern. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
-* Move the handles of the effect rope to adjust the position of the stripes. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the stripes. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590494390000.jpeg)
 
@@ -85,7 +85,7 @@ Customize the effect:
 * Move the _Striation Contrast_ slider to adjust the contrast of the colors in the halo. You can also enter a value from 0% to 500%.
 * Move the _Time_ slider to regenerate the halo pattern. You can also enter a value from 0% to 100%.
 * Move the _Opacity_ slider to adjust the transparency of the halo. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
-* Move the handles of the effect rope to adjust the position of the halo. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the halo. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590494350000.jpeg)
 
@@ -105,7 +105,7 @@ Customize the effect:
 * Move the _Cross Width_ slider to adjust the width of the cross pattern. You can also enter a value from 0% to 300%.
 * Move the _Epsilon_ slider to adjust the length of the cross spikes. You can also enter a value from -800% to 0%.
 * Move the _Opacity_ slider to adjust the transparency of the effect. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
-* Move the handles of the effect rope to adjust the position of the star. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the star. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590494315000.jpeg)
 
@@ -122,7 +122,7 @@ Customize the effect:
 * Move the _Striation Contrast_ slider to adjust the contrast of the sunbeams. You can also enter a value from 0% to 500%.
 * Move the _Time_ slider to regenerate the sun pattern. You can also enter a value from 0% to 100%.
 * Move the _Opacity_ slider to adjust the transparency of the sun. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
-* Move the handles of the effect rope to adjust the position of the sun. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+* Move the handles of the effect rope to adjust the position of the sun. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590494229000.jpeg)
 
