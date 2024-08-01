@@ -22,10 +22,10 @@ When working with effects, there are a couple of useful things to know that will
 
 You can apply effects to layers directly or add them as effects layers. Adding effects directly will automatically link them with the layer to which they are applied. This means that when editing, the changes applied to the layer will also affect the effect and vice versa. For instance, if you try painting on a layer that has some of the Distortion effects applied, the brush stroke have the same distortions as well.
 
-1. Choose the Style tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> in the Tools sidebar.
-   * Choose **Tools > Style** from the Tools menu at the top of your screen.
-   * Press the `S` key on your keyboard.
+1. Choose the Effects tool by doing one of the following:
+   * Choose Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Choose **Tools > Effects** from the Tools menu at the top of your screen.
+   * Press the `F` key on your keyboard.
 2. Select the layer or layers you would like to edit.
 3. Turn the switch next to the effect you want on or off. If you don't see any effects, click **Add Effect** and choose an effect from the Effects browser.&#x20;
 
