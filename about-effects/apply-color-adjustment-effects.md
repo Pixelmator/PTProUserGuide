@@ -18,7 +18,7 @@ The Color Adjustments category features effects that let you change the colors, 
 
 ***
 
-### Adjust the colors of an image
+## Adjust the colors of an image
 
 Color Adjustments effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 

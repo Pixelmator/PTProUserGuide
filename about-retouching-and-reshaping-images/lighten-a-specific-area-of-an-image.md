@@ -18,11 +18,11 @@ The Lighten tool is used to lighten a specific area of an image. You could, for 
 
 ***
 
-### Lighten a specific area of an image
+## Lighten a specific area of an image
 
 1. Do one of the following:
-   * Choose **Tools > Retouch > Lighten** (from the Tools menu at the top of your screen).
-   * In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999589000.png) or choose if from the [grouped tools](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+   * Choose the Lighten <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999589000.png" alt="" data-size="line"> tool in the Tools sidebar, or choose it from the [grouped tools](#user-content-fn-1)[^1].
+   * Choose **Tools > Retouch > Lighten** from the Tools menu at the top of your screen.
 2.  In the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), customize the Lighten tool.
 
     _Brush Size:_ Drag the Brush Size slider to adjust the size of the Lighten tool brush. Press and hold the Option ⌥ key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 
@@ -41,8 +41,14 @@ The Lighten tool is used to lighten a specific area of an image. You could, for 
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/lighten.mp4" %}
 
-_Show Original:_ Click the Show Original button to see what the image looked like before you lightened anything in it.
+## Show before and after or reset effects
 
-_Show Split Comparison:_ Option ⌥ – click the Show Original button or press Control ⌃ + C on your keyboard.
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
 
-Click Reset to discard all the current changes made with the Lighten tool.
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+
+To reset all effects, click Reset at the bottom of the Tool Options pane.
+
+[^1]: Some of the tools in the Tools sidebar are grouped based on their function. To select a different tool from a group, double-click, force click, or Control-click any grouped tool in the Tools sidebar. See [Pixelmator Pro tools](../pixelmator-pro-basics/pixelmator-pro-tools.md) to learn more about the tool groups.\
+    \
+    ![](../.gitbook/assets/glossary-grouped-tools-2.4.gif)
