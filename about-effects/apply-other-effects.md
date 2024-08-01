@@ -25,13 +25,13 @@ The Perspective Transform effect lets you nondestructively transform an image by
     To add Perspective Transform effect to the currently selected layer, do one of the following:
 
     * Choose **Format > Effects > Other > Perspective Transform** (from the Format menu at the top of your screen).
-    * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Perspective Transform effect.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Perspective Transform effect.
     * Press F on your keyboard, click Add Effect and add the Perspective Transform effect.
 
 To apply Perspective Transform effect to multiple layers in a composition using an [effects layer](https://www.pixelmator.com/support/guide/pixelmator-pro/861) (all layers below this layer will be affected):
 
 * Choose Insert > Effects (from the Insert menu at the top of your screen), click Add Effect in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and add the Perspective Transform effect.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Effects, click Add Effect in the Tool Options pane and add the Perspective Transform effect.
+* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Effects, click Add Effect in the Tool Options pane and add the Perspective Transform effect.
 * Press Shift ⇧ + Command ⌘ + F on your keyboard, click Add Effect in the Tool Options pane and add the Perspective Transform effect.
 
 2\. Drag the handles of the effect rope to change the perspective of an image.
@@ -51,13 +51,13 @@ Mask to Alpha effect can be applied directly to a single layer or, using an effe
 To add Mask to Alpha effect to the currently selected layer, do one of the following:
 
 * Choose **Format > Effects > Other > Mask to Alpha** (from the Format menu at the top of your screen).
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Mask to Alpha effect.
+* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Mask to Alpha effect.
 * Press F on your keyboard, click Add Effect and add the Mask to Alpha effect.
 
 To apply Mask to Alpha effect to multiple layers in a composition using an [effects layer](https://www.pixelmator.com/support/guide/pixelmator-pro/861) (all layers below this layer will be affected):
 
 * Choose Insert > Effects (from the Insert menu at the top of your screen), click Add Effect in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and add the Mask to Alpha effect.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the Layers sidebar, choose Effects, click Add Effect in the Tool Options pane and add the Mask to Alpha effect.
+* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect in the Tool Options pane and add the Mask to Alpha effect.
 * Press Shift ⇧ + Command ⌘ + F on your keyboard, click Add Effect in the Tool Options pane and add the Mask to Alpha effect.
 
 _Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
@@ -75,7 +75,7 @@ The High Pass effect can be considered the opposite of the Gaussian blur effect.
     To add High Pass effect to the currently selected layer, do one of the following:
 
     * Choose **Format > Effects > Other > High Pass** (from the Format menu at the top of your screen).
-    * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the High Pass effect.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the High Pass effect.
     * Press F on your keyboard, click Add Effect and add the High Pass effect.
 
 To apply High Pass effect to multiple layers in a composition using an [effects layer](https://www.pixelmator.com/support/guide/pixelmator-pro/861) (all layers below this layer will be affected):

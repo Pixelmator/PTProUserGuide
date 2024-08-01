@@ -21,114 +21,48 @@ Effect presets are pre-made combinations of effects that you can apply to automa
 ## Apply an effect preset
 
 1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press the F key on your keyboard.
-2. In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click to select the layer you’d like to edit.
-3. Choose an effect preset from the list of presets at the top of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), or click the Collection pop-up menu to browse other preset collections.
+   * Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Choose **Tools > Effects** from the Tools menu at the top of your screen.
+   * Press the `F` key on your keyboard.
+2. Select the layer or layers you’d like to edit.
+3. Choose an effect preset from the presets browser at the top of the Tool Options pane or click the Collection pop-up menu to browse other preset collections.
 
-&#x20;**Tip:** When the Effects tool is active, you can also press and hold the Command ⌘ key and click to select layers from your image.
+{% hint style="info" %}
+The effect presets cannot be applied to empty layers or selections.
+{% endhint %}
 
-Save a combination of effects as a preset
+## Save a combination of effects as a preset
 
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press the F key on your keyboard.
+With presets, you can save specific effect combinations and quickly apply them to other layers in the same or a new document.
+
+1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
 2. Apply and customize any number of effects to a layer.
 3. Do one of the following:
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png) in any effects collection to save the preset to that collection.
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png) next to the Collection pop-up menu and choose Add Preset.
+   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any effects collection to save the preset to that collection.
+   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
 
-Redefine an effect preset
+## Create a custom effect presets collection
 
-If you’d like to overwrite or update an existing preset with new settings, you can redefine it.
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press the F key on your keyboard.
-2. Apply and customize any number of effects to a layer.
-3. In the list of presets, Control ⌃ – click a preset and choose Redefine "Preset".
-
-Rename an effect presets collection
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press F on your keyboard.
-2. In the Collection pop-up, select the collection you want to rename.
-3. Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png) next to the Collection pop-up menu and choose New Collection.
-4. Enter a new name and click Rename.
-
-Delete an effect preset
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press the F key on your keyboard.
-2. In the list of presets, Control ⌃ – click a preset and choose Remove.
-
-Delete an effect presets collection
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press F on your keyboard.
-2. In the Collection pop-up, select the collection you want to rename.
-3. Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png) next to the Collection pop-up menu and choose Remove.
-
-Rename an effect preset
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press the F key on your keyboard.
-2. In the list of presets, Control ⌃ – click a preset and choose Rename "Preset".
-
-Share an effect preset
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press the F key on your keyboard.
-2. Drag any of the presets out of Pixelmator Pro and onto the desktop or into a Finder window.
-3. Share the _.effects_ file with someone else via email or any other way you like.
-
-Share a collection of effect presets
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press the F key on your keyboard.
-2. In the Collection pop-up menu, open the effect collection you'd like to export.
-3. Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png) next to the Collection pop-up menu and choose Export.
-4. Share the _.effects_ file with someone else via email or any other way you like.
-
-Share your entire effects library
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press F on your keyboard.
-2. Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png) next to the Collection pop-up menu.
-3. Press and hold the Option ⌥ key, and choose Export All.
-4. Share the _.shapes_ file with someone else via email or any other way you like.
-
-Reset all effect presets to default
-
-Resetting all the effect presets to default removes any custom presets and returns all the default presets that come with Pixelmator Pro.
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press F on your keyboard.
-2. Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png) next to the Collection pop-up menu, press and hold the Option ⌥ key and choose Reset All.
-
-Create a new effect presets collection
-
-1. Do one of the following:
-   * Choose **Tools > Effects** (from the Tools menu at the top of your screen).
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-   * Press F on your keyboard.
+1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
 2. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
+
+## Manage effect presets and preset collections
+
+Once you've created a preset or a preset collection, you can rename, redefine them, or share them with others.
+
+1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
+2. `Control ⌃` – click an individual preset or More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the collection you want to manage.
+3. Do any of the following:&#x20;
+   * _Redefine an effects preset:_ If you’d like to overwrite or update an existing preset with new settings, you can redefine it.
+   * _Add an effects preset to favorites:_ To quickly access your favorite and most-used presets, save them to the special Favorites collection.
+   * _Rename an effect preset or preset collection:_ You can give individual effect presets or preset collections distinguishable names or rename the default presets and collections that come with Pixelmator Pro.
+   * _Remove an effect preset or preset collection:_ If you’ve accidentally duplicated an effect preset or would simply like to delete a preset collection you no longer use, you can remove it from the presets bar.
+   * _Import effect presets or preset collections:_ In the Collections pop-up menu, choose import and browse your Mac for a .effects file to import. You can also drag and drop a preset or a preset collection to the Pixelmator Pro icon in the Dock.
+   * _Share an effect preset:_ To share a preset with others or use it in Pixelmator Pro on another Mac, _d_rag and drop a preset from the list of effect presets onto the desktop or into a Finder window, then share the _.effects_ file with someone else via email or any other way you like.
+   * _Share an effect presets collection:_ In the Collection pop-up menu, choose Export to export a single preset collection or press and hold the `Option ⌥` key on your keyboard and choose Export All to export your entire presets library.
+   * _Reset all effect presets to default:_ Resetting all effect presets to default removes any custom presets and returns all the default presets that come with Pixelmator Pro. In the Collection pop-up menu, press and hold the `Option ⌥` key on your keyboard and choose Reset All.
+
+## Show or hide the presets browser
+
+1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
+2. Drag the line that separates presets from the Add Effect button up to hide the presets, or drag it down to reveal or expand the presets section.

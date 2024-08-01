@@ -125,7 +125,6 @@
   * [Apply fill effects](about-effects/apply-fill-effects.md)
   * [Apply other effects](about-effects/apply-other-effects.md)
   * [Effect presets](about-effects/effect-presets.md)
-* [Page](page.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
