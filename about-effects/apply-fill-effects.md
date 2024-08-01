@@ -22,17 +22,22 @@ The effects in the Fill category fill your selected layer using a color, gradien
 
 Fill effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 
-To add the Fill effect to the currently selected layer, do one of the following:
+1. Select the layer or layers you want to edit.
+2.  Do any of the following:\
+    \
+    Apply Fill effects to a currently selected layer:
 
-* Choose **Format > Effects > Fill** and choose the Fill effect you want.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Fill effect you want.
-* Press F on your keyboard, click Add Effect and add the Fill effect you want.
+    * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Fill collection.
+    * Choose **Format > Effects > Fill** and choose an effect.
+    * Press `F` on your keyboard, click Add Effect, and select an effect from the Fill collection.
+
+    Apply Fill effects to multiple layers:
+
+    * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect in the Tool Options pane, and choose a Fill effect.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect in the Tool Options pane, and add the Perspective Transform effect.
+    * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect in the Tool Options pane, and add the Perspective Transform effect.
 
 
-
-* Choose **Insert > Effects** (from the Insert menu at the top of your screen), click Add Effect in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and add the Fill effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Effects, click Add Effect in the Tool Options pane and add the Fill effect you want.
-* Press Shift ⇧ + Command ⌘ + F on your keyboard, click Add Effect in the Tool Options pane and add the Fill effect you want.
 
 Fill a layer with solid color
 
