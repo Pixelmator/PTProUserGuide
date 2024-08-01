@@ -18,7 +18,7 @@ Pixelmator Pro includes 9 different blur effects: Gaussian, Box, Disc, Motion, Z
 
 ***
 
-### Add a blur to an image
+## Add a blur to an image
 
 Blur effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 
@@ -127,7 +127,7 @@ The Focus blur effect leaves a circular area in focus, blurring everything outsi
 
 To preserve layer transparency when applying the Focus blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-## Spin blur
+### Spin blur
 
 The Spin blur effect simulates the look of circular motion — a spinning wheel, for example — captured on camera.
 
