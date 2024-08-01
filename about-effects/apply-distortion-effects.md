@@ -126,3 +126,13 @@ The Vortex effect twists images around a central point to simulate a vortex.
 2. Move the handle of the effect rope to set the center of the Vortex effect. If the effect rope isn’t visible, click the Edit button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984788000.png)
+
+***
+
+## Show before and after or reset effects
+
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
+
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+
+To reset all effects, click Reset at the bottom of the Tool Options pane.

@@ -22,19 +22,22 @@ Pixelmator Pro includes 9 different blur effects: Gaussian, Box, Disc, Motion, Z
 
 Blur effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
 
-To edit the currently selected layer, do one of the following:
+1. Select the layer or layers you want to edit.
+2.  Do any of the following:\
+    \
+    Apply effects to a currently selected layer:
 
-* Choose **Format > Effects > Blur** (from the Format menu at the top of your screen) and choose a type of blur you want to add.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png) in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), then click Add Effect and add the Blur effect you want.
-* Press F on your keyboard, click Add Effect and add the Blur effect you want.
+    * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Blur collection.
+    * Choose **Format > Effects >** Blur and choose an effect.
+    * Press `F` on your keyboard, click Add Effect, and select an effect from the Blur collection.
 
-To edit multiple layers in a composition using an [effects layer](https://www.pixelmator.com/support/guide/pixelmator-pro/861) (all layers below this layer will be affected):
+    Apply effects to multiple layers:
 
-* Choose **Insert > Effects** (from the Insert menu at the top of your screen), click Add Effect in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and add the Blur effect you want.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Effects, click Add Effect in the Tool Options pane and add the Blur effect you want.
-* Press Shift ⇧ + Command ⌘ + F on your keyboard, click Add Effect in the Tool Options pane and add the Blur effect you want.
+    * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Blur collection.
+    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Blur collection.
+    * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Blur collection.
 
-Apply a Gaussian blur
+### Gaussian blur
 
 The Gaussian blur effect adds a smooth, even blur to your entire image, text, or shape layer.
 
@@ -42,15 +45,9 @@ The Gaussian blur effect adds a smooth, even blur to your entire image, text, or
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980508000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Gaussian blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Box blur
+### Box blur
 
 The box blur effect blurs the image and adds distinctive box shapes near contrasting areas.
 
@@ -58,15 +55,9 @@ The box blur effect blurs the image and adds distinctive box shapes near contras
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980528000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Box blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Disc blur
+### Disc blur
 
 The disc blur effect blurs the image and adds distinctive disc shapes near contrasting areas. The effect can be used to simulate the bokeh effect created by digital cameras in out-of-focus areas.
 
@@ -74,15 +65,9 @@ The disc blur effect blurs the image and adds distinctive disc shapes near contr
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980555000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Disc blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Motion blur
+### Motion blur
 
 The Motion blur effect adds a blur that flows in one direction, creating the impression of speed and movement.
 
@@ -91,15 +76,9 @@ The Motion blur effect adds a blur that flows in one direction, creating the imp
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980574000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Motion blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Zoom blur
+### Zoom blur
 
 The Zoom blur effect simulates the look of capturing a photo while zooming in or out.
 
@@ -108,15 +87,9 @@ The Zoom blur effect simulates the look of capturing a photo while zooming in or
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980587000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Zoom blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Bokeh blur
+### Bokeh blur
 
 The Bokeh blur effect simulates out-of-focus regions captured on camera.
 
@@ -126,15 +99,9 @@ The Bokeh blur effect simulates out-of-focus regions captured on camera.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1635419663000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Bokeh blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Tilt-shift blur
+### Tilt-shift blur
 
 The Tilt-Shift blur effect creates a shallow depth of field, leaving a smaller, rectangular area in focus. This can be used to create a miniaturized look.
 
@@ -145,15 +112,9 @@ The Tilt-Shift blur effect creates a shallow depth of field, leaving a smaller, 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980602000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Tilt-shift blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Focus blur
+### Focus blur
 
 The Focus blur effect leaves a circular area in focus, blurring everything outside it.
 
@@ -164,15 +125,9 @@ The Focus blur effect leaves a circular area in focus, blurring everything outsi
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980608000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Focus blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
 
-Apply a Spin blur
+## Spin blur
 
 The Spin blur effect simulates the look of circular motion — a spinning wheel, for example — captured on camera.
 
@@ -181,10 +136,14 @@ The Spin blur effect simulates the look of circular motion — a spinning wheel,
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980630000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any effects.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all effects, click Reset at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
 To preserve layer transparency when applying the Spin blur effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
+
+***
+
+## Show before and after or reset effects
+
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
+
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+
+To reset all effects, click Reset at the bottom of the Tool Options pane.
