@@ -29,16 +29,11 @@ When a layer style is turned off, it no longer shows on the layer but is still v
 2. Select the layer or layers you would like to edit.
 3. Turn the switch next to [Fill](fill-a-layer-with-a-color-or-gradient.md), [Stroke](add-an-outline-around-a-layer.md), [Shadow](add-a-drop-shadow-to-a-layer.md), or [Inner Shadow](add-an-inner-shadow-to-a-layer.md) styles on or off. If a style you want to add is not visible, click **Add Style** at the top of the tool options pane.
 
-## Remove a style
+## Rearrange the order of layer styles
 
-When you remove a layer style, it no longer shows on the layer and is no longer visible in the Tool Options pane.
+If you apply two or more of the same layer styles to a single layer, you can rearrange the order in which they are applied.
 
-1. Choose the Style tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> in the Tools sidebar.
-   * Choose **Tools > Style** (from the Tools menu at the top of your screen).
-   * Press the `S` key on your keyboard.
-2. Select the layer or layers you would like to edit.
-3. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to the style you want to remove.
+To rearrange layer styles, click and drag a style up or down the list of styles.
 
 ## Copy a layer style from one layer to another
 
@@ -53,21 +48,18 @@ A quick way to apply the same layer style to multiple layers is by using [layer 
    * Choose **Format > Styles > Paste Styles** from the Format menu at the top of your screen.
    * In the Layers sidebar, `Control ⌃` – click the layer to which you’d like to paste the style and choose **Styles > Paste Styles**.
 
-## Rearrange the order of layer styles
-
-If you apply two or more of the same layer styles to a single layer, you can rearrange the order in which they are applied.
-
-To rearrange layer styles, click and drag a style up or down the list of styles.
-
 ## Flatten layer styles
 
 Flattening (or merging) all the styles applied to a layer can be useful when you want to make edits to the layer together with the layer style. For example, you might want to erase part of a layer as well as the shadow applied to it. Without flattening, the shadow would adapt to the new shape of the layer.
 
-1. Choose the Style tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> in the Tools sidebar.
-   * Choose **Tools > Style** from the Tools menu at the top of your screen.
-   * Press the `S` key on your keyboard.
-2. Select the layer or layers you would like to edit.
-3. Press and hold the `Option ⌥` key and, in the Tool Options pane, click the Flatten Styles button at the bottom.
+1. Select the layer or layers you would like to edit.
+2. Do any of the following:&#x20;
+   1. Press and hold the `Option ⌥` key and, in the Tool Options pane, click the Flatten Styles button at the bottom.
+   2. Choose **Format > Styles > Flatten Styles** (from the Format menu at the top of your screen).
+   3. In the Layers sidebar, `Control ⌃` – click the layer you’d like to flatten and choose **Styles > Flatten Styles**.
 
-You can also choose **Format > Styles > Flatten Styles** (from the Format menu at the top of your screen), or in the Layers sidebar, `Control ⌃` – click the layer you’d like to flatten and choose **Styles > Flatten Styles**.
+## Remove a style
+
+When you remove a layer style, it no longer shows on the layer and is no longer visible in the Tool Options pane.
+
+* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to the style you want to remove.
