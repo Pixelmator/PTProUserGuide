@@ -28,6 +28,8 @@ After making a selection, you can use options in the Select and Mask tool to enh
 
     _Note:_ While the Select and Mask is active, your selection outline is replaced by an overlay. Any selected areas are see-through, while any unselected areas are colored in. Pixelmator Pro uses a yellow by default but you can choose red, black, white, or plain black & white overlay from the Overlay pop-up menu.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/selections/refine-selection-2.4.mp4" %}
+
 ### Manually refine the selection
 
 1. Adjust the options in the Tool Options pane:
