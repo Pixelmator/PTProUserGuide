@@ -32,6 +32,9 @@ To draw a straight line segment with the Pen tool:
    * Press the `P` key on your keyboard (selects the last used Pen tool).
 2. Click (don’t drag) anywhere in your image to begin drawing the line.
 3. Click anywhere else in your image to add another anchor point and create a straight-line segment. The last anchor point you added will be solid red, while any points you added previously will be outlined in red.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/straight-pen.mp4" %}
+
 4. Continue clicking to add additional straight segments to your path.
 5. To finish the path and leave it open, do any of the following:
    * Press the `Return ↵` key on your keyboard.
@@ -56,9 +59,12 @@ To draw a curved line segment with the Pen tool:
    * Choose **Tools > Draw > Pen** from the Tools menu at the top of your screen)
    * Press the `P` key on your keyboard (selects the last used Pen tool).
 2. Drag anywhere in your image to begin drawing the line, release the mouse to finish customizing the first anchor point. Where you first press and hold the mouse will determine the location of the anchor point, where you release the mouse will determine the location of the anchor point’s direction line.
-3.  Drag anywhere else in your image to add another smooth anchor point and adjust its direction lines. The last anchor point you added will be solid red, while any points you added previously will be outlined in red.
+3. Drag anywhere else in your image to add another smooth anchor point and adjust its direction lines. The last anchor point you added will be solid red, while any points you added previously will be outlined in red.
 
-    &#x20;:bulb: **Tip:** To adjust the direction lines after adding an anchor point, `Command ⌘` – drag one of the direction handles.
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/curved-pen.mp4" %}
+
+&#x20;:bulb: **Tip:** To adjust the direction lines after adding an anchor point, `Command ⌘` – drag one of the direction handles.
+
 4. Continue dragging to add additional curved segments to your path.
 5. To finish the path and leave it open, do any of the following:
    * Press the `Return ↵` key on your keyboard.
