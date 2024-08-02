@@ -33,6 +33,8 @@ Once you have a shape, you'll need to duplicate an existing brush to create a ne
 
 After duplicating your brush, you'll need to replace the brush shape and texture.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/paint-and-erase/Duplicate.mp4" %}
+
 ***
 
 ## Add a custom shape texture or grain to a brush
@@ -44,3 +46,5 @@ After duplicating your brush, you'll need to replace the brush shape and texture
 Alternatively, you can simply drag in a new texture directly from your desktop, Finder, or other locations.
 
 Once you change the brush texture or grain, feel free to [edit the settings of the brush](edit-brush-settings.md) and make it paint just the way you want.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/paint-and-erase/TextureDrag.mp4" %}
