@@ -146,6 +146,7 @@
   * [Automatically select a subject in an image](make-selections/automatically-select-a-subject-in-an-image.md)
   * [Adjust selections](make-selections/adjust-selections.md)
   * [Refine selections](make-selections/refine-selections.md)
+  * [Move, copy, and delete selected areas](make-selections/move-copy-and-delete-selected-areas.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
