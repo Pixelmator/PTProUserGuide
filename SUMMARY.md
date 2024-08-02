@@ -135,6 +135,7 @@
   * [Erase using the Erase tool](paint-and-erase/erase-using-the-erase-tool.md)
   * [Erase using the Smart Erase tool](paint-and-erase/erase-using-the-smart-erase-tool.md)
   * [Edit brush settings](paint-and-erase/edit-brush-settings.md)
+  * [Create a brush](paint-and-erase/create-a-brush.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
