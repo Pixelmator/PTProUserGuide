@@ -148,6 +148,8 @@
   * [Refine selections](make-selections/refine-selections.md)
   * [Move, copy, and delete selected areas](make-selections/move-copy-and-delete-selected-areas.md)
   * [Convert selections into shapes](make-selections/convert-selections-into-shapes.md)
+* [Draw shapes and vector graphics](draw-shapes-and-vector-graphics/README.md)
+  * [Add and edit shapes](draw-shapes-and-vector-graphics/add-and-edit-shapes.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
