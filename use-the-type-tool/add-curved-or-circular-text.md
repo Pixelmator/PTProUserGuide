@@ -27,9 +27,17 @@ Add text on a path or shape that you draw using the [Pen tool](../draw-shapes-an
 
 Once you've added text, you can `Shift ⇧`-drag one of the text box handles to move the text box along the path or `Option ⌥`-drag to expand the text box and make room for more text. Also, if there’s too much text to display in the shape, a clipping indicator appears. Drag this handle until all the text is showing.
 
-***
+## Add text on a freeform path
 
-## Add a curved or circular text
+Add text on a path or shape that you draw using the [Freeform Pen tool](https://www.pixelmator.com/support/guide/pixelmator-pro/1325).
+
+1. Choose the Freeform Type tool by doing one of the following:
+   * Click Freeform Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1593759721000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
+   * Choose **Tools > Type > Freeform Type** from the Tools menu at the top of your screen.
+2. Draw a path or a shape you want your text to wrap around or follow along.
+3. To begin typing, double-click within the text box to highlight the placeholder text or place the insertion point where you want the first character to appear.
+
+## Add text on a curved or circular path
 
 Use the Circular Type tool to add curved or circular text.
 
