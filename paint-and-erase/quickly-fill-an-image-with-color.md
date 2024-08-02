@@ -22,7 +22,7 @@ Quickly fill images, selections, or individual objects with a solid color. You c
 2. Choose **Format > Image > Image Fill with Color** from the Format menu at the top of your screen.
 3.  Customize Quick Fill options:
 
-    1. _Color:_ Click the color well in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) to choose or change the fill color.
+    1. _Color:_ Click the color well in the Tool Options pane to choose or change the fill color.
     2. _Blend Mode:_ Click the Blend Mode pop-up menu to choose how the fill color blends with the colors of the layer below.
     3. _Opacity:_ Drag the Opacity slider to adjust the transparency of the fill.
     4. _Sample All Layers:_ Select Sample All Layers to take into account the contents of every layer in your image when filling, not just the selected layer.
@@ -42,4 +42,4 @@ Quickly fill images, selections, or individual objects with a solid color. You c
 
 When using quick fill shortcuts, you can also press and hold the `Shift ⇧` key to fill only the opaque areas of a layer.
 
-&#x20;**Tip:** To quickly fill an image, text, or shape, you can also drag a color from the color well in the toolbar or any color well in Pixelmator Pro directly onto a layer.
+:blue\_book:**Tip:** To quickly fill an image, text, or shape, you can also drag a color from the color well in the toolbar or any color well in Pixelmator Pro directly onto a layer.

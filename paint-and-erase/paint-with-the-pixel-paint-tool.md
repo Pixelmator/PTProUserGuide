@@ -25,7 +25,8 @@ Paint with the Pixel Paint tool
    1. _Color:_ Click the color well to choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
    2. _Pixel Size:_ Drag the Pixel Size slider to adjust the size of the Pixel Paint tool block. Press and hold the `Option ⌥` key to extend the range of the Pixel Size slider beyond 500 pixels. You can also manually enter a value from 1 px to 1000 px.
    3. _Blend Mode:_ Click the Blend Mode pop-up menu to choose a blend mode.
-   4.  _Opacity:_ Drag the Opacity slider to adjust the transparency of the Pixel Paint tool.
+   4.  _Opacity:_ Drag the Opacity slider to adjust the transparency of the Pixel Paint tool.\
+
 
        ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625135311000.png)
 3. Drag on the canvas to paint.
