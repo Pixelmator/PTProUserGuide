@@ -143,9 +143,7 @@ Pixelmator Pro opens documents in tabs by default but if you'd like to have a do
 
 Also, if you'd like to see the previews of the documents in tabs, choose **Window > Show Tab Overview** from the Window menu at the top of your screen.
 
-{% hint style="info" %}
-You can create new empty images or open pre-designed templates and mockups from the Tab bar. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> on the right of the Tab bar to do so.
-{% endhint %}
+:bulb: **Tip:** You can create new empty images or open pre-designed templates and mockups from the Tab bar. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> on the right of the Tab bar to do so.
 
 #### Show or hide the Tab bar:
 
@@ -161,9 +159,7 @@ You can zoom in and out of the canvas, pan it in any direction while zoomed in, 
 
 If you’re mainly working with projects created from scratch, you can choose whether you want to start every new document with a white, black or transparent image canvas. Go to Pixelmator Pro settings to choose the background type you want.
 
-{% hint style="info" %}
-In Pixelmator Pro, you can hide all the elements of the interface except the image canvas. Choose **View > Hide Interface** from the View menu at the top of your screen or press `Control ⌃` + `H` on your keyboard to do so.
-{% endhint %}
+:blue\_book:**Note:** In Pixelmator Pro, you can hide all the elements of the interface except the image canvas. Choose **View > Hide Interface** from the View menu at the top of your screen or press `Control ⌃` + `H` on your keyboard to do so.
 
 ***
 
@@ -173,9 +169,7 @@ Rulers help to accurately arrange and size layers on the canvas. When rulers are
 
 Rulers almost always come hand in hand with guides — another great tool to help arrange objects on a canvas more precisely. Add guides by clicking and dragging the arrow from the ruler onto the canvas.
 
-{% hint style="info" %}
-Rulers in new documents will be turned on automatically, if a document before it had Rulers activated.
-{% endhint %}
+:blue\_book:**Note:** Rulers in new documents will be turned on automatically, if a document before it had Rulers activated.
 
 For more information about guides and rulers, see Use rulers and Use alignment guides.
 
@@ -213,9 +207,7 @@ Do one of the following:
    * _Layer and Selection Handles_: Shows or hides square white selection handles around layers when they are selected.
    * _Quick Canvas Controls_: Shows or hides media placeholder or alternative element group buttons on the canvas.
 
-{% hint style="info" %}
-To enable shape outlines, you can also `Control ⌃` – click any shape on the canvas and choose Show Shape Outline from the menu that appears.
-{% endhint %}
+:bulb: **Tip:** To enable shape outlines, you can also `Control ⌃` – click any shape on the canvas and choose Show Shape Outline from the menu that appears.
 
 ***
 
