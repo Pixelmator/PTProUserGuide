@@ -28,7 +28,7 @@ After making a selection, you can use options in the Select and Mask tool to enh
 
     _Note:_ While the Select and Mask is active, your selection outline is replaced by an overlay. Any selected areas are see-through, while any unselected areas are colored in. Pixelmator Pro uses a yellow by default but you can choose red, black, white, or plain black & white overlay from the Overlay pop-up menu.
 
-## Manually refine the selection
+### Manually refine the selection
 
 1. Adjust the options in the Tool Options pane:
    * _Shape Roundness:_ Adjust how much to round the selection outline.&#x20;
@@ -41,7 +41,7 @@ After making a selection, you can use options in the Select and Mask tool to enh
    * _New Layer_: Creates a new layer with the contents of the refined selection. Pixelmator Pro will automatically decontaminate the edges of the selection, removing any color left from the previous background.
 3. Click Apply at the bottom of the Tool Options pane to apply your refinements to the selection.
 
-## Automatically refine a selection using Smart Refine
+### Automatically refine a selection using Smart Refine
 
 Smart Refine uses a machine learning-based algorithm to intelligently detect intricate details like hair or fur at the selection edges and automatically refine the selection outline for you. To use Smart Refine:
 
@@ -52,7 +52,7 @@ Smart Refine uses a machine learning-based algorithm to intelligently detect int
    * Press `Option ⌥` + `Command ⌘` + `R` on your keyboard.
 3. Click Apply at the bottom of the Tool Options pane to apply your refinements to the selection.
 
-## Add or subtract areas from an existing selection
+### Add or subtract areas from an existing selection
 
 While the Select and Mask tool is active, you can use the selection refinement brush to paint over areas in your image to quickly edit your selection.&#x20;
 
