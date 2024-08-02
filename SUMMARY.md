@@ -147,6 +147,7 @@
   * [Adjust selections](make-selections/adjust-selections.md)
   * [Refine selections](make-selections/refine-selections.md)
   * [Move, copy, and delete selected areas](make-selections/move-copy-and-delete-selected-areas.md)
+  * [Convert selections into shapes](make-selections/convert-selections-into-shapes.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
