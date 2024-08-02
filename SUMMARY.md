@@ -157,7 +157,6 @@
   * [Save and share custom shapes](draw-shapes-and-vector-graphics/save-and-share-custom-shapes.md)
 * [Use the Type tool](use-the-type-tool.md)
   * [Add text around the outline of a shape](use-the-type-tool/add-text-around-the-outline-of-a-shape.md)
-  * [Add curved or circular text](use-the-type-tool/add-curved-or-circular-text.md)
   * [Add text on a path](use-the-type-tool/add-text-on-a-path.md)
   * [Page](use-the-type-tool/page.md)
 * [Working with mockups](working-with-mockups.md)
