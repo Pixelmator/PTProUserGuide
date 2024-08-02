@@ -133,6 +133,8 @@
   * [Fill with the Gradient Fill tool](paint-and-erase/fill-with-the-gradient-fill-tool.md)
   * [Paint with the Pixel Paint tool](paint-and-erase/paint-with-the-pixel-paint-tool.md)
   * [Erase using the Erase tool](paint-and-erase/erase-using-the-erase-tool.md)
+  * [Erase using the Smart Erase tool](paint-and-erase/erase-using-the-smart-erase-tool.md)
+  * [Edit brush settings](paint-and-erase/edit-brush-settings.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
