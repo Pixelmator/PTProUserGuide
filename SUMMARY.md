@@ -144,6 +144,7 @@
   * [Select all opaque areas of a layer](make-selections/select-all-opaque-areas-of-a-layer.md)
   * [Select the entire image](make-selections/select-the-entire-image.md)
   * [Automatically select a subject in an image](make-selections/automatically-select-a-subject-in-an-image.md)
+  * [Adjust selections](make-selections/adjust-selections.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
