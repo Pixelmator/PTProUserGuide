@@ -150,6 +150,7 @@
   * [Convert selections into shapes](make-selections/convert-selections-into-shapes.md)
 * [Draw shapes and vector graphics](draw-shapes-and-vector-graphics/README.md)
   * [Add and edit shapes](draw-shapes-and-vector-graphics/add-and-edit-shapes.md)
+  * [Arrange and combine shapes](draw-shapes-and-vector-graphics/arrange-and-combine-shapes.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
