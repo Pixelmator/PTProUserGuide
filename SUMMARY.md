@@ -151,6 +151,7 @@
 * [Draw shapes and vector graphics](draw-shapes-and-vector-graphics/README.md)
   * [Add and edit shapes](draw-shapes-and-vector-graphics/add-and-edit-shapes.md)
   * [Arrange and combine shapes](draw-shapes-and-vector-graphics/arrange-and-combine-shapes.md)
+  * [Draw shapes with the Pen tool](draw-shapes-and-vector-graphics/draw-shapes-with-the-pen-tool.md)
 * [Raster and vector layers](raster-and-vector-layers.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
