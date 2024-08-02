@@ -29,7 +29,7 @@ Once you've added text, you can `Shift ⇧`-drag one of the text box handles to 
 
 ## Add text on a freeform path
 
-Add text on a path or shape that you draw using the [Freeform Pen tool](https://www.pixelmator.com/support/guide/pixelmator-pro/1325).
+Add text on a path or shape that you draw using the [Freeform Pen tool](../draw-shapes-and-vector-graphics/draw-shapes-with-the-freeform-pen-tool.md).
 
 1. Choose the Freeform Type tool by doing one of the following:
    * Click Freeform Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1593759721000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
