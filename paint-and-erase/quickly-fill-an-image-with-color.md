@@ -18,7 +18,7 @@ Quickly fill images, selections, or individual objects with a solid color. You c
 
 ### Fill with the Quick Fill tool
 
-1. Use the color picker to [choose the color](https://www.pixelmator.com/support/guide/pixelmator-pro/1231) you want.
+1. Use the color picker to [choose the color ](../pixelmator-pro-basics/choose-and-manage-colors-in-pixelmator-pro.md)you want.
 2. Choose **Format > Image > Image Fill with Color** from the Format menu at the top of your screen.
 3.  Customize Quick Fill options:
 
