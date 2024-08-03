@@ -18,7 +18,9 @@ You can use keyboard shortcuts to quickly accomplish many tasks in Pixelmator Pr
 
 While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can also create some custom ones yourself to best suit your workflow. See [Customize keyboard shortcuts](https://www.pixelmator.com/tutorials/resources/customize-keyboard-shortcuts/) to learn more.
 
-| **Navigate an image**               |                                                                                    |
+## **Navigate an image**
+
+| Action                              | Shortcut                                                                           |
 | ----------------------------------- | ---------------------------------------------------------------------------------- |
 | Zoom in                             | Command ⌘ + +                                                                      |
 | Zoom out                            | Command ⌘ + -                                                                      |
@@ -30,7 +32,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Scroll an image (use the Hand tool) | Press and hold Space, then drag the image or press H on your keyboard              |
 | Freely rotate the canvas            | Press and hold Space + R, then click and drag to rotate the canvas                 |
 
-| Select tools                                                          |                                          |
+## Select tools
+
+| Tool                                                                  | Shortcut                                 |
 | --------------------------------------------------------------------- | ---------------------------------------- |
 | Style                                                                 | S                                        |
 | Arrange                                                               | V                                        |
@@ -60,7 +64,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Zoom                                                                  | Z                                        |
 | Hand                                                                  | H                                        |
 
-| Open, save, and export images               |                                    |
+## Open, save, and export images
+
+| Action                                      | Shortcut                           |
 | ------------------------------------------- | ---------------------------------- |
 | Create a new image or template              | Command ⌘ + N                      |
 | Create a new image using a mockup           | Option ⌥ + Shift ⇧ + Command ⌘ + N |
@@ -73,7 +79,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Export an image optimized for the web       | Shift ⇧ + Command ⌘ + E            |
 | Create a new image from your Photos library | Option ⌥ + Command ⌘ + N           |
 
-| Basic edits                                                 |                                                                |
+## Basic edits
+
+| Action                                                      | Shorctus                                                       |
 | ----------------------------------------------------------- | -------------------------------------------------------------- |
 | Undo last action                                            | Command ⌘ + Z                                                  |
 | Redo last action                                            | Shift ⇧ + Command ⌘ + Z                                        |
@@ -95,7 +103,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Replace layer                                               | Shift ⇧ + Command ⌘ + R                                        |
 | Enter the color picker mode                                 | Press and hold the Option ⌥ key and pick a color from an image |
 
-| Work with layers                                |                                                                                                       |
+## Work with layers
+
+| Action                                          | Shortcut                                                                                              |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Create an empty new layer                       | Shift ⇧ + Command ⌘ + N                                                                               |
 | Insert an image or video as a layer from Finder | Shift ⇧ + Command ⌘ + V                                                                               |
@@ -125,13 +135,17 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Equally space objects horizontally              | Option ⌥ + Command ⌘ + Control ⌃ + H                                                                  |
 | Equally space objects vertically                | Option ⌥ + Command ⌘ + Control ⌃ + V                                                                  |
 
-| Style tool                                             |                                                                                                        |
+## Style tool
+
+| Action                                                 | Shortcut                                                                                               |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | Cycle through blend modes                              | Shift ⇧ + Plus + or Minus -                                                                            |
 | Set layer opacity                                      | Press a number key once or twice quickly in succession. Press the 0 key once for 100% and twice for 0% |
 | Temporarily view original layer without styles applied | Control ⌃ + M                                                                                          |
 
-| Arrange tool                                                     |                                                                                |
+## Arrange tool
+
+| Action                                                           | Shortcut                                                                       |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Resize a layer                                                   | Drag a layer handle                                                            |
 | Duplicate a layer                                                | <p>Shift ⇧ + Command ⌘ + D or<br>Option ⌥ – drag</p>                           |
@@ -146,7 +160,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Align multiple layers according to their edges                   | Press Control ⌃ + Command ⌘ and an arrow key                                   |
 | Align multiple layers according to their centers                 | Control ⌃ + Command ⌘ + H (for horizontal centers) or V (for vertical centers) |
 
-| Crop tool                                           |                                                                                                                                                      |
+## Crop tool
+
+| Action                                              | Shortcut                                                                                                                                             |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Turn on the Crop tool                               | C                                                                                                                                                    |
 | Adjust the position of the crop                     | Press an arrow key                                                                                                                                   |
@@ -167,7 +183,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Distort                | Drag a transform handle while holding the Command ⌘ key              |
 | Perspective Transform  | Drag a transform handle while holding Option ⌥ + Shift ⇧ + Command ⌘ |
 
-| Selection tools                             |                                                                                  |
+## Selection tools
+
+| Action                                      | Shortcut                                                                         |
 | ------------------------------------------- | -------------------------------------------------------------------------------- |
 | Select the entire image                     | Command ⌘ + A                                                                    |
 | Deselect an active selection                | Command ⌘ + D                                                                    |
@@ -186,7 +204,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Subtract from a selection                   | Press and hold the Option ⌥ key before starting to select                        |
 | Intersect a selection                       | Press and hold the Shift ⇧ and Option ⌥ keys before starting to select           |
 
-| Paint and erase                                           |                                                                                                |
+## Paint and erase
+
+| Action                                                    | Shortcut                                                                                       |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Reset foreground and background colors to white and black | D                                                                                              |
 | Switch between foreground and background color            | X                                                                                              |
@@ -204,12 +224,16 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Set Paint tool opacity                                    | Press a number key once or twice quickly in succession. Press the 0 key for 100%, or 00 for 0% |
 | Cycle through blend modes                                 | Shift ⇧ + Plus + or Minus -                                                                    |
 
-| Clone tool            |                  |
+## Clone tool
+
+| Action                | Shortcut         |
 | --------------------- | ---------------- |
 | Choose the Clone tool | O                |
 | Set clone source      | Option ⌥ – click |
 
-| Draw shapes                                                       |                                                                                       |
+## Draw shape
+
+| Action                                                            | Shortcut                                                                              |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Choose the Shape tool                                             | U                                                                                     |
 | Unite a shape with the selected shape                             | Press and hold the Shift ⇧ key before starting to draw                                |
@@ -220,7 +244,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Select multiple shapes on the canvas while using any shape tool   | Press and hold Command ⌘ + Shift ⇧ then click or drag to select shapes                |
 | Move multiple shapes on the canvas while using any shape tool     | After selecting multiple shapes, press and hold the Command ⌘ key and drag the shapes |
 
-| Edit shapes                                                       |                                                                                                             |
+## Edit shapes
+
+| Action                                                            | Shortcut                                                                                                    |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Make a shape editable                                             | Return ↵ key                                                                                                |
 | Adjust the corner radius of a rounded rectangle shape             | Command ⌘ – drag a corner radius handle                                                                     |
@@ -231,7 +257,9 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 | Delete the selected anchor point(s)                               | Backspace ⌫ key                                                                                             |
 | Stop editing a shape                                              | Esc key                                                                                                     |
 
-| Draw paths with the Pen tool                                             |                                                                       |
+## Draw paths with the Pen tool
+
+| Action                                                                   | Shortcut                                                              |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
 | Add a sharp point                                                        | Click anywhere in the image                                           |
 | Add a smooth point                                                       | Drag anywhere in the image                                            |
