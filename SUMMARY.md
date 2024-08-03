@@ -158,6 +158,8 @@
 * [Use the Type tool](use-the-type-tool.md)
   * [Add text on a path](use-the-type-tool/add-curved-or-circular-text.md)
   * [Copy and paste text](use-the-type-tool/copy-and-paste-text.md)
+  * [Use dictation to enter text](use-the-type-tool/use-dictation-to-enter-text.md)
+  * [Change the font or font size](use-the-type-tool/change-the-font-or-font-size.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
 * [Working with templates](working-with-templates.md)
