@@ -175,3 +175,5 @@
   * [Trim away colored or transparent borders around an image](resize-crop-and-straighten-images/trim-away-colored-or-transparent-borders-around-an-image.md)
   * [Reveal parts of an image beyond the canvas](resize-crop-and-straighten-images/reveal-parts-of-an-image-beyond-the-canvas.md)
   * [Crop presets](resize-crop-and-straighten-images/crop-presets.md)
+* [Export and share images](export-and-share-images.md)
+* [Export an image or video for the web](export-an-image-or-video-for-the-web.md)
