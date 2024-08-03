@@ -157,6 +157,7 @@
   * [Save and share custom shapes](draw-shapes-and-vector-graphics/save-and-share-custom-shapes.md)
 * [Use the Type tool](use-the-type-tool.md)
   * [Add text on a path](use-the-type-tool/add-curved-or-circular-text.md)
+  * [Copy and paste text](use-the-type-tool/copy-and-paste-text.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
 * [Working with templates](working-with-templates.md)
