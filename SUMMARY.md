@@ -175,8 +175,3 @@
   * [Trim away colored or transparent borders around an image](resize-crop-and-straighten-images/trim-away-colored-or-transparent-borders-around-an-image.md)
   * [Reveal parts of an image beyond the canvas](resize-crop-and-straighten-images/reveal-parts-of-an-image-beyond-the-canvas.md)
   * [Crop presets](resize-crop-and-straighten-images/crop-presets.md)
-* [Working with mockups](working-with-mockups.md)
-* [Export presets](export-presets.md)
-* [Working with templates](working-with-templates.md)
-* [Quickly export or share an optimized image](quickly-export-or-share-an-optimized-image.md)
-* [Pixelmator Pro keyboard shortcuts](pixelmator-pro-keyboard-shortcuts.md)
