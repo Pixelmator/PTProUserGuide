@@ -166,6 +166,8 @@
   * [Change text capitalization](use-the-type-tool/change-text-capitalization.md)
   * [Align and space text](use-the-type-tool/align-and-space-text.md)
   * [Format characters](use-the-type-tool/format-characters.md)
+  * [Convert text into a shape or pixel layer](use-the-type-tool/convert-text-into-a-shape-or-pixel-layer.md)
+  * [Text style presets](use-the-type-tool/text-style-presets.md)
 * [Page 1](page-1.md)
 * [Page](page.md)
 * [Working with mockups](working-with-mockups.md)
