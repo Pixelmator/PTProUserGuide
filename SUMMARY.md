@@ -171,6 +171,7 @@
 * [Resize, crop, and straighten images](resize-crop-and-straighten-images/README.md)
   * [Change the image size](resize-crop-and-straighten-images/change-the-image-size.md)
   * [Crop and straighten an image](resize-crop-and-straighten-images/crop-and-straighten-an-image.md)
+  * [Rotate and flip an image](resize-crop-and-straighten-images/rotate-and-flip-an-image.md)
 * [Page](page.md)
 * [Working with mockups](working-with-mockups.md)
 * [Export presets](export-presets.md)
