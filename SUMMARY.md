@@ -170,6 +170,7 @@
   * [Text style presets](use-the-type-tool/text-style-presets.md)
 * [Resize, crop, and straighten images](resize-crop-and-straighten-images/README.md)
   * [Change the image size](resize-crop-and-straighten-images/change-the-image-size.md)
+  * [Change the canvas size](resize-crop-and-straighten-images/change-the-canvas-size.md)
   * [Crop and straighten an image](resize-crop-and-straighten-images/crop-and-straighten-an-image.md)
   * [Rotate and flip an image](resize-crop-and-straighten-images/rotate-and-flip-an-image.md)
   * [Trim away colored or transparent borders around an image](resize-crop-and-straighten-images/trim-away-colored-or-transparent-borders-around-an-image.md)
