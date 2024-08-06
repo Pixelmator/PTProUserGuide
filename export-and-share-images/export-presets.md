@@ -21,14 +21,14 @@ Export presets let you save a combination of export settings and quickly apply t
 ## Apply an export preset to an image
 
 1. Do one of the following:
-   * Click Slice <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580744823000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Slice <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604663000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **File > Export for Web** from the File menu at the top of your screen.
    * Press the `K` key on your keyboard.
 2. In the Tool Options pane, click Presets <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605104039000.png" alt="" data-size="line"> and choose from the available presets.
 
 ## Apply an export preset to a slice
 
-1. Draw on the canvas to create a slice or select an existing slice from the list of slices in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+1. Draw on the canvas to create a slice or select an existing slice from the list of slices in the Tool Options pane.
 2. Choose any of the available presets.
 
 ## Save a combination of export settings as a preset
