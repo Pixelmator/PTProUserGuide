@@ -14,18 +14,18 @@ layout:
 
 # Export and share images
 
-Pixelmator Pro is a nondestructive, layer-based image editor. In order to preserve all the formatting, layers, and additional image information, Pixelmator Pro uses its own special — [PXD](https://www.pixelmator.com/support/guide/pixelmator-pro/639) — file format. However, when you want to use an image or video on the web or share it with someone who uses a different image editor, you should export it to a different file format. You can also export images specially  [optimized for the web](https://www.pixelmator.com/support/guide/pixelmator-pro/1051).
+Pixelmator Pro is a nondestructive, layer-based image editor. In order to preserve all the formatting, layers, and additional image information, Pixelmator Pro uses its own special — [PXD](../create-open-and-save-images/about-the-pixelmator-pro-file-format.md) — file format. However, when you want to use an image or video on the web or share it with someone who uses a different image editor, you should export it to a different file format. You can also export images specially [optimized for the web](export-an-image-or-video-for-the-web.md).
 
 1. Do one of the following:
    * Choose **File > Export** from the File menu at the top of your screen.
    * Press `Command ⌘` + `E` on your keyboard.
-2.  In the Export dialog (shown below) enter a name in the Save As field, then enter one or more [tags](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) (optional).
+2.  In the Export dialog (shown below) enter a name in the Save As field, then enter one or more tags (optional).
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651059548000.jpeg)
 3. To choose where to export the image, click the Locations pop-up menu, or the disclosure button next to it, then choose a location (for example, a folder or your desktop).
 4.  Customize the export file — choose a file format, color profile, quality, size, etc. The available options vary based on the file format selected.
 
-    :blue\_book: **Note:** When resizing images for export, Pixelmator Pro uses the most universal, Bilinear scaling algorithm. It works best for scaling down images. If, instead, you'd like to upscale your image (using Super Resolution) or use a different algorithm for downscaling, you can do so in the [Image Size](https://www.pixelmator.com/support/guide/pixelmator-pro/1006) menu before export.&#x20;
+    :blue\_book: **Note:** When resizing images for export, Pixelmator Pro uses the most universal, Bilinear scaling algorithm. It works best for scaling down images. If, instead, you'd like to upscale your image (using Super Resolution) or use a different algorithm for downscaling, you can do so in the [Image Size](../resize-crop-and-straighten-images/change-the-image-size.md) menu before export.&#x20;
 5. Click Export.
 
 ## Image formats
@@ -86,6 +86,34 @@ _Compression:_ Turn on compression to compress the file using lossless compressi
 
 _Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or specific scaling.
 
+### JPEG-2000
+
+JPEG-2000 is a flexible, raster image format that lets you either to compress the file or export it uncompressed and retain original image detail. JPEG-2000 offers better compression performance and fewer artifacts compared to the original JPEG format but is not as widely adopted.
+
+Customize the JPEG-2000 file:
+
+_Color Profile:_ JPEG-2000 images are typically exported using the original color profile of the file, but you can click the Color Profile pop-up menu to choose a different one for export.
+
+_Quality:_ Drag the quality slider or enter a precise quality percentage to change the level of JPEG-2000 compression. Exporting between 75% to 85% quality can greatly reduce the image size without any noticeable drop in quality. Higher levels of compression will make images lighter but can potentially reduce image quality.&#x20;
+
+_Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or choose a specific scaling.
+
+### GIF
+
+The GIF or Graphics Interchange Format is a raster image format. GIF images support 8-bit color depth and can display 256 different colors from the 24-bit RGB color space. GIF file format is suitable for exporting simple graphics such as solid-color logos but may bring out unwanted artifacts in color gradients or photos.
+
+_Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or choose a specific scaling.
+
+### BMP
+
+BMP is a raster image format, primarily used for legacy purposes only. BMP doesn't use uncompression, making the file sizes of the exported images larger.&#x20;
+
+_Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or choose a specific scaling.
+
+***
+
+## App & vector formats
+
 ### SVG
 
 The SVG (Scalable Vector Graphics) format is a vector file format. SVG images and their properties are defined in XML text files, so SVG images can be created and edited with any text editor, as well as graphics software.
@@ -124,29 +152,7 @@ _Size:_ Click the Size pop-up menu to choose whether to export the image at its 
 
 _Flatten layers:_ Select flatten layers to export the PDF with all layers merged into a single image (bitmap PDF). Or deselect it to preserve all layers (vector PDF).&#x20;
 
-### JPEG-2000
-
-JPEG-2000 is a flexible, raster image format that lets you either to compress the file or export it uncompressed and retain original image detail. JPEG-2000 offers better compression performance and fewer artifacts compared to the original JPEG format but is not as widely adopted.
-
-Customize the JPEG-2000 file:
-
-_Color Profile:_ JPEG-2000 images are typically exported using the original color profile of the file, but you can click the Color Profile pop-up menu to choose a different one for export.
-
-_Quality:_ Drag the quality slider or enter a precise quality percentage to change the level of JPEG-2000 compression. Exporting between 75% to 85% quality can greatly reduce the image size without any noticeable drop in quality. Higher levels of compression will make images lighter but can potentially reduce image quality.&#x20;
-
-_Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or choose a specific scaling.
-
-### GIF
-
-The GIF or Graphics Interchange Format is a raster image format. GIF images support 8-bit color depth and can display 256 different colors from the 24-bit RGB color space. GIF file format is suitable for exporting simple graphics such as solid-color logos but may bring out unwanted artifacts in color gradients or photos.
-
-_Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or choose a specific scaling.
-
-### BMP
-
-BMP is a raster image format, primarily used for legacy purposes only. BMP doesn't use uncompression, making the file sizes of the exported images larger.&#x20;
-
-_Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or choose a specific scaling.
+***
 
 ## Video formats
 
