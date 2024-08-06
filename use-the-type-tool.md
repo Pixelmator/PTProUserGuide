@@ -14,7 +14,7 @@ layout:
 
 # Use the Type tool
 
-The Type tool is used to add and customize text in images. The Type tool is grouped with Circular Type, Path Type, and Freeform Type tools that you can use to add curved text, text on a path, or wrap text around a shape. You can also choose from a bunch of premade [presets](https://www.pixelmator.com/support/guide/pixelmator-pro/948) that come with Pixelmator Pro.
+The Type tool is used to add and customize text in images. The Type tool is grouped with Circular Type, Path Type, and Freeform Type tools that you can use to add curved text, text on a path, or wrap text around a shape. You can also choose from a bunch of [text presets](use-the-type-tool/text-style-presets.md) that come with Pixelmator Pro.
 
 ## Create a new text layer
 
