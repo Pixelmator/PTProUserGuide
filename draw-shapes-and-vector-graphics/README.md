@@ -18,6 +18,6 @@ The term _drawing_ in image editing apps refers to creating or adding simple for
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656926454000.jpeg)
 
-In Pixelmator Pro, there are smart shapes and custom shapes, and the [Pen](https://www.pixelmator.com/support/guide/pixelmator-pro/776) and [Freeform Pen](https://www.pixelmator.com/support/guide/pixelmator-pro/1325)drawing tools to create your own shapes. If you can’t find the shape you need, you can easily reshape any of the pre-made shapes with easy-to-use controls. The look of a shape can also be easily changed using the [Style tool](../about-layers.md).
+In Pixelmator Pro, there are smart shapes and custom shapes, and the [Pen](https://www.pixelmator.com/support/guide/pixelmator-pro/776) and [Freeform Pen](https://www.pixelmator.com/support/guide/pixelmator-pro/1325)drawing tools to create your own shapes. If you can’t find the shape you need, you can easily reshape any of the pre-made shapes with easy-to-use controls. The look of a shape can also be easily changed using the [Style tool](broken-reference).
 
 \

@@ -40,7 +40,6 @@
   * [Automatically reduce noise](automatically-edit-images/automatically-reduce-noise.md)
   * [Remove image background](automatically-edit-images/remove-image-background.md)
 * [Working with layers](working-with-layers/README.md)
-  * [About layers](about-layers.md)
   * [Remove image background](remove-image-background.md)
   * [Video layers](video-layers.md)
   * [Color adjustments and effects layers](working-with-layers/color-adjustments-and-effects-layers.md)

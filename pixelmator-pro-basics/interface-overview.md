@@ -101,7 +101,7 @@ At the top of the Layers sidebar, click <img src="https://help.pixelmator.com/pi
 * _Size._ Choose between three different thumbnail sizes: small, medium, and large.
 * _Show layer descriptions._ Select this option to see additional layer properties when editing, such as layer size, type, or edits applied.
 
-See [About layers](../about-layers.md) to learn more about working with layers.
+See [About layers](broken-reference) to learn more about working with layers.
 
 #### Layer opacity
 
