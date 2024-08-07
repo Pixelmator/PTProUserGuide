@@ -34,17 +34,13 @@ Editing images nondestructively lets you save any layers, color adjustments, and
 
 Images edited nondestructively can be reverted to the original using macOS Versions. To turn on macOS Versions, make sure the Use Auto Save and Version option is selected in the Editing settings.
 
-{% hint style="info" %}
-When sharing images with sidecar edits, they are shared just like regular image files — with all the edits baked in. Saving edits to sidecar is recommended for those who often share images with others or post them on the web, but also need to keep the project file editable.
-{% endhint %}
+:blue\_book: **Note:** When sharing images with sidecar edits, they are shared just like regular image files — with all the edits baked in. Saving edits to sidecar is recommended for those who often share images with others or post them on the web, but also need to keep the project file editable.
 
 #### Destructive editing
 
 While Pixelmator Pro is a nondestructive image editor by nature, you can also set it up to work with images destructively. When editing destructively, images get overwritten with the changes you make, which means that layers, color adjustments, effects, and other nondestructive edits become flattened once the image is saved and closed. Images edited destructively can only be reverted to the original if they have been opened from Photos.
 
-{% hint style="warning" %}
-**Important:** To prevent potential data loss, it is recommended to use destructive editing only when necessary for a specific workflow. When editing destructively, it's also recommended to always have Auto Save and macOS Versions turned on.
-{% endhint %}
+:exclamation:**Important:** To prevent potential data loss, it is recommended to use destructive editing only when necessary for a specific workflow. When editing destructively, it's also recommended to always have Auto Save and macOS Versions turned on.
 
 ***
 
@@ -56,9 +52,7 @@ While Pixelmator Pro is a nondestructive image editor by nature, you can also se
    * Select **For Images Opened from Finder** to save images back to their original folder in Finder, keeping the original file format, and preserving all layers and edits. Deselect **For Images Opened from Finder** to overwrite original images when saving. The image cannot be reverted back to the original.
    * Select **For Images Opened from Photos** to save photos opened from your photo library or use the Photos extension back to the photo library while preserving all layers and edits. Deselect **For Images Opened from Photos** to overwrite original photos in the photo library when saving.
 
-{% hint style="info" %}
-To continue editing an image saved to Photos, open it again using the Photo browser or Pixelmator Pro extension in Photos. Dragging the image from Photos to Pixelmator Pro directly, or choosing Edit with Pixelmator Pro from the contextual menu in Photos will open a flattened version of the image in Pixelmator Pro.
-{% endhint %}
+:bulb: **Tip:** To continue editing an image saved to Photos, open it again using the Photo browser or Pixelmator Pro extension in Photos. Dragging the image from Photos to Pixelmator Pro directly, or choosing Edit with Pixelmator Pro from the contextual menu in Photos will open a flattened version of the image in Pixelmator Pro.
 
 ## Open and save images in the Pixelmator Pro file format
 
@@ -68,9 +62,7 @@ To continue editing an image saved to Photos, open it again using the Photo brow
    * Select **For Images Opened from Photos** to save photos opened from your photo library or use the Photos extension back to the photo library while preserving all layers and edits. To save a photo with changes, choose **File > Modify Original** in Photos.
    * Deselect **For Images Opened from Photos** to overwrite original photos in the photo library when saving. The image can still be reverted to the original in Photos.
 
-{% hint style="warning" %}
-**Important:** If you additionally modify the photo using any of the default editing tools in Photos or using some third-party Photos extension (other than Pixelmator Pro), all the changes applied to the image using Pixelmator Pro will be overwritten.
-{% endhint %}
+:exclamation:**Important:** If you additionally modify the photo using any of the default editing tools in Photos or using some third-party Photos extension (other than Pixelmator Pro), all the changes applied to the image using Pixelmator Pro will be overwritten.
 
 ## Choose the sidecar file save location
 
@@ -90,9 +82,7 @@ To delete a sidecar file, do any of the following:
 * Choose **File > Sidecar > Reveal Sidecar File** and delete the sidecar file from your Mac.
 * Choose **File > Sidecar > Delete Sidecar File.**
 
-{% hint style="warning" %}
-If you delete the sidecar file without deleting the linked image, the nondestructive edits will be merged the next time you open the image. If, however, you had the Auto Save and Versions option turned on, you can still revert the image to the original using **File > Revert To > Browse All Versions**.
-{% endhint %}
+:exclamation:**Important:** If you delete the sidecar file without deleting the linked image, the nondestructive edits will be merged the next time you open the image. If, however, you had the Auto Save and Versions option turned on, you can still revert the image to the original using **File > Revert To > Browse All Versions**.
 
 ## Use Auto Save and Versions
 

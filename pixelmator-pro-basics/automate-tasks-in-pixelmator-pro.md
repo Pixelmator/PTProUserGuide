@@ -70,9 +70,7 @@ To write your first "Hello, world!" script:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1600263377000.png)
 
-{% hint style="info" %}
-The script above applies the text formatting last used in Pixelmator Pro but you can further customize it by adding additional statements, such as defining the property values of the text size, font, or color.
-{% endhint %}
+:blue\_book: **Note:** The script above applies the text formatting last used in Pixelmator Pro but you can further customize it by adding additional statements, such as defining the property values of the text size, font, or color.
 
 You can go as simple or as complex as you want with your scripts, adding different new layers, shapes, and effects. For instance, you can download this example script to transform the simple "Hello, world!" script into an eye-catching graphic below:
 

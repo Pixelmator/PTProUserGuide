@@ -33,6 +33,4 @@ The following instructions assume that your printer is already set up. You can s
 4. Select the paper size and the number of copies you'd like to print. Select the checkbox next to Black & White if you'd like to print in black & white ink only.
 5. Click Print.
 
-{% hint style="info" %}
-If you're looking to print an image at its actual size, make sure the document is scaled to 100% in the Print settings.
-{% endhint %}
+:bulb: **Tip:** If you're looking to print an image at its actual size, make sure the document is scaled to 100% in the Print settings.

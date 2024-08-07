@@ -182,7 +182,7 @@ _Frame rate:_ Enter the desired frame rate in frames per second (FPS). E.g.: fil
 
 _Size:_ Click the Size pop-up menu to choose whether to export the video at its original size, enter a custom size, or choose a specific scaling.
 
-_Note:_ Video formats do not support non-even dimensions (e.g.: 199x199 px). When exporting videos, always make sure you choose a supported size, otherwise, the dimensions will be rounded automatically and the video may become distorted.
+:blue\_book: **Note:** Video formats do not support non-even dimensions (e.g.: 199x199 px). When exporting videos, always make sure you choose a supported size, otherwise, the dimensions will be rounded automatically and the video may become distorted.
 
 ### Animated GIF
 
@@ -206,4 +206,4 @@ _Frame Rate:_ Enter the desired frame rate in frames per second (FPS).
 
 _Size:_ Click the Size pop-up menu to choose whether to export the video at its original size, enter a custom size, or choose a specific scaling.
 
-_Note:_ Video formats do not support non-even dimensions (e.g.: 199x199 px). When exporting videos, always make sure you choose a supported size, otherwise, the dimensions will be rounded automatically and the video may become distorted.
+:blue\_book: **Note:** Video formats do not support non-even dimensions (e.g.: 199x199 px). When exporting videos, always make sure you choose a supported size, otherwise, the dimensions will be rounded automatically and the video may become distorted.

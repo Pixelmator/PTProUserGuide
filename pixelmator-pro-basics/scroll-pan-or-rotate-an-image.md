@@ -42,11 +42,7 @@ Do one of the following:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651485819000.jpeg)
 
-
-
-{% hint style="info" %}
-To enter a specific rotation angle, click the angle field in the canvas rotation wheel and enter the desired value.
-{% endhint %}
+:bulb: **Tip:** To enter a specific rotation angle, click the angle field in the canvas rotation wheel and enter the desired value.
 
 To reset the canvas to its original orientation, click Reset below the canvas rotation wheel or choose **View > Canvas Rotation > Reset Canvas Rotation** from the View menu at the top of your screen.
 
