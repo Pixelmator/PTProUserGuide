@@ -35,4 +35,4 @@ Do any of the following:
 
 ***
 
-If you'd like to hide the background instead of removing it completely, hold down the `Option ⌥` key when clicking Remove Background in the menu. This will mask the background instead of deleting it and you'll be able to [edit the mask](../working-with-layers/use-layer-masks.md) manually once it's added.
+If you'd like to hide the background instead of removing it completely, hold down the `Option ⌥` key when clicking Remove Background in the menu. This will mask the background instead of deleting it and you'll be able to [edit the mask](../mask-layers/working-with-bitmap-masks.md) manually once it's added.

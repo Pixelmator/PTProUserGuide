@@ -49,7 +49,7 @@ To merge two or more layers, do the following:
 
 To merge every layer in a composition:
 
-* Choose **Arrange > Merge All** (from the Arrange menu at the top of your screen).
+* Choose **Arrange > Merge All** from the Arrange menu at the top of your screen.
 * Press `Option ⌥` + `Shift ⇧` + `Command ⌘` + `E` on your keyboard.
 
 ### Delete a layer
@@ -70,7 +70,7 @@ To lock or unlock a layer or layer group, do one of the following:
 * In the Layers list, move the mouse pointer over the layer or layer group you’d like to lock and click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802756000.png" alt="" data-size="line">. To unlock layers, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802719000.png" alt="" data-size="line">.
 * In the Layers sidebar, `Control ⌃` – click a layer or layer group choose Lock or Unlock.
 
-
+***
 
 ## Manage layer groups
 
@@ -82,7 +82,7 @@ Grouping layers into layer groups lets you make your compositions more organized
 
 To group multiple layers into a layer group or to ungroup them:
 
-1. [Select the layers](https://www.pixelmator.com/support/guide/pixelmator-pro/662) you'd like to group or ungroup.
+1. Select the layers you'd like to group or ungroup.
 2. Do one of the following:
    * Choose **Arrange > Group** or **Arrange > Ungroup** from the Arrange menu at the top of your screen.
    * In the Layers list, `Control ⌃` – click the layers you’d like to group or ungroup and choose Group or Ungroup.
@@ -114,10 +114,12 @@ In the Layers list, you can disable layers and groups to make them invisible in 
 2. Do one of the following:
    * Choose **Arrange > Hide** or **Arrange > Show** from the Arrange menu at the top of your screen. 
    * Press `Option ⌥` + `Command ⌘` `+` , on your keyboard.
-   * In the Layers sidebar, choose **View > Show Layers** if the list view isn’t visible, move the mouse pointer over the layer or layer group you’d like to hide or show and select or deselect the visibility checkbox. 
+   * In the Layers sidebar, choose **View > Show Layers** if the list view isn’t visible, move the mouse pointer over the layer or layer group you’d like to hide or show, and select or deselect the visibility checkbox. 
    * In the Layers sidebar, `Control ⌃` – click a layer or group and choose Hide or Show.
 
 :blue\_book: **Note:** Hidden layers and groups are not included when your image is exported.
+
+***
 
 ## Organize and sort layers
 

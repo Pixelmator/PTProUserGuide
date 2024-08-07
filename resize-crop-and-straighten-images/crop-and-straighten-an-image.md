@@ -25,7 +25,7 @@ You can crop images to improve their composition or eliminate unwanted parts. Wh
     To constrain the crop box to an aspect ratio, click the Constrain pop-up menu and choose from the available presets.&#x20;
 3. To straighten the image, drag anywhere outside the crop box, drag the rotation slider in the Tool Options pane, or click the rotation buttons at either end of the rotation slider. You can also enter a specific degree in the Angle field.
 
-:bulb: **Tip:** If you're looking to crop an image to a specific shape, such as an ellipse or triangle, you can use a clipping mask. See [Use clipping masks](../working-with-layers/use-clipping-masks.md) to learn more.
+:bulb: **Tip:** If you're looking to crop an image to a specific shape, such as an ellipse or triangle, you can use a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more.
 
 To quickly reset the crop box to the original image height, fit the image into a crop box, switch between constrained and free cropping, or automate other cropping and straightening tasks, you can use keyboard shortcuts. See [Pixelmator Pro keyboard shortcuts](broken-reference) to find the complete list of Crop tool shortcuts.
 
