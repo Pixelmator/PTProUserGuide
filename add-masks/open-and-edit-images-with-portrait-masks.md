@@ -28,9 +28,7 @@ To open an image with a Portrait Mask in Pixelmator Pro, do one of the following
 * In Finder, `Control ⌃` – click the image and choose **Open With > Pixelmator Pro**.
 * In macOS Photos, `Control ⌃` – click the image and choose **Edit With > Pixelmator Pro**.
 
-{% hint style="warning" %}
-**Important:** Dragging images from Photos to Pixelmator Pro directly doesn’t transfer the mask info, so the images opened this way will have no Portrait Mask. Portrait Mask also won't be retained if the image has been previously edited using any other apps.
-{% endhint %}
+:exclamation:**Important:** Dragging images from Photos to Pixelmator Pro directly doesn’t transfer the mask info, so the images opened this way will have no Portrait Mask. Portrait Mask also won't be retained if the image has been previously edited using any other apps.
 
 ## Turn a Portrait Mask on or off
 

@@ -60,4 +60,4 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
 4. Drag the corner handles to change the perspective vertically or horizontally. Dragging handles at the sides of the layer slants it vertically or horizontally.
 5. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-:exclamation:**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform effect](../about-effects/apply-other-effects.md#perspective-transform-effect).
+:exclamation:**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform effect](../add-effects/apply-other-effects.md#perspective-transform-effect).
