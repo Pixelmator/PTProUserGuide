@@ -19,7 +19,7 @@ You can move and align any layer or multiple layers using the Arrange <img src="
 ## Move a layer
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. Do any of the following:&#x20;
@@ -51,7 +51,7 @@ You can align objects so they line up along a vertical or horizontal axis.
 
 1. Do one of the following:
    * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
-   * Choose **Arrange > Align Objects** (from the Arrange menu at the top of your screen).
+   * Choose **Arrange > Align Objects** from the Arrange menu at the top of your screen.
 2. Select the layer you'd like to align. If one layer is selected, it aligns to the canvas. If two or more layers are selected, the layers align to the layer which is closest to the direction you selected. For instance, if you align three layers to the left, the leftmost layer doesn’t move, and the other objects align to it.
 3.  Click one of the alignment buttons below the layer order slider in the Tool Options pane or choose one of the alignment options:
 
@@ -61,7 +61,7 @@ You can align objects so they line up along a vertical or horizontal axis.
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159471000.png) _Vertical Centers:_ Vertically moves all your selected layers to align them along one central horizontal axis.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159494000.png) _Bottom Edges:_ Aligns all your selected layers to the bottom edge of the bottommost layer.\
+    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159494000.png) _Bottom Edges:_ Aligns all your selected layers to the bottom edge of the bottom layer.\
     \
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159519000.png) _Left Edges:_ Aligns all your selected layers to the left edge of the leftmost layer.\
     \
@@ -80,10 +80,10 @@ Distributing layers lets you arrange them according to their edges or centers. F
 3.  Click one of the alignment buttons below the layer order slider in the Tool Options pane or choose one of the distribution options (you can also choose **Arrange > Distribute Objects** and select an option):\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160132000.png) _Top Edges:_ Equally spaces any layers between the top and bottom selected layers according to their top edges.\
+    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160132000.png) _Top Edges:_ Equally space any layers between the top and bottom selected layers according to their top edges.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160159000.png) _Vertical Centers:_ Equally spaces any layers between the top and bottom selected layers according to their vertical centers.\
+    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160159000.png) _Vertical Centers:_ Equally space any layers between the top and bottom selected layers according to their vertical centers.\
 
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160185000.png) _Bottom Edges:_ Equally spaces any layers between the top and bottom selected layers according to their bottom edges.\
@@ -104,12 +104,12 @@ Distributing layers vertically or horizontally lets you automatically create equ
 1. Select three or more layers you’d like to equally space.
 2.  Do one of the following:\
     \
-    _Equally space objects accross a vertical axis:_
+    _Equally space objects across a vertical axis:_
 
     * Choose **Arrange > Distribute Objects > Vertical Spacing** from the Arrange menu at the top of your screen.
     * Press `Option ⌥` + `Command ⌘` + `Control ⌃` + `V`
 
-    _Equally space objects accross a horizontal axis:_
+    _Equally space objects across a horizontal axis:_
 
     * Choose **Arrange > Distribute Objects > Horizontal Spacing** from the Arrange menu at the top of your screen.
     * Press `Option ⌥` + `Command ⌘` + `Control ⌃ + H`
