@@ -14,7 +14,9 @@ layout:
 
 # Working with bitmap masks
 
-Editing masks is easy with handy on-canvas controls that appear when you select a mask layer. If the controls are not visible, make sure the Arrange tool is selected.
+Bitmap masks are pixel-based layer masks used to control the visibility of different areas in an image. When created, the mask is fully white, making everything visible. Painting on the mask with black will hide parts of the image, while grey shades provide partial transparency. Painting with white reveals hidden areas again.
+
+You can easily edit these masks using on-canvas controls, which appear when a mask layer is selected. If the controls are not visible, ensure the Arrange tool is active.
 
 ## Edit a bitmap mask
 
@@ -26,7 +28,7 @@ Editing masks is easy with handy on-canvas controls that appear when you select 
    * _Adjust the mask softness:_ Click Mask Settings and drag the Feather slider to control how much to soften the edges of the mask.
    * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
 
-## **Refine a bitmap mask**
+## Refine a bitmap mask
 
 Once you've made some basic adjustments to your mask, you can further refine it using the Refine Mask tool.
 
@@ -43,14 +45,11 @@ Once you've made some basic adjustments to your mask, you can further refine it 
    * _Smart Refine:_ Use a machine learning-based algorithm to intelligently detect intricate details like hair or fur at the edges of the mask and automatically refine the outline.
    * _Invert Mask:_ Inverting a mask makes the opaque areas of the masked image transparent and vice versa.
    * _Add or subtract areas from the mask:_\
-     \
      Use the Refine Edge Brush to add or subtract only at the edges of the mask.\
-     \
      Use the Quick Selection Brush to add or subtract from the mask as if using the Quick Selection tool.\
-     \
      Use the Basic Brush to add or subtract from the mask as if painting with a basic brush.
 
-## **Edit a mask using the Paint tool**
+## Edit a mask using the Paint tool
 
 When you place a layer mask over an image, it is completely white by default. The completely white parts of a mask are 100% transparent, meaning everything below the white areas is visible. If you paint over the mask with pure black, the areas you paint over are completely hidden. Pure white is 100% transparent, pure black is 0% transparent, and shades of grey range from 1% to 99% transparency — the darkest grey is 1% transparent, 50% grey is 50% transparent, and off-white is 99% transparent. \
 \
@@ -58,7 +57,7 @@ This lets you edit masks — hide or reveal areas — by simply painting on the 
 
 :bulb: **Tip:** When editing masks using the Paint tool, you can use the keyboard shortcut `D` to reset the primary and secondary colors in Pixelmator Pro to black and white and `X` to switch between the primary and secondary colors.
 
-## **Replace a bitmap mask**
+## Replace a bitmap mask
 
 You can change the content of a bitmap layer mask by replacing it with any other image on your Mac. You can also replace vector masks with other shapes from your Shapes library.
 

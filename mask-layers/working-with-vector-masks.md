@@ -39,15 +39,11 @@ Editing vector masks is easy with handy on-canvas controls that appear when you 
 
 ## **Refine a vector mask**
 
-Vector masks are also fully editable, allowing you to adjust each individual point just like you would when editing regular shapes, and offer resolution-independent scaling, making them perfect for designs that need to maintain high quality at any size, like graphics created for web or print.
+Vector masks are fully editable and allow you to adjust individual points just like editing regular shapes. They also offer resolution-independent scaling, making them ideal for high-quality designs at any size, such as web or print graphics.
 
+See the section [Draw shapes and vector graphics](../draw-shapes-and-vector-graphics/) to learn more about editing shapes and managing your shapes library.
 
-
-To refine a vector mask, you can make it editable and adjust its individual points, or use different blend modes just like when editing shapes.
-
-See the section [Draw shapes and vector graphics](../draw-shapes-and-vector-graphics/) to learn more about editing shapes and managing your shapes library.\
-\
-You can refine vector masks using the Refine Mask tool just like you [refine bitmap masks](working-with-bitmap-masks.md#refine-a-bitmap-mask), but this process converts them to bitmap as well.
+:blue\_book: **Note:** You can refine vector masks using the Refine Mask tool just like you [refine bitmap masks](working-with-bitmap-masks.md#refine-a-bitmap-mask), but this process converts them to bitmap.
 
 ## **Replace a vector mask**
 
