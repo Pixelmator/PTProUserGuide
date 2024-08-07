@@ -14,9 +14,19 @@ layout:
 
 # Working with vector masks
 
-Editing vector masks is easy with handy on-canvas controls that appear when you select a mask layer. If the controls are not visible, make sure the Arrange tool is selected.
+Vector masks in Pixelmator Pro allow you to mask layers into specific shapes. They instantly hide or reveal parts of layers based on the shape boundaries, making the areas inside visible and the outside hidden. To apply a vector mask, you can select a shape from the Mask menu, create one with Pen tools, or choose from various shapes in the Shape browser.
+
+## Add a vector mask
+
+* With the Arrange tool selected, double-click an image layer.
+* With the Arrange tool selected, double-click a selection.
+* Choose **Format > Mask > Mask with Shape** from the Format menu at the top of your screen.
+* In the Layers sidebar, `Control ⌃` – click a layer, choose Mask with Shape, then select an option.
+* `Command ⌘`-drag any shape from the Layers sidebar or directly from any Shape browser in Pixelmator Pro to mask a layer with a shape.
 
 ## Edit a vector mask
+
+Editing vector masks is easy with handy on-canvas controls that appear when you select a mask layer. If the controls are not visible, make sure the Arrange tool is selected.
 
 1. Select the vector mask you want to edit.
 2. Do any of the following:&#x20;
@@ -28,6 +38,10 @@ Editing vector masks is easy with handy on-canvas controls that appear when you 
    * _Invert the mask:_ Click Invert Mask to make transparent areas opaque and vice versa. You can also press `Command ⌘` + `I` on your keyboard to invert a mask.
 
 ## **Refine a vector mask**
+
+Vector masks are also fully editable, allowing you to adjust each individual point just like you would when editing regular shapes, and offer resolution-independent scaling, making them perfect for designs that need to maintain high quality at any size, like graphics created for web or print.
+
+
 
 To refine a vector mask, you can make it editable and adjust its individual points, or use different blend modes just like when editing shapes.
 

@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Working with layers
+# Work with layers
 
 Pixelmator Pro is a layer-based image editor. This means that instead of simply editing one image at a time, you can add and combine multiple elements of different kinds — images, shapes, videos, masks, text, color adjustments, or effect layers — to create your compositions and designs.
 

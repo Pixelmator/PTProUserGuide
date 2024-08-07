@@ -14,7 +14,7 @@ layout:
 
 # Arrange and combine shapes
 
-Shape layers are essentially just like other layers (images and text), so to move or resize them, you can simply use the [Arrange tool](../work-with-layers/use-the-arrange-tool.md).
+Shape layers are essentially just like other layers (images and text), so to move or resize them, you can simply use the [Arrange tool](../working-with-layers/use-the-arrange-tool.md).
 
 Whenever you draw a shape in your image, Pixelmator Pro, by default, adds each shape on its separate layer. However, there are several options for combining shapes, so instead of being on its own layer, one shape can be united, subtracted, intersected with, or excluded from another. When shapes are combined, multiple shape layers become a single shape with multiple components.
 

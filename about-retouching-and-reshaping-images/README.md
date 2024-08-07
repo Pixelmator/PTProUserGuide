@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# About retouching and reshaping images
+# Retouching and reshape layers
 
 \
 The retouching tools are used to make certain edits (like removing objects, brightening, or saturating) to specific parts of an image. Each of these tools is brush-based, meaning you brush or paint over the areas you’d like to retouch. For example, you can easily remove unwanted objects, seamlessly clone parts of your photos, lighten or darken, saturate, desaturate, sharpen, soften, and smudge certain areas — all by simply painting over them. The reshaping tools are also brush-based and they are used to manipulate the shape of areas in an image by warping, bumping, pinching, and twirling.

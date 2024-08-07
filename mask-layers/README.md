@@ -12,13 +12,15 @@ layout:
     visible: true
 ---
 
-# Mask layers
+# Add masks
 
 A layer mask is like an additional sheet you can place over a layer or layer group to hide parts of it. Layer masks are nondestructive because even though the parts they hide are no longer shown, the original layer is fully preserved, and if you turn off or remove the mask, the full layer will reappear. You can also go back to make adjustments to layer masks after adding them.
 
 The quickest way to add a mask is by choosing an option from the special Mask <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649061178000.png" alt="" data-size="line"> menu at the top of the layers sidebar. Alternatively, you can do any of the following:
 
 ## Add a bitmap layer mask
+
+
 
 * With the Arrange tool selected, double-click an image layer while holding `Option ⌥.`
 * With the Arrange tool selected, double-click a selection while holding `Shift⇧`.

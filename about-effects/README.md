@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# About effects
+# Add effects
 
 Using effects, you can completely change the look of images, shapes, and text in a range of different ways. All Pixelmator Pro effects are available from the Effects Browser where you can search for the effects by name or browse the categories that place similar or related effects together, such as Blur, Tile, and Stylize. The Blur category, for example, includes the Gaussian, Box, Disc, Motion, Zoom, Spin, Bokeh, Tilt-Shift, and Focus blur effects.
 

@@ -68,7 +68,7 @@ You can `Control ⌃` – click the toolbar and choose Customize Toolbar to add,
 2. Drag the zoom slider to zoom in or out of your image. Double-click the zoom slider to fill the entire work area with the image. See [Zoom in and out of an image ](zoom-in-and-out-of-an-image.md)to learn more about zooming in Pixelmator Pro.
 3. Click the title at the top of the Pixelmator Pro document window to give your document a new name, change its location, or add tags.
 4. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line"> to open the Pixelmator Pro color picker or drag from the color well onto the canvas to fill a layer, text, shape, or selection with the currently selected color.
-5. Click Remove Background to clear the background of a photo and replace it with something else or save the image with a transparent background. See [Remove layer background](../work-with-layers/remove-image-background.md) to learn more.
+5. Click Remove Background to clear the background of a photo and replace it with something else or save the image with a transparent background. See [Remove layer background](../remove-image-background.md) to learn more.
 6. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110188000.png" alt="" data-size="line"> to view document info (document type, size, and other properties), add a description or keywords.
 7. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110328000.png" alt="" data-size="line"> to rotate the image or video to the left. Press and hold the `Option ⌥` key to rotate the image to the right.
 8. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605162881000.png" alt="" data-size="line"> to access various document properties, including the image and canvas sizes, Color Depth, and Color Profile. Here, you’ll also find tools such as [Super Resolution](../.gitbook/assets/1006) and [Trim](../.gitbook/assets/1021).
@@ -123,7 +123,7 @@ You can also customize where the blend mode and opacity controls will appear in 
 
 You can search your document for specific layers by typing their name into the search field at the bottom of the Layers sidebar. The filter search can also help sort layers based on their type (images, shapes, text, RAW images, groups, masks, color adjustments, effects, videos) or tags.
 
-See [about layers](../work-with-layers/) to learn more about managing layers.
+See [about layers](../working-with-layers/) to learn more about managing layers.
 
 #### Show or hide the Layers sidebar
 

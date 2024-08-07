@@ -35,4 +35,4 @@ Do any of the following:
 
 ***
 
-:bulb: **Tip:** If you'd like to apply color adjustments or effects layer to only one layer below it, you can do that using a [clipping mask](../add-masks/use-clipping-masks.md). Alternatively, you can press and hold `Option ⌥` when clicking <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604676890000.png" alt="" data-size="line"> at the top of the Color Adjustments or Effects pane to create a new color adjustments or effects layer as a clipping mask.
+:bulb: **Tip:** If you'd like to apply color adjustments or effects layer to only one layer below it, you can do that using a [clipping mask](../mask-layers/use-clipping-masks.md). Alternatively, you can press and hold `Option ⌥` when clicking <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604676890000.png" alt="" data-size="line"> at the top of the Color Adjustments or Effects pane to create a new color adjustments or effects layer as a clipping mask.
