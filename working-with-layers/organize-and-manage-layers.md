@@ -18,6 +18,8 @@ When working with more complex compositions that have many layers, you can use v
 
 ## Manage individual layers
 
+Managing layers in Pixelmator Pro lets you keep your documents neat and organized. You can rename layers to give them more recognizable names, merge layers to simplify complex designs, delete layers you no longer need, and lock or unlock layers to prevent accidental changes.
+
 ### Rename a layer
 
 Renaming groups and layers in the Layers list helps organize your document.
@@ -72,9 +74,9 @@ To lock or unlock a layer or layer group, do one of the following:
 
 ## Manage layer groups
 
-<details>
+You can group layers to apply effects and adjustments to all of them at a time, move or resize layers together, and create structure in more complex projects. Additionally, you can expand or collapse layer groups for a cleaner workspace, and hide or show layer groups without removing them from your composition.
 
-<summary>Group or ungroup layers</summary>
+### Group or ungroup layers
 
 Grouping layers into layer groups lets you make your compositions more organized. It also lets you apply effects and adjustments to a number of layers together without having to merge them. When you move or resize a layer group, each layer is moved and resized together, in proportion. You can also group layers within layer groups to create nested groups.&#x20;
 
@@ -86,68 +88,48 @@ To group multiple layers into a layer group or to ungroup them:
    * In the Layers list, `Control ⌃` – click the layers you’d like to group or ungroup and choose Group or Ungroup.
    * Press `Command ⌘` + `G` on your keyboard to group, or `Shift ⇧` + `Command ⌘` + `G` to ungroup layers.
 
-</details>
-
-<details>
-
-<summary>Add layers to a layer group</summary>
+### Add layers to a layer group
 
 Do one of the following:
 
-* [Select a layer](https://www.pixelmator.com/support/guide/pixelmator-pro/662) inside an expanded layer group in the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) (choose **View > Show Layers** if the Layers sidebar isn’t visible) and choose one of the options from the Insert menu at the top of your screen.
+* Select a layer inside an expanded layer group in the Layers sidebar (choose **View > Show Layers** if the Layers sidebar isn’t visible) and choose one of the options from the Insert menu at the top of your screen.
 * Drag a layer to the layer group in the Layers sidebar.
 * Drag a layer group onto another layer group. The group, together with all its layers, will be nested inside the layer group.
 
-</details>
-
-<details>
-
-<summary>Expand or collapse a layer group</summary>
+### Expand or collapse a layer group
 
 To expand or collapse a single-layer group:
 
-* In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click the disclosure triangle next to the layer group's name.
+* In the Layers sidebar, click the disclosure triangle next to the layer group's name.
 
 To expand or collapse a layer group and all the groups nested within it:
 
 * In the Layers sidebar, `Option ⌥` – click the disclosure triangle next to the layer group's name.
 
-</details>
+### Hide or show a layer or layer group
 
-<details>
+In the Layers list, you can disable layers and groups to make them invisible in the canvas without removing them from your composition. For example, if a large image layer obstructs the layers below, you can temporarily hide it. If you hide a group, you also hide all layers and groups nested in it. However, hidden layers and groups can still be deleted, renamed, and rearranged in the Layers sidebar.
 
-<summary>Hide or show a layer or layer group</summary>
-
-In the Layers list, you can disable layers and groups to make them invisible in the canvas without removing them from your composition. For example, if a large image layer obstructs the layers below, you can temporarily hide it. If you hide a group, you also hide all layers and groups nested in it. However, hidden layers and groups can still be deleted, renamed, and rearranged in the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-
-1. [Select the layers](https://www.pixelmator.com/support/guide/pixelmator-pro/662) you'd like to hide or reveal.
+1. Select the layers you'd like to hide or reveal.
 2. Do one of the following:
    * Choose **Arrange > Hide** or **Arrange > Show** from the Arrange menu at the top of your screen. 
    * Press `Option ⌥` + `Command ⌘` `+` , on your keyboard.
    * In the Layers sidebar, choose **View > Show Layers** if the list view isn’t visible, move the mouse pointer over the layer or layer group you’d like to hide or show and select or deselect the visibility checkbox. 
    * In the Layers sidebar, `Control ⌃` – click a layer or group and choose Hide or Show.
 
-_Note:_ Hidden layers and groups are not included when your image is exported.
-
-
-
-</details>
+:blue\_book: **Note:** Hidden layers and groups are not included when your image is exported.
 
 ## Organize and sort layers
 
-<details>
+Organizing and sorting layers in Pixelmator Pro helps you navigate multi-layered documents more easily. You can add color tags to layers for easy identification and use layer filtering options to quickly view specific types of layers or find layers by name or color tag.
 
-<summary>Organize layers using color tags</summary>
+### Organize layers using color tags
 
 You can add different color tags to layers to better organize multi-layered documents.
 
 * To add a color tag, `Control ⌃` – click a layer and in the Tags section, pick a color.
 
-</details>
-
-<details>
-
-<summary>Filter layers based on the layer type, color tag, or name</summary>
+### Filter layers based on the layer type, color tag, or name
 
 You can use the layer filtering option to quickly view all group layers, masks, RAW and image layers, color adjustment and effect layers, shapes, or text in a document, or filter layers by their name or the assigned color tags.
 
@@ -157,5 +139,3 @@ To filter layers do one of the following:
 * Click Filter <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586516424000.png" alt="" data-size="line"> at the bottom of the Layers sidebar and pick the desired option.
 
 To reset all filters, click Clear All.
-
-</details>
