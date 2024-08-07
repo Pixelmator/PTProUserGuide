@@ -18,15 +18,13 @@ Blend modes determine how layers mix or combine with any visible layers below th
 
 You can choose blend modes in a few different places in Pixelmator Pro. One of the most basic uses is changing the blend mode of an entire layer. By default, layers have the Normal blend mode and 100% Opacity. This means that, if an entirely blue layer is above an entirely red layer of identical shape and size, all you see is the blue layer. If you change the blend mode, the blue object will be combined with the red object according to the blend mode.
 
-You can also change the blend mode of certain tools, like the [Color Fill](https://www.pixelmator.com/support/guide/pixelmator-pro/1039) tool, so when you fill an area, the color you fill is blended with the colors of the layer you’re filling.
+You can also change the blend mode of certain tools, like the [Color Fill tool](../paint-and-erase/fill-specific-areas-of-an-image-with-color.md), so when you fill an area, the color you fill is blended with the colors of the layer you’re filling.
 
-***
-
-## Change the blend mode of a layer
+## Change a blend mode
 
 1. Select the layer or layers you would like to edit.
 2. Choose the Style tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
    * Press the `S` key on your keyboard.
 3. Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — in the Tool Options pane and choose a blend mode.

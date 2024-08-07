@@ -60,7 +60,6 @@
   * [Open and edit images with Portrait Masks](mask-layers/open-and-edit-images-with-portrait-masks.md)
   * [Use clipping masks](mask-layers/use-clipping-masks.md)
 * [Customize layers using styles](customize-layers-using-styles/README.md)
-  * [Working with layer styles](customize-layers-using-styles/working-with-layer-styles.md)
   * [Adjust the opacity of a layer](customize-layers-using-styles/adjust-the-opacity-of-a-layer.md)
   * [Change the blend mode of a layer](customize-layers-using-styles/change-the-blend-mode-of-a-layer.md)
   * [Add an outline around a layer](customize-layers-using-styles/add-an-outline-around-a-layer.md)

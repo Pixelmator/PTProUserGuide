@@ -31,7 +31,7 @@ The Fill layer style fills the area of your selected layer with a color or gradi
    * _Color:_ Click the color well to choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
    * _Opacity:_ Move the slider to adjust the transparency of the fill. You can also enter a value between 0% and 100%.  
    * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a different blend mode.
-5. If you have applied multiple Fill layer styles to a single layer and you’d like to [rearrange](working-with-layer-styles.md#rearrange-the-order-of-layer-styles) them, simply drag the style up or down the list of styles.
+5. If you have applied multiple Fill layer styles to a single layer and you’d like to [rearrange](broken-reference) them, simply drag the style up or down the list of styles.
 
 To reset all styles applied to an image, click Reset Style at the bottom of the Tool Options pane.
 
