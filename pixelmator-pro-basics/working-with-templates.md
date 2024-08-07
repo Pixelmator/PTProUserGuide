@@ -40,9 +40,7 @@ To replace a placeholder image, do any of the following:
 
 The new images will be inserted with the help of Smart Replace — a machine learning-powered feature that combines the power of three other ML features: Remove Background, Super Resolution, and Auto Fill.
 
-{% hint style="info" %}
-If you're replacing images with multilayered documents and would like to move the entire group, make sure automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the Tool Options pane select the Auto Select option and choose Group from the adjacent pop-up menu.
-{% endhint %}
+:bulb: **Tip:** If you're replacing images with multilayered documents and would like to move the entire group, make sure automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the Tool Options pane select the Auto Select option and choose Group from the adjacent pop-up menu.
 
 When replacing placeholders with images from Files, you can additionally choose a preferred fill option — Original Size, Auto Fill, Scale to Fill, Scale to Fit, or Stretch.
 
@@ -108,4 +106,4 @@ After you've finished designing a template, you can save it or export it.
 * By default, [saving a template](https://www.pixelmator.com/support/guide/pixelmator-pro/637) creates a PXD document in your chosen location, giving you the option to continue editing the template whenever you want. You can also choose to save your template to other image formats such as JPEG, PNG, HEIC, TIFF, and WebP while preserving changes.
 * [Exporting a template](https://www.pixelmator.com/support/guide/pixelmator-pro/798) lets you share your created designs on the web, send them to people who don't own Pixelmator Pro, or print them out.
 
-When exporting templates, pay attention to the export method you choose. Quick Export is best for producing images optimized for the web. Designs exported this way will be more lightweight and load quicker on the web but may also lose some level of detail. To export high-quality designs, use the regular Export option in the File menu instead.
+:blue\_book: **Note:** When exporting templates, pay attention to the export method you choose. Quick Export is best for producing images optimized for the web. Designs exported this way will be more lightweight and load quicker on the web but may also lose some level of detail. To export high-quality designs, use the regular Export option in the File menu instead.

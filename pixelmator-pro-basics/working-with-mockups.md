@@ -42,7 +42,7 @@ Replace the placeholder image by doing one of the following:
 
 Pixelmator Pro will use the machine-learning-powered Smart Replace feature to insert your designs. Smart Replace combines the power of three other ML features — Remove Background, Super Resolution, Auto Fill — and makes sure your designs fit perfectly into mockups.
 
-_Note:_ If you're using multilayered documents and would like to adjust the entire group, make sure the automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) select the Auto Select option and choose Group from the adjacent pop-up menu.
+:blue\_book: **Note:** If you're using multilayered documents and would like to adjust the entire group, make sure the automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) select the Auto Select option and choose Group from the adjacent pop-up menu.
 
 When using images or documents from Files, you can additionally choose a preferred fill option — Original Size, Auto Fill, Scale to Fill, Scale to Fit, or Stretch.
 
@@ -61,9 +61,10 @@ To change an alternative element in a mockup, do any of the following:
 
 To give mockups a look and feel that compliments your design, you can choose from a set of ready-made color schemes using Document Colors, or change the colors of individual design elements manually.
 
-1.  Click Document Colors <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663671997000.png" alt="" data-size="line"> to learn how to add it.
+1. Click Document Colors <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663671997000.png" alt="" data-size="line"> to learn how to add it.
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663834627000.jpeg)
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663834627000.jpeg)
+
 2. If you want, you can further customize the color palette:
    * _Change color in a palette_ — Click any of the color swatches to open the color picker. You can also pick a color from the image using the eyedropper tool.
    * _Add or remove colors_ — Control-click a color swatch and choose Add Color or Remove Color.
@@ -80,6 +81,4 @@ After you've finished designing a mockup, you can save it as an editable documen
 * By default, [saving a mockup](https://www.pixelmator.com/support/guide/pixelmator-pro/637) creates a PXD document in your chosen location, giving you the option to continue editing the mockup whenever you want. You can also choose to save your mockup to other image formats such as JPEG, PNG, HEIC, TIFF, and WebP while preserving changes.
 * [Exporting a mockup](https://www.pixelmator.com/support/guide/pixelmator-pro/798) lets you share your created designs on the web, send them to people who don't own Pixelmator Pro, or print them out.
 
-{% hint style="warning" %}
-When exporting mockups, pay attention to the export method you choose. Quick Export is best for producing images optimized for the web. Designs exported this way will be more lightweight and load quicker on the web but may also lose some level of detail. To export high-quality designs, use the regular Export option in the File menu instead.
-{% endhint %}
+:blue\_book: **Note:** When exporting mockups, pay attention to the export method you choose. Quick Export is best for producing images optimized for the web. Designs exported this way will be more lightweight and load quicker on the web but may also lose some level of detail. To export high-quality designs, use the regular Export option in the File menu instead.

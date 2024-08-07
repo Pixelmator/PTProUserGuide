@@ -41,7 +41,7 @@ To save space on your device, you can regularly delete sidecar files manually or
    * Select _For Images Opened from Finder_ to save images back to their original folder in Finder, keeping the original file format, and preserving all layers and edits. Deselect _For Images Opened from Finder_ to overwrite original images when saving.
    * Select _For Images Opened from Photos_ to save photos opened from your photo library or use the Photos extension back to the photo library while preserving all layers and edits. Deselect _For Images Opened from Photos_ to overwrite original photos in the photo library when saving.
 
-_Note:_ To continue editing an image saved to Photos, open it again using the Photo browser or the Pixelmator Pro extension in Photos. Dragging the image from Photos to Pixelmator Pro directly, or choosing **Edit With > Pixelmator Pro** from the image shortcut menu in Photos will open a flattened version of the image in Pixelmator Pro.
+:blue\_book: **Note:** To continue editing an image saved to Photos, open it again using the Photo browser or the Pixelmator Pro extension in Photos. Dragging the image from Photos to Pixelmator Pro directly, or choosing **Edit With > Pixelmator Pro** from the image shortcut menu in Photos will open a flattened version of the image in Pixelmator Pro.
 
 ## Choose the sidecar file location
 
@@ -56,17 +56,13 @@ To choose where the Pixelmator Pro sidecar files will be saved on your Mac:
 
 In the Editing settings, you can keep track of the number of Pixelmator Pro sidecar files on your Mac and just how much space they take up on your Mac. If you'd like to manage your sidecar files, you can click Manage Files to open the dedicated Sidecar folder and find all the sidecar files there.
 
-Alternatively, you can choose **File > Sidecar > Reveal Sidecar File** to reveal a sidecar file of a specific image you've got opened.
+Alternatively, you can choose **File > Sidecar > Reveal Sidecar File** to reveal a sidecar file of a specific image you've opened.
 
-{% hint style="info" %}
-Sidecar files are not managed for you automatically. For instance, if you manually unlink the sidecar file from an edited image or delete the edited image from your Mac completely, its sidecar file will not be deleted.
-{% endhint %}
+:blue\_book: **Note:** Sidecar files are not managed for you automatically. For instance, if you manually unlink the sidecar file from an edited image or delete the edited image from your Mac completely, its sidecar file will not be deleted.
 
 ### To delete a sidecar file, do any of the following:
 
 * Choose **File > Sidecar > Reveal Sidecar File** and delete the sidecar file from your Mac.
 * Choose **File > Sidecar > Delete Sidecar File**.
 
-{% hint style="info" %}
-If you delete the sidecar file without deleting the linked image, all edits will be merged the next time you open the image. If, however, you had Auto Save and Versions option turned on, you can still revert the image to the original using **File > Revert To > Browse All Versions**.
-{% endhint %}
+:blue\_book: **Note:** If you delete the sidecar file without deleting the linked image, all edits will be merged the next time you open the image. If, however, you had Auto Save and Versions option turned on, you can still revert the image to the original using **File > Revert To > Browse All Versions**.

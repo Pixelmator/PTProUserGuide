@@ -1,31 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Close an image
 
-**Pixelmator Pro**
+Do one of the following:
 
-Overview Templates Mockups Buy Free Trial What's New Tutorials FAQ Tech Specs Quick Start Guide [User Guide](broken-reference)
-
-**Photomator**
-
-Overview Buy What's New User Guide
-
-**Pixelmator for iOS**
-
-Overview Buy Tech Specs What's New [User Guide](https://help.pixelmator.com/ios/)
-
-**Pixelmator Team**
-
-About Us Blog Support
-
-**Press Kits**
-
-[Pixelmator Pro ](https://download-cdn.pixelmator.com/press/Pixelmator-Pro-3.6-Archipelago-Press-Kit.zip) [Photomator ](https://download-cdn.pixelmator.com/press/Photomator-3.3-Press-Kit.zip) [Pixelmator for iOS](https://download-cdn.pixelmator.com/press/Pixelmator-2.8-for-iOS-Press-Kit.zip)
-
-**Community**
-
-Pixelmator Community [Youtube](https://www.youtube.com/channel/UCg90iQHNzGl3SX7VRgAdkqw) [Twitter](https://twitter.com/pixelmator/) [Mastodon](https://mastodon.social/@pixelmator) [Instagram](https://www.instagram.com/pixelmator/) [Facebook](https://www.facebook.com/pixelmator/)
-
-**Subscribe to Our Newsletter**
-
-Be the first to know about exciting news and updates from the Pixelmator Team.
-
-Pixelmator Team, Copyright © 2024.
+* _Close an image but keep Pixelmator Pro open:_ Click the red close button in the top-left corner of the Pixelmator Pro window, or press Command ⌘ + W on your keyboard.
+* _Close the image and quit Pixelmator Pro:_ Choose **Pixelmator Pro > Quit Pixelmator Pro** (from the Pixelmator Pro menu at the top of your screen). All of your changes are saved.

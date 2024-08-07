@@ -1,8 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Open an image
 
 You can open images in a variety of different image formats saved on your Mac, in [iCloud Drive](https://about/support/guide/pixelmator-pro/#glossary), on connected servers, and third-party storage providers. The following file formats are supported in Pixelmator Pro: PXD, JPEG, PNG, TIFF, HEIC, PSD, SVG, PDF, GIF, BMP, TGA, WebP, JPEG-2000, macOS-supported RAW formats.
 
-When you open an image in one of the above formats, it is automatically converted to PXD — the [Pixelmator Pro file format](.gitbook/assets/639) — so when you save the image, any additional layers and advanced formatting you add are not lost and remain editable. Once you finish editing and would like to share an image with someone else or upload it online, you can save it as a JPEG, PNG, TIFF, WebP, or HEIC image or [export](.gitbook/assets/798) it.
+When you open an image in one of the above formats, it is automatically converted to PXD — the [Pixelmator Pro file format](create-open-and-save-images/about-the-pixelmator-pro-file-format.md) — so when you save the image, any additional layers and advanced formatting you add are not lost and remain editable. Once you finish editing and would like to share an image with someone else or upload it online, you can save it as a JPEG, PNG, TIFF, WebP, or HEIC image or [export](export-and-share-images/) it.
 
 Alternatively, instead of importing images as PXD documents, you can choose to open them in their original file format — JPEG, PNG, TIFF, WebP, or HEIC — and save changes directly back to the same file format using sidecar files. This workflow lets you share the edited images directly, without having to export them first. You can learn more about different editing workflows in Pixelmator Pro and change how it opens images in the article about Editing settings.
 
@@ -10,14 +24,14 @@ Alternatively, instead of importing images as PXD documents, you can choose to o
 
 ### Open an existing document
 
-* _Open an image or a document on your Mac:_ Launch Pixelmator Pro and in the welcome screen, click "Browse images on your Mac". To open images directly from their original locations on your Mac, drag the images or documents onto the Pixelmator Pro icon in the Dock. You can also Control ⌃-click the file in its folder and choose **Open With > Pixelmator Pro**.
+* _Open an image or a document on your Mac:_ Launch Pixelmator Pro and in the welcome screen, click "Browse images on your Mac". To open images directly from their original locations on your Mac, drag the images or documents onto the Pixelmator Pro icon in the Dock. You can also `Control ⌃`-click the file in its folder and choose **Open With > Pixelmator Pro**.
 * _Open an image you recently worked on:_ Launch Pixelmator Pro and in the welcome screen, choose from the recently opened images on the right. You can also choose **File > Open Recent** (from the File menu at the top of your screen). To change the number of recent documents displayed, go to macOS **System Preferences > General**, and choose a number from the Recent items pop-up menu.
 * _Open an image from macOS Photos:_ Launch Pixelmator Pro and in the welcome screen, choose "Open an image from Photos". You can also choose **File > New from Photos** to open the Photos browser. In the sidebar on the left, browse the Photos albums to locate an image you'd like to import. Select and click OK, or simply double-click the image thumbnail to open the image.
 *   _Open an image stored somewhere else than your Mac (such as iCloud Drive):_ Launch Pixelmator Pro and in the welcome screen, click "Browse images on your Mac". Click the pop-up menu at the top of the Open dialog (shown below) that appears, then choose the location where the image is saved. Locate and double-click a file to open it.
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651483867000.jpeg)
 
-**Tip:** You can also open images by simply dragging them from a website on Safari or a folder in Finder onto the Pixelmator Pro icon in the Dock.
+:bulb: **Tip:** You can also open images by simply dragging them from a website on Safari or a folder in Finder onto the Pixelmator Pro icon in the Dock.
 
 
 
