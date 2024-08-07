@@ -30,7 +30,7 @@ Do one of the following:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655726035000.jpeg)
 
-New empty layers are completely transparent and have no content yet. This means they don't show up on the canvas and can only be selected from the Layers sidebar. If you don't see the Layers sidebar, choose **View > Show Layers** (from the View menu at the top of your screen).
+New empty layers are completely transparent and have no content yet. This means they don't show up on the canvas and can only be selected from the Layers sidebar. If you don't see the Layers sidebar, choose **View > Show Layers** from the View menu at the top of your screen.
 
 ## Add image, shape, text, effect, and color adjustment layers
 
@@ -49,9 +49,9 @@ New empty layers are completely transparent and have no content yet. This means 
 
 ## Create a new layer from a selection
 
-1. Make a [selection](https://www.pixelmator.com/support/guide/pixelmator-pro/764).
+1. Make a selection.
 2. Do one of the following:
-   * Choose **Edit > Copy**, then **Edit > Paste** (from the Edit menu at the top of your screen).
+   * Choose **Edit > Copy**, then **Edit > Paste** from the Edit menu at the top of your screen.
    * `Control ⌃` – click the selection and choose Copy and Paste as Layer.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655725499000.jpeg)
@@ -60,13 +60,11 @@ Once you copy the selection, you can deselect it by pressing Command ⌘ + D on 
 
 ## Capture an image with iPhone or iPad camera to add as a layer
 
-The Continuity Camera lets you insert the photos you capture on your iPhone or iPad directly to Pixelmator Pro.
+The Continuity Camera lets you insert the photos you capture on your iPhone or iPad directly into Pixelmator Pro.
 
 To insert a photo:
 
-1. Choose **Insert > Import from iPhone or iPad** (from the Insert menu at the top of your screen), and click Take Photo.
+1. Choose **Insert > Import from iPhone or iPad** from the Insert menu at the top of your screen, and click Take Photo.
 2. Use your device's camera to take a photo and tap Use Photo. To retake a photo, tap Retake.
 
-{% hint style="info" %}
-If the Take Photo option is grayed out, make sure you’re signed in to your iPhone, iPad, and Mac with the same Apple ID. Also, check if both your devices have Bluetooth and network connections turned on.
-{% endhint %}
+:blue\_book: **Note:** If the Take Photo option is grayed out, make sure you’re signed in to your iPhone, iPad, and Mac with the same Apple ID. Also, check if both your devices have Bluetooth and network connections turned on.

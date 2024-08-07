@@ -28,9 +28,7 @@ When you open a video as a new document or insert it as a layer, you can play, p
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1670328236000.jpeg)
 
-{% hint style="info" %}
-You can also press the Space key to start or stop playing all videos in a document.
-{% endhint %}
+:bulb: **Tip:** You can also press the Space key to start or stop playing all videos in a document.
 
 To only play the video layers that are selected in the Layers sidebar, force-click the Play button and choose Play Selected or press `Option ⌥` + `Space` on your keyboard.
 
@@ -79,9 +77,7 @@ To delay the start of a video:
 2. Click More on the on-canvas controls, and expand the Advanced Settings.
 3. Drag the Start Playback At slider to set when the video should start playing or enter a specific time in the dedicated field.
 
-{% hint style="info" %}
-To play one video right after the other, set the delay time to the exact duration of the video you'd like to play first.
-{% endhint %}
+:bulb: **Tip:** To play one video right after the other, set the delay time to the exact duration of the video you'd like to play first.
 
 ## Set video start and end behavior
 
