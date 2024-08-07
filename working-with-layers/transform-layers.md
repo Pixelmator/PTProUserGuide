@@ -26,9 +26,7 @@ The Transform tool in Pixelmator Pro lets you easily transform images, text, sha
    2. Choose **Edit > Transform** from the Edit menu at the top of your screen.
    3. Press `Command ⌘` + `T` on your keyboard.&#x20;
 
-<details>
-
-<summary>Freely transform a layer</summary>
+### Freely transform a layer
 
 1. At the top of the Transform tool options, select the Resize mode.
 2. To choose whether to resize a layer freely or proportionally select or deselect "Constrain proportions" in the Tool Options pane. \
@@ -40,21 +38,13 @@ The Transform tool in Pixelmator Pro lets you easily transform images, text, sha
 
 You can use different units, such as centimeters, millimeters, inches, pixels, or percent. `Control ⌃` – click the value field and choose a unit from the shortcut menu that appears.
 
-</details>
-
-<details>
-
-<summary>Skew a layer vertically or horizontally</summary>
+### Skew a layer vertically or horizontally
 
 1. At the top of the Transform tool options, select the Skew mode or press and hold `Shift ⇧` + `Command ⌘`on your keyboard to temporarily activate the Skew mode.
 2. Drag the midpoint handles to slant two adjacent layer corners at the same time, leaving the other two corners untouched. Drag a corner handle to transform the corner leaving the other three corners locked in place.
 3. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-</details>
-
-<details>
-
-<summary>Stretch a layer vertically or horizontally</summary>
+## Stretch vertically or horizontally
 
 1. In the Tool Options pane, select the Distort mode or press and hold the `Command ⌘` key on your keyboard to temporarily activate the Distort mode.
 2. Do any of the following:
@@ -62,11 +52,7 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
    * _Stretch a layer proportionally:_ Press and hold the `Shift ⇧` key while dragging a corner handle in the canvas.
 3. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-</details>
-
-<details>
-
-<summary>Transform layer perspective</summary>
+### Transform layer perspective
 
 1. Select a layer to transform.
 2. Choose **Edit > Transform** from the Edit menu at the top of your screen or press `Command ⌘` + `T` on your keyboard.&#x20;
@@ -74,6 +60,4 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
 4. Drag the corner handles to change the perspective vertically or horizontally. Dragging handles at the sides of the layer slants it vertically or horizontally.
 5. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform](https://www.pixelmator.com/support/guide/pixelmator-pro/1121) effect.
-
-</details>
+:exclamation:**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform effect](../about-effects/apply-other-effects.md#perspective-transform-effect).

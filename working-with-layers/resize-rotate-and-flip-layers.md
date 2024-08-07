@@ -14,14 +14,14 @@ layout:
 
 # Resize, rotate, and flip layers
 
-You can use the Arrange tool to change the size of image or shape layers in your image, either freely or proportionally, or set specific dimensions in a number of different units. You can also rotate or flip image, shape, and text layers.
+You can use the Arrange tool to change the size of the image or shape layers in your image, either freely or proportionally, or set specific dimensions in a number of different units. You can also rotate or flip image, shape, and text layers.
 
 ## Resize a layer
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png) in the Tools sidebar.
+   * Click Arrange ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png) in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
-   * Press the V key on your keyboard.
+   * Press the `V` key on your keyboard.
 2. Select a layer or layer group.
 3. To choose whether to resize a layer freely or proportionally, select or deselect "Constrain proportions" in the Tool Options pane.
 4. Do one of the following:
@@ -32,22 +32,18 @@ You can use the Arrange tool to change the size of image or shape layers in your
 
 To change the units used for entering layer width and height, `Control ⌃` – click the number field choose an option.
 
-{% hint style="info" %}
-If a layer happens to be larger than the canvas, the layer handles may show up beyond the edges of the canvas. To resize such layers, you'll need to [zoom out](../pixelmator-pro-basics/zoom-in-and-out-of-an-image.md) of the image until you see the layer handles.
-{% endhint %}
+:blue\_book: **Note:** If a layer happens to be larger than the canvas, the layer handles may show up beyond the edges of the canvas. To resize such layers, you'll need to [zoom out](../pixelmator-pro-basics/zoom-in-and-out-of-an-image.md) of the image until you see the layer handles.
 
 ## Rotate a layer
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. Select a layer or layer group.
 3. In the Tool Options pane, drag the Rotate wheel, or enter a specific angle in the Angle field to rotate the layer. You can also press and hold the `Shift ⇧` key while dragging the Rotate wheel to rotate the layer by 45° increments.&#x20;
 
-{% hint style="info" %}
-You can also press and hold the `Command ⌘` key, then drag one of the layer handles to rotate.
-{% endhint %}
+:bulb: **Tip:** You can also press and hold the `Command ⌘` key, then drag one of the layer handles to rotate.
 
 ## Flip an image or shape layer
 
@@ -64,7 +60,7 @@ You can also press and hold the `Command ⌘` key, then drag one of the layer ha
 
 ## Update the orientation of a shape
 
-When you rotate a shape, Pixelmator Pro remembers its original orientation. As a result, whenever you flip a rotated shape, it is flipped according to the original, rather than the new orientation. To update the orientation of shape, you can reset its layer handles.
+When you rotate a shape, Pixelmator Pro remembers its original orientation. As a result, whenever you flip a rotated shape, it is flipped according to the original, rather than the new orientation. To update the orientation of the shape, you can reset its layer handles.
 
 1. Choose the Arrange tool by doing one of the following:
    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
