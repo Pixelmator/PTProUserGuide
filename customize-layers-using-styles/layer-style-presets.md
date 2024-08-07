@@ -27,9 +27,7 @@ Layer style presets are pre-made combinations of layer styles that you can apply
 2. Select the layer or layers you would like to edit.
 3. Select a style from the list of presets at the top of the Tool Options pane. Click the Collection pop-up menu to browse different style preset collections.
 
-{% hint style="info" %}
-The layer style presets cannot be applied to empty layers or selections.
-{% endhint %}
+:exclamation:**Important:** The layer style presets cannot be applied to empty layers or selections.
 
 ## Save a combination of layer styles as a preset
 
@@ -38,13 +36,13 @@ With the help of presets, you can save the specific layer styles and their setti
 1. Choose the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line">  tool in the Tools sidebar.
 2. Apply and customize any number of layer styles.
 3. Do any of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
+   * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any layer style collection to save the style preset to that collection.
 
 ## Create a custom style presets collection
 
 1. Choose the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
-2. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
+2. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
 
 ## Manage style presets and preset collections
 

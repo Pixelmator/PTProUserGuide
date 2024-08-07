@@ -34,7 +34,7 @@ Some tools in the Tools sidebar are grouped with one or a few other tools. To se
 
 Do one of the following:
 
-* Choose **View > Show (or Hide) Tools** (from the View menu at the top of your screen).
+* Choose **View > Show (or Hide) Tools** from the View menu at the top of your screen.
 * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604258000.png" alt="" data-size="line"> in the toolbar.
 * Press `Option ⌥` + `T` on your keyboard.
 
@@ -81,7 +81,7 @@ You can `Control ⌃` – click the toolbar and choose Customize Toolbar to add,
 
 Do one of the following:
 
-* Choose **Window > Show (or Hide) Toolbar** (from the Window menu at the top of your screen).
+* Choose **Window > Show (or Hide) Toolbar** from the Window menu at the top of your screen.
 * Press `Option ⌥` + `Command ⌘` + `T` on your keyboard.
 
 ***
@@ -101,7 +101,7 @@ At the top of the Layers sidebar, click <img src="https://help.pixelmator.com/pi
 * _Size._ Choose between three different thumbnail sizes: small, medium, and large.
 * _Show layer descriptions._ Select this option to see additional layer properties when editing, such as layer size, type, or edits applied.
 
-See [About layers](broken-reference) to learn more about working with layers.
+See [Work with layers](../working-with-layers/) to learn more about working with layers.
 
 #### Layer opacity
 

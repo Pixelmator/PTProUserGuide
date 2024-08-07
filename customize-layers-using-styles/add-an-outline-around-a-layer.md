@@ -16,7 +16,7 @@ layout:
 
 The Stroke layer style adds a customizable outline around your selected layer.
 
-## Turn on the Stroke style
+## Add the Stroke style
 
 1. Select the layer or layers you would like to edit.
 2. Choose the Style tool by doing one of the following:

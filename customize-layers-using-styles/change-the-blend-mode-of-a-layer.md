@@ -20,7 +20,7 @@ You can choose blend modes in a few different places in Pixelmator Pro. One of t
 
 You can also change the blend mode of certain tools, like the [Color Fill tool](../paint-and-erase/fill-specific-areas-of-an-image-with-color.md), so when you fill an area, the color you fill is blended with the colors of the layer you’re filling.
 
-## Change a blend mode
+## Change the blend mode
 
 1. Select the layer or layers you would like to edit.
 2. Choose the Style tool by doing one of the following:
