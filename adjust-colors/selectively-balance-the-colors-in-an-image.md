@@ -18,27 +18,23 @@ The Color Balance adjustment lets you add color tints to the shadows, midtones, 
 
 Color balance can be adjusted using color wheels (a Master wheel and 3-Way Color wheels) or sliders, available from the Color Balance pop-up menu. It can also be enhanced automatically using the ML adjustment.
 
-***
-
-### Color balance an image
-
 The Color Balance adjustment can be applied directly to a single layer or, using a color adjustments layer, to multiple layers in a composition.
 
-To selectively balance colors in the currently selected layer, do one of the following:
+## Selectively balance colors in the currently selected layer
 
-* Choose **Format > Color Adjustments > Color Balance** (from the Format menu at the top of your screen).
-* In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png) and turn on the Color Balance adjustment.
-* Press A on your keyboard and turn on the Color Balance adjustment.
+* Choose **Format > Color Adjustments > Color Balance** from the Format menu at the top of your screen.
+* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Color Balance adjustment.
+* Press `A` on your keyboard and turn on the Color Balance adjustment.
 
-To color balance multiple layers in a composition using a [color adjustments layer](https://www.pixelmator.com/support/guide/pixelmator-pro/1343) (all layers below this layer will be affected):
+## Color balance multiple layers in a composition
 
-* Choose **Insert > Color Adjustments** (from the Insert menu at the top of your screen) and turn on the Color Balance adjustment in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Color Adjustments, and turn on the Color Balance adjustment.
-* Press Shift ⇧ + Command ⌘ + A on your keyboard, and turn on the Color Balance adjustment.
+* Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Color Balance adjustment in the Tool Options pane.
+* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Color Balance adjustment.
+* Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Color Balance adjustment.
 
-_Note:_ If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
+:blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
 
-Selectively balance the colors in an image using color wheels
+## Selectively balance the colors in an image using color wheels
 
 The color wheel interface is inspired by professional color grading tools found in video editing apps. It may be a little overwhelming at first, but it's probably the most natural and intuitive way to add color tints to the shadows, midtones, and highlights of an image.
 
@@ -53,33 +49,23 @@ The color wheel interface is inspired by professional color grading tools found 
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656323943000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any color adjustments.
+## Selectively balance the colors in an image using sliders
 
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.
-
-Selectively balance the colors in an image using sliders
-
-1.  Click the Color Balance pop-up menu in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) to choose the tonal range (shadows, midtones, or highlights) that you’d like to edit.
+1.  Click the Color Balance pop-up menu in the Tool Options pane to choose the tonal range (shadows, midtones, or highlights) that you’d like to edit.
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326444000.png)
 2. Drag the Red/Cyan, Green/Magenta, Yellow/Blue sliders to add to one color (while subtracting from the other).
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any color adjustments.
-
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.
-
-Automatically balance the colors in an image
+## Automatically balance the colors in an image
 
 Click ML next to the Color Balance adjustment to automatically balance the image colors.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326342000.png)
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any color adjustments.
+***
 
-_Show Split Comparison:_ Option ⌥ – click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
+
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
 
 To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.
