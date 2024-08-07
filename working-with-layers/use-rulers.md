@@ -26,9 +26,7 @@ Do one of the following:
 * Choose **View > Show Rulers** or **Hide Rulers** from the View menu at the top of your screen.
 * Press `Command ⌘` + `R` on your keyboard.&#x20;
 
-{% hint style="info" %}
-Rulers in new documents will be turned on automatically if a document before it also had Rulers activated.
-{% endhint %}
+:blue\_book: **Note:** Rulers in new documents will be turned on automatically if a document before it also had Rulers activated.
 
 ## Change ruler units
 
@@ -44,8 +42,6 @@ The zero origin is the location of the rulers’ 0. By default, units increase f
 1. Move the pointer to where the rulers meet in the upper-left corner of the canvas.
 2. Drag diagonally down onto the image to set a new zero origin.
 
-{% hint style="info" %}
-Press and hold `Shift ⇧` on your keyboard to automatically snap to rulers' tick marks as you're adjusting the zero-origin rulers.
-{% endhint %}
+:bulb: **Tip:** Press and hold `Shift ⇧` on your keyboard to automatically snap to rulers' tick marks as you're adjusting the zero-origin rulers.
 
 To reset the zero origin, double-click the area where the horizontal and vertical rulers meet in the upper-left corner of the canvas.

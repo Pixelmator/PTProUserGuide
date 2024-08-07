@@ -18,9 +18,7 @@ When moving and sizing layers, smart spacing, and sizing guides automatically ap
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1654518512000.jpeg)
 
-<details>
-
-<summary><strong>Turn on Smart Guides</strong></summary>
+### **Turn on Smart Guides**
 
 Smart Guides appear when a layer or a layer group matches the size or position of another layer or layer group. Smart Guides can also help equally space three or more objects in a line.
 
@@ -33,13 +31,9 @@ Smart Guides appear when a layer or a layer group matches the size or position o
    * _Show guides for relative sizing:_ Guides appear when an object matches the size of another object.
    * _Show guides for relative spacing:_ Guides appear when three or more objects are placed equally apart in a line.
 
-&#x20;**Tip:** If you want, you can change the color of the Smart Guides in [Pixelmator Pro settings](../pixelmator-pro-basics/pixelmator-pro-settings/).
+:bulb: **Tip:** If you want, you can change the color of the Smart Guides in [Pixelmator Pro settings](../pixelmator-pro-basics/pixelmator-pro-settings/).
 
-</details>
-
-<details>
-
-<summary>Add persistent alignment guides</summary>
+### Add persistent alignment guides
 
 You can add alignment guides that remain visible on your image while you’re working, even if you close the image and return to it later. You can add as many guides as you like and position them to suit your needs. Alignment guides are unique to each image you edit.&#x20;
 
@@ -50,13 +44,9 @@ To add a guide, do one of the following:
 * Double-click a ruler, choose the orientation and position of the ruler, and click OK to add the guide.
 * Choose **View > Guides > Add Guide** from the View menu at the top of your screen. Choose the orientation of the guide and type in its position. Click OK to add the guide.
 
-&#x20;**Tip:** If you want, you can change the color of the alignment guides in Pixelmator Pro settings.
+:bulb: **Tip:** If you want, you can change the color of the alignment guides in Pixelmator Pro settings.
 
-</details>
-
-<details>
-
-<summary>Change the location of a persistent alignment guide</summary>
+### Change the location of a persistent alignment guide
 
 Do any of the following:
 
@@ -64,25 +54,14 @@ Do any of the following:
 * _Remove a vertical guide:_ Drag it to the left of the image.
 * _Show or hide all guides:_ Choose **View > Overlays and select or deselect Guides** from the View menu at the top of your screen.
 
-</details>
-
-<details>
-
-<summary>Lock guides</summary>
+### Lock guides
 
 You can lock the persistent guides you've added to the image to avoid accidentally moving them.
 
-* Choose **View > Guides > Lock Guides** (from the View menu at the top of your screen).
+* Choose **View > Guides > Lock Guides** from the View menu at the top of your screen.
 
-</details>
-
-<details>
-
-<summary>Clear guides</summary>
+### Clear guides
 
 Remove all persistent guides from the image.
 
-* Choose **View > Guides > Clear Guides** (from the View menu at the top of your screen).
-
-</details>
-
+* Choose **View > Guides > Clear Guides** from the View menu at the top of your screen.

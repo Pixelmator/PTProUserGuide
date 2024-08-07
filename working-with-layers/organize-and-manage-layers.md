@@ -18,28 +18,22 @@ When working with more complex compositions that have many layers, you can use v
 
 ## Manage individual layers
 
-<details>
-
-<summary>Rename a layer</summary>
+### Rename a layer
 
 Renaming groups and layers in the Layers list helps organize your document.
 
 To rename a layer do one of the following:
 
-* In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), double-click the layer name you want to change and type in a new name.
+* In the Layers sidebar, double-click the layer name you want to change and type in a new name.
 * In the Layers sidebar, force-click the layer name and type in a new one.
 
 Pixelmator Pro also automatically names the layers you drag to the Layers sidebar from Finder or the web. You can `Control ⌃` – click the automatically named layer, choose Suggested Names and select another alternative name or revert to the original.
 
-**Tip:** If you'd like to turn off automatic layer naming completely, you can use the Terminal app on your Mac for this. You can enter the following Terminal flag or [learn more about using Terminal on a Mac](https://support.apple.com/en-gb/guide/terminal/welcome/mac).\
+:bulb: **Tip:** If you'd like to turn off automatic layer naming completely, you can use the Terminal app on your Mac for this. You can enter the following Terminal flag or [learn more about using Terminal on a Mac](https://support.apple.com/en-gb/guide/terminal/welcome/mac).\
 \
 `defaults write com.pixelmatorteam.pixelmator.x enableSmartLayerNames -bool false`
 
-</details>
-
-<details>
-
-<summary>Merge multiple layers into a single layer</summary>
+### Merge multiple layers into a single layer
 
 Merging (also called _flattening_) layers is a destructive action that combines a number of different layers into one. Any adjustments, effects, styles, or other formatting information are also flattened down into the image, so they will no longer be editable. Merging layers can be useful when you have a large image with many different layers that you won’t necessarily need to edit in the future and you want to make the image more manageable.
 
@@ -56,23 +50,15 @@ To merge every layer in a composition:
 * Choose **Arrange > Merge All** (from the Arrange menu at the top of your screen).
 * Press `Option ⌥` + `Shift ⇧` + `Command ⌘` + `E` on your keyboard.
 
-</details>
-
-<details>
-
-<summary>Delete a layer</summary>
+### Delete a layer
 
 Do one of the following:
 
-* In the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), `Control ⌃` – click the layer you'd like to delete and choose Delete.
-* [Select the layer](https://www.pixelmator.com/support/guide/pixelmator-pro/662) you'd like to delete, then press `Backspace ⌫` on your keyboard.
-* [Select the layer](https://www.pixelmator.com/support/guide/pixelmator-pro/662) you'd like to delete, then choose **Edit > Delete** from the Edit menu at the top of your screen.
+* In the Layers sidebar, `Control ⌃` – click the layer you'd like to delete and choose Delete.
+* Select the layer you'd like to delete, then press `Backspace ⌫` on your keyboard.
+* Select the layer you'd like to delete, then choose **Edit > Delete** from the Edit menu at the top of your screen.
 
-</details>
-
-<details>
-
-<summary>Lock and unlock layers or layer groups</summary>
+### Lock or unlock layers or layer groups
 
 When you lock a layer or layer group, it stays visible in your image but it will no longer be editable. However, locked layers and groups can still be deleted, renamed, and rearranged in the Layers sidebar.&#x20;
 
@@ -81,8 +67,6 @@ To lock or unlock a layer or layer group, do one of the following:
 * Choose **Arrange > Lock** or **Arrange > Unlock** from the Arrange menu at the top of your screen. 
 * In the Layers list, move the mouse pointer over the layer or layer group you’d like to lock and click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802756000.png" alt="" data-size="line">. To unlock layers, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802719000.png" alt="" data-size="line">.
 * In the Layers sidebar, `Control ⌃` – click a layer or layer group choose Lock or Unlock.
-
-</details>
 
 
 
