@@ -18,6 +18,14 @@ Bitmap masks are pixel-based layer masks used to control the visibility of diffe
 
 You can easily edit these masks using on-canvas controls, which appear when a mask layer is selected. If the controls are not visible, ensure the Arrange tool is active.
 
+## Add a bitmap mask
+
+* With the Arrange tool selected, double-click an image layer while holding `Option ⌥.`
+* With the Arrange tool selected, double-click a selection while holding `Shift⇧`.
+* Choose **Format > Mask > Add Mask** or **Choose Image Mask** from the Format menu at the top of your screen.
+* In the Layers sidebar, `Control ⌃` – click a layer or layer group and choose Add Mask. You can also `Option ⌥` – click Add Mask to add a mask and hide the layer.
+* `Command ⌘`-drag any image, text, or image from Finder onto a layer to create a mask.
+
 ## Edit a bitmap mask
 
 1. Select the bitmap mask you want to edit.
