@@ -22,10 +22,6 @@ These artifacts are mostly visible wherever there is a gradual transition betwee
 
 You can easily remove posterization and compression artifacts from images using the machine learning-powered Deband feature, which improves images with just a click.
 
-***
-
-### Deband an image
-
 Do any of the following:
 
 1. Click **Format > Deband** from the Format menu at the top of your screen.
