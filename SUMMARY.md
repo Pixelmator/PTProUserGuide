@@ -81,7 +81,7 @@
   * [Adjust the levels of an image](adjust-colors/adjust-the-levels-of-an-image.md)
   * [Adjust the tonal curve of an image](adjust-colors/adjust-the-tonal-curve-of-an-image.md)
   * [Replace one color in an image with another](adjust-colors/replace-one-color-in-an-image-with-another.md)
-  * [Remove color from an image or video](adjust-colors/remove-color-from-an-image-or-video.md)
+  * [Remove color from an image or video](adjust-colors/remove-color-from-an-image.md)
   * [Manually convert a color image to black and white](adjust-colors/manually-convert-a-color-image-to-black-and-white.md)
   * [Convert an image to black and white with a color tint](adjust-colors/convert-an-image-to-black-and-white-with-a-color-tint.md)
   * [Apply a sepia tint](adjust-colors/apply-a-sepia-tint.md)
