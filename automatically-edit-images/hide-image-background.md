@@ -14,4 +14,5 @@ layout:
 
 # Hide image background
 
-Hide Background uses an intelligent, AI-powered algorithm to detect a subject in an image and the background using a [mask](../mask-layers/).
+Hide Background uses an intelligent, AI-powered algorithm to detect a subject in an image and the background using a [mask](../mask-layers/), keeping all fine details like hair or fur intact.
+
