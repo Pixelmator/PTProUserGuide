@@ -14,15 +14,13 @@ layout:
 
 # Adjust the levels of an image
 
-The Levels adjustment lets you adjust the brightness, contrast, and tonal range of an image. These properties are determined by the distribution of shadows, highlights, and midtones, and with Levels, you can control each one separately. The Levels histogram also works as a map to show the amount of the shadows, highlights, and midtones in an image.
+The Levels adjustment lets you adjust the brightness, contrast, and tonal range of an image. These properties are determined by the distribution of shadows, highlights, and midtones, and with Levels, you can control each one separately. The Levels histogram also works as a map to show the amount of shadows, highlights, and midtones in an image.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656328099000.png)
 
-The shadows can be adjusted using the Black point slider. Dragging it to the right makes the dark areas of an image darker. The White point controls the highlights and makes the bright areas brighter. The Midtones slider shifts all the midtone values to make them closer to back or white. As you drag the Levels sliders to redefine, say, the black or white points, the other tones in the image are evenly redistributed, increasing the tonal range and contrast in the image.
+The shadows can be adjusted using the Black point slider. Dragging it to the right makes the dark areas of an image darker. The White point controls the highlights and makes the bright areas brighter. The Midtones slider shifts all the midtone values to make them closer to black or white. As you drag the Levels sliders to redefine, say, the black or white points, the other tones in the image are evenly redistributed, increasing the tonal range and contrast in the image.
 
 In case you need some more control, you can also use the quarter-tone sliders in-between the Black point, White point, and the Midtones.
-
-***
 
 ## Adjust the levels of an image
 
