@@ -39,7 +39,7 @@ To rearrange layer styles, click and drag a style up or down the list of styles.
 
 ## Copy a layer style from one layer to another
 
-A quick way to apply the same layer style to multiple layers is using [layer style presets](https://www.pixelmator.com/support/guide/pixelmator-pro/916). However, you can also apply the same layer style to multiple layers by simply copying it over.
+A quick way to apply the same layer style to multiple layers is using [layer style presets](layer-style-presets.md). However, you can also apply the same layer style to multiple layers by simply copying it over.
 
 1. Select the layer with the style you’d like to copy.
 2. To copy the style, do one of the following:

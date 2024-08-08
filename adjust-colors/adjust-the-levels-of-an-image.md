@@ -24,26 +24,26 @@ In case you need some more control, you can also use the quarter-tone sliders in
 
 ***
 
-### Adjust the levels of an image
+## Adjust the levels of an image
 
 The Levels adjustment can be applied directly to a single layer or, using a color adjustments layer, to multiple layers in a composition.
 
-To edit the currently selected layer, do one of the following:
+### Edit the currently selected layer
 
-* Choose **Format > Color Adjustments > Levels** (from the Format menu at the top of your screen).
-* In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png) and turn on the Levels adjustment.
+* Choose **Format > Color Adjustments > Levels** from the Format menu at the top of your screen.
+* In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Levels adjustment.
 * Press A on your keyboard and turn on the Levels adjustment.
 * Press Command ⌘ + L on your keyboard.
 
-To edit multiple layers in a composition using a [color adjustments layer](https://www.pixelmator.com/support/guide/pixelmator-pro/1343) (all layers below this layer will be affected):
+### Edit multiple layers in a composition
 
-* Choose **Insert > Color Adjustments** (from the Insert menu at the top of your screen) and turn on the Levels adjustment in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the [Layers sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), choose Color Adjustments, and turn on the Levels adjustment.
-* Press Shift ⇧ + Command ⌘ + A on your keyboard, and turn on the Levels adjustment.
+* Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Levels adjustment in the Tool Options pane.
+* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the Layers sidebar, choose Color Adjustments, and turn on the Levels adjustment.
+* Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Levels adjustment.
 
-_Note:_ If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
+:blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
 
-Manually adjust the levels of an image
+## Manually adjust the levels of an image
 
 Drag the sliders below the histogram in the Levels adjustment to manually adjust the levels of an image.
 
@@ -57,47 +57,29 @@ _Quarter-tone_: Dragging these sliders affects only the tones between either the
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333377000.png)
 
-**Important**: If you clip too far into either the black or white tonal values, tonal values that were originally near pure black and pure white are now changed to pure black and pure white, resulting in lost image detail.
+:exclamation:**Important**: If you clip too far into either the black or white tonal values, tonal values that were originally near pure black and pure white are now changed to pure black and pure white, resulting in lost image detail.
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any color adjustments.
-
-_Show Split Comparison:_ Option ⌥-click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.
-
-Automatically adjust the levels of an image to improve contrast
+## Automatically adjust the levels of an image to improve contrast
 
 Auto Contrast adjusts the Luminance channel to improve brightness and contrast.
 
-* Click the More ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png) and choose Auto Contrast.
+* Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and choose Auto Contrast.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333661000.png)
 
 To fine-tune the automatic contrast improvements, click the Levels pop-up menu in the Tool Options pane and choose Luminance, then drag the sliders in the Luminance channel of the Levels adjustments.
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any color adjustments.
-
-_Show Split Comparison:_ Option ⌥-click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.
-
-Automatically adjust the levels of an image to improve colors
+## Automatically adjust the levels of an image to improve colors
 
 Auto Color adjusts each of the Red, Green, and Blue channels to improve colors.
 
-* Click the More ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png) menu in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and choose Auto Color.
+* Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu in the Tool Options pane and choose Auto Color.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333629000.png)
 
 To fine-tune the automatic color improvements, click the Levels pop-up menu in the Tool Options pane and choose Red, Green, or Blue, then drag the sliders in the Red, Green, or Blue channels of the Levels adjustments.
 
-_Show Original:_ Click the Show Original button or press Control ⌃ + M on your keyboard to see what the image looks like without any color adjustments.
-
-_Show Split Comparison:_ Option ⌥-click the Show Original button, press Control ⌃ + C on your keyboard, or force click the canvas.
-
-To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.
-
-Change the channel in which to adjust levels
+## Change the channel in which to adjust levels
 
 The Levels adjustment includes five channels that you can edit — RGB, Luminance, Red, Green, and Blue — and each one lets you edit your image in a different way.
 
@@ -105,6 +87,14 @@ The Levels adjustment includes five channels that you can edit — RGB, Luminanc
 * Luminance adds a way to adjust tones without changing the perceived saturation of colors.
 * The Red, Green, and Blue channels let you individually edit each of the colors that make up a digital image.
 
-Click the Levels pop-up menu in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) and choose RGB, Luminance, Red, Green, or Blue.
+Click the Levels pop-up menu in the Tool Options pane and choose RGB, Luminance, Red, Green, or Blue.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656335926000.png)
+
+***
+
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
+
+_Show Split Comparison:_ `Option ⌥`-click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+
+To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.

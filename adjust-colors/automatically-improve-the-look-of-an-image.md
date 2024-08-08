@@ -31,9 +31,9 @@ You can improve the colors of a single layer or, using a color adjustments layer
 * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and click ML Enhance.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and click ML Enhance.
 
-***
-
 After selecting ML Enhance, you can additionally tweak any of the 37 available color adjustments yourself.
+
+***
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

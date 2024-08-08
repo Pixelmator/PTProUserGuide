@@ -22,7 +22,7 @@ You can white balance a single layer or, using a color adjustments layer, multip
 
 * Choose **Format > Color Adjustments > White Balance** from the Format menu at the top of your screen.
 * In the Tools sidebar, click the Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> tool and turn on White Balance.
-* Press A on your keyboard and turn on the White Balance adjustment.
+* Press `A` on your keyboard and turn on the White Balance adjustment.
 
 ## White balance multiple layers in a composition
 
@@ -36,8 +36,8 @@ You can white balance a single layer or, using a color adjustments layer, multip
 
 ## Manually adjust color temperature and tint
 
-1. Drag the Temperature slider to the left to make the image cooler, or to the right to make it warmer. Press and hold the Option ⌥ key before dragging if you’d like to extend the range of the Temperature slider beyond 100%. You can also enter a percentage value from –200% to 200%.
-2. Drag the Tint slider to the left to add a green tint (or neutralize a magenta tint) or drag the slider to the right to add a magenta tint (or neutralize a green tint). Press and hold the Option ⌥ key before dragging if you’d like to extend the range of the Tint slider beyond 100%. You can also enter a percentage value from –200% to 200%.
+1. Drag the Temperature slider to the left to make the image cooler, or to the right to make it warmer. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Temperature slider beyond 100%. You can also enter a percentage value from –200% to 200%.
+2. Drag the Tint slider to the left to add a green tint (or neutralize a magenta tint) or drag the slider to the right to add a magenta tint (or neutralize a green tint). Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Tint slider beyond 100%. You can also enter a percentage value from –200% to 200%.
 
 ## Automatically correct the white balance
 

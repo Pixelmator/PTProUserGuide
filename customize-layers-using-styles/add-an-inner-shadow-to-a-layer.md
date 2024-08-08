@@ -16,8 +16,6 @@ layout:
 
 The Inner Shadow layer style adds a drop shadow inside your selected layer, giving it a recessed or hollowed-out appearance.
 
-***
-
 ## Add an inner shadow to a layer
 
 1. Select the layer or layers you would like to edit.

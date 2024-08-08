@@ -18,6 +18,7 @@ Vector masks in Pixelmator Pro allow you to mask layers into specific shapes. Th
 
 ## Add a vector mask
 
+* Open the Mask <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649061178000.png" alt="" data-size="line"> menu at the top of the layers sidebar and choose a shape, or choose Pen or Freeform Pen tools to draw a mask from scratch.
 * With the Arrange tool selected, double-click an image layer.
 * With the Arrange tool selected, double-click a selection.
 * Choose **Format > Mask > Mask with Shape** from the Format menu at the top of your screen.

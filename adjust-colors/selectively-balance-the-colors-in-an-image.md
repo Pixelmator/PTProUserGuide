@@ -51,9 +51,10 @@ The color wheel interface is inspired by professional color grading tools found 
 
 ## Selectively balance the colors in an image using sliders
 
-1.  Click the Color Balance pop-up menu in the Tool Options pane to choose the tonal range (shadows, midtones, or highlights) that you’d like to edit.
+1. Click the Color Balance pop-up menu in the Tool Options pane to choose the tonal range (shadows, midtones, or highlights) that you’d like to edit.
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326444000.png)
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326444000.png)
+
 2. Drag the Red/Cyan, Green/Magenta, Yellow/Blue sliders to add to one color (while subtracting from the other).
 
 ## Automatically balance the colors in an image

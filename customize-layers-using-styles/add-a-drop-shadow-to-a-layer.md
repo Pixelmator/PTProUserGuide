@@ -16,8 +16,6 @@ layout:
 
 The Shadow layer style adds a drop shadow below your selected layer, making it look like it is hovering above the layers underneath.
 
-***
-
 ### Add a drop shadow to a layer
 
 1. Select the layer or layers you would like to edit.

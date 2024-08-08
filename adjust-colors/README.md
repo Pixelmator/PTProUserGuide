@@ -26,13 +26,13 @@ You can apply color adjustments to layers directly or add them as adjustments la
 
 1. In the Layers sidebar, select the layer or layer group you'd like to edit
 2. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+   * Click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Color Adjustments** from the Tools menu at the top of your screen.
    * Press the `A` key on your keyboard.
 3. In the list of color adjustments, turn on the adjustments you want to apply.
 4. Edit the adjustment settings. Keep in mind that the color adjustments will affect just that one layer or layer group to which they are applied.
 
-**Tip:** In Pixelmator Pro, the color adjustments have a set order in which they appear within the adjustments list and can't be rearranged. If you'd like to change the order of adjustments, you can add them as separate color adjustments layers and arrange them as needed in the Layers list.
+:bulb: **Tip:** In Pixelmator Pro, the color adjustments have a set order in which they appear within the adjustments list and can't be rearranged. If you'd like to change the order of adjustments, you can add them as separate color adjustments layers and arrange them as needed in the Layers list.
 
 ## Create color adjustments layers
 
@@ -55,7 +55,7 @@ To add a color adjustments layer, do any of the following:
 If a certain color adjustment isn't visible in the list of adjustments, it may be turned off. To access the adjustment, you'll need to add it from the Customize menu.
 
 1. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Color Adjustments** from the Tools menu at the top of your screen.
    * Press the `A` key on your keyboard.
 2. Click Customize at the bottom of the list of color adjustments.
@@ -64,7 +64,7 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
 ## Temporarily hide a single adjustment
 
 1. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Color Adjustments** from the Tools menu at the top of your screen.
    * Press the `A` key on your keyboard.
 2. In the Layers sidebar, click to select the layer you’d like to edit.
@@ -73,7 +73,7 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
 ## Reset all color adjustments applied to a layer
 
 1. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Color Adjustments** from the Tools menu at the top of your screen.
    * Press the `A` key on your keyboard.
 2. In the Layers sidebar, select a layer from which to remove the color adjustments.
@@ -111,12 +111,12 @@ Do any of the following:
 
 ## Export adjustments as LUT
 
-If you have a set of color adjustments you'd like to use in apps other than Pixelmator Pro, you can save them as LUTs. See [Apply LUTs in Pixelmator Pro](https://www.pixelmator.com/support/guide/pixelmator-pro/1364) to learn more.
+If you have a set of color adjustments you'd like to use in apps other than Pixelmator Pro, you can save them as LUTs. See [Apply LUTs in Pixelmator Pro](apply-luts.md) to learn more.
 
 1. Apply the color adjustments you want to your image or select one of the color adjustment presets.
 2. Do one of the following:
    * Choose **Format > Color Adjustments > Export Adjustments as LUT** from the Format menu at the top of your screen.
    * Click the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> at the top of the Color Adjustments pane and choose Export Adjustments as LUT.
-   * In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> click Export Adjustments as LUT.
+   * In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> click Export Adjustments as LUT.
 
 \
