@@ -27,7 +27,7 @@ You can crop images to improve their composition or eliminate unwanted parts. Wh
 
 :bulb: **Tip:** If you're looking to crop an image to a specific shape, such as an ellipse or triangle, you can use a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more.
 
-To quickly reset the crop box to the original image height, fit the image into a crop box, switch between constrained and free cropping, or automate other cropping and straightening tasks, you can use keyboard shortcuts. See [Pixelmator Pro keyboard shortcuts](../pixelmator-pro-keyboard-shortcuts.md) to find the complete list of Crop tool shortcuts.
+To quickly reset the crop box to the original image height, fit the image into a crop box, switch between constrained and free cropping, or automate other cropping and straightening tasks, you can use keyboard shortcuts. See [Pixelmator Pro keyboard shortcuts](../pixelmator-pro-keyboard-shortcuts/) to find the complete list of Crop tool shortcuts.
 
 :blue\_book: **Note:** When resizing, the crop box Pixelmator Pro shows an overlay to help you adjust the crop box more precisely. You can learn more about changing the overlay type or its display settings in the "Choose a crop overlay" section below.&#x20;
 

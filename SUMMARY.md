@@ -178,4 +178,5 @@
   * [Slice designs into individual images](export-and-share-images/slice-designs-into-individual-images.md)
   * [Quickly export or share an optimized image](export-and-share-images/quickly-export-or-share-an-optimized-image.md)
   * [Export presets](export-and-share-images/export-presets.md)
-* [Pixelmator Pro keyboard shortcuts](pixelmator-pro-keyboard-shortcuts.md)
+* [Pixelmator Pro keyboard shortcuts](pixelmator-pro-keyboard-shortcuts/README.md)
+  * [Customize keyboard shortcuts](pixelmator-pro-keyboard-shortcuts/customize-keyboard-shortcuts.md)
