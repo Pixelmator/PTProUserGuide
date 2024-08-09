@@ -40,3 +40,11 @@ The Selective Clarity adjustment can be applied directly to a single layer or, u
 2. Drag the clarity or texture sliders:
    * Drag the Clarity slider to the right to make the image clearer, or to the left to make it smoother. You can also enter a percentage value from –100% to 100%.
    * Drag the Texture slider to the right to add more texture, or to the left to make the image smoother. You can also enter a percentage value from -100% to 100%.
+
+***
+
+_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
+
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force click the canvas.
+
+To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane
