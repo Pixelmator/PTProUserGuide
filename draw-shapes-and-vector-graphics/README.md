@@ -25,7 +25,7 @@ The Shape tool in Pixelmator Pro offers a collection of custom vector shapes —
 1. Select the Shape tool by doing one of the following:
    * Choose the Shape <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605106203000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Press `U` on your keyboard (selects the last used shape).
-2. Select a shape from the shapes browser at the top of the Tool Options pane. You can also add shapes by clicking <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> in the Layers sidebar and then choosing Custom Shape, or do it directly from your toolbar (see [Customize the Pixelmator Pro toolbar](../pixelmator-pro-basics/customize-the-tools-sidebar.md) to learn how to add the Shape item to your toolbar):
+2. Select a shape from the shapes browser at the top of the Tool Options pane. You can also add shapes by clicking <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> in the Layers sidebar and then choosing Custom Shape, or do it directly from your toolbar.
 3. Click or drag on the canvas to add the selected shape. The more you drag, the bigger the shape will be drawn.
 
 :bulb: **Tip:** To switch from drawing to selecting shapes, press and hold the `Command ⌘` key on your keyboard.
