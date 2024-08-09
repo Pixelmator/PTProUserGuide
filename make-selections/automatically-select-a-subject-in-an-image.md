@@ -27,6 +27,4 @@ Do any of the following:
 
 To select a subject while taking into account all document layers, not just the active layer, press and hold `Option ⌥` when clicking Select Subject in the Tool Options pane.
 
-***
-
 :blue\_book: **Note:** If you'd like to additionally add or remove parts of the selection after you've used Select Subject, choose any of the [selection tools](./) in Pixelmator Pro to find Add, Subtract, and Intersect selection modes in the Tool Options pane.

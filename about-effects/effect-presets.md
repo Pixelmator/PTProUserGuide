@@ -27,9 +27,7 @@ Effect presets are pre-made combinations of effects that you can apply to automa
 2. Select the layer or layers you’d like to edit.
 3. Choose an effect preset from the presets browser at the top of the Tool Options pane or click the Collection pop-up menu to browse other preset collections.
 
-{% hint style="info" %}
-The effect presets cannot be applied to empty layers or selections.
-{% endhint %}
+:blue\_book: **Note:** The effect presets cannot be applied to empty layers or selections.
 
 ## Save a combination of effects as a preset
 

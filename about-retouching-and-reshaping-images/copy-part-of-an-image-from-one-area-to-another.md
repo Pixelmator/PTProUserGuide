@@ -14,11 +14,7 @@ layout:
 
 # Copy part of an image from one area to another
 
-To copy part of an image from one area to another, use the Clone tool. Just like the other retouching tools, the Clone tool is brush-based, so you choose a clone source and then use the Clone brush to paint the source area in a new part of your image.  
-
-***
-
-## Copy part of an image from one area to another
+To copy part of an image from one area to another, use the Clone tool. Just like the other retouching tools, the Clone tool is brush-based, so you choose a clone source and then use the Clone brush to paint the source area in a new part of your image. 
 
 1. Do one of the following:
    * Choose the Clone tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999383000.png" alt="" data-size="line"> in the Tools sidebar.
@@ -40,8 +36,8 @@ To copy part of an image from one area to another, use the Clone tool. Just like
 
 ## Show before and after or reset effects
 
-_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
+_Show Original:_ Click the Show Original button to see what the image looked like before.
 
-_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button or press `Control ⌃` + `C` on your keyboard.
 
-To reset all effects, click Reset at the bottom of the Tool Options pane.
+Click Reset to discard all the current changes.

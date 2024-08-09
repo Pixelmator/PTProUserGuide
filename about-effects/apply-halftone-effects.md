@@ -16,8 +16,6 @@ layout:
 
 The effects in the Halftone category apply artistic halftone screen patterns to your selected layer.
 
-***
-
 ## Apply a Halftone effect to an image
 
 Halftone effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -102,8 +100,6 @@ Customize the effect:
 * Move the handles of the effect rope to adjust the position of the screen. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590090420000.jpeg)
-
-***
 
 ## Show before and after or reset effects
 

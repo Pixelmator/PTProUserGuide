@@ -22,8 +22,7 @@ The Elliptical Selection tool lets you make elliptical or circular selections in
    * Click Elliptical Selection <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999081000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Select > Elliptical Selection** from the Tools menu at the top of your screen.
    * Press the `Y` key on your keyboard.
-2.  Drag in your image to make the selection.\
-
+2.  Drag in your image to make the selection.
 
     :bulb: **Tip:** To select a perfect circle, press and hold the Shift ⇧ on your keyboard before starting to select.
 
@@ -37,8 +36,7 @@ Using the Rectangular Selection tool you can easily make rectangular or square s
    * Click the Rectangular Selection  <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999068000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Select > Rectangular Selection** from the Tools menu at the top of your screen.
    * Press the `M` key on your keyboard.
-2.  Drag in your image to make the selection.\
-
+2.  Drag in your image to make the selection.
 
     :bulb: **Tip:** To select a perfect square, press and hold the Shift ⇧ on your keyboard before starting to select.
 
@@ -49,7 +47,7 @@ Using the Rectangular Selection tool you can easily make rectangular or square s
 Using the Column Selection tool you can easily make vertical selections of a specified width.
 
 1. Choose the Column Selection tool by doing one of the following:
-   * Click  Column Selection<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589550312000.png" alt="" data-size="line">tool in the Tools sidebar or choose it from the grouped tools.
+   * Click Column Selection<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589550312000.png" alt="" data-size="line">tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Select > Column Selection** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, enter the width of the column into the Column Width field.&#x20;
 3. Click the image to make the selection. You can also click and drag a new selection to position it more precisely.&#x20;

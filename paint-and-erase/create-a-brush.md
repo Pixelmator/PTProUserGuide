@@ -20,8 +20,6 @@ To create a custom brush, you’ll need images of the shape and, optionally, the
 
 Once you have a shape, you'll need to duplicate an existing brush to create a new one. If you're aiming for a look similar to that of an existing brush, it might be best to duplicate that specific brush and start by replacing its existing shape texture.
 
-***
-
 ## Duplicate a brush
 
 1. Choose the Paint tool by doing one of the following:&#x20;
@@ -34,8 +32,6 @@ Once you have a shape, you'll need to duplicate an existing brush to create a ne
 After duplicating your brush, you'll need to replace the brush shape and texture.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/paint-and-erase/Duplicate.mp4" %}
-
-***
 
 ## Add a custom shape texture or grain to a brush
 

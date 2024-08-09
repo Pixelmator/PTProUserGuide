@@ -16,10 +16,6 @@ layout:
 
 The Color Fill tool fills in similarly colored areas of an image with your chosen solid color.
 
-***
-
-### Fill with the Color Fill tool
-
 1. Choose the Color Fill tool by doing one of the following:&#x20;
    * Click Color Fill <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999220000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Color Fill** from the Tools menu at the top of your screen.

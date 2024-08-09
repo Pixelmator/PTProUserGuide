@@ -16,8 +16,6 @@ layout:
 
 The Distortion category features the Bump, Pinch, Twirl, Circle Splash, Displacement Map, Hole, Light Tunnel, and Vortex effects — these effects physically distort your selected layer.
 
-***
-
 ## Distort an image
 
 Distortion effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -126,8 +124,6 @@ The Vortex effect twists images around a central point to simulate a vortex.
 2. Move the handle of the effect rope to set the center of the Vortex effect. If the effect rope isn’t visible, click the Edit button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589984788000.png)
-
-***
 
 ## Show before and after or reset effects
 

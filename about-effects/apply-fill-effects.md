@@ -16,8 +16,6 @@ layout:
 
 The effects in the Fill category fill your selected layer using a color, gradient, pattern, or image.
 
-***
-
 ## Fill an image with color, gradient, pattern, or image
 
 Fill effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -55,7 +53,7 @@ The Gradient effect fills your selected layer with a gradual transition between 
 
 Customize the effect:
 
-* Click the _Gradient_ well to customize the gradient or choose a new one using the [gradients palette](https://www.pixelmator.com/support/guide/pixelmator-pro/1231).
+* Click the _Gradient_ well to customize the gradient or choose a new one using the gradients palette.
 * Move the _Scale_ slider to adjust the transition between the colors of the gradient. You can also enter a value from 0% to 200%.
 * Move the _Angle_ wheel to adjust the rotation of the gradient. You can also enter a value from 0.0º to 359.9º.  Move the _Opacity_ slider to adjust the transparency of the gradient. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
 * Move the handles of the effect rope to adjust the position of the gradient. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
@@ -68,7 +66,7 @@ The Pattern effect fills your selected layer with a repeating pattern.
 
 Customize the effect:
 
-* Drag and drop the image you’d like to use as the pattern onto the image well in the Tool Options pane. Or click the _Image_ pop-up menu, click Choose, find the image you’d like to use and click Import.
+* Drag and drop the image you’d like to use as the pattern onto the image well in the Tool Options pane. Or click the _Image_ pop-up menu, click Choose, find the image you’d like to use, and click Import.
 * Move the _Scale_ slider to adjust the size of the pattern. You can also enter a value from 0% to 200%.
 * Move the _Angle_ wheel to adjust the rotation of the pattern. You can also enter a value from 0.0º to 359.9º.  Move the _Opacity_ slider to adjust the transparency of the pattern. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
 * Move the handles of the effect rope to adjust the position of the pattern. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
@@ -85,8 +83,6 @@ Customize the effect:
 * Move the _Angle_ wheel to adjust the rotation of the image. You can also enter a value from 0.0º to 359.9º. 
 * Move the _Opacity_ slider to adjust the transparency of the image. Click the _Opacity (Normal)_ pop-up menu to choose a different blend mode.
 * Move the handles of the effect rope to adjust the position of the image. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
-
-***
 
 ## Show before and after or reset effects
 

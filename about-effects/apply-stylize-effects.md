@@ -16,8 +16,6 @@ layout:
 
 The effects in the Stylize category apply differrent artistic effects to your selected layer.
 
-***
-
 ## Stylize an image
 
 Stylize effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -194,8 +192,6 @@ You can also apply the Comics effect by choosing **Format > Effects > Stylize > 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590094864000.jpeg)
 
 To preserve layer transparency when applying the Comics effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
-
-***
 
 ## Show before and after or reset effects
 

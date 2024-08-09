@@ -32,7 +32,7 @@ Once you have made a selection, you can move, copy, delete, or cut the selected 
 
 You can cut, copy, and paste from Pixelmator Pro into other apps, or from other apps into Pixelmator Pro.
 
-&#x20;:bulb:**Tip:** If, after pasting a selection, you notice any trace of the previous background color you want to remove, you can use the Decontaminate Colors feature. Choose **Format > Image > Decontaminate Colors** to apply it.&#x20;
+&#x20;:bulb: **Tip:** If, after pasting a selection, you notice any trace of the previous background color you want to remove, you can use the [Decontaminate Colors](../automatically-edit-images/decontaminate-colors.md) feature. Choose **Format > Image > Decontaminate Colors** to apply it.&#x20;
 
 ## Copy or cut and paste a selected area as a new layer
 
@@ -66,6 +66,6 @@ You can also press the `Command ⌘` + `J` and `Shift ⇧` + `Command ⌘` + `J`
 2. `Control ⌃` – click the image and choose Crop.
 3. Click Apply in the Tool Options pane to crop the image.
 
-:blue\_book:**Note:** Doing this crops the entire image, rather than deleting areas from just your selected layer. To crop the selected layer, you’d need to delete everything outside the selected area.
+:blue\_book: **Note:** Doing this crops the entire image, rather than deleting areas from just your selected layer. To crop the selected layer, you’d need to delete everything outside the selected area.
 
 \

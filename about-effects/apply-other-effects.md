@@ -16,8 +16,6 @@ layout:
 
 The effects in this category allow you to change the perspective of a layer, mask your selected layer to alpha, or apply a high pass filter to your image.
 
-***
-
 ## Apply Other effects
 
 Effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -55,7 +53,7 @@ Customize the effect:
 * Drag the _Opacity_ slider to the right to increase the contrast of the effect, or to the left to decrease it. You can also enter a value from 0% to 100%.
 * Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — and choose a blend mode.
 
-&#x20;**Tip:** The High Pass effect is often used in combination with contrast blend modes (such as Overlay, Hard Light, etc.) to create different image sharpening effects.
+:bulb: **Tip:** The High Pass effect is often used in combination with contrast blend modes (such as Overlay, Hard Light, etc.) to create different image sharpening effects.
 
 ### Low Pass effect
 
@@ -67,7 +65,7 @@ Customize the effect:
 * Drag the _Opacity_ slider to the right to increase the intensity of the effect, or to the left to decrease it. You can also enter a value from 0% to 100%.
 * Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — and choose a blend mode.
 
-&#x20;**Tip:** The Low Pass effect is often used in combination with layer blend modes to create different smoothing effects.
+:bulb: **Tip:** The Low Pass effect is often used in combination with layer blend modes to create different smoothing effects.
 
 ### Frequency Separation effect
 
@@ -79,8 +77,6 @@ Customize the effect:
 * Drag the _Low Pass_ slider to smooth out finer textures in an image, or drag it to the left to keep more details. You can also enter a value from 0.0 px to 100.0 px.
 * Drag the _Opacity_ slider to the right to increase the intensity of the effect, or to the left to decrease it. You can also enter a value from 0% to 100%.
 * Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — and choose a blend mode.
-
-***
 
 ## Show before and after or reset effects
 

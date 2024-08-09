@@ -16,8 +16,6 @@ layout:
 
 The effects in the Tile category repeatedly tile the selected layer in artistic or geometrical patterns.
 
-***
-
 ## Repeatedly tile an image
 
 Tile effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -250,8 +248,6 @@ The Perspective Tile effect changes the perspective of your selected image and t
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589994917000.png)
 
 To preserve layer transparency when applying the Perspective Tile effect, click the effect name in the Tool Options pane and choose Preserve Transparency.
-
-***
 
 ## Show before and after or reset effects
 

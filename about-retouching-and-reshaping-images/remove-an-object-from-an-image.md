@@ -16,8 +16,6 @@ layout:
 
 Use the Repair tool to remove anything from small imperfections, like specks of dust or blemishes, to entire objects from an image. The Repair tool is brush-based, so you brush over an object to remove it. When you paint over an area with the Repair tool, it takes parts of the surrounding areas and intelligently stitches them together, matching the colors, textures, and lighting, to seamlessly recreate the area of the image left behind after removing an object.
 
-## Remove an object from an image using the Repair tool
-
 1. Do one of the following:
    * Choose the Repair <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999369000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Retouch > Repair** from the Tools menu at the top of your screen.
@@ -41,8 +39,8 @@ If you’d like to repair a very precise part of an image, you can make a select
 
 ## Show before and after or reset effects
 
-_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
+_Show Original:_ Click the Show Original button to see what the image looked like before.
 
-_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button or press `Control ⌃` + `C` on your keyboard.
 
-To reset all effects, click Reset at the bottom of the Tool Options pane.
+Click Reset to discard all the current changes.

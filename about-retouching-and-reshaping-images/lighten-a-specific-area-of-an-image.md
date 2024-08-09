@@ -16,10 +16,6 @@ layout:
 
 The Lighten tool is used to lighten a specific area of an image. You could, for example, lighten a dark area of an otherwise well-exposed image to add extra emphasis to it.
 
-***
-
-## Lighten a specific area of an image
-
 1. Do one of the following:
    * Choose the Lighten <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999589000.png" alt="" data-size="line"> tool in the Tools sidebar, or choose it from the [grouped tools](#user-content-fn-1)[^1].
    * Choose **Tools > Retouch > Lighten** from the Tools menu at the top of your screen.
@@ -39,12 +35,10 @@ The Lighten tool is used to lighten a specific area of an image. You could, for 
 
 ## Show before and after or reset effects
 
-_Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any effects.
+_Show Original:_ Click the Show Original button to see what the image looked like before.
 
-_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button or press `Control ⌃` + `C` on your keyboard.
 
-To reset all effects, click Reset at the bottom of the Tool Options pane.
+Click Reset to discard all the current changes.
 
-[^1]: Some of the tools in the Tools sidebar are grouped based on their function. To select a different tool from a group, double-click, force click, or Control-click any grouped tool in the Tools sidebar. See [Pixelmator Pro tools](../pixelmator-pro-basics/pixelmator-pro-tools.md) to learn more about the tool groups.\
-    \
-    ![](../.gitbook/assets/glossary-grouped-tools-2.4.gif)
+[^1]: 

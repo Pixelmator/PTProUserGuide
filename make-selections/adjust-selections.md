@@ -28,7 +28,7 @@ To move a selection outline:
 2. Select the New selection mode in the Tool Options pane. Alternatively, you can `Control ⌃` – click inside the selection and choose Transform Selection.
 3. Move the mouse pointer inside the selection outline and drag it.
 
-:bulb:**Tip:** You can also move a selection using the arrow keys on your keyboard. Pressing an arrow key moves the selection by one pixel in that direction. To move it by ten pixels, press and hold the `Shift ⇧` key, then press an arrow key.
+:bulb: **Tip:** You can also move a selection using the arrow keys on your keyboard. Pressing an arrow key moves the selection by one pixel in that direction. To move it by ten pixels, press and hold the `Shift ⇧` key, then press an arrow key.
 
 ## Change the shape or size of a selection
 

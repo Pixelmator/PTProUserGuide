@@ -16,11 +16,7 @@ layout:
 
 The Gradient Fill tool fills layers with your chosen gradient — a gradual transition between multiple colors. You can choose from the gradient presets that come with Pixelmator Pro or create and save your own. You can also fill any layer with a gradient using the Gradient Fill effect.
 
-A gradient will always have at least two colors. Each color is represented by color stops on a fill bar. You can change how the gradient looks like by adding or removing stops, adjusting their position, and setting the color and transparency of each.
-
-***
-
-### Fill with the Gradient Fill tool
+A gradient will always have at least two colors. Each color is represented by color stops on a fill bar. You can change how the gradient looks by adding or removing stops, adjusting their position, and setting the color and transparency of each.
 
 1. Choose the Gradient Fill tool by doing one of the following:&#x20;
    * Click Gradient <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999231000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
@@ -40,6 +36,4 @@ A gradient will always have at least two colors. Each color is represented by co
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605706640000.png)
 3. Drag on the canvas to fill the selected layer with a gradient.
 
-***
-
-If you'd like to discard all the current changes made with the Gradient Fill tool, click the Reset button at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+If you'd like to discard all the current changes made with the Gradient Fill tool, click the Reset button at the bottom of the Tool Options pane.

@@ -16,8 +16,6 @@ layout:
 
 The Color Adjustments category features effects that let you change the colors, light, and contrast of an image or add special effects.
 
-***
-
 ## Adjust the colors of an image
 
 Color Adjustments effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -120,8 +118,6 @@ Customize the effect:
 * Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — and choose a blend mode.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1608550073000.png)
-
-***
 
 ## Show before and after or reset effects
 

@@ -16,8 +16,6 @@ layout:
 
 The Sharpen category features the Sharpen and Sharpen luminance effects.
 
-***
-
 ## Sharpen an image
 
 Sharpen effects can be applied directly to a single layer or, using an effects layer, to multiple layers in a composition.
@@ -54,8 +52,6 @@ The Sharpen Luminance effect increases image detail and clarity without affectin
 * Drag the Radius slider to the right to increase image detail near any edge, or to the left to decrease it. You can also enter a value from 0% to 2000%.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589985237000.png)
-
-***
 
 ## Show before and after or reset effects
 
