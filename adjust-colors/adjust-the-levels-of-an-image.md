@@ -29,7 +29,7 @@ The Levels adjustment can be applied directly to a single layer or, using a colo
 ### Edit the currently selected layer
 
 * Choose **Format > Color Adjustments > Levels** from the Format menu at the top of your screen.
-* In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Levels adjustment.
+* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Levels adjustment.
 * Press A on your keyboard and turn on the Levels adjustment.
 * Press Command ⌘ + L on your keyboard.
 

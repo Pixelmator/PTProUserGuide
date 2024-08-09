@@ -106,7 +106,7 @@ The Tilt-Shift blur effect creates a shallow depth of field, leaving a smaller, 
 1. Customize the effect:
    * Drag the Blur slider to the right to make the blurring stronger, or to the left to reduce it. You can also enter a value from 0.0 px to 100.0 px.
    * Drag the Transition slider to set how gradually the effect should transition from blurred to in-focus. You can also enter a value from 0% to 100%.
-2. Move the handle of the effect rope to choose which area should be in focus and which areas should be blurred. Drag the handle of the outer circle to set how large an area should be blurred. If the effect rope isn’t visible, click the rope button in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+2. Move the handle of the effect rope to choose which area should be in focus and which areas should be blurred. Drag the handle of the outer circle to set how large an area should be blurred. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980602000.png)
 

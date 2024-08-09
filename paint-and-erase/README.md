@@ -26,7 +26,7 @@ The Paint tool is a versatile painting tool — it can be used to paint traditio
    * Click the Paint <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999191000.png" alt="" data-size="line"> tool in the Tools sidebar or choose if from the grouped tools.
    * Choose **Tools > Paint** from the Tools menu at the top of your screen.&#x20;
    * Press the `B` key on your keyboard.
-2. In the Tool Options pane, click the [Brushes Browser](use-the-brushes-browser.md) to select a brush.
+2. In the Tool Options pane, click the [brushes browser](use-the-brushes-browser.md) to select a brush.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1624368548000.jpeg)
 
