@@ -53,10 +53,10 @@ The _Normal_ blend mode is the default blend mode for all layers. When it's set 
 
 When blending layers using blend modes in the Darken group, the resulting colors will usually be darker than either the base layer or the blend layer.
 
-*   _Darken:_ Emphasizes the darkest parts of each overlapping layer by making the lighter color values translucent and keeping the darker color values fully opaque. If the base layer color is the same as the color of the blend layer, the image remains the same.
+*   _Darken:_ Compares the luminance of the base and the blend layer colors and only keeps the darker ones. If the base layer color is of the same luminance level as the color of the blend layer, the image remains the same.
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1592205619000.jpeg)
-*   _Multiply:_ Emphasizes the darkest parts of each overlapping layer, evenly mixing the midtones of both layers. The result is always a darker image.
+*   _Multiply:_ Keeps only the darkest colors of the blend layer, evenly mixing the midtones of both layers. The result is always a darker image.&#x20;
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1592205625000.jpeg)
 *   _Color Burn:_ Intensifies the darker areas of a base layer by saturating the midtones and reducing the highlights. The Multiply blend mode is useful for making image colors more intensive. If the blend layer color is white, the image remains the same.
