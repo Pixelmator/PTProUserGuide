@@ -16,8 +16,6 @@ layout:
 
 Use the machine learning-powered Denoise tool to quickly remove camera noise produced by digital cameras. Denoise can also reduce JPEG compression artifacts.
 
-You can reduce noise in a single layer or, using a color adjustments layer, multiple layers in a composition.
-
 Do any of the following:
 
 * Choose **Format > Denoise** from the Format menu at the top of your screen.

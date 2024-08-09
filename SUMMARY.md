@@ -34,6 +34,7 @@
   * [About the Pixelmator Pro file format](create-open-and-save-images/about-the-pixelmator-pro-file-format.md)
   * [About Pixelmator Pro sidecar files](create-open-and-save-images/about-pixelmator-pro-sidecar-files.md)
 * [Automatically edit images](automatically-edit-images/README.md)
+  * [Automatically increase image resolution](automatically-edit-images/automatically-increase-image-resolution.md)
   * [Enhance colors](automatically-edit-images/enhance-colors.md)
   * [Remove color banding](automatically-edit-images/remove-color-banding.md)
   * [Automatically reduce noise](automatically-edit-images/automatically-reduce-noise.md)
