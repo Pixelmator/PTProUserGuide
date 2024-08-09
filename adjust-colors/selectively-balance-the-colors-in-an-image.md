@@ -38,7 +38,7 @@ The Color Balance adjustment can be applied directly to a single layer or, using
 
 The color wheel interface is inspired by professional color grading tools found in video editing apps. It may be a little overwhelming at first, but it's probably the most natural and intuitive way to add color tints to the shadows, midtones, and highlights of an image.
 
-1. To get started, click the Color Balance pop-up menu in the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) to choose how you want to adjust your image.
+1. To get started, click the Color Balance pop-up menu in the Tool Options pane to choose how you want to adjust your image.
    * Click Master to use the master color wheel to add a color tint to the entire image. This can be a useful starting point if you want one color to be more prominent than others.
    * Click 3-Way Color to add color tints to the shadows, midtones, and highlights individually. This is the best option for getting unique looks and lighting effects for your images.
 2.  To adjust the color balance:
