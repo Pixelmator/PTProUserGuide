@@ -226,3 +226,13 @@ Do one of the following:
 * Click **View > Show (or Hide) Info Bar** from the View menu at the top of your screen.
 * Click the disclosure arrow next to the <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line"> item in the toolbar, then choose Show (or hide) Info Bar.
 * Press `Command ⌘` + Forward Slash `/` on your keyboard.
+
+#### See also
+
+[pixelmator-pro-tools.md](pixelmator-pro-tools.md "mention")
+
+[pixelmator-pro-settings](pixelmator-pro-settings/ "mention")
+
+[pixelmator-pro-keyboard-shortcuts](../pixelmator-pro-keyboard-shortcuts/ "mention")
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>The ultimate beginner's guide to Pixelmator Pro</td><td><a href="https://youtube.com/playlist?list=PLcza6SBHbkllF2Dyf5SQ-Yw0qgrwP_dHr&#x26;feature=shared">https://youtube.com/playlist?list=PLcza6SBHbkllF2Dyf5SQ-Yw0qgrwP_dHr&#x26;feature=shared</a></td><td><a href="../.gitbook/assets/img_thumbnail--v1@2x.jpg">img_thumbnail--v1@2x.jpg</a></td></tr><tr><td>A quick overview of every retouching tool</td><td><a href="https://www.pixelmator.com/tutorials/a-quick-overview-of-every-retouching-tool/">https://www.pixelmator.com/tutorials/a-quick-overview-of-every-retouching-tool/</a></td><td><a href="../.gitbook/assets/img_thumbnail--v1@2x-2.jpg">img_thumbnail--v1@2x-2.jpg</a></td></tr><tr><td>9 beginner vector tool tips</td><td><a href="https://www.pixelmator.com/tutorials/9-beginner-vector-tool-tips/">https://www.pixelmator.com/tutorials/9-beginner-vector-tool-tips/</a></td><td><a href="../.gitbook/assets/img_thumbnail--v1@2x-1.jpg">img_thumbnail--v1@2x-1.jpg</a></td></tr></tbody></table>

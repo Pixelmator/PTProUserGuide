@@ -16,7 +16,7 @@ layout:
 
 You can use keyboard shortcuts to quickly accomplish many tasks in Pixelmator Pro. To use a keyboard shortcut, press all the keys in the shortcut at the same time.
 
-While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can also create some custom ones yourself to best suit your workflow. See [Customize keyboard shortcuts](https://www.pixelmator.com/tutorials/resources/customize-keyboard-shortcuts/) to learn more.
+While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can also create some custom ones yourself to best suit your workflow. See [Customize keyboard shortcuts](customize-keyboard-shortcuts.md) to learn more.
 
 ## **Navigate an image**
 
