@@ -71,10 +71,8 @@ You can `Control ⌃` – click the toolbar and choose Customize Toolbar to add,
 5. Click Remove Background to clear the background of a photo and replace it with something else or save the image with a transparent background. See [Remove layer background](../remove-image-background.md) to learn more.
 6. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110188000.png" alt="" data-size="line"> to view document info (document type, size, and other properties), add a description or keywords.
 7. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110328000.png" alt="" data-size="line"> to rotate the image or video to the left. Press and hold the `Option ⌥` key to rotate the image to the right.
-8. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605162881000.png" alt="" data-size="line"> to access various document properties, including the image and canvas sizes, Color Depth, and Color Profile. Here, you’ll also find tools such as [Super Resolution](../.gitbook/assets/1006) and [Trim](../.gitbook/assets/1021).
-9.  Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605696962000.png" alt="" data-size="line"> to use the Quick Export options, add an edited image or video to Photos, Notes, send it through AirDrop, and more.
-
-    [Learn more about exporting from Pixelmator Pro](../.gitbook/assets/1094)
+8. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605162881000.png" alt="" data-size="line"> to access various document properties, including the image and canvas sizes, Color Depth, and Color Profile. Here, you’ll also find tools such as [Super Resolution](../automatically-edit-images/automatically-increase-image-resolution.md) and [Trim](../crop-and-straighten-images/trim-away-colored-or-transparent-borders-around-an-image.md).
+9. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605696962000.png" alt="" data-size="line"> to use the [Quick Export options](../export-and-share-images/quickly-export-or-share-an-optimized-image.md), add an edited image or video to Photos, Notes, send it through AirDrop, and more.
 10. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604258000.png" alt="" data-size="line"> to hide or show the Tools sidebar. See [Pixelmator Pro tools](pixelmator-pro-tools.md) to learn more.
 
 #### Show or hide the Toolbar
@@ -159,7 +157,7 @@ You can zoom in and out of the canvas, pan it in any direction while zoomed in, 
 
 If you’re mainly working with projects created from scratch, you can choose whether you want to start every new document with a white, black or transparent image canvas. Go to Pixelmator Pro settings to choose the background type you want.
 
-:blue\_book:**Note:** In Pixelmator Pro, you can hide all the elements of the interface except the image canvas. Choose **View > Hide Interface** from the View menu at the top of your screen or press `Control ⌃` + `H` on your keyboard to do so.
+:blue\_book: **Note:** In Pixelmator Pro, you can hide all the elements of the interface except the image canvas. Choose **View > Hide Interface** from the View menu at the top of your screen or press `Control ⌃` + `H` on your keyboard to do so.
 
 ***
 
@@ -169,7 +167,7 @@ Rulers help to accurately arrange and size layers on the canvas. When rulers are
 
 Rulers almost always come hand in hand with guides — another great tool to help arrange objects on a canvas more precisely. Add guides by clicking and dragging the arrow from the ruler onto the canvas.
 
-:blue\_book:**Note:** Rulers in new documents will be turned on automatically, if a document before it had Rulers activated.
+:blue\_book: **Note:** Rulers in new documents will be turned on automatically, if a document before it had Rulers activated.
 
 For more information about guides and rulers, see Use rulers and Use alignment guides.
 
