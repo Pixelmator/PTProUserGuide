@@ -57,10 +57,10 @@ The Erase tool lets you erase image areas using any brush in your collection.
    * Press the `E` key on your keyboard.
 2. In the Tool Options pane, click the Brushes Browser to select an eraser brush.&#x20;
 3. Customize the Erase tool:
-   1. _Brush Size:_ Drag the Brush Size slider to adjust the size of the Erase tool brush. You can also enter a value from 1 to 5000 px.
-   2. _Softness:_ Drag the Softness slider to adjust the softness of the edges of the Erase tool brush.
-   3. _Opacity:_ Drag the Opacity slider to adjust the transparency of the Erase tool.
-   4.  _Smoothing:_ Smoothing automatically smooths out brush strokes as you paint allowing for straighter, more stable lines. You can turn on Smoothing at the bottom of the Erase tool options and choose the strength of smoothing from the pop-up menu, with 10% giving you minimal smoothing and 100% — maximum smoothing.
+   * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Erase tool brush. You can also enter a value from 1 to 5000 px.
+   * _Softness:_ Drag the Softness slider to adjust the softness of the edges of the Erase tool brush.
+   * _Opacity:_ Drag the Opacity slider to adjust the transparency of the Erase tool.
+   *   _Smoothing:_ Smoothing automatically smooths out brush strokes as you paint allowing for straighter, more stable lines. You can turn on Smoothing at the bottom of the Erase tool options and choose the strength of smoothing from the pop-up menu, with 10% giving you minimal smoothing and 100% — maximum smoothing.
 
        In the Brushes Browser, you can choose a brush from the collections on the left or search for brushes by name using the search field at the top.\
 
