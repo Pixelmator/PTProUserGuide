@@ -21,7 +21,8 @@ Sometimes, images printed or displayed on other devices look different than the 
 1. Open an image in Pixelmator Pro.
 2. Turn on soft proofing by doing one of the following:
    * Choose **View > Soft Proof Colors > Enable Soft Proof Colors** (from the View menu at the top of your screen).
-   * Press Command ⌘ + Y on the keyboard. _Note:_ Soft proofing only works when the image or graphic has a color profile applied. If the color profile is set to None under **Image > Color Profile**, the Soft Proof Colors menu will be grayed out.
+   * Press `Command ⌘` + `Y` on the keyboard.\
+     Soft proofing only works when the image or graphic has a color profile applied. If the color profile is set to None under **Image > Color Profile**, the Soft Proof Colors menu will be grayed out.
 3. Choose the color profile you want from the submenu.
 
 :blue\_book: **Note:** If you're not seeing the color profile you want, you may need to install it. This can be done by placing the color profile in the ColorSync Profiles folder of the macOS System library (/Library/ColorSync/Profiles).
