@@ -27,6 +27,4 @@ With keyboard dictation, you can dictate text anywhere you can type it. A feedba
     To add punctuation, speak its name (for example, _comma_ or _apostrophe_).
 4. Click Done below the microphone when you’re finished.
 
-***
-
 To learn more about dictation, go to Mac Help. Click the desktop to switch to the Finder, choose **Help > Mac Help** (from the Help menu at the top of your screen), then search for "dictation".

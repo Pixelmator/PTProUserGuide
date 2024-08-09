@@ -16,12 +16,10 @@ layout:
 
 Pixelmator Pro comes with a number of pre-made presets you can use to quickly crop your image to a number of popular formats. You can also easily create your own presets to use in future projects.
 
-***
-
 ## Apply a crop preset
 
 1. Choose the Crop tool by doing one of the following:
-   * Choose the Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png" alt="" data-size="line"> tool in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Tools > Crop** from the Tools menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2. Click the Constrain pop-up menu.
@@ -32,7 +30,7 @@ Pixelmator Pro comes with a number of pre-made presets you can use to quickly cr
 ## Customize the crop presets
 
 1. Choose the Crop tool by doing one of the following:
-   * Choose the Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png" alt="" data-size="line"> tool in the Pixelmator Pro toolbar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro toolbar.
    * Choose **Tools > Crop** from the Tools menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2. In the Constrain pop-up menu, make sure the Custom Aspect Ratio is selected.

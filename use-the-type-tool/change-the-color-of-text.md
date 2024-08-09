@@ -27,6 +27,4 @@ You can change the color of text to any color you want using the Pixelmator Pro 
 
 :bulb: **Tip:** You can also drag a color from the color well in the toolbar or any other color well in Pixelmator Pro.
 
-You can also customize the look of text (change the fill color, add stroke, or shadows) using [layer styles](https://www.pixelmator.com/support/guide/pixelmator-pro/902).
-
-\
+You can also customize the look of text (change the fill color, add stroke, or shadows) using [layer styles](../customize-layers-using-styles/).

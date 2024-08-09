@@ -29,7 +29,7 @@ With the Arrange tool, you can:
 
 * [_Select layers_.](select-layers.md) To start editing any layer, you first need to select it. Use the Arrange tool to select one or multiple layers at a time directly on the canvas.
 * [_Move and align layers_.](move-and-align-layers.md) Position elements at a specific place on the canvas. You can move and align one or multiple layers at a time, enter the exact coordinates where to place a layer, and more.
-* [_Resize, rotate, and flip layers_.](../resize-crop-and-straighten-images/) Make layers bigger or scale them down, rotate, or mirror layers by flipping vertically or horizontally.
+* [_Resize, rotate, and flip layers_.](../crop-and-straighten-images/) Make layers bigger or scale them down, rotate, or mirror layers by flipping vertically or horizontally.
 * [_Transform layers_.](transform-layers.md) Freely transform text, image, or shape layers to adjust perspective, skew, stretch layers in any direction, or resize using special scaling algorithms.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/arrange-tool-2.4.mp4" %}

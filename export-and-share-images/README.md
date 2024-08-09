@@ -25,7 +25,7 @@ Pixelmator Pro is a nondestructive, layer-based image editor. In order to preser
 3. To choose where to export the image, click the Locations pop-up menu, or the disclosure button next to it, then choose a location (for example, a folder or your desktop).
 4.  Customize the export file — choose a file format, color profile, quality, size, etc. The available options vary based on the file format selected.
 
-    :blue\_book: **Note:** When resizing images for export, Pixelmator Pro uses the most universal, Bilinear scaling algorithm. It works best for scaling down images. If, instead, you'd like to upscale your image (using Super Resolution) or use a different algorithm for downscaling, you can do so in the [Image Size](../resize-crop-and-straighten-images/change-the-image-size.md) menu before export.&#x20;
+    :blue\_book: **Note:** When resizing images for export, Pixelmator Pro uses the most universal, Bilinear scaling algorithm. It works best for scaling down images. If, instead, you'd like to upscale your image (using Super Resolution) or use a different algorithm for downscaling, you can do so in the [Image Size](../change-the-image-size.md) menu before export.&#x20;
 5. Click Export.
 
 ## Image formats
@@ -120,7 +120,7 @@ The SVG (Scalable Vector Graphics) format is a vector file format. SVG images an
 
 Export an image to Pixelmator Pro format
 
-Typically, to save Pixelmator Pro-native [PXD](https://www.pixelmator.com/support/guide/pixelmator-pro/639) files, you use the **File > Save** (from the File menu at the top of your screen) command. However, you can also export to PXD if your workflow requires it.
+Typically, to save Pixelmator Pro-native [PXD](../create-open-and-save-images/about-the-pixelmator-pro-file-format.md) files, you use the **File > Save** (from the File menu at the top of your screen) command. However, you can also export to PXD if your workflow requires it.
 
 ### PSD
 

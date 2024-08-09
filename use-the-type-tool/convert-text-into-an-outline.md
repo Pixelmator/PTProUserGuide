@@ -14,7 +14,7 @@ layout:
 
 # Convert text into an outline
 
-One way to customize your added text is by converting it into outlined text. If you'd like to adjust the width of the outline or add more than one outline, you can use the [Style tool](https://www.pixelmator.com/support/guide/pixelmator-pro/906) for this.&#x20;
+One way to customize your added text is by converting it into outlined text. If you'd like to adjust the width of the outline or add more than one outline, you can use the [Style tool](../customize-layers-using-styles/) for this.&#x20;
 
 1. Choose the Type tool by doing one of the following:
    * Choose the Type  <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.

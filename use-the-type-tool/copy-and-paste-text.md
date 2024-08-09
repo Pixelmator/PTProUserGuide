@@ -14,11 +14,7 @@ layout:
 
 # Copy and paste text
 
-To quickly reuse text, copy it from one location and paste it to another. You can also copy and paste just the style of the text to easily match text style to other text in your image.
-
-***
-
-### Copy and paste text
+To quickly reuse text, copy it from one location and paste it to another. You can also copy and paste just the style of the text to easily match text style to other text in your image
 
 1.  Select the text you'd like to copy.
 

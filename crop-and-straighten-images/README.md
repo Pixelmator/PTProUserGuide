@@ -12,12 +12,12 @@ layout:
     visible: true
 ---
 
-# Crop and straighten an image
+# Crop and straighten images
 
 You can crop images to improve their composition or eliminate unwanted parts. When cropping, you can use a preset or custom aspect ratio, or you can constrain the image to its original aspect ratio. You can also straighten or fix the perspective of images that were taken at an angle unintentionally.
 
 1. Choose the Crop tool by doing one of the following:
-   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Tools > Crop** from the Tools menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2.  Resize the crop box to select the area of your image you want to keep by dragging the crop box handles, entering a custom size into the width and height fields or using [text field math](../pixelmator-pro-basics/use-text-field-math.md) to calculate it.
@@ -27,14 +27,14 @@ You can crop images to improve their composition or eliminate unwanted parts. Wh
 
 :bulb: **Tip:** If you're looking to crop an image to a specific shape, such as an ellipse or triangle, you can use a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more.
 
-To quickly reset the crop box to the original image height, fit the image into a crop box, switch between constrained and free cropping, or automate other cropping and straightening tasks, you can use keyboard shortcuts. See [Pixelmator Pro keyboard shortcuts](broken-reference) to find the complete list of Crop tool shortcuts.
+To quickly reset the crop box to the original image height, fit the image into a crop box, switch between constrained and free cropping, or automate other cropping and straightening tasks, you can use keyboard shortcuts. See [Pixelmator Pro keyboard shortcuts](../pixelmator-pro-keyboard-shortcuts.md) to find the complete list of Crop tool shortcuts.
 
 :blue\_book: **Note:** When resizing, the crop box Pixelmator Pro shows an overlay to help you adjust the crop box more precisely. You can learn more about changing the overlay type or its display settings in the "Choose a crop overlay" section below.&#x20;
 
 ## Constrain the crop box to a custom aspect ratio or size
 
 1. Choose the Crop tool by doing one of the following:
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png) in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Image > Crop** from the Image menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2. If a crop preset is selected, click the Constrain pop-up menu and choose Custom Aspect Ratio or Custom Size.
@@ -45,7 +45,7 @@ To quickly reset the crop box to the original image height, fit the image into a
 When cropping, you can choose whether you’d like to hide or delete the cropped contents of an image.
 
 1. Choose the Crop tool by doing one of the following:
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png) in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Image > Crop** from the Image menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2. Select "Delete cropped pixels" to permanently delete the cropped areas of an image or deselect it to crop the image nondestructively and hide the cropped areas of an image instead.
@@ -55,7 +55,7 @@ When cropping, you can choose whether you’d like to hide or delete the cropped
 You can crop an image automatically using machine-learning powered Crop. ML Crop uses machine learning to predict the best crop for a selected aspect ratio.
 
 1. Choose the Crop tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Image > Crop** from the Image menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2. Click ML Crop in the Tool Options pane. The button will light up yellow to tell you ML Crop has been used on the image.
@@ -71,17 +71,17 @@ If you’d like to straighten the image automatically, you can use the Auto Stra
 To automatically straighten an image:
 
 1. Choose the Crop tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Image > Crop** from the Image menu at the top of your screen.
    * Press the `C` key on your keyboard.
-2. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> next to the ML Crop button in the Tool Options pane and choose Auto Straighten.
+2. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> next to the ML Crop button in the Tool Options pane and choose Auto Straighten.
 
 ## Remember the last used crop aspect ratio
 
 In certain workflows, it may be useful to be able to reapply the last used crop ratio. You can set Pixelmator Pro to remember this setting by following these steps:
 
 1. Choose the Crop tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Image > Crop** from the Image menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2. Click the Constrain pop-up menu at the top of the Tool Options pane.&#x20;
@@ -95,7 +95,7 @@ In certain workflows, it may be useful to be able to reapply the last used crop 
 When cropping images, you can make use of the handy cropping guides often used in photography and image editing. There are 7 different guides you can choose from and although you can always crop images however you like, crop guides can suggest new ways of looking at an image or help achieve more eye-catching and balanced compositions.
 
 1. Choose the Crop tool by doing one of the following:
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998909000.png) in the Pixelmator Pro Tools sidebar.
+   * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Image > Crop** from the Image menu at the top of your screen.
    * Press the `C` key on your keyboard.
 2. Click the Overlay pop-up menu and choose the guide you want.&#x20;

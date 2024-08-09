@@ -33,7 +33,7 @@ Pixelmator Pro lets you export images and videos for the web in PNG, JPEG, GIF, 
 3. (Optional) Customize the export options of your selected format.
 4. Click Export.
 
-:bulb: **Tip:** You can also drag and drop the thumbnail in the Export for Web section of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) onto the Desktop, a Finder window, or elsewhere to export one or multiple versions of the image with the current export settings.
+:bulb: **Tip:** You can also drag and drop the thumbnail in the Export for Web section of the Tool Options pane onto the Desktop, a Finder window, or elsewhere to export one or multiple versions of the image with the current export settings.
 
 ## Add an additional export format
 
