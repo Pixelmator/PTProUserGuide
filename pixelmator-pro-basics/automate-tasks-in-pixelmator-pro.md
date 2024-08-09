@@ -26,7 +26,9 @@ In the Shortcuts app, you'll find 29 different Pixelmator Pro actions that you c
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1635146380000.png)
 
-See our tutorial on [batch processing images with Shortcuts](https://www.pixelmator.com/tutorials/video/automation-magic-with-shortcuts-and-pixelmator-pro/) to learn more about working with the Shortcuts app or check out [a collection of sample shortcuts](http://upload-cdn.pixelmator.com/Pixelmator-Pro-Shortcuts.zip) created by the Pixelmator Team for inspiration.
+See our tutorial on [batch processing images with Shortcuts](https://www.pixelmator.com/tutorials/video/automation-magic-with-shortcuts-and-pixelmator-pro/) to learn more about working with the Shortcuts app or check out a collection of sample shortcuts created by the Pixelmator Team for inspiration:
+
+{% file src="../.gitbook/assets/Pixelmator-Pro-Sample-Shortcuts.zip" %}
 
 ***
 
