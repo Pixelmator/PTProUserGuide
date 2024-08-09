@@ -61,3 +61,13 @@ There are five types of [retouching and reshaping](https://www.pixelmator.com/su
 ## Color Adjustments and Effects
 
 <table><thead><tr><th width="333">Tools</th><th width="144">Shortcuts</th><th>Description</th></tr></thead><tbody><tr><td><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058943000.png" alt="" data-size="line"> Color Adjustments</td><td><code>A</code></td><td>Use <a href="https://www.pixelmator.com/support/guide/pixelmator-pro/688">color adjustments</a> to edit the colors of an image in any way you want to. Also, try out the amazing, machine-learning powered tools to remove noise, automatically enhance, or match image colors with the colors of another image.</td></tr><tr><td><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> Effects</td><td><code>F</code></td><td>Choose from over 70 nondestructive <a href="https://www.pixelmator.com/support/guide/pixelmator-pro/805">effects</a> and create unique combinations to make your own special effects.</td></tr></tbody></table>
+
+#### See also
+
+[pixelmator-pro-keyboard-shortcuts](../pixelmator-pro-keyboard-shortcuts/ "mention")
+
+[automatically-edit-images](../automatically-edit-images/ "mention")
+
+[interface-overview.md](interface-overview.md "mention")
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>The ultimate beginner's guide to Pixelmator Pro<a href="https://www.pixelmator.com/tutorials/a-quick-overview-of-every-retouching-tool/"><br></a></td><td><a href="https://youtube.com/playlist?list=PLcza6SBHbkllF2Dyf5SQ-Yw0qgrwP_dHr&#x26;feature=shared">https://youtube.com/playlist?list=PLcza6SBHbkllF2Dyf5SQ-Yw0qgrwP_dHr&#x26;feature=shared</a></td><td><a href="../.gitbook/assets/img_thumbnail--v1@2x.jpg">img_thumbnail--v1@2x.jpg</a></td></tr><tr><td>How to use design templates </td><td><a href="https://youtu.be/y6PGzWJgTuU">https://youtu.be/y6PGzWJgTuU</a></td><td><a href="../.gitbook/assets/img_thumbnail--v1@2x.png">img_thumbnail--v1@2x.png</a></td></tr><tr><td>How to use mockups</td><td><a href="https://youtu.be/otqAgmXF1zM">https://youtu.be/otqAgmXF1zM</a></td><td><a href="../.gitbook/assets/img_thumbnail@2x.png">img_thumbnail@2x.png</a></td></tr></tbody></table>

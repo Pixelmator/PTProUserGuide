@@ -16,10 +16,6 @@ layout:
 
 You can zoom in and out of an image to make it easier to work on large images or work on smaller details.
 
-***
-
-### Zoom in or out of an image
-
 Do any of the following:
 
 * Drag the Zoom slider in the toolbar.
@@ -52,13 +48,9 @@ Do one of the following:
 * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the Tools sidebar and click Actual Size in the Tool Options pane.
 * Choose **Tools > Zoom** from the Tools menu at the top of your screen and click Actual Size in the Tool Options pane. This displays the image as it would appear in a web browser.
 
-{% hint style="warning" %}
-Pixelmator Pro is optimized for the Retina display, so if you have a Mac computer with a Retina display, keep in mind that the image will appear twice as small as on other displays or in apps like Preview. To view the image as it would appear on those displays or on a website not optimized for Retina, set the zoom percentage to 200%.
-{% endhint %}
+:exclamation:**Important:** Pixelmator Pro is optimized for the Retina display, so if you have a Mac computer with a Retina display, keep in mind that the image will appear twice as small as on other displays or in apps like Preview. To view the image as it would appear on those displays or on a website not optimized for Retina, set the zoom percentage to 200%.
 
-***
-
-## Use the Zool tool
+### Use the Zool tool
 
 The Pixelmator Pro Zoom tool lets you zoom in and out of the image using the zoom slider, zoom modes, and more.
 
