@@ -24,10 +24,9 @@ Give a beautiful start to your designs using over 400 templates for social media
 
 1. To open Pixelmator Pro, click the Pixelmator Pro icon in the Dock, Launchpad, or the Applications folder.
 2. Do one of the following:
-   * In the Pixelmator Pro Welcome screen (shown below), click "Create a new document".\
-     \
+   * In the Pixelmator Pro Welcome screen, click "Create a new document".\
      If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** from the Window menu at the top of the screen. You can also press `Command ⌘` + `Shift ⇧` + `1` on your keyboard.
-   * Choose **File > New** (from the File menu at the top of your screen).
+   * Choose **File > New** from the File menu at the top of your screen.
    * `Control ⌃` – click the Pixelmator Pro icon in the Dock and choose New.
 3. In the template browser, browse the different template and mockup categories to find the design you like, then double-click its thumbnail to open it.
 
@@ -41,8 +40,8 @@ If you're looking to create a new blank image for a specific purpose, you can ch
 
 1. To open Pixelmator Pro, click the Pixelmator Pro icon in the Dock, Launchpad, or the Applications folder.
 2. Do one of the following:
-   * In the Pixelmator Pro Welcome screen, click "Create a new document". If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** (from the Window menu at the top of the screen). You can also press Command ⌘ + Shift ⇧ + 1 on your keyboard.
-   * Choose **File > New** (from the File menu at the top of your screen).
+   * In the Pixelmator Pro Welcome screen, click "Create a new document". If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** (from the Window menu at the top of the screen). You can also press `Command ⌘` + `Shift ⇧` + `1` on your keyboard.
+   * Choose **File > New** from the File menu at the top of your screen.
    * `Control ⌃` – click the Pixelmator Pro icon in the Dock and choose New.
 3. In the template browser, click All Templates then click the Preset pop-up menu in the sidebar on the right to open the preset browser.
 4. Browse the different preset categories to find the template size you need. You'll find the following preset categories: International Paper, US Paper, Photo, Web, Social, Film & Video, Iconography, and Devices.
@@ -53,7 +52,7 @@ If you're looking to create a new blank image for a specific purpose, you can ch
 
 1. In Pixelmator Pro, choose **File > New** from the File menu at the top of your screen.
 2. Enter your new image dimensions.
-3. Open the preset browser in the sidebar on the right, then click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> to save a new preset.
+3. Open the preset browser in the sidebar on the right, then click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> to save a new preset.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663831087000.jpeg)
 
@@ -77,8 +76,8 @@ The new image will be created using the image you have saved to the clipboard. T
 1. On your Mac, iPhone, or iPad, copy an image to Clipboard.
 2. Open Pixelmator Pro by clicking the Pixelmator Pro icon in the Dock, Launchpad, or the Applications folder.
 3. Do one of the following:
-   * In the Pixelmator Pro Welcome screen, click Create a new document. If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** (from the Window menu at the top of the screen.)
-   * Choose **File > New** (from the File menu at the top of your screen).
+   * In the Pixelmator Pro Welcome screen, click Create a new document. If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** from the Window menu at the top of the screen.
+   * Choose **File > New** from the File menu at the top of your screen.
    * `Control ⌃` – click the Pixelmator Pro icon in the Dock and choose New From Clipboard.
 4. In the template browser, choose the Clipboard option.
 5. Click Create or press the `Return ↵` key.
