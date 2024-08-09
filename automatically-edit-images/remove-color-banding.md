@@ -27,4 +27,4 @@ Do any of the following:
 1. Click **Format > Deband** from the Format menu at the top of your screen.
 2. Press `Shift ⇧` + `Control ⌃` + `B` on your keyboard.
 
-:bulb: **Tip:** For best results when debanding, [change the color depth of an image](https://www.pixelmator.com/support/guide/pixelmator-pro/1028) to 16 bits/Channel.
+:bulb: **Tip:** For best results when debanding, [change the color depth of an image](../adjust-colors/change-the-color-depth-of-an-image.md) to 16 bits/Channel.
