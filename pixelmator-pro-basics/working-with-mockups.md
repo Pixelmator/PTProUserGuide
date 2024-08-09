@@ -42,7 +42,7 @@ Replace the placeholder image by doing one of the following:
 
 Pixelmator Pro will use the machine-learning-powered Smart Replace feature to insert your designs. Smart Replace combines the power of three other ML features — Remove Background, Super Resolution, Auto Fill — and makes sure your designs fit perfectly into mockups.
 
-:blue\_book: **Note:** If you're using multilayered documents and would like to adjust the entire group, make sure the automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) select the Auto Select option and choose Group from the adjacent pop-up menu.
+:blue\_book: **Note:** If you're using multilayered documents and would like to adjust the entire group, make sure the automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the Tool Options pane select the Auto Select option and choose Group from the adjacent pop-up menu.
 
 When using images or documents from Files, you can additionally choose a preferred fill option — Original Size, Auto Fill, Scale to Fill, Scale to Fit, or Stretch.
 
@@ -78,7 +78,7 @@ To change the color of any of the composition elements surrounding your design, 
 
 After you've finished designing a mockup, you can save it as an editable document or export it.
 
-* By default, [saving a mockup](https://www.pixelmator.com/support/guide/pixelmator-pro/637) creates a PXD document in your chosen location, giving you the option to continue editing the mockup whenever you want. You can also choose to save your mockup to other image formats such as JPEG, PNG, HEIC, TIFF, and WebP while preserving changes.
-* [Exporting a mockup](https://www.pixelmator.com/support/guide/pixelmator-pro/798) lets you share your created designs on the web, send them to people who don't own Pixelmator Pro, or print them out.
+* By default, [saving a mockup](../create-open-and-save-images/save-and-name-an-image.md) creates a PXD document in your chosen location, giving you the option to continue editing the mockup whenever you want. You can also choose to save your mockup to other image formats such as JPEG, PNG, HEIC, TIFF, and WebP while preserving changes.
+* [Exporting a mockup](../export-and-share-images/) lets you share your created designs on the web, send them to people who don't own Pixelmator Pro, or print them out.
 
 :blue\_book: **Note:** When exporting mockups, pay attention to the export method you choose. Quick Export is best for producing images optimized for the web. Designs exported this way will be more lightweight and load quicker on the web but may also lose some level of detail. To export high-quality designs, use the regular Export option in the File menu instead.
