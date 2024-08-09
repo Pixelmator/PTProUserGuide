@@ -40,7 +40,7 @@ Export presets let you save a combination of export settings and quickly apply t
 
 If you’d like to overwrite or update an existing preset with new settings, you can redefine it.
 
-1. Add and customize any number of [export formats](export-an-image-or-video-for-the-web.md).
+1. Add and customize any number of export formats.
 2. In the Tool Options pane, click Presets <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605104039000.png" alt="" data-size="line">.
 3. Open the preset submenu and choose Redefine.
 

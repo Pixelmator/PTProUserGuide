@@ -37,9 +37,9 @@ The Shape tool comes with tons of unique shapes you'll find across a number of d
 
 Once you've created a preset or a preset collection, you can rename, redefine them, or share them with others.
 
-1. Choose the Shape tool ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605106203000.png) in the toolbar.
+1. Choose the Shape tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605106203000.png" alt="" data-size="line"> in the toolbar.
 2. Open the Shape browser and do any of the following:
-   1. _Share a custom shape:_ Drag and drop a shape from the list of shapes onto the desktop or into a Finder window. Share the _.shapes_ file with someone else via email or any other way you like. To share your shapes or vector designs across different image editing apps, you can also export them to the [SVG](https://www.pixelmator.com/support/guide/pixelmator-pro/798) file format.
+   1. _Share a custom shape:_ Drag and drop a shape from the list of shapes onto the desktop or into a Finder window. Share the _.shapes_ file with someone else via email or any other way you like. To share your shapes or vector designs across different image editing apps, you can also export them to the [SVG file format](../export-and-share-images/#svg).
    2. _Share a collection of custom shapes:_ Select the shape collection you'd like to export, then click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Export. Share the _.shapes_ file with someone else via email or any other way you like.
    3. _Share your entire shapes library:_ Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu. Press and hold the `Option ⌥` key, and choose Export All. Share the _.shapes_ file with someone else via email or any other way you like.
    4. _Rename a shape collection:_ In the Collection pop-up menu, open the shape collection you'd like to rename. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up and choose Rename to give your collection a name.

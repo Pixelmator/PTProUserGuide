@@ -37,4 +37,4 @@ The Color Fill tool fills in similarly colored areas of an image with your chose
 
 &#x20;:blue\_book:**Tip:** To quickly fill any object, shape, or selection, drag the color you want from any color well directly onto the image.
 
-If you'd like to discard all the current changes made with the Color Fill tool, click the Reset button at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary).
+If you'd like to discard all the current changes made with the Color Fill tool, click the Reset button at the bottom of the Tool Options pane.

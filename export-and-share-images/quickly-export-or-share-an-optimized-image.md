@@ -25,4 +25,4 @@ The Quick Export feature lets you export your entire image optimized with the se
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1652964088000.jpeg)
 
-To add your own Quick Export options, create a new [export preset](export-presets.md) or redefine an existing one.
+To add your own Quick Export options, create a new export preset or redefine an existing one.
