@@ -14,7 +14,7 @@ layout:
 
 # Change the color of text
 
-You can change the color of text to any color you want using the Pixelmator Pro [color picker](https://www.pixelmator.com/support/guide/pixelmator-pro/1231) or the macOS Colors window.
+You can change the color of text to any color you want using the Pixelmator Pro [color picker](../pixelmator-pro-basics/choose-and-manage-colors-in-pixelmator-pro.md) or the macOS Colors window.
 
 1. Choose the Type tool by doing one of the following:
    * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.

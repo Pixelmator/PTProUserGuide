@@ -62,8 +62,8 @@ Once you add a shape to the canvas, the options for its customization will appea
 
 There are several other ways you can edit shapes in Pixelmator Pro:
 
-* Use the [Arrange tool](https://www.pixelmator.com/support/guide/pixelmator-pro/1329) to move, resize, flip, or rotate the shape.&#x20;
-* Use the [Transform tool](../working-with-layers/transform-layers.md) to freely transform the shape, stretch, skew, or change its perspective.
+* Use the [Arrange tool](../working-with-layers/use-the-arrange-tool.md) to move, resize, flip, or rotate the shape.&#x20;
+* Use the [Transform tool](../working-with-layers/transform-layers.md#choose-the-transform-tool) to freely transform the shape, stretch, skew, or change its perspective.
 * Make the [shape editable](edit-vector-paths.md) and adjust individual anchor points of the shape.
 
 :blue\_book: **Note:** After making Smart Shapes editable, they become no longer customizable and lose their special controls, such as the corner radius for Rounded Rectangle, etc.\

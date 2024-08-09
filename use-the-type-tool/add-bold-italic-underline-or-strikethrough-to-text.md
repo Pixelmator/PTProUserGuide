@@ -29,4 +29,4 @@ To remove a specific format, click that button again.
 
 If the font you’re using has other styles available (such as light or condensed), click the Typeface pop-up menu above the buttons to choose one of them.
 
-:blue\_book: **Tip:** You can set [custom keyboard shortcuts](https://support.apple.com/en-gb/guide/mac-help/mchlp2271/mac) to quickly apply bold, italic, underline to text.
+:blue\_book: **Tip:** You can set [custom keyboard shortcuts](../pixelmator-pro-keyboard-shortcuts/customize-keyboard-shortcuts.md) to quickly apply bold, italic, underline to text.

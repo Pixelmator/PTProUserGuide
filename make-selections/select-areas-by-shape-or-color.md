@@ -14,6 +14,8 @@ layout:
 
 # Select areas by shape or color
 
+In Pixelmator Pro, you can easily select parts of your image based on shape and color. Whether you're outlining objects, choosing areas of similar color, or targeting specific color ranges, you'll find tools for each editing task.
+
 ## Quick Selection tool
 
 The Quick Selection tool lets you easily select individual elements or entire objects in an image by simply drawing over them. A clever selection algorithm analyzes the colors and textures of the objects in images to detect their edges and make precise selections.

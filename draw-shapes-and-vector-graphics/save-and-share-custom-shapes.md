@@ -24,13 +24,13 @@ The Shape tool comes with tons of unique shapes you'll find across a number of d
 2. Do any of the following:
    * In the Layers sidebar, find the shape you'd like to save, then drag its thumbnail to the list of shapes in the Tool Options pane.
    * Select a shape in your image, click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu, and choose Add Preset.
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any shape collection to save the custom shape to that collection.
+   * Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any shape collection to save the custom shape to that collection.
 
 :blue\_book: **Note:** When you save a custom shape, the shape’s size and rotation are saved, but its style properties aren’t.
 
 ## Create a new shape collection
 
-1. Choose the Shape tool ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605106203000.png) in the toolbar.
+1. Choose the Shape tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605106203000.png" alt="" data-size="line"> in the toolbar.
 2. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
 
 ## Customize shape presets

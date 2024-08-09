@@ -16,7 +16,7 @@ layout:
 
 You can rotate an image and all its contents by 90 or 180 degrees, or freely. You can also flip images vertically and horizontally.
 
-:blue\_book: **Note:** These options rotate and flip the entire image. To rotate or flip individual layers, see [Resize, rotate, and flip layers](https://www.pixelmator.com/support/guide/pixelmator-pro/991).
+:blue\_book: **Note:** These options rotate and flip the entire image. To rotate or flip individual layers, see [Resize, rotate, and flip layers.](../working-with-layers/resize-rotate-and-flip-layers.md)
 
 ## Rotate an image by 90 or 180 degrees
 
