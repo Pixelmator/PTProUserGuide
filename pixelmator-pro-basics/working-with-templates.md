@@ -14,7 +14,7 @@ layout:
 
 # Working with templates
 
-Pixelmator Pro features over 400 beautiful, designer-created templates for social media, web, print, and more. You can use the templates to quickly create professional-looking designs even if you have no design experience. Thanks to the easy-to-use on-canvas controls, you can replace the placeholder elements — images, videos, logos, or text — with your visuals or text with just a few simple clicks. You can also use built-in alternative elements — shapes, layer masks, illustrations, and more — to easily customize your designs.
+Pixelmator Pro features a ton of beautiful, designer-created templates for social media, web, print, and more. You can use the templates to quickly create professional-looking designs even if you have no design experience. Thanks to the easy-to-use on-canvas controls, you can replace the placeholder elements — images, videos, logos, or text — with your visuals or text with just a few simple clicks. You can also use built-in alternative elements — shapes, layer masks, illustrations, and more — to easily customize your designs.
 
 <figure><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663831586000.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ When replacing placeholders with images from Files, you can additionally choose 
 
 You can replace any written text in templates with your own text. All the formatting applied to the placeholder text will be applied to your text, too.
 
-To replace a placeholder text, double-click the text layer you want to edit, click and drag over the text you want to replace, and start typing. If you can't select the text, make sure the Auto Select feature is enabled. Choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> and select Auto Select at the bottom of the [Tool Options pane](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary)
+To replace a placeholder text, double-click the text layer you want to edit, click and drag over the text you want to replace, and start typing. If you can't select the text, make sure the Auto Select feature is enabled. Choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> and select Auto Select at the bottom of the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663833394000.jpeg)
 
@@ -89,12 +89,12 @@ In Pixelmator Pro, you can define custom placeholder images, text, and alternati
 
 To define an image or shape as a placeholder:
 
-1. [Select the layer](https://www.pixelmator.com/support/guide/pixelmator-pro/662) you'd like to use for a placeholder in the Layers sidebar or directly on the canvas.
+1. Select the layer you'd like to use for a placeholder in the Layers sidebar or directly on the canvas.
 2. Choose **Format > Advanced > Define as Placeholder** from the Format menu at the top of the screen.
 
 To define a group of images, shapes, or text as alternative elements:
 
-1. [Group the layers](https://www.pixelmator.com/support/guide/pixelmator-pro/671) you'd like to use as alternative elements.
+1. [Group the layers](../working-with-layers/organize-and-manage-layers.md#add-layers-to-a-layer-group) you'd like to use as alternative elements.
 2. Choose **Format > Advanced > Define as Alternative Elements Group** from the Format menu at the top of the screen.
 
 In the Placeholder Options menu, you can choose how the element you replace will be inserted. You can choose to automatically remove the background, or scale the visual in several different ways.
