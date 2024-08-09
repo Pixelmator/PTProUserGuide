@@ -25,11 +25,9 @@ After you've downloaded Pixelmator Pro, the Pixelmator Pro extension will automa
 1. Open the Photos app.
 2. Find the image you want to edit and double-click to open it.
 3. In the top-right corner of the screen, click Edit.
-4. Then, in the toolbar at the top of the screen, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> and choose Pixelmator Pro.
+4. Then, in the toolbar at the top of the screen, click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> and choose Pixelmator Pro.
 
-{% hint style="info" %}
-If Pixelmator Pro isn’t available in the list, click Manage, then click Photos Editing in the left sidebar, and turn on Pixelmator Pro.
-{% endhint %}
+:bulb: **Tip:** If Pixelmator Pro isn’t available in the list, click Manage, then click Photos Editing in the left sidebar, and turn on Pixelmator Pro.
 
 5. Edit your photo. For any tools or features unavailable in the Tools sidebar on the left, use keyboard shortcuts. See the full list of Pixelmator Pro keyboard shortcuts.
 6. Save your changes by clicking Save Changes in the top-right corner or click Cancel to discard them.
@@ -45,9 +43,7 @@ If you are using the Pixelmator Pro extension for the first time and want to sav
 
 You can change the method of saving changes at any point in the Pixelmator Pro Editing settings.
 
-{% hint style="info" %}
-To make saving edits in Photos possible, Pixelmator Pro creates a so-called sidecar file in the Pixelmator Pro Sidecar Files folder in iCloud or the Pictures folder on your Mac. If iCloud is turned off, the documents will be automatically saved to Pictures.
-{% endhint %}
+:blue\_book: **Note:** To make saving edits in Photos possible, Pixelmator Pro creates a so-called sidecar file in the Pixelmator Pro Sidecar Files folder in iCloud or the Pictures folder on your Mac. If iCloud is turned off, the documents will be automatically saved to Pictures.
 
 ## Import Pixelmator Pro documents to Photos
 
@@ -62,6 +58,6 @@ You can also import existing Pixelmator Pro documents (PXD) to Photos following 
 
 1. Select any photo in your Photos library and choose **Image > Duplicate 1 Photo**.
 2. In the top-right corner of the screen click Edit.
-3. In the toolbar at the top of your screen, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> and choose Pixelmator Pro.
+3. In the toolbar at the top of your screen, click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> and choose Pixelmator Pro.
 4. Press the `Command ⌘` + `O` keyboard shortcut to bring up the Replace dialog.
 5. Navigate to the Pixelmator Pro document you’d like to import and click Replace.

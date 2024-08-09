@@ -217,9 +217,7 @@ The Info bar provides useful information about the image or a selected layer. Th
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605448653000.png)
 
-{% hint style="info" %}
-You can `Control ⌃` – click the Info bar to add or remove certain properties.
-{% endhint %}
+:bulb: **Tip:** You can `Control ⌃` – click the Info bar to add or remove certain properties.
 
 The Info bar also offers quick access to Image Size, Color Profile, and Color Depth settings. Double-click the desired setting in the Info bar to open a dedicated edit sheet.
 
