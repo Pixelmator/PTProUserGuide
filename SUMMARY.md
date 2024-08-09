@@ -148,7 +148,6 @@
   * [Move, copy, and delete selected areas](make-selections/move-copy-and-delete-selected-areas.md)
   * [Convert selections into shapes](make-selections/convert-selections-into-shapes.md)
 * [Draw shapes and vector graphics](draw-shapes-and-vector-graphics/README.md)
-  * [Add and edit shapes](draw-shapes-and-vector-graphics/add-and-edit-shapes.md)
   * [Arrange and combine shapes](draw-shapes-and-vector-graphics/arrange-and-combine-shapes.md)
   * [Draw shapes with the Pen tool](draw-shapes-and-vector-graphics/draw-shapes-with-the-pen-tool.md)
   * [Draw shapes with the Freeform Pen tool](draw-shapes-and-vector-graphics/draw-shapes-with-the-freeform-pen-tool.md)

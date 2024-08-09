@@ -14,7 +14,7 @@ layout:
 
 # Draw shapes with the Pen tool
 
-The Pen tool is the classic vector drawing tool — it lets you precisely draw vector shapes and paths by manually adding anchor points, either sharp or smooth. The curved or straight lines that connect the two anchor points are called _vector paths_. Even the most complex of shapes are composed of these paths. In Pixelmator Pro, using the Pen and [Freeform Pen](https://www.pixelmator.com/support/guide/pixelmator-pro/1325) tools, you can draw vector paths to create your own shapes and save them to your shapes library.&#x20;
+The Pen tool is the classic vector drawing tool — it lets you precisely draw vector shapes and paths by manually adding anchor points, either sharp or smooth. The curved or straight lines that connect the two anchor points are called _vector paths_. Even the most complex of shapes are composed of these paths. In Pixelmator Pro, using the Pen and [Freeform Pen](draw-shapes-with-the-freeform-pen-tool.md) tools, you can draw vector paths to create your own shapes and save them to your shapes library.&#x20;
 
 Smooth anchor points feature additional direction handles. You can move them to adjust how much the path curves at the selected anchor point.&#x20;
 
@@ -48,7 +48,7 @@ To draw a straight line segment with the Pen tool:
 
 :bulb: **Tip:** If you’d like to delete the anchor point you last added, press the `Backspace ⌫` key on your keyboard.
 
-After you draw a vector path, you can further refine, remove, or add anchor points. To learn more about this, see [Edit vector paths](https://www.pixelmator.com/support/guide/pixelmator-pro/777).
+After you draw a vector path, you can further refine, remove, or add anchor points. To learn more about this, see [Edit vector paths](edit-vector-paths.md).
 
 ## Draw a curved line segment with the Pen tool
 
@@ -78,4 +78,4 @@ To draw a curved line segment with the Pen tool:
 
 :bulb: **Tip:** If you’d like to delete the last anchor point you added, press the `Backspace ⌫` key on your keyboard.
 
-After you draw a vector path, you can further refine, remove, or add anchor points. To learn more about this, see [Edit vector paths](https://www.pixelmator.com/support/guide/pixelmator-pro/777).
+After you draw a vector path, you can further refine, remove, or add anchor points. To learn more about this, see [Edit vector paths](edit-vector-paths.md).
