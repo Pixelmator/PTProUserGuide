@@ -18,10 +18,6 @@ You can print the documents you create using Pixelmator Pro directly from the ap
 
 The following instructions assume that your printer is already set up. You can set up a printer in Printers & Scanners settings on your Mac. Click the Apple menu in the top-left corner of your screen, choose System Preferences, then click Printers & Scanners.
 
-***
-
-## Print a document
-
 1. Do one of the following:
    * Choose **File > Print** (from the File menu at the top of your screen).
    * Press `Command ⌘` + `P` on your keyboard.

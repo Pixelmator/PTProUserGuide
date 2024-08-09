@@ -103,7 +103,7 @@ In the Placeholder Options menu, you can choose how the element you replace will
 
 After you've finished designing a template, you can save it or export it.
 
-* By default, [saving a template](https://www.pixelmator.com/support/guide/pixelmator-pro/637) creates a PXD document in your chosen location, giving you the option to continue editing the template whenever you want. You can also choose to save your template to other image formats such as JPEG, PNG, HEIC, TIFF, and WebP while preserving changes.
-* [Exporting a template](https://www.pixelmator.com/support/guide/pixelmator-pro/798) lets you share your created designs on the web, send them to people who don't own Pixelmator Pro, or print them out.
+* By default, [saving a template](../create-open-and-save-images/save-and-name-an-image.md) creates a PXD document in your chosen location, giving you the option to continue editing the template whenever you want. You can also choose to save your template to other image formats such as JPEG, PNG, HEIC, TIFF, and WebP while preserving changes.
+* [Exporting a template](../export-and-share-images/) lets you share your created designs on the web, send them to people who don't own Pixelmator Pro, or print them out.
 
 :blue\_book: **Note:** When exporting templates, pay attention to the export method you choose. Quick Export is best for producing images optimized for the web. Designs exported this way will be more lightweight and load quicker on the web but may also lose some level of detail. To export high-quality designs, use the regular Export option in the File menu instead.

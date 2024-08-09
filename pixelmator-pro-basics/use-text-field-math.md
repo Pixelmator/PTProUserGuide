@@ -21,5 +21,3 @@ The text fields in Pixelmator Pro are designed in a way that lets you automatica
 Also, if you're making some more advanced calculations, you can use parentheses to define the order of operations (e.g.: (2 px + 2) \* (2 + 2)).
 
 :blue\_book: **Note:** Pixelmator Pro recognizes both comma and period as decimal separators, independently from the macOS locale.
-
-***

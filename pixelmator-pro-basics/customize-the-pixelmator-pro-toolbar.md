@@ -16,8 +16,6 @@ layout:
 
 The toolbar at the top of the Pixelmator Pro window gives access to different controls you need to work in Pixelmator Pro. You can customize the toolbar by adding, removing, and rearranging the toolbar buttons.
 
-***
-
 ### Show or hide the Toolbar
 
 Do one of the following:

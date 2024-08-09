@@ -16,9 +16,7 @@ layout:
 
 Using Pixelmator Pro settings, you can change how Pixelmator Pro looks and behaves. These settings will apply to all your documents.
 
-***
-
-### Open Pixelmator Pro settings
+Do any of the following:
 
 * Choose **Pixelmator Pro > Settings** (from the Pixelmator Pro menu at the top of your screen).
 * Press `Command ⌘` + Comma `,` on your keyboard.

@@ -22,13 +22,13 @@ Using the Touch Bar, you can easily select any tool in Pixelmator Pro.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588145551000.jpeg)
 
-Some of the Pixelmator Pro tools are grouped with other tools. The [grouped tools](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary) slide out as you tap the primary tool.
+Some of the Pixelmator Pro tools are grouped with other tools. The grouped tools slide out as you tap the primary tool.
 
-When arranging layers, the Arrange tool options in the Touch Bar let you quickly rotate, scale layers, or move them up or down the [layers list](https://www.pixelmator.com/support/guide/pixelmator-pro/655).
+When arranging layers, the Arrange tool options in the Touch Bar let you quickly rotate, scale layers, or move them up or down the layers list.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596031123000.png)
 
-If a shape is selected, the Touch Bar shows controls to change the shape's [blend mode](https://www.pixelmator.com/support/guide/pixelmator-pro/905), opacity, and apply style presets.
+If a shape is selected, the Touch Bar shows controls to change the shape's [blend mode](../customize-layers-using-styles/change-the-blend-mode-of-a-layer.md), opacity, and apply style presets.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596031533000.png)
 
