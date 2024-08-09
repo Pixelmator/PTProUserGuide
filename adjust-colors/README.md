@@ -48,7 +48,7 @@ To add a color adjustments layer, do any of the following:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649238285000.jpeg)
 
-**Tip:** If you'd like to apply a color adjustments layer to only one layer below it, you can do that using a clipping mask. See [Use clipping masks](https://www.pixelmator.com/support/guide/pixelmator-pro/1156) to learn more about working with clipping masks.
+:bulb: **Tip:** If you'd like to apply a color adjustments layer to only one layer below it, you can do that using a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more about working with clipping masks.
 
 ## Add and remove color adjustments
 
@@ -84,7 +84,7 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
 ## Temporarily see the original layer without any adjustments
 
 1. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Color Adjustments** from the Tools menu at the top of your screen.
    * Press the `A` key on your keyboard.
 2. In the Layers sidebar, click to select the layer you'd like to see without the color adjustments.
@@ -117,6 +117,6 @@ If you have a set of color adjustments you'd like to use in apps other than Pixe
 2. Do one of the following:
    * Choose **Format > Color Adjustments > Export Adjustments as LUT** from the Format menu at the top of your screen.
    * Click the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> at the top of the Color Adjustments pane and choose Export Adjustments as LUT.
-   * In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> click Export Adjustments as LUT.
+   * In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> click Export Adjustments as LUT.
 
 \
