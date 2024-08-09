@@ -45,27 +45,27 @@ Color histograms can be useful in determining if any colors in an image have bee
 ## Show or hide the histogram
 
 1. Do one of the following:
-   * Choose **Format > Color Adjustments** (from the Format menu at the top of your screen).
-   * In the [Tools sidebar](https://www.pixelmator.com/support/guide/pixelmator-pro/#glossary), click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png).
+   * Choose **Format > Color Adjustments** from the Format menu at the top of your screen.
+   * In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line">.
 2. Scroll down the list of color adjustments and click Customize.
-3. Click to select or deselect Histogram. Alternatively, choose **Format > Color Adjustments > Histogram** (from the Format menu at the top of your screen).
+3. Click to select or deselect Histogram. Alternatively, choose **Format > Color Adjustments > Histogram** from the Format menu at the top of your screen.
 
 ## Change the histogram type
 
 1. Do one of the following:
-   * Choose **Format > Color Adjustments** (from the Format menu at the top of your screen).
-   * In the Tools sidebar, click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png).
+   * Choose **Format > Color Adjustments** from the Format menu at the top of your screen.
+   * In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line">.
 2. Scroll down the list of color adjustments and click Customize.
 3. Hover your pointer over the Histogram adjustment and click the disclosure arrow to show more options.
-4. Choose the histogram type. Alternatively, choose **Format > Color Adjustments > Histogram** (from the Format menu at the top of your screen) and choose the histogram type.
+4. Choose the histogram type. Alternatively, choose **Format > Color Adjustments > Histogram** from the Format menu at the top of your screen and choose the histogram type.
 
 ## Pin the histogram adjustment
 
 You can pin the histogram adjustment to always stay at the top of the Color Adjustments pane.
 
 1. Do one of the following:
-   * Choose **Format > Color Adjustments** (from the Format menu at the top of your screen).
-   * In the Tools sidebar, click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png).
+   * Choose **Format > Color Adjustments** from the Format menu at the top of your screen.
+   * In the Tools sidebar, click Color Adjustments ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png).
 2. Scroll down the list of color adjustments and click Customize.
 3. Hover your pointer over the Histogram adjustment and click the disclosure arrow to show more options.
-4. Click Pin Histogram. Alternatively, choose **Format > Color Adjustments > Histogram** (from the Format menu at the top of your screen) and choose Pin Histogram.
+4. Click Pin Histogram. Alternatively, choose **Format > Color Adjustments > Histogram** from the Format menu at the top of your screen and choose Pin Histogram.

@@ -25,8 +25,6 @@ When creating a new project in Pixelmator Pro, you can choose whether you'll be 
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1587718205000.jpeg)
 
-***
-
 ### Change the color depth of an image
 
 1. Do one of the following:
