@@ -18,7 +18,7 @@ ML Enhance is an incredibly intelligent and powerful image enhancement feature, 
 
 You can improve the colors of a single layer or, using a color adjustments layer, multiple layers in a composition.
 
-## Enhance the currently selected layer
+Do any of the following:
 
 * Choose **Format > Color Adjustments > ML Enhance** from the Format menu at the top of your screen.
 * In the Tools sidebar click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and click ML Enhance.
