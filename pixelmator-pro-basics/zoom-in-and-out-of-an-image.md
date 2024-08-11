@@ -20,7 +20,7 @@ Do any of the following:
 
 * Drag the Zoom slider in the toolbar.
 * If you’re using a MacBook with a Multi-Touch trackpad or the Magic Trackpad, move the mouse pointer over your image, then pinch using two fingers to zoom in or out.
-* Choose **View > Zoom In** or **View > Zoom Out** (from the View menu at the top of the screen).
+* Choose **View > Zoom In** or **View > Zoom Out** from the View menu at the top of the screen.
 * Press `Command ⌘` and Plus `+` on your keyboard to zoom in, or `Command ⌘` and Minus `-` to zoom out.
 * `Option ⌥` – scroll an image.
 * Click "100%" in the toolbar, then select an option (if the zoom button is not visible, you can choose **Window > Customize Toolbar** to add it):
@@ -35,7 +35,7 @@ Do one of the following:
 
 * Double-click the Zoom slider.
 * Press `Command ⌘` + `0` on your keyboard.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the Tools sidebar and click Actual Size in the Tool Options pane.
+* Click the Zoom <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> tool in the Tools sidebar and click Actual Size in the Tool Options pane.
 * Choose **Tools > Zoom** from the Tools menu at the top of your screen and click Zoom to Fit in the Tool Options pane.
 * Choose **View > Zoom to Fit** from the View menu at the top of your screen.
 
@@ -45,7 +45,7 @@ Do one of the following:
 
 * Choose **View > Actual Size** from the View menu at the top of your screen.
 * Press `Option ⌥` + `Command ⌘` + `0` or `Command ⌘` + `1` on your keyboard.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the Tools sidebar and click Actual Size in the Tool Options pane.
+* Click the Zoom <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> tool in the Tools sidebar and click Actual Size in the Tool Options pane.
 * Choose **Tools > Zoom** from the Tools menu at the top of your screen and click Actual Size in the Tool Options pane. This displays the image as it would appear in a web browser.
 
 :exclamation:**Important:** Pixelmator Pro is optimized for the Retina display, so if you have a Mac computer with a Retina display, keep in mind that the image will appear twice as small as on other displays or in apps like Preview. To view the image as it would appear on those displays or on a website not optimized for Retina, set the zoom percentage to 200%.
@@ -55,7 +55,7 @@ Do one of the following:
 The Pixelmator Pro Zoom tool lets you zoom in and out of the image using the zoom slider, zoom modes, and more.
 
 1. Choose the Zoom tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click the Zoom <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998676000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Zoom** from the Tools menu at the top of your screen.
    * Press `Z` on your keyboard.
 2. Do any of the following:

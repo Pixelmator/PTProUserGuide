@@ -14,7 +14,7 @@ layout:
 
 # Scroll, pan, or rotate an image
 
-When zoomed in, you can scroll an image to see the parts of it that are out of view.
+When zoomed in, you can scroll to view the parts of the image that are out of view. Additionally, you can use the rotation controls to rotate the entire canvas, similar to rotating a piece of paper.
 
 ## Scroll or pan an image
 
@@ -24,7 +24,7 @@ Do any of the following:
 * Choose the Hand tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1613733192000.png" alt="" data-size="line"> from the Tools sidebar.
 * Choose **Tools > Hand** from the Tools menu at the top of your screen.
 * Press the `H` key on your keyboard.
-* Press and hold Space on your keyboard and drag to scroll the image. When you do this, the cursor will change from a pointer to a hand. This lets you know the Hand tool is active. With certain tools, like the Color Adjustments or Effects, the Hand tool is automatically activated.
+* Press and hold `Space` on your keyboard and drag to scroll the image. When you do this, the cursor will change from a pointer to a hand. This lets you know the Hand tool is active. With certain tools, like the Color Adjustments or Effects, the Hand tool is automatically activated.
 
 ## Rotate the image canvas
 
@@ -45,4 +45,3 @@ Do one of the following:
 :bulb: **Tip:** To enter a specific rotation angle, click the angle field in the canvas rotation wheel and enter the desired value.
 
 To reset the canvas to its original orientation, click Reset below the canvas rotation wheel or choose **View > Canvas Rotation > Reset Canvas Rotation** from the View menu at the top of your screen.
-
