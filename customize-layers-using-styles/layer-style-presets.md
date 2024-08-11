@@ -21,7 +21,7 @@ Layer style presets are pre-made combinations of layer styles that you can apply
 ## Apply a layer style preset
 
 1. Choose the Style tool by doing one of the following:
-   * Click Styles <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
    * Press the `S` key on your keyboard.
 2. Select the layer or layers you would like to edit.
@@ -37,7 +37,7 @@ With the help of presets, you can save the specific layer styles and their setti
 2. Apply and customize any number of layer styles.
 3. Do any of the following:
    * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any layer style collection to save the style preset to that collection.
+   * Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any layer style collection to save the style preset to that collection.
 
 ## Create a custom style presets collection
 
@@ -60,7 +60,7 @@ Once you've created a preset or a preset collection, you can rename, redefine th
    * _Share a style preset collection:_ In the Collection pop-up menu, choose Export to export a single preset collection or press and hold the `Option ⌥` key on your keyboard and choose Export All to export your entire presets library.
    * _Reset all layer style presets to default:_ Resetting all the layer style presets to default removes any custom presets and returns all the default presets that come with Pixelmator Pro. In the Collection pop-up menu, press and hold the `Option ⌥` key on your keyboard and choose Reset All.
 
-## Show or hide the presets browser
+## Show or hide the preset browser
 
 1. Choose the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
 2. Drag the line that separates presets from the Add Style button up to hide the presets, or drag it down to reveal or expand the presets section.

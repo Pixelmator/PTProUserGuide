@@ -22,7 +22,7 @@ You can also take advantage of the machine learning-powered tools to fine-tune t
 
 ## Apply color adjustments to a single layer
 
-You can apply color adjustments to layers directly or add them as adjustments layers. Adding adjustments directly will automatically link them with the layer to which they are applied. This means that when editing, the changes applied to the layer will also affect the color adjustments and vice versa. E.g. if you paint on an adjusted layer with a brush, the brush color may look different because the same color adjustments will reflect on it.
+You can apply color adjustments to layers directly or add them as adjustment layers. Adding adjustments directly will automatically link them with the layer to which they are applied. This means that when editing, the changes applied to the layer will also affect the color adjustments and vice versa. E.g.: if you paint on an adjusted layer with a brush, the brush color may look different because the same color adjustments will reflect on it.
 
 1. In the Layers sidebar, select the layer or layer group you'd like to edit
 2. Do one of the following:
@@ -32,11 +32,11 @@ You can apply color adjustments to layers directly or add them as adjustments la
 3. In the list of color adjustments, turn on the adjustments you want to apply.
 4. Edit the adjustment settings. Keep in mind that the color adjustments will affect just that one layer or layer group to which they are applied.
 
-:bulb: **Tip:** In Pixelmator Pro, the color adjustments have a set order in which they appear within the adjustments list and can't be rearranged. If you'd like to change the order of adjustments, you can add them as separate color adjustments layers and arrange them as needed in the Layers list.
+:bulb: **Tip:** In Pixelmator Pro, the color adjustments have a set order in which they appear within the adjustments list and can't be rearranged. If you'd like to change the order of adjustments, you can add them as separate color adjustment layers and arrange them as needed in the Layers list.
 
-## Create color adjustments layers
+## Create color adjustment layers
 
-Color adjustments layers work as individual elements you can add to a project and edit separately from the layer (or layers) to which they are applied. Just like the regular color adjustments, color adjustment layers offer nondestructive editing. These layers can be moved freely up or down the layers list and will change the appearance of all layers below them. Other than that, all the color adjustment controls function the same way as they do when editing layers directly.
+Color adjustment layers work as individual elements you can add to a project and edit separately from the layer (or layers) to which they are applied. Just like the regular color adjustments, color adjustment layers offer nondestructive editing. These layers can be moved freely up or down the layers list and will change the appearance of all layers below them. Other than that, all the color adjustment controls function the same way as they do when editing layers directly.
 
 To add a color adjustments layer, do any of the following:
 
@@ -88,14 +88,14 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
    * Choose **Tools > Color Adjustments** from the Tools menu at the top of your screen.
    * Press the `A` key on your keyboard.
 2. In the Layers sidebar, click to select the layer you'd like to see without the color adjustments.
-3. Click and hold the Show Original button at the bottom of the Tool Options pane, or press `Control ⌃` + `M` on your keyboard.
+3. Click and hold the Show Original button at the bottom of the Tool Options pane, or press `Control ⌃` + `M` on your keyboard.
 
-## Turn on Split Comparison view
+## Turn on the Split Comparison view
 
 Using the Split Comparison view, you can see what an image looked like before and after you applied any color adjustments to it. There are a few ways you can turn on the Split Comparison view:
 
-* `Option ⌥` – click the Show Original button at the bottom of the Tool Options pane.
-* Press `Control ⌃` + C on your keyboard.
+* `Option ⌥` – click the Show Original button at the bottom of the Tool Options pane.
+* Press `Control ⌃` + `C` on your keyboard.
 * If you're using a trackpad, force-click the canvas or two-finger tap the canvas and choose Split Comparison.
 * Choose **Window > Customize Toolbar** and drag the Compare item to the toolbar.
 

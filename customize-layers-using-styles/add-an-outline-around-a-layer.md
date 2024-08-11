@@ -33,7 +33,7 @@ Once you've added a style, you can fully customize it. You can fill it with soli
 
 * _Stroke Fill:_ Click the Fill pop-up menu below the Stroke Style pop-up menu and choose a Color stroke for a solid color outline, Gradient to fill the outline with a transition between multiple colors, or pattern fill to fill the stroke with your custom pattern.
 * _Stroke Width:_ In the number field, enter a value from 1 px to 200 px, and use steppers, or Up and Down arrow keys to change the thickness of the stroke.
-* _Stroke Color:_ Click the color well to choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
+* _Stroke Color:_ Click the color well to choose a color or click the eyedropper <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
 
 ### Customize the stroke style and end cap settings
 

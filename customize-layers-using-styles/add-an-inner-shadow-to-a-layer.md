@@ -30,7 +30,7 @@ The Inner Shadow layer style adds a drop shadow inside your selected layer, givi
 * _Blur:_ Move the Blur slider to adjust how much to soften the edges of the shadow. You can also enter a value from 0 px to 100 px.
 * _Distance:_ Move the Distance slider to adjust how far the shadow is from the object. Press and hold the `Option ⌥` key to extend the range of the Distance slider. You can also enter a value from 0 px to 400 px.
 * _Angle:_ Move the Angle wheel to change the angle of the shadow. You can also enter a value between 0º and 359.9º.
-* _Color:_ Click the color well to choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
+* _Color:_ Click the color well to choose a color or click the eyedropper<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
 * _Opacity:_ Move the slider to adjust the transparency of the shadow. You can also enter a value between 0% and 100%.
 * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a different blend mode.
 

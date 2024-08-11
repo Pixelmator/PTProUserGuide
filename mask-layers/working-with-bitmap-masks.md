@@ -63,7 +63,7 @@ Once you've made some basic adjustments to your mask, you can further refine it 
 
 When you place a layer mask over an image, it is completely white by default. The completely white parts of a mask are 100% transparent, meaning everything below the white areas is visible. If you paint over the mask with pure black, the areas you paint over are completely hidden. Pure white is 100% transparent, pure black is 0% transparent, and shades of grey range from 1% to 99% transparency — the darkest grey is 1% transparent, 50% grey is 50% transparent, and off-white is 99% transparent. \
 \
-This lets you edit masks — hide or reveal areas — by simply painting on the mask with black or white brushes. See [Paint tool](../paint-and-erase/) to learn more.
+This lets you edit masks — hide or reveal areas — by simply painting on the mask with black or white brushes. See [Paint and erase](../paint-and-erase/) to learn more.
 
 :bulb: **Tip:** When editing masks using the Paint tool, you can use the keyboard shortcut `D` to reset the primary and secondary colors in Pixelmator Pro to black and white and `X` to switch between the primary and secondary colors.
 
