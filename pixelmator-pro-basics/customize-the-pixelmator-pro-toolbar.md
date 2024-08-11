@@ -16,14 +16,14 @@ layout:
 
 The toolbar at the top of the Pixelmator Pro window gives access to different controls you need to work in Pixelmator Pro. You can customize the toolbar by adding, removing, and rearranging the toolbar buttons.
 
-### Show or hide the Toolbar
+## Show or hide the Toolbar
 
 Do one of the following:
 
 * Choose **Window > Show (or Hide) Toolbar** from the Window menu at the top of your screen.
 * Press `Option ⌥` + `Command ⌘` + `T` on your keyboard.
 
-### Customize the toolbar
+## Customize the toolbar
 
 1. Do one of the following:
    * `Control ⌃` – click the toolbar.

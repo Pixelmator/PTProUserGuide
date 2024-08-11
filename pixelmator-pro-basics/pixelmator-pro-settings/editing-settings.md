@@ -20,7 +20,11 @@ To open Editing settings:
 
 * Choose **Pixelmator Pro > Settings** from the menu bar and choose Editing.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677071430000.jpeg)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677071430000.jpeg" alt="" width="563">
+
+</div>
 
 ***
 
@@ -46,7 +50,7 @@ While Pixelmator Pro is a nondestructive image editor by nature, you can also se
 
 ## Open and save images in the original file format
 
-1. Choose **Pixelmator Pro > Settings** (from the Pixelmator Pro menu at the top of your screen).
+1. Choose **Pixelmator Pro > Settings** from the Pixelmator Pro menu at the top of your screen.
 2. In the Editing tab, click the Open Images In pop-up menu and choose Original Format.
 3. Under Preserve Edits, choose how to save edits:
    * Select **For Images Opened from Finder** to save images back to their original folder in Finder, keeping the original file format, and preserving all layers and edits. Deselect **For Images Opened from Finder** to overwrite original images when saving. The image cannot be reverted back to the original.

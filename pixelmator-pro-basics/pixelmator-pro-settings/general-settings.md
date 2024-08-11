@@ -20,9 +20,13 @@ To open General settings:
 
 * Choose **Pixelmator Pro > Settings** from the menu bar and choose General.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1704718582000.png)
+<div align="left">
 
-## Change Pixelmator Pro appearance
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1704718582000.png" alt="" width="563">
+
+</div>
+
+## Change the Pixelmator Pro appearance
 
 You can work with Pixelmator Pro in light or dark mode. Pixelmator Pro can also adapt to your macOS appearance automatically.
 

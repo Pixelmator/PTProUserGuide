@@ -36,14 +36,14 @@ After you've downloaded Pixelmator Pro, the Pixelmator Pro extension will automa
 
 If you are using the Pixelmator Pro extension for the first time and want to save changes, choose whether or not you’d like to preserve your nondestructive edits — such as layers, adjustments, and effects — in your Photos library.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651849183000.jpeg)
-
 * _Preserve Edits._ This will preserve any layers, adjustments, effects, and other nondestructive changes you make using the Pixelmator Pro extension and they will be restored the next time you open images edited using the extension.
 * _Save Flattened._ Only the final, edited images will be saved to your library — layers, adjustments, effects, and other nondestructive changes will be discarded.
 
 You can change the method of saving changes at any point in the Pixelmator Pro Editing settings.
 
 :blue\_book: **Note:** To make saving edits in Photos possible, Pixelmator Pro creates a so-called sidecar file in the Pixelmator Pro Sidecar Files folder in iCloud or the Pictures folder on your Mac. If iCloud is turned off, the documents will be automatically saved to Pictures.
+
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651849183000.jpeg)
 
 ## Import Pixelmator Pro documents to Photos
 
@@ -54,7 +54,7 @@ To import an image with edits and layers:
 1. Drag the image to the Photos icon in the Dock
 2. In the dialog that appears, choose Open Sidecar.
 
-You can also import existing Pixelmator Pro documents (PXD) to Photos following these steps:
+You can also import existing [Pixelmator Pro documents](../create-open-and-save-images/about-the-pixelmator-pro-file-format.md) (PXD) to Photos following these steps:
 
 1. Select any photo in your Photos library and choose **Image > Duplicate 1 Photo**.
 2. In the top-right corner of the screen click Edit.

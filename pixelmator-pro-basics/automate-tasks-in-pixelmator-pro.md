@@ -18,7 +18,7 @@ Pixelmator Pro lets you automate simple, repetitive tasks or execute complex wor
 
 ***
 
-### Use the Shortcuts app
+## Use the Shortcuts app
 
 The Shortcuts app offers one of the quickest and easiest ways of processing multiple images at a time using Pixelmator Pro tools and features. Images are processed in the background, so Pixelmator Pro itself doesn't even need to be running.
 
@@ -32,7 +32,7 @@ See our tutorial on [batch processing images with Shortcuts](https://www.pixelma
 
 ***
 
-### Automate tasks with AppleScript
+## Automate tasks with AppleScript
 
 AppleScript is an Apple-created programming language that lets you automate different tasks in Pixelmator Pro by giving it explicit commands in code form. Tasks from other scriptable apps can also be combined into a workflow, making the automation options virtually unlimited. AppleScript uses an English-like language to tell apps what specific actions need to be performed, so it's pretty easy to write and edit scripts with very little or no programming experience whatsoever — often, you can understand what a particular script does by simply reading it.
 
@@ -82,7 +82,7 @@ If you'd like to learn more about scripting, check out our tutorial on [advanced
 
 ***
 
-### Batch process images using the Automator app
+## Batch process images using the Automator app
 
 Automator is a great tool even for complete beginners as it offers a quick and easy approach to automation. It doesn't require any actual coding — you simply pick one or more of the pre-made Pixelmator Pro actions, add them to a workflow, and run it. You can also create Quick Actions, folder actions, or save individual workflows to use in the future.
 

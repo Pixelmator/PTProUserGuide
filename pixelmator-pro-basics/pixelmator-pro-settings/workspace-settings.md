@@ -22,7 +22,7 @@ To open Workspace settings:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677071742000.jpeg)
 
-### Choose a Pixelmator Pro workspace layout
+## Choose a Pixelmator Pro workspace layout
 
 In the Workspace settings tab, click any of the workspace presets. You can choose from workspaces built for photography, design, illustration, and more. Once you select a preset, Pixelmator Pro automatically rearranges tools, sidebars, and other interface elements.
 
