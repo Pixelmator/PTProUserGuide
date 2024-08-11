@@ -27,7 +27,7 @@ You can invert the colors of a single layer or, using a color adjustments layer,
 ## Edit multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Invert adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Invert adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Invert adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Invert adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -36,7 +36,7 @@ You can invert the colors of a single layer or, using a color adjustments layer,
 
 Drag the Intensity slider to control the strength of the Invert adjustment.
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

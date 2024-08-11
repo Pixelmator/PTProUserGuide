@@ -36,7 +36,7 @@ The Curves adjustment can be applied directly to a single layer or, using a colo
 ### Edit multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Curves adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Curves adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Curves adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Curves adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -96,11 +96,11 @@ The Auto Color adjustment automatically adjusts the Red, Green, and Blue channel
 
 In the top-right corner of the Curves adjustment, you’ll notice three color pickers:
 
-* _Set the black point:_ Use the color picker on the left to pick an area in an image that should be pure black. The curves in the Red, Green and Blue channels are automatically adjusted.
+* _Set the black point:_ Use the color picker on the left to pick an area in an image that should be pure black. The curves in the Red, Green, and Blue channels are automatically adjusted.
 * _Set the grey point:_ Use the middle color picker to pick an area in an image that should be midtoned.
 * _Set the white point:_ Use the color picker on the right to pick an area in an image that should be pure white.
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

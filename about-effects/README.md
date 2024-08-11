@@ -45,7 +45,7 @@ To add an effects layer, do any of the following:
 * Click the Add Layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in the Toolbar and choose Effects.
 * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard.
 
-**Tip:** If you'd like to apply an effects layer to only one layer or layer group below it, you can do that using a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more about working with clipping masks.
+:bulb: **Tip:** If you'd like to apply an effects layer to only one layer or layer group below it, you can do that using a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more about working with clipping masks.
 
 ## Rearrange the order of effects
 
@@ -101,4 +101,4 @@ There are a few ways you can compare or turn on the Split Comparison view:
 ## Remove an effect
 
 1. In the Layers sidebar, click to select the layer that has an unwanted effect.
-2. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to the effect you want to remove.
+2. Click Remove <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to the effect you want to remove.

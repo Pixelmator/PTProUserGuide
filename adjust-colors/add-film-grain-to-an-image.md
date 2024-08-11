@@ -27,17 +27,17 @@ You can add film grain to a single layer or, using a color adjustments layer, to
 ## Apply a film grain multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Grain adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Grain adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Grain adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Grain adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
 
 ## Customize the grain adjustment
 
-1. Drag the Size slider to control the size of the grain particles. Press and hold the Option ⌥ key before dragging if you’d like to extend the range of the slider beyond 100%. You can also manually enter a percentage value from 0% to 400%.
+1. Drag the Size slider to control the size of the grain particles. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the slider beyond 100%. You can also manually enter a percentage value from 0% to 400%.
 2. Drag the Intensity slider to adjust the visibility of the grain particles. You can also manually enter a value from 0% to 100%.
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

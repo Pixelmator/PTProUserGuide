@@ -14,9 +14,9 @@ layout:
 
 # Stroke with a brush
 
-Using the Stroke with Brush feature, you can automatically convert the outline of any image layer, path, shape or selection into a brush stroke. Once you apply the stroke, you'll see its live preview and how it changes as you switch between different brushes or make adjustments to the specific brush settings.
+Using the Stroke with Brush feature, you can automatically convert the outline of any image layer, path, shape, or selection into a brush stroke. Once you apply the stroke, you'll see its live preview and how it changes as you switch between different brushes or make adjustments to the specific brush settings.
 
-### Apply the brush stroke
+## Apply the brush stroke
 
 1. Select the layer you want to stroke
 2. Do one of the following:
@@ -24,9 +24,9 @@ Using the Stroke with Brush feature, you can automatically convert the outline o
    2. Choose **Format > Stroke with Brush** from the Format menu at the top of your screen.
    3. Press `Option ⌥` + `Command ⌘` + `B` on your keyboard.
 
-### Customize the brush stroke
+## Customize the brush stroke
 
-You can customize the brush stroke using the basic or advanced brush settings, just like you would with a regular brush. See Edit a brush to learn more.
+You can customize the brush stroke using the basic or advanced brush settings, just like you would with a regular brush. See [Edit brush settings](edit-brush-settings.md) to learn more.
 
 Note that some of the stylus-related settings, like the ones in the Stroke or Dynamics categories, cannot be edited.
 

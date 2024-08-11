@@ -32,7 +32,7 @@ Blur effects can be applied directly to a single layer or, using an effects laye
     Apply effects to multiple layers:
 
     * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Blur collection.
-    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Blur collection.
+    * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Blur collection.
     * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Blur collection.
 
 ### Gaussian blur
@@ -80,7 +80,7 @@ To preserve layer transparency when applying the Motion blur effect, click the e
 
 The Zoom blur effect simulates the look of capturing a photo while zooming in or out.
 
-1. Drag the Amount slider to the right to create a zooming in effect, or to the left to create zooming out effect. Hold down the `Option ⌥` key to extend the range of the Amount slider. You can also enter a value from -200.0 px to 200.0 px.
+1. Drag the Amount slider to the right to create a zooming-in effect, or to the left to create zooming-out effect. Hold down the `Option ⌥` key to extend the range of the Amount slider. You can also enter a value from -200.0 px to 200.0 px.
 2. Move the handle of the effect rope to set the direction of the zoom effect. If the effect rope isn’t visible, click the rope button in the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589980587000.png)

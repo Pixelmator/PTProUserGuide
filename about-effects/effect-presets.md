@@ -36,13 +36,13 @@ With presets, you can save specific effect combinations and quickly apply them t
 1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
 2. Apply and customize any number of effects to a layer.
 3. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any effects collection to save the preset to that collection.
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
+   * Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any effects collection to save the preset to that collection.
+   * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
 
 ## Create a custom effect presets collection
 
 1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
-2. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
+2. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
 
 ## Manage effect presets and preset collections
 

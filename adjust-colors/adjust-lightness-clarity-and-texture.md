@@ -29,7 +29,7 @@ You can adjust the lightness, clarity, and texture of a single layer or, using a
 ## Adjust multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Basic adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Basic adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Basic adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Basic adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -45,7 +45,7 @@ Texture-aware algorithm is turned off by default. You can turn it on in a couple
 
 ## Adjust the exposure of an image
 
-When taking a picture, the amount of exposure chosen normally determines how bright or how dark the final image will turn out. The higher exposure — the brighter the shadows, midtones, and highlights in an image. Lower exposure does the exact opposite — darkens all the tones. The exposure slider lets you adjust these settings after the image has been taken. To make the most of the Exposure adjustment, make sure Texture-Aware Algorithm is turned on when adjusting images.
+When taking a picture, the amount of exposure chosen normally determines how bright or how dark the final image will turn out. The higher the exposure — the brighter the shadows, midtones, and highlights in an image. Lower exposure does the exact opposite — darkens all the tones. The exposure slider lets you adjust these settings after the image has been taken. To make the most of the Exposure adjustment, make sure Texture-Aware Algorithm is turned on when adjusting images.
 
 * Drag the Exposure slider to the right to make the image brighter, or to the left to make it darker. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Exposure slider beyond 200%. You can also enter a percentage value from –400% to 400%.
 
@@ -57,13 +57,13 @@ Using the Highlights slider, you can adjust the brightest areas of an image to b
 
 ## Adjust the shadows of an image
 
-Using the Shadows slider you can adjust the darkest areas of an image to bring out the hidden detail or increase contrast in the shadows. To make the most of the Shadows adjustment, make sure Texture-Aware Algorithm is turned on when adjusting images. The powerful algorithm lets you recover even more detail from very dark areas of an image, and makes the adjustment even more precise, bringing out details only in the darkest areas of an image, without washing out shadows or darkening midtone areas of an image.
+Using the Shadows slider you can adjust the darkest areas of an image to bring out the hidden detail or increase contrast in the shadows. To make the most of the Shadows adjustment, make sure the Texture-Aware Algorithm is turned on when adjusting images. The powerful algorithm lets you recover even more detail from very dark areas of an image, and makes the adjustment even more precise, bringing out details only in the darkest areas of an image, without washing out shadows or darkening midtone areas of an image.
 
 * Drag the Shadows slider to the right to make the highlights brighter, or to the left to make them darker. You can also enter a percentage value from –100% to 100%.
 
 ## Adjust the brightness of an image
 
-Using the Brightness slider you can adjust the brightness of an image to make it lighter or darker. When adjusting brightness, the most noticeable changes happen in the midtones rather than the shadows or highlights. To make the most of the Brightness adjustment, make sure Texture-Aware Algorithm is turned on when adjusting images.
+Using the Brightness slider you can adjust the brightness of an image to make it lighter or darker. When adjusting brightness, the most noticeable changes happen in the midtones rather than the shadows or highlights. To make the most of the Brightness adjustment, make sure the Texture-Aware Algorithm is turned on when adjusting images.
 
 * Drag the Brightness slider to the right to make the image brighter, or to the left to make it darker. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Brightness slider beyond 100%. You can also enter a percentage value from –200% to 200%.
 
@@ -77,7 +77,7 @@ Using the Contrast slider you can adjust the contrast of an image. Increasing co
 
 Using the Black Point slider you can increase or decrease the tonal range of an image by setting which color should be pure black.
 
-* Drag the Black Point slider to the right to set a lighter part of your current image as the black point (thereby making the darkest areas darker), or to the left to set a darker area of your current image as the black point (thereby making the darkest areas lighter). Press and hold the Option ⌥ key before dragging if you’d like to extend the range of the Black Point slider beyond 100%. You can also enter a percentage value from –200% to 200%.
+* Drag the Black Point slider to the right to set a lighter part of your current image as the black point (thereby making the darkest areas darker), or to the left to set a darker area of your current image as the black point (thereby making the darkest areas lighter). Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Black Point slider beyond 100%. You can also enter a percentage value from –200% to 200%.
 
 ## Adjust the clarity of an image
 
@@ -97,7 +97,7 @@ The machine learning-powered Basic adjustment improves the lighting in your imag
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677581342000.png)
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

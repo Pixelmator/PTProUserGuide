@@ -53,7 +53,7 @@ Click the White Balance eyedropper and then click an area in your image that sho
 
 After doing this, you can manually fine-tune the automatic adjustments applied to your image by dragging the Temperature and Tint sliders.
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

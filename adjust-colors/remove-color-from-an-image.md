@@ -29,7 +29,7 @@ You can remove color from a single layer or, using a color adjustments layer, mu
 ## Remove color from multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Replace Color adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Remove Color adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Remove Color adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Remove Color adjustment.
 
 :bulb: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -44,7 +44,7 @@ By default, the color to be removed is set to chroma key green. To change it to 
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677231596000.png)
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

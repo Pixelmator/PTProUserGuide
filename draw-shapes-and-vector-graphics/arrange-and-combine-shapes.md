@@ -20,7 +20,7 @@ Whenever you draw a shape in your image, Pixelmator Pro, by default, adds each s
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1653048231000.png)
 
-:blue\_book:**Note:** By default, shape layers have blue thumbnails, while thumbnails of the shape components are gray.
+:blue\_book: **Note:** By default, shape layers have blue thumbnails, while thumbnails of the shape components are gray.
 
 It’s important to note that, when combining shapes, the selected option applies to the combination of all the shapes below. For example, if you add two shapes, the upper shape can be subtracted from the one below, but not vice versa. Then, if you add another shape and, say, exclude it from the two lower shapes in the group, the two lower shapes are combined first, then, the upper shape is excluded from the result of the two shapes below.
 
@@ -49,7 +49,7 @@ When you subtract one shape from another, any areas the selected shape overlaps 
 * `Control ⌃` – click a shape in the Layers sidebar and choose Subtract Shapes.
 * Click the Subtract button in the Tool Options pane.
 
-:blue\_book:**Note:** When subtracting a shape, all the shape components below it are combined first, then the selected shape is subtracted from the result.&#x20;
+:blue\_book: **Note:** When subtracting a shape, all the shape components below it are combined first, then the selected shape is subtracted from the result.&#x20;
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1654509447000.jpeg)
 
@@ -61,7 +61,7 @@ When you intersect one shape with another, only overlapping areas are left and a
 * `Control ⌃` – click a shape in the Layers sidebar and choose Intersect Shapes.
 * Click the Intersect button in the Tool Options pane.
 
-:blue\_book:**Note:** When intersecting shapes, all the shape components below the selected (or uppermost) shape are combined first, then the selected shape is subtracted from the result.
+:blue\_book: **Note:** When intersecting shapes, all the shape components below the selected (or uppermost) shape are combined first, then the selected shape is subtracted from the result.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1654509441000.jpeg)
 
@@ -77,7 +77,7 @@ When you exclude one shape from another, any overlapping areas are removed and a
    * `Control ⌃` – click a shape in the Layers sidebar and choose Exclude Shapes.
    * Click the Exclude button in the Tool Options pane.
 
-:blue\_book:**Note:** When excluding shapes, all the shape components below the selected (or uppermost) shape are combined first, then overlapping areas are excluded from the result.
+:blue\_book: **Note:** When excluding shapes, all the shape components below the selected (or uppermost) shape are combined first, then overlapping areas are excluded from the result.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1654509434000.jpeg)
 
@@ -100,5 +100,3 @@ To merge the components of a shape, do one of the following:
 
 * Choose **Format > Shape > Merge Shape Components** from the Format menu at the top of your screen.
 * `Control ⌃` – click a shape in the Layers sidebar and choose Merge Shape Components.
-
-\

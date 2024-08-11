@@ -32,7 +32,7 @@ Distortion effects can be applied directly to a single layer or, using an effect
     Apply effects to multiple layers:
 
     * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Distortion collection.
-    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Distortion collection.
+    * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Distortion collection.
     * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Distortion collection.
 
 ### Apply a Bump effect
@@ -83,7 +83,7 @@ The Displacement Map effect distorts images based on the dark and light values o
 
 Customize the effect:
 
-* Drag and drop the image you’d like to use for the displacement map to the image well in the Tool Options pane, or click Choose to pick an image from your device.
+* Drag and drop the image you’d like to use for the displacement map to the image well in the Tool Options pane or click Choose to pick an image from your device.
 * To change how the displacement map fits into your layer, click the _Image_ pop-up menu and choose from Original, Stretch, Scale to Fill, and Scale to Fit.
 * Move the _Scale_ slider to adjust the size of the image. You can also enter a value from 0% to 400%.
 * Move the _Angle_ wheel to adjust the rotation of the image. You can also enter a value from 0.0º to 359.9º. 

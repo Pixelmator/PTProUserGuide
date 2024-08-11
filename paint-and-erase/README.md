@@ -34,7 +34,7 @@ In the Brushes Browser, you can choose a brush from the collections on the left 
 
 1.  Customize the Paint tool:
 
-    * _Color:_ In the Tool Options pane, click the color well to choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
+    * _Color:_ In the Tool Options pane, click the color well to choose a color or click the eyedropper <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
     * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Paint tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 500 pixels. You can also manually enter a value from 1 px to 5000 px.
     * _Softness:_ Drag the Softness slider to adjust the softness of the edges of the Paint tool brush.
     * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a blend mode.

@@ -27,7 +27,7 @@ You can fade a single layer or, using a color adjustments layer, multiple layers
 ## Fade multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Fade adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Fade adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Fade adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Fade adjustment.
 
 :bulb: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -36,7 +36,7 @@ You can fade a single layer or, using a color adjustments layer, multiple layers
 
 Drag the Blacks or Whites sliders to control the strength of the Fade adjustment in the shadowy or highlighted areas of an image. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Fade slider beyond 100%. You can also enter a percentage value from -200% to 200%.
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

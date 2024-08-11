@@ -31,9 +31,7 @@ Quickly fill images, selections, or individual objects with a solid color. You c
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625134955000.png)
 
-***
-
-### Fill with foreground or background color
+## Fill with foreground or background color
 
 * Press `Option ⌥` + `Backspace ⌫` to fill with a foreground color.
 * Press `Command ⌘` + `Backspace ⌫` to fill with a background color.

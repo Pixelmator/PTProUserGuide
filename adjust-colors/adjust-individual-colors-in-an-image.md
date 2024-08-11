@@ -28,16 +28,17 @@ The Selective Color adjustment can be applied directly to a single layer or, usi
 ## Edit multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Selective Color adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Selective Color adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Selective Color adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Selective Color adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
 
 ## Make adjustments to precise colors in an image
 
-1.  Click to select one of the color ranges in the Selective Color adjustment.
+1. Click to select one of the color ranges in the Selective Color adjustment.
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326836000.png)
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326836000.png)
+
 2. Drag the sliders in the Selective Color adjustment to make adjustments to your selected color range.
    * _Hue_: Drag the Hue slider to shift the hue of the colors in the selected color range towards a neighboring color range. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Hue slider beyond 100%. You can also enter a percentage value from –400% to 400%.
    * _Saturation_: Drag the Saturation slider to the right to make the colors in the selected color range more intense, or to the left to make them less intense.
@@ -51,10 +52,10 @@ The ML adjustment improves individual color ranges in your image automatically u
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656327707000.png)
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 
-_Show Split Comparison:_ `Option ⌥`-click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
 
 To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.

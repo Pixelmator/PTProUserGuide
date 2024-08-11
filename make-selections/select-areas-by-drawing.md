@@ -24,7 +24,7 @@ The Free Selection (or the lasso) tool lets you freely draw selections by hand. 
     * Choose **Tools > Select > Free Selection** from the Tools menu at the top of your screen.
     * Press the `L` key on your keyboard.
 
-    :blue\_book:**Tip:** You can cycle through Magnetic, Free, and Polygonal selection tools by pressing `Shift ⇧` + `L` on your keyboard.
+    :bulb: **Tip:** You can cycle through Magnetic, Free, and Polygonal selection tools by pressing `Shift ⇧` + `L` on your keyboard.
 2. Drag in your image to draw a selection. To reselect an anchor point, click the last point to remove it or press `Backspace ⌫` on your keyboard, then continue drawing.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1654689627000.jpeg)

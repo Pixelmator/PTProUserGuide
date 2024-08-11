@@ -20,7 +20,7 @@ The Levels adjustment lets you adjust the brightness, contrast, and tonal range 
 
 The shadows can be adjusted using the Black point slider. Dragging it to the right makes the dark areas of an image darker. The White point controls the highlights and makes the bright areas brighter. The Midtones slider shifts all the midtone values to make them closer to black or white. As you drag the Levels sliders to redefine, say, the black or white points, the other tones in the image are evenly redistributed, increasing the tonal range and contrast in the image.
 
-In case you need some more control, you can also use the quarter-tone sliders in-between the Black point, White point, and the Midtones.
+In case you need some more control, you can also use the quarter-tone sliders in between the Black point, White point, and the Midtones.
 
 ## Adjust the levels of an image
 
@@ -30,13 +30,13 @@ The Levels adjustment can be applied directly to a single layer or, using a colo
 
 * Choose **Format > Color Adjustments > Levels** from the Format menu at the top of your screen.
 * In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Levels adjustment.
-* Press A on your keyboard and turn on the Levels adjustment.
-* Press Command ⌘ + L on your keyboard.
+* Press `A` on your keyboard and turn on the Levels adjustment.
+* Press `Command ⌘` + `L` on your keyboard.
 
 ### Edit multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Levels adjustment in the Tool Options pane.
-* Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the Layers sidebar, choose Color Adjustments, and turn on the Levels adjustment.
+* Click Insert a layer ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png) at the top of the Layers sidebar, choose Color Adjustments, and turn on the Levels adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Levels adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -89,10 +89,10 @@ Click the Levels pop-up menu in the Tool Options pane and choose RGB, Luminance,
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656335926000.png)
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 
-_Show Split Comparison:_ `Option ⌥`-click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
 
 To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.

@@ -67,5 +67,3 @@ You can also press the `Command ⌘` + `J` and `Shift ⇧` + `Command ⌘` + `J`
 3. Click Apply in the Tool Options pane to crop the image.
 
 :blue\_book: **Note:** Doing this crops the entire image, rather than deleting areas from just your selected layer. To crop the selected layer, you’d need to delete everything outside the selected area.
-
-\

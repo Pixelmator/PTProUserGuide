@@ -37,7 +37,7 @@ Pixelmator Pro natively supports RAW files so you can edit your RAW images and t
 ## Insert a RAW layer from Photos
 
 1. Do one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Photos.
+   * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Photos.
    * Choose **Insert > Photos** from the Insert menu at the top of your screen.
 2. Locate the RAW image you’d like to insert.
 3. Click Insert to insert it in the original file format.
@@ -70,7 +70,7 @@ The Repair, Clone, and Perspective Transform tools in Pixelmator Pro apply chang
 
 ## Apply color adjustments to the specific areas in RAW images
 
-You can apply local adjustments to specific areas of RAW images using color adjustments layers.
+You can apply local adjustments to specific areas of RAW images using color adjustment layers.
 
 1. In the Layers sidebar, select the RAW layer you'd like to edit.
 2. Using any of the selection tools, select the area to which you'd like to apply the color adjustments.

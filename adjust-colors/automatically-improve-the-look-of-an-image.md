@@ -27,10 +27,10 @@ Do any of the following:
 
 After selecting ML Enhance, you can additionally tweak any of the 37 available color adjustments yourself.
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 
-_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force click the canvas.
+_Show Split Comparison:_ `Option ⌥` – click the Show Original button, press `Control ⌃` + `C` on your keyboard, or force-click the canvas.
 
-To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane
+To reset all Color Adjustments, click Reset at the bottom of the Color Adjustments pane.

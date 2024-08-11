@@ -32,7 +32,7 @@ Halftone effects can be applied directly to a single layer or, using an effects 
     Apply effects to multiple layers:
 
     * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Halftone collection.
-    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Halftone collection.
+    * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Halftone collection.
     * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Halftone collection.
 
 ### Apply a Circular Screen effect

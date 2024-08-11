@@ -14,7 +14,7 @@ layout:
 
 # Apply a sepia tint
 
-The Sepia adjustment works like the [Color monochrome adjustment](https://www.pixelmator.com/support/guide/pixelmator-pro/719), except the sepia color is already selected for you.
+The Sepia adjustment works like the [Color Monochrome adjustment](convert-an-image-to-black-and-white-with-a-color-tint.md), except the sepia color is already selected for you.
 
 A sepia tint can be applied directly to a single layer or, using a color adjustments layer, to multiple layers in a composition.
 
@@ -27,7 +27,7 @@ A sepia tint can be applied directly to a single layer or, using a color adjustm
 ## Apply a sepia tint to multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Sepia adjustment in the Tool Options pane.
-* Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Sepia adjustment.
+* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Sepia adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Sepia adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -36,7 +36,7 @@ A sepia tint can be applied directly to a single layer or, using a color adjustm
 
 Drag the intensity slider to control the strength of the Sepia adjustment.
 
-***
+## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.
 

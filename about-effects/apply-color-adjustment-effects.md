@@ -32,7 +32,7 @@ Color Adjustments effects can be applied directly to a single layer or, using an
     Apply effects to multiple layers:
 
     * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Color Adjustments collection.
-    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Color Adjustments collection.
+    * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Color Adjustments collection.
     * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Color Adjustments collection.
 
 ### Color Controls effect
@@ -114,7 +114,7 @@ The Gradient Map effect maps out the color values of an image and replaces them 
 Customize the effect:
 
 * Click the gradient well to choose a gradient preset or click the existing color stops to choose your own colors.
-* Move the _Opacity_ slider to the left bring back some of the original colors to the image. You can also enter a value from 0% to 100%.
+* Move the _Opacity_ slider to the left to bring back some of the original colors to the image. You can also enter a value from 0% to 100%.
 * Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — and choose a blend mode.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1608550073000.png)

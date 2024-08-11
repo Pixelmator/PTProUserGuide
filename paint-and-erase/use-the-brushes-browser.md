@@ -22,7 +22,7 @@ The Brushes Browser is where you find and choose brushes, create and customize b
    3. Press the `B` key on your keyboard.
 2. Open the brushes browser, then do any of the following
    * _Search for a brush:_ Use the search field at the top of the Brushes Browser to search for specific brushes by name.
-   * _Create a new brush:_ Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in the top-right corner of the Brushes Browser.
+   * _Create a new brush:_ Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in the top-right corner of the Brushes Browser.
    * _Move or rearrange brushes:_ Drag and drop the brush to a new place within a collection or to any other collection in the sidebar on the left.
    * _Favorite, rename, duplicate, reset, or remove a brush:_ Hover your pointer over the brush you'd like to edit and click the arrow that appears. Then, choose an option from the menu.
    * _Manage brush collections:_ Hover your pointer over the brush collection and click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line">. You can then choose to create a new brush collection or delete a current one, rename and duplicate collections, import or export collections.

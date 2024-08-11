@@ -21,4 +21,4 @@ Do one of the following:
 * Choose **Edit > Select All**.
 * Press `Command ⌘` + `A` on your keyboard.
 
-:blue\_book:**Note:** Although the entire image is selected, the Pixelmator Pro tools and features will only affect the layer selected in the Layers sidebar, rather than all the layers included in the selection.
+:blue\_book: **Note:** Although the entire image is selected, the Pixelmator Pro tools and features will only affect the layer selected in the Layers sidebar, rather than all the layers included in the selection.
