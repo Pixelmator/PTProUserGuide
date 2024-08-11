@@ -21,7 +21,7 @@ If you're editing existing images in their original file format, simply saving t
 ## Save and name an image
 
 1. Do one of the following:
-   * Choose **File > Save** (from the File menu at the top of your screen).
+   * Choose **File > Save** from the File menu at the top of your screen.
    * Press `Command ⌘` + `S` on your keyboard.
 2. Enter a name in the Save As field, then enter one or more tags (optional).
 3. Click the Where pop-up menu and choose a location.
@@ -36,14 +36,14 @@ If you're editing existing images in their original file format, simply saving t
 ## Rename an image
 
 * Click the image name at the top of the Pixelmator Pro window, then type a new name.
-* Choose **File > Rename** (from the File menu at the top of your screen).
+* Choose **File > Rename** from the File menu at the top of your screen.
 
 Click anywhere outside the dialog to dismiss it.
 
 ## Save a copy of an image
 
 1. Do one of the following:
-   * With the image open, press and hold the `Option ⌥` key on your keyboard and choose **File > Save As** (from the File menu at the top of your screen).
+   * With the image open, press and hold the `Option ⌥` key on your keyboard and choose **File > Save As** (from the File menu at the top of your screen.
    * Press `Option ⌥` + `Shift ⇧` + `Command ⌘` + `S` on your keyboard.
 2. Type a name for the copy of your image.
 3. Choose the file format: Pixelmator Pro Document, HEIC, JPEG, PNG, WebP, or TIFF.

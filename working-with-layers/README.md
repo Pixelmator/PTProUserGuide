@@ -18,7 +18,11 @@ Pixelmator Pro is a layer-based image editor. This means that instead of simply 
 
 Each layer type is displayed differently in the Layers sidebar to help you quickly and easily distinguish between them.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1653045214000.png)
+<div align="right">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1653045214000.png" alt="">
+
+</div>
 
 You can think of layers as stacked transparent plastic sheets. If you add a completely empty layer (an empty sheet) and draw on it, the parts you draw over will no longer be transparent, but the parts you don’t touch will stay transparent. You can also add images or photos as new layers — if an image is smaller than the canvas around the image, you’ll be able to see the layers below (if there are any).
 

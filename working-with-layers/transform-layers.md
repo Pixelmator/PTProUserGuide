@@ -16,8 +16,6 @@ layout:
 
 The Transform tool in Pixelmator Pro lets you easily transform images, text, shapes, or layer masks. Not only you can use it to resize, position, and rotate layers as you normally would using the [Arrange tool](use-the-arrange-tool.md), but also manipulate them in a number of different ways. You can slant the objects on your canvas vertically or horizontally, stretch their corners to any direction you want, or change their perspective.
 
-***
-
 ## Choose the Transform tool
 
 1. Select a layer you'd like to transform.
@@ -44,7 +42,7 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
 2. Drag the midpoint handles to slant two adjacent layer corners at the same time, leaving the other two corners untouched. Drag a corner handle to transform the corner leaving the other three corners locked in place.
 3. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-## Stretch vertically or horizontally
+### Stretch vertically or horizontally
 
 1. In the Tool Options pane, select the Distort mode or press and hold the `Command ⌘` key on your keyboard to temporarily activate the Distort mode.
 2. Do any of the following:

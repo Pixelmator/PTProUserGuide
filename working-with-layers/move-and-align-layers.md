@@ -32,7 +32,7 @@ When you move layers, they automatically snap to other layers on the canvas. You
 ## Position a layer using x and y coordinates
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. Select the layer you'd like to position.
@@ -43,7 +43,7 @@ When you move layers, they automatically snap to other layers on the canvas. You
 
     When you drag an object, its x and y coordinates are displayed.
 
-    To change the units used for the x and y coordinates `Control ⌃` – click the number field choose a different unit.
+    To change the units used for the x and y coordinates `Control ⌃` – click the number field and choose a different unit.
 
 ## Align objects vertically or horizontally
 

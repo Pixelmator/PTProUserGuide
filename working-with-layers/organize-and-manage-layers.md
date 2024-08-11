@@ -22,7 +22,7 @@ Managing layers in Pixelmator Pro lets you keep your documents neat and organize
 
 ### Rename a layer
 
-Renaming groups and layers in the Layers list helps organize your document.
+Renaming groups and layers in the Layers list help organize your document.
 
 To rename a layer do one of the following:
 
@@ -70,8 +70,6 @@ To lock or unlock a layer or layer group, do one of the following:
 * In the Layers list, move the mouse pointer over the layer or layer group you’d like to lock and click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802756000.png" alt="" data-size="line">. To unlock layers, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802719000.png" alt="" data-size="line">.
 * In the Layers sidebar, `Control ⌃` – click a layer or layer group choose Lock or Unlock.
 
-***
-
 ## Manage layer groups
 
 You can group layers to apply effects and adjustments to all of them at a time, move or resize layers together, and create structure in more complex projects. Additionally, you can expand or collapse layer groups for a cleaner workspace, and hide or show layer groups without removing them from your composition.
@@ -86,13 +84,13 @@ To group multiple layers into a layer group or to ungroup them:
 2. Do one of the following:
    * Choose **Arrange > Group** or **Arrange > Ungroup** from the Arrange menu at the top of your screen.
    * In the Layers list, `Control ⌃` – click the layers you’d like to group or ungroup and choose Group or Ungroup.
-   * Press `Command ⌘` + `G` on your keyboard to group, or `Shift ⇧` + `Command ⌘` + `G` to ungroup layers.
+   * Press `Command ⌘` + `G` on your keyboard to a group, or `Shift ⇧` + `Command ⌘` + `G` to ungroup layers.
 
 ### Add layers to a layer group
 
 Do one of the following:
 
-* Select a layer inside an expanded layer group in the Layers sidebar (choose **View > Show Layers** if the Layers sidebar isn’t visible) and choose one of the options from the Insert menu at the top of your screen.
+* Select a layer inside an expanded layer group in the Layers sidebar choose **View > Show Layers** if the Layers sidebar isn’t visible and choose one of the options from the Insert menu at the top of your screen.
 * Drag a layer to the layer group in the Layers sidebar.
 * Drag a layer group onto another layer group. The group, together with all its layers, will be nested inside the layer group.
 
@@ -118,8 +116,6 @@ In the Layers list, you can disable layers and groups to make them invisible in 
    * In the Layers sidebar, `Control ⌃` – click a layer or group and choose Hide or Show.
 
 :blue\_book: **Note:** Hidden layers and groups are not included when your image is exported.
-
-***
 
 ## Organize and sort layers
 

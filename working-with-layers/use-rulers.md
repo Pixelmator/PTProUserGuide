@@ -22,7 +22,7 @@ Rulers help you precisely position and size layers.
 
 Do one of the following:
 
-* Click the disclosure arrow next to the <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line"> item in the Pixelmator Pro toolbar, then choose Show Rulers or Hide Rulers.
+* Click the disclosure arrow next to the Show or hide Layers <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line"> button in the Pixelmator Pro toolbar, then choose Show Rulers or Hide Rulers.
 * Choose **View > Show Rulers** or **Hide Rulers** from the View menu at the top of your screen.
 * Press `Command ⌘` + `R` on your keyboard.&#x20;
 

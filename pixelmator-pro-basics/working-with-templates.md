@@ -21,8 +21,9 @@ Pixelmator Pro features a ton of beautiful, designer-created templates for socia
 ## Create a new image from a template
 
 1. To create an image from a template, do one of the following:
-   * In the Pixelmator Pro Welcome screen, click "Create a new document". If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** (from the Window menu at the top of the screen). You can also press `Command ⌘` + `Shift ⇧` + `1` on your keyboard.
-   * Choose **File > New** (from the File menu at the top of your screen).
+   * In the Pixelmator Pro Welcome screen, click "Create a new document". If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** from the Window menu at the top of the screen.\
+     You can also press `Command ⌘` + `Shift ⇧` + `1` on your keyboard.
+   * Choose **File > New** from the File menu at the top of your screen.
    * `Control ⌃` – click the Pixelmator Pro icon in the Dock and choose New.
 2. In the template browser, select a template design you like. You can search for templates by name or type in keywords to show all related templates. To see a larger preview of a template, press Space on your keyboard.
 3. (Optional) Some templates have alternative document sizes or layouts to choose from. In the sidebar on the right, you can click the Size pop-up menu and choose a template size.
@@ -48,7 +49,7 @@ When replacing placeholders with images from Files, you can additionally choose 
 
 You can replace any written text in templates with your own text. All the formatting applied to the placeholder text will be applied to your text, too.
 
-To replace a placeholder text, double-click the text layer you want to edit, click and drag over the text you want to replace, and start typing. If you can't select the text, make sure the Auto Select feature is enabled. Choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> and select Auto Select at the bottom of the Tool Options pane.
+To replace a placeholder text, double-click the text layer you want to edit, click and drag over the text you want to replace and start typing. If you can't select the text, make sure the Auto Select feature is enabled. Choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> and select Auto Select at the bottom of the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663833394000.jpeg)
 

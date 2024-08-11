@@ -20,10 +20,6 @@ In Pixelmator Pro, you can work with raster and vector layers. The main differen
 
 You can change the type of vector layer by converting it to pixels, in other words, _rasterizing_ it.
 
-***
-
-### Convert a layer into pixels
-
 Do one of the following:
 
 * In the Layers sidebar, `Control ⌃` – click a layer and choose Convert into Pixels.

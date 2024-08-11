@@ -23,8 +23,8 @@ Mockups are fully customizable — you can change the color of every element in 
 ## Create a new image using a mockup
 
 1. To open a mockup:
-   * In the Pixelmator Pro Welcome screen, click "Create a new document". If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** (from the Window menu at the top of the screen). You can also press `Command ⌘` + `Shift ⇧` + `1` on your keyboard.
-   * Choose **File > New** (from the File menu at the top of your screen).
+   * In the Pixelmator Pro Welcome screen, click "Create a new document". If the Welcome screen doesn't show up, choose **Window > Welcome to Pixelmator Pro** from the Window menu at the top of the screen. You can also press `Command ⌘` + `Shift ⇧` + `1` on your keyboard.
+   * Choose **File > New** from the File menu at the top of your screen.
    * `Control ⌃` – click the Pixelmator Pro icon in the Dock and choose New.
 2. In the template browser, choose the Mockups category and choose a design you like. You can also search for mockups by name or type in keywords to show all related mockups. To see a larger preview of a mockup, press Space on your keyboard.
 3. (Optional) With some mockups, you can choose from a range of different sizes for your design within the mockup. In the sidebar on the right, you can click the Size pop-up menu and choose a mockup design size.

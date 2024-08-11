@@ -20,7 +20,7 @@ You can import images from scanners, cameras, and other devices to edit them wit
 
 You can import images from cameras, iPhone and iPads, memory card readers, USB drives, etc.
 
-1. Choose **File > Import** (from the File menu at the top of your screen).
+1. Choose **File > Import** from the File menu at the top of your screen.
 2. Select the device from which you want to import images.
 3. Locate and select the images you want to import.
 4. Click Import or Import All.

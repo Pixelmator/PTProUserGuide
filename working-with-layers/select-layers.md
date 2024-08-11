@@ -50,7 +50,7 @@ _Drag-select multiple layers:_ Select the Arrange tool (choose **Tools > Arrange
 To select all the layers in the Layers sidebar.
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press `V` on your keyboard.
 2. Choose **View > Show Layers** or press `Option ⌥` + `L` if the Layers sidebar isn’t visible.

@@ -48,7 +48,7 @@ To change the units used for entering layer width and height, `Control ⌃` – 
 ## Flip an image or shape layer
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. Select a layer or a layer group.
@@ -63,7 +63,7 @@ To change the units used for entering layer width and height, `Control ⌃` – 
 When you rotate a shape, Pixelmator Pro remembers its original orientation. As a result, whenever you flip a rotated shape, it is flipped according to the original, rather than the new orientation. To update the orientation of the shape, you can reset its layer handles.
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. Select a shape layer.

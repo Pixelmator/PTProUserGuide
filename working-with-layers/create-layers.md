@@ -18,8 +18,6 @@ In Pixelmator Pro, you can create different kinds of layers in a variety of ways
 
 Below, you'll learn all the different ways you can add layers to your projects. You don't necessarily have to remember them all — just pick one that best suits your workflow.
 
-***
-
 ## Create a new empty layer
 
 Do one of the following:
@@ -41,7 +39,7 @@ New empty layers are completely transparent and have no content yet. This means 
    * _Effects._ Create a new effects layer.
    * _Text._ Create a new text layer. To edit and customize the text, choose **Tools > Type** from the Tools menu at the top of your screen or press the `T` key, then click the text layer you’ve added.
    * _Circular Text._ Create a new text layer or a circular path.
-   * _Shape._ Select one of the basic shapes or draw shapes using the [Pen tool](https://www.pixelmator.com/support/guide/pixelmator-pro/776).
+   * _Shape._ Select one of the basic shapes or draw shapes using the [Pen tool](../draw-shapes-and-vector-graphics/draw-shapes-with-the-pen-tool.md).
    * _Custom Shape._ Open the Shapes browser and choose a shape.
    * _Photos or Videos._ Add an image or video from Photos as a layer.
    * _Facetime._ Capture an image with the FaceTime camera to add as a layer.
