@@ -52,7 +52,7 @@ _Quality:_ Drag the quality slider or enter the precise quality percentage to ch
 
 _Size:_ Click the Size pop-up menu to choose whether to export the image at its original size, enter a custom size, or specific scaling.
 
-PNG
+### PNG
 
 The PNG format is most often used for exporting images with transparency. PNG files tend to be relatively larger images than JPEGs.
 

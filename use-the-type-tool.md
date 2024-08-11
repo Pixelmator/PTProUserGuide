@@ -19,7 +19,7 @@ The Type tool is used to add and customize text in images. The Type tool is grou
 ## Create a new text layer
 
 1. Choose the Type tool by doing one of the following:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
    * Press the `T` key on your keyboard.
 2. Do any of the following:

@@ -48,6 +48,6 @@ If you’d like to overwrite or update an existing preset with new settings, you
 
 1. In the Tool Options pane, click Presets <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605104039000.png" alt="" data-size="line">.
 2. Do any of the following:
-   1. _Rename an export preset:_ Open the preset submenu and choose Rename. This can help better organize the presets or find them more easily.
-   2. _Remove an export preset:_ Open the preset submenu and choose Remove if you will not be using this preset anymore.
-   3. _Reset all export presets to default:_ Open the preset submenu, press and hold the Option key, and choose Reset All. Resetting all the export presets to default removes any custom presets and returns all the default presets that come with Pixelmator Pro.
+   * _Rename an export preset:_ Open the preset submenu and choose Rename. This can help better organize the presets or find them more easily.
+   * _Remove an export preset:_ Open the preset submenu and choose Remove if you will not be using this preset anymore.
+   * _Reset all export presets to default:_ Open the preset submenu, press and hold the Option key, and choose Reset All. Resetting all the export presets to default removes any custom presets and returns all the default presets that come with Pixelmator Pro.

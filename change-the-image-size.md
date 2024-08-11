@@ -32,7 +32,6 @@ When resizing images, you can also choose from four image scaling algorithms, in
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1654695671000.jpeg)
 
 3. Enter a new width and height for the image or use [text field math](pixelmator-pro-basics/use-text-field-math.md) to calculate it.\
-   \
    :bulb: **Tip:** If you’d like to resize the image without keeping its original proportions, deselect the _Scale proportionally_ checkbox.
 4. Click OK to apply your changes or Cancel to cancel them.
 
@@ -41,7 +40,7 @@ When resizing images, you can also choose from four image scaling algorithms, in
 ## Change the print dimensions of an image
 
 1. Do one of the following:
-   * Choose **Image > Image Size** (from the Image menu at the top of your screen).
+   * Choose **Image > Image Size** from the Image menu at the top of your screen.
    * Press `Option ⌥` + `Command ⌘` + `I` on your keyboard.
 2. Choose a print unit (inches, cm, mm, or points) from the Unit pop-up menu.
 3.  Enter a new width and height for the image or use [text field math](pixelmator-pro-basics/use-text-field-math.md) to calculate it.

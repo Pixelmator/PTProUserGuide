@@ -32,7 +32,7 @@ Format the characters Adjust the space between characters
    * Press the `T` key on your keyboard.
 2.  Select the text you want to change .&#x20;
 
-    To change all of the text in a text box, click in front of the first character, then press Command ⌘ + A to highlight the entire text.
+    To change all of the text in a text box, click in front of the first character, then press `Command ⌘` + `A` to highlight the entire text.
 3. Click the Action pop-up below the Text Size slider.
 4. Do one of the following:
    1. Adjust the space between characters: In the Character Spacing value field, enter the desired character spacing percentage or use the arrow buttons to adjust it. You can enter a value from -0% to 1000%. You can also press `Option ⌥` – Right Arrow to increase character spacing or `Option ⌥` – Left Arrow to decrease it.
@@ -46,12 +46,9 @@ You can use the Character Viewer (shown below) to add special characters and sym
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589128397000.png)
 
-1.  Place the insertion point where you want the character to appear, then do one of the following:
-
-    * Choose **Edit > Emoji & Symbols** from the Edit menu at the top of the screen.
-    * Press `Control ⌃` + `Command ⌘` + `Space` on your keyboard. &#x20;
-
-    The Character Viewer appears where you clicked. You can drag it to the desktop if you want to keep it open as you work. 
+1. Place the insertion point where you want the character to appear, then do one of the following:
+   * Choose **Edit > Emoji & Symbols** from the Edit menu at the top of the screen.
+   * Press `Control ⌃` + `Command ⌘` + `Space` on your keyboard. &#x20;
 2. To locate a character, do any of the following:
    * Scroll to see more characters, or click the buttons at the bottom to jump to a category.
    * Scroll up, then type in the search field at the top (for example, type "fractions" to see available fractions, or type the Unicode name or code).

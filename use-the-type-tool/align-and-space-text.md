@@ -48,6 +48,6 @@ You can format text so it aligns to the left, right, center, or both sides of th
 
     To change all of the text in a text box, select the text box.
 2. Do any of the following:&#x20;
-   1. _Adjust the text spacing space between lines:_ Under Spacing, enter the desired value in the Line Height field or use steppers to adjust it. You can enter a value from 0.01 to 10.0.
-   2. _Adjust the space before a paragraph:_ Under Spacing, enter the desired value in the Before Paragraph field or use steppers to adjust it. You can enter a value from 0 to 400 px.
-   3. _Adjust the space after a paragraph:_ Under Spacing, enter the desired value in the After Paragraph field or use steppers to adjust it. You can enter a value from 0 to 400 px.
+   * _Adjust the text spacing space between lines:_ Under Spacing, enter the desired value in the Line Height field or use steppers to adjust it. You can enter a value from 0.01 to 10.0.
+   * _Adjust the space before a paragraph:_ Under Spacing, enter the desired value in the Before Paragraph field or use steppers to adjust it. You can enter a value from 0 to 400 px.
+   * _Adjust the space after a paragraph:_ Under Spacing, enter the desired value in the After Paragraph field or use steppers to adjust it. You can enter a value from 0 to 400 px.

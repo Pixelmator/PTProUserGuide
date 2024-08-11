@@ -98,7 +98,8 @@ _Divide_ lets you open closed paths (if you'd like to continue drawing, for inst
 
 1. Make a vector path editable.
 2. Click to select an anchor point (or points) where you want the path to split.
-3.  `Control ⌃` – click the selected point and choose Divide.
+3.  `Control ⌃` – click the selected point and choose Divide.\
+
 
     :blue\_book: **Note:** To split a closed path into two open paths, make sure you select two points on the path. If you divide a closed path in one place only, you'll open the path instead of splitting it. When a path is split, the style of the original path (such as stroke weight, fill color, and shadows) applies to the newly created ones.
 
@@ -114,7 +115,7 @@ _Join_ option lets you connect two open paths in a shape to create one single op
 
 When open paths are joined, they are connected with a straight line going directly from endpoint to endpoint. To change the path shape, add additional vector points.
 
-Show or hide outlines around vector shapes
+## Show or hide outlines around vector shapes
 
 * With any shape tool or the Arrange tool selected, `Control ⌃` – click a shape and choose Show Outline.
 

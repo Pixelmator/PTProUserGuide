@@ -14,7 +14,7 @@ layout:
 
 # Convert text into a shape or pixel layer
 
-Converting text into a shape turns it into a vector layer, so you can edit it and customize it just like any other vector shape by adjusting points, direction handles, or combining it with other shapes. Converting it into a pixel layer lets you use the pixel-based tools, for example, the Eraser, to erase parts of it.
+Converting text into a shape turns it into a vector layer, so you can edit it and customize it just like any other vector shape by adjusting points, direction handles, or combining it with other shapes. Converting it into a pixel layer lets you use the pixel-based tools, for example, the [Eraser](../paint-and-erase/), to erase parts of it.
 
 1. Select the text layer you’d like to convert.
 2. To convert the text into a shape layer, do one of the following:

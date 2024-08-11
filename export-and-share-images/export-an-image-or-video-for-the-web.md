@@ -37,13 +37,13 @@ Pixelmator Pro lets you export images and videos for the web in PNG, JPEG, GIF, 
 
 ## Add an additional export format
 
-Adding an additional export format will mean that, once you export, you will have two versions of your image exported with the chosen settings.
+Adding export format will mean that, once you export, you will have two versions of your image exported with the chosen settings.
 
 * Click Add Format, then click the Format pop-up menu to choose the desired format.
 
 :blue\_book: **Note:** If you add a few of the same file format, an additional number — 1, 2, 3, etc. — will be added to the extension suffix.&#x20;
 
-If you’d like to remove an export format, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to it.
+If you’d like to remove an export format, click Remove <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to it.
 
 ## Customize the export settings
 

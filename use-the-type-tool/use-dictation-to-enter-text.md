@@ -19,7 +19,8 @@ With keyboard dictation, you can dictate text anywhere you can type it. A feedba
 1. Place the insertion point where you want to begin dictating or select the text you want to replace. 
 2.  Choose **Edit > Start Dictation** from the Edit menu at the top of your screen.
 
-    If you haven’t used dictation before, follow the guided setup instructions that appear. &#x20;
+    If you haven’t used dictation before, follow the guided setup instructions that appear.\
+     &#x20;
 
     :bulb: **Tip:** When dictation is set up, you can also press the Function `Fn` key on your keyboard twice to start dictation.
 3.  When the microphone appears, begin speaking.

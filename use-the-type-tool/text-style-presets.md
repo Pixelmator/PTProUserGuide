@@ -21,7 +21,7 @@ Text styles let you apply a number of text formatting options at once to instant
 ## Apply a text style preset
 
 1. Choose the Type tool by doing one of the following:
-   * Choose the Type ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png) tool in the Tools sidebar.
+   * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
    * Press the `T` key on your keyboard.
 2. Select the layer or layers you would like to edit.
@@ -32,7 +32,7 @@ Text styles let you apply a number of text formatting options at once to instant
 ## Customize text style presets
 
 1. Choose the Type tool by doing one of the following:
-   * Choose the Type ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png) tool in the Tools sidebar.
+   * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
    * Press the `T` key on your keyboard.
 2. Do any of the following:
