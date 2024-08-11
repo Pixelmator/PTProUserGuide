@@ -52,7 +52,7 @@ While Pixelmator Pro comes with many pre-assigned keyboard shortcuts, you can al
 
 ## Free transform
 
-<table><thead><tr><th width="376">Action</th><th width="650">Shortcut</th></tr></thead><tbody><tr><td>Turn on Free Transform</td><td><code>Command ⌘</code> + <code>T</code></td></tr><tr><td>Skew</td><td>Drag a transform handle while holding <code>Shift ⇧</code> + <code>Command ⌘</code></td></tr><tr><td>Distort</td><td>Drag a transform handle while holding the <code>Command ⌘</code> key</td></tr><tr><td>Perspective Transform</td><td>Drag a transform handle while holding <code>Option ⌥</code> + <code>Shift ⇧</code> + <code>Command ⌘</code></td></tr></tbody></table>
+<table><thead><tr><th width="384">Action</th><th width="369">Shortcut</th></tr></thead><tbody><tr><td>Turn on Free Transform</td><td><code>Command ⌘</code> + <code>T</code></td></tr><tr><td>Skew</td><td>Drag a transform handle while holding <code>Shift ⇧</code> + <code>Command ⌘</code></td></tr><tr><td>Distort</td><td>Drag a transform handle while holding the <code>Command ⌘</code> key</td></tr><tr><td>Perspective Transform</td><td>Drag a transform handle while holding <code>Option ⌥</code> + <code>Shift ⇧</code> + <code>Command ⌘</code></td></tr></tbody></table>
 
 ## Selection tools
 
