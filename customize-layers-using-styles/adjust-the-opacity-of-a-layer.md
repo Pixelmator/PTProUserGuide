@@ -16,6 +16,8 @@ layout:
 
 Almost every layer you add to Pixelmator Pro is, by default, fully opaque, meaning the layer itself is fully visible and it obscures everything beneath it. If you reduce the opacity of a layer, it becomes partially transparent, so the selected layer becomes less visible and whatever is underneath starts to become more visible. A layer with 1% opacity is nearly transparent, while a layer with 100% opacity is entirely opaque.
 
+## Change the opacity
+
 1. Select the layer or layers you would like to edit.
 2. Choose the Style tool by doing one of the following:
    * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
