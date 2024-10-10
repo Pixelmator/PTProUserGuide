@@ -18,7 +18,10 @@ You can zoom in and out of an image to make it easier to work on large images or
 
 Do any of the following:
 
-* Drag the Zoom slider in the toolbar.
+*   Drag the Zoom slider in the toolbar.\
+
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * If you’re using a MacBook with a Multi-Touch trackpad or the Magic Trackpad, move the mouse pointer over your image, then pinch using two fingers to zoom in or out.
 * Choose **View > Zoom In** or **View > Zoom Out** from the View menu at the top of the screen.
 * Press `Command ⌘` and Plus `+` on your keyboard to zoom in, or `Command ⌘` and Minus `-` to zoom out.
@@ -63,6 +66,8 @@ The Pixelmator Pro Zoom tool lets you zoom in and out of the image using the zoo
    * Click the disclosure triangle next to the current zoom to choose a default zoom percentage, or type in a custom zoom percentage into the percentage field.
    * Under Mode, select Zoom In or Zoom Out and click the area of an image that you’d like to zoom in or zoom out.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/zoom-tool-new-2.4.mp4" %}
+
 ### Zoom using the scrubby zoom
 
 In the Zoom tool options, you can use scrubby zoom to zoom an image by clicking and dragging over it.
@@ -72,7 +77,7 @@ In the Zoom tool options, you can use scrubby zoom to zoom an image by clicking 
    * When a different tool is selected, press and hold `Space` + `Option ⌥` on your keyboard.
 2. Drag left or right on the canvas to zoom in and out of an image.
 
-If you'd like to zoom by dragging your pointer on a vertical axis instead, you can use the Terminal app on your Mac to change the default behavior. You can enter the following Terminal flag or [learn more about using Terminal on a Mac](https://support.apple.com/en-gb/guide/terminal/welcome/mac):
+:bulb: **Tip:** If you'd like to zoom by dragging your pointer on a vertical axis instead, you can use the Terminal app on your Mac to change the default behavior. You can enter the following Terminal flag or [learn more about using Terminal on a Mac](https://support.apple.com/en-gb/guide/terminal/welcome/mac):
 
 ```markup
 defaults write com.pixelmatorteam.pixelmator.x enableVerticalScrubbyZoom -bool true

@@ -22,12 +22,18 @@ To open Workspace settings:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677071742000.jpeg)
 
-## Choose a Pixelmator Pro workspace layout
+## Choose a workspace layout
 
-In the Workspace settings tab, click any of the workspace presets. You can choose from workspaces built for photography, design, illustration, and more. Once you select a preset, Pixelmator Pro automatically rearranges tools, sidebars, and other interface elements.
+In the Workspace settings tab, click any of the workspace presets. You can choose from workspaces built for photography, design, illustration, and more. Once you select a preset, Pixelmator Pro automatically rearranges tools, sidebars, and other interface elements to best suit a particular workflow.
 
-If you can't find an arrangement you like, you can also choose Customize Layout to rearrange the workspace elements manually to find what works best for your particular workflow. You can also save your custom layout as preset.
+If you can't find an arrangement you like, you can also click **Customize Layout** to rearrange the workspace elements manually to find what works best for your particular workflow.
+
+You can also create custom workspace layouts by adding them as additional workspace presets.
+
+## Rearrange your workspace
+
+The Pixelmator Pro workspace is freely customizable — you can change the arrangement of different interface elements such as the Layers sidebar, Tool Options pane, and Tools sidebar to find a layout that best suits your editing style.&#x20;
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/tools/cuztomizeLayout.mp4" %}
 
 To remove, reset, or rename a workspace preset, `Control ⌃` – click the preset thumbnail and choose an option.
-
-To additionally customize the Tools sidebar or revert to the default set of Pixelmator Pro tools, `Control ⌃` – click the preset thumbnail and choose Customize Tools.

@@ -26,6 +26,10 @@ Do any of the following:
 * Press the `H` key on your keyboard.
 * Press and hold `Space` on your keyboard and drag to scroll the image. When you do this, the cursor will change from a pointer to a hand. This lets you know the Hand tool is active. With certain tools, like the Color Adjustments or Effects, the Hand tool is automatically activated.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/tools/hand_tool.mp4" %}
+
+
+
 ## Rotate the image canvas
 
 When retouching images, drawing, or painting, it can sometimes be useful to rotate the canvas to have a better reach of some trickier image areas or to achieve smoother brush strokes. Pixelmator Pro lets you rotate the entire canvas freely to any angle you want without changing layer orientation.

@@ -17,7 +17,6 @@
     * [Ruler, grid, and guide settings](pixelmator-pro-basics/pixelmator-pro-settings/ruler-grid-and-guide-settings.md)
     * [Workspace settings](pixelmator-pro-basics/pixelmator-pro-settings/workspace-settings.md)
     * [Apple Pencil settings](pixelmator-pro-basics/pixelmator-pro-settings/apple-pencil-settings.md)
-  * [Change the Pixelmator Pro layout](pixelmator-pro-basics/change-the-pixelmator-pro-layout.md)
   * [Customize the Tools sidebar](pixelmator-pro-basics/customize-the-tools-sidebar.md)
   * [Customize the Pixelmator Pro toolbar](pixelmator-pro-basics/customize-the-pixelmator-pro-toolbar.md)
   * [Use the Touch Bar with Pixelmator Pro](pixelmator-pro-basics/use-the-touch-bar-with-pixelmator-pro.md)

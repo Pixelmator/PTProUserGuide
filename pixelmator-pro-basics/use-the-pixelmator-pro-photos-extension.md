@@ -27,6 +27,8 @@ After you've downloaded Pixelmator Pro, the Pixelmator Pro extension will automa
 3. In the top-right corner of the screen, click Edit.
 4. Then, in the toolbar at the top of the screen, click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> and choose Pixelmator Pro.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/photos-extension-2.4.mp4" %}
+
 :bulb: **Tip:** If Pixelmator Pro isn’t available in the list, click Manage, then click Photos Editing in the left sidebar, and turn on Pixelmator Pro.
 
 5. Edit your photo. For any tools or features unavailable in the Tools sidebar on the left, use keyboard shortcuts. See the full list of Pixelmator Pro keyboard shortcuts.

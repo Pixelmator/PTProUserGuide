@@ -30,7 +30,7 @@ The Quick Selection tool lets you easily select individual elements or entire ob
    * _Show Selection Preview:_ Select to show a preview of the initial selection before you make it.
 3. Draw over an area or an object you'd like to select.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Select similarly colored areas of an image
 
@@ -45,7 +45,7 @@ The Color Selection (or the magic wand) tool, lets you select elements or entire
    * _Smooth Edges:_ Select to naturally smooth the selection outline.
 3. Drag in your image to make a selection.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Select a color range
 

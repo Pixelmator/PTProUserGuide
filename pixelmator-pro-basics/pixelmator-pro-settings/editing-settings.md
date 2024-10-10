@@ -34,7 +34,7 @@ To understand which settings will work best for your particular image editing st
 
 #### Nondestructive editing
 
-Editing images nondestructively lets you save any layers, color adjustments, and other edits applied to an image and continue working on it across multiple editing sessions. By default, Pixelmator Pro imports images in its native PXD file format, creating a project file where it stores a copy of the image and all its edits. Alternatively, you can open images in their original file format, saving changes to a dedicated sidecar file instead. The sidecar files are marked by a special **.pxd-sidecar** extension and are linked to the photos.
+Editing images nondestructively lets you save any layers, color adjustments, and other edits applied to an image and continue working on it across multiple editing sessions. By default, Pixelmator Pro imports images in its native [PXD](../../create-open-and-save-images/about-the-pixelmator-pro-file-format.md) file format, creating a project file where it stores a copy of the image and all its edits. Alternatively, you can open images in their original file format, saving changes to a dedicated [sidecar file](../../create-open-and-save-images/about-pixelmator-pro-sidecar-files.md) instead. The sidecar files are marked by a special **.pxd-sidecar** extension and are linked to the photos.
 
 Images edited nondestructively can be reverted to the original using macOS Versions. To turn on macOS Versions, make sure the Use Auto Save and Version option is selected in the Editing settings.
 

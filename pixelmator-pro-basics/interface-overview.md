@@ -14,7 +14,7 @@ layout:
 
 # Interface overview
 
-Pixelmator Pro features a single-window, easy-to-use interface, designed for editing images and creating graphic designs. The main parts of the interface are the image canvas in the center, the Tools sidebar on the right, the Layers sidebar on the left, and the toolbar at the top. You can also customize the default layout of Pixelmator Pro to arrange the interface elements differently. See [Change the Pixelmator Pro layout](change-the-pixelmator-pro-layout.md) to learn more.
+Pixelmator Pro features a single-window, easy-to-use interface, designed for editing images and creating graphic designs. The main parts of the interface are the image canvas in the center, the Tools sidebar on the right, the Layers sidebar on the left, and the toolbar at the top. You can also customize the default layout of Pixelmator Pro to arrange the interface elements differently. See [Change the Pixelmator Pro layout](broken-reference) to learn more.
 
 There are also additional elements such as overlays or rulers that are hidden by default. You can choose to view them if you need them from the View menu at the top of your screen.
 
@@ -120,17 +120,23 @@ You can adjust how transparent or opaque the layers should be using the Opacity 
 
 See [Adjust the opacity of a layer](../customize-layers-using-styles/adjust-the-opacity-of-a-layer.md) to learn more about adjusting layer opacity.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/opacity-2.4.mp4" %}
+
 #### Layer blending
 
 Blend modes let you change the look of layers by mixing and combining layer colors. Select a layer, choose a blend mode, and the colors of the selected layer will blend with the layers underneath it. Using different blend modes, you can achieve some unique-looking artistic effects, improve image retouching workflows, and more.
 
 See [Change the blend mode of a layer](../customize-layers-using-styles/change-the-blend-mode-of-a-layer.md) to learn more about layer blending.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/blend-modes-2.4.mp4" %}
+
 #### Search and filter layers
 
 You can search your document for specific layers by typing their name into the search field at the bottom of the Layers sidebar. The filter search can also help sort layers based on their type (images, shapes, text, RAW images, groups, masks, color adjustments, effects, videos) or tags.
 
 See [Work with layers](../working-with-layers/) to learn more about managing layers.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/layer-search-2.4.mp4" %}
 
 #### Show or hide the Layers sidebar
 
@@ -180,6 +186,8 @@ Rulers almost always come hand in hand with guides — another great tool to hel
 
 For more information about guides and rulers, see [Use rulers](../working-with-layers/use-rulers.md) and [Use alignment guides](../working-with-layers/use-alignment-guides.md).
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/rulers-2.4.mp4" %}
+
 #### Show or hide Rulers
 
 Do one of the following:
@@ -227,6 +235,8 @@ The Info bar provides useful information about the image or a selected layer. Th
 :bulb: **Tip:** You can `Control ⌃` – click the Info bar to add or remove certain properties.
 
 The Info bar also offers quick access to Image Size, Color Profile, and Color Depth settings. Double-click the desired setting in the Info bar to open a dedicated edit sheet.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/info-bar-2.4.mp4" %}
 
 #### Show or hide the Info bar
 

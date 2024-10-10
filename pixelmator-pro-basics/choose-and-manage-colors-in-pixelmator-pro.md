@@ -70,6 +70,8 @@ To switch between foreground and background colors, do one of the following:
 
 To reset foreground and background colors to black and white press the `D` key on your keyboard.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/paint-and-erase/fg-bg-switch.mp4" %}
+
 ## Use the Color Picker tool
 
 The Color Picker tool is a standalone tool that offers additional options for choosing and managing colors in Pixelmator Pro. In the Color Picker tool options, you can set how all color pickers in Pixelmator Pro sample colors and what information they display.
@@ -85,3 +87,28 @@ The Color Picker tool is a standalone tool that offers additional options for ch
 3. Click anywhere in your image to pick a color.
 
 :blue\_book: **Note:** Pixelmator Pro remembers the settings you choose, the swatches you add, or the color palettes you create, so you can work with the same settings and colors across multiple documents.
+
+## Use the Colors window
+
+The Colors window in Pixelmator Pro lets you access the system color palettes, and all the macOS-native color pickers such as the color wheel, sliders, and pencils.
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="355"><figcaption></figcaption></figure>
+
+</div>
+
+The Colors window has four sections: the different color pickers at the top (color wheel, color sliders, color palettes, image palettes, and pencils); the active color picker in the middle; the large color swatch in the lower-left to show the currently selected color; the eyedropper for picking colors; and the row of boxes to pick or save new color swatches.
+
+1. To open the Colors window, do one of the following:
+   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1582542017000.png) in the color picker popover.&#x20;
+   * Choose **View > Show Colors** (from the View menu at the top of your screen).
+   * Press `Shift ⇧` + `Command ⌘` + `C` on your keyboard.
+2. Do any of the following:
+   * _Choose a color for a selected text, shape, color adjustment, or effect:_ Click the color picker tab at the top of the Colors window, then choose a color. You can specify a more precise color by using the sliders or entering values.
+   * _Pick a color:_ Click the eyedropper, then click anywhere on the computer screen to choose a color.
+   * _Save colors to use again:_ At the bottom of the Colors window, drag the color from the larger color swatch on the left to an empty well on the right. To remove a color, drag it to the Trash in the Dock. Colors saved to the color swatches library remain accessible across applications and restarts.
+
+***
+
+:exclamation:**Important:** Colors in the color wells update based on the tool or the layer selected, so if you select a color for one tool, the colors don't change for others (except for the [painting tools](../paint-and-erase/)). This means that if you leave the Colors window open for one tool, and select another object in the canvas, clicking colors in the already open Colors window does not change the newly selected object.&#x20;
