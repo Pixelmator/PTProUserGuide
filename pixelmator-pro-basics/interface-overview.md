@@ -14,7 +14,7 @@ layout:
 
 # Interface overview
 
-Pixelmator Pro features a single-window, easy-to-use interface, designed for editing images and creating graphic designs. The main parts of the interface are the image canvas in the center, the Tools sidebar on the right, the Layers sidebar on the left, and the toolbar at the top. You can also customize the default layout of Pixelmator Pro to arrange the interface elements differently. See [Change the Pixelmator Pro layout](broken-reference) to learn more.
+Pixelmator Pro features a single-window, easy-to-use interface, designed for editing images and creating graphic designs. The main parts of the interface are the image canvas in the center, the Tools sidebar on the right, the Layers sidebar on the left, and the toolbar at the top. You can also customize the default layout of Pixelmator Pro to arrange the interface elements differently. See [Change the Pixelmator Pro layout](pixelmator-pro-settings/workspace-settings.md) to learn more.
 
 There are also additional elements such as overlays or rulers that are hidden by default. You can choose to view them if you need them from the View menu at the top of your screen.
 
