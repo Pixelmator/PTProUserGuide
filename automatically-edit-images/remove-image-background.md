@@ -31,6 +31,8 @@ Do any of the following:
 
 * Choose **Tools > Smart Erase** from the Tools menu at the top of the screen and click Remove Background.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/removeBackground.mp4" %}
+
 ***
 
 If you'd like to [Hide Background](hide-image-background.md) instead of removing it completely, hold down the `Option ⌥` key when clicking Remove Background in the menu. This will mask the background instead of deleting it and you'll be able to [edit the mask](../mask-layers/working-with-bitmap-masks.md) manually once it's added.
