@@ -14,7 +14,7 @@ layout:
 
 # Create a new image
 
-To create a new image in Pixelmator Pro, you can use a number of beautiful, ready-made templates and mockups, choose from many image size presets, or create an image from scratch by entering custom dimensions.
+To create a new image in Pixelmator Pro, you can pick from a variety of gorgeous, pre-made templates and mockups, select from plenty of image size presets, or just create a new empty image from scratch by entering custom dimensions.
 
 ## Create a new image in Pixelmator Pro
 
