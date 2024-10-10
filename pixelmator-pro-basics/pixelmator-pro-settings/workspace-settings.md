@@ -32,8 +32,12 @@ You can also create custom workspace layouts by adding them as additional worksp
 
 ## Rearrange your workspace
 
-The Pixelmator Pro workspace is freely customizable — you can change the arrangement of different interface elements such as the Layers sidebar, Tool Options pane, and Tools sidebar to find a layout that best suits your editing style.&#x20;
+The Pixelmator Pro workspace is freely customizable — you can change the arrangement of different interface elements such as the Layers sidebar, Tool Options pane, and Tools sidebar to find a layout that best suits your editing style.
+
+In the layout customization window, drag any of the highlighted elements to start rearranging the workspace. If you simply click and hold an element, special indicators will appear suggesting where you can move it.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/tools/cuztomizeLayout.mp4" %}
+
+For instance, the Tools sidebar will snap to any edge of the application window, while the Tool Options pane and the Layers sidebar can be placed on the left or the right side of the screen.
 
 To remove, reset, or rename a workspace preset, `Control ⌃` – click the preset thumbnail and choose an option.
