@@ -35,7 +35,7 @@ When you move layers, they automatically snap to other layers on the canvas. You
    * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
-2. Select the layer you'd like to position.
+2. [Select the layer](select-layers.md) you'd like to position.
 3.  Enter x and y values in the Position fields. 
 
     * The x value is measured from the left edge of the canvas to the object’s upper-left corner. 
@@ -44,6 +44,8 @@ When you move layers, they automatically snap to other layers on the canvas. You
     When you drag an object, its x and y coordinates are displayed.
 
     To change the units used for the x and y coordinates `Control ⌃` – click the number field and choose a different unit.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/layer-position-change-2.4.mp4" %}
 
 ## Align objects vertically or horizontally
 
