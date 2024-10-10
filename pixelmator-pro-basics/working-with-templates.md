@@ -90,7 +90,7 @@ In Pixelmator Pro, you can define custom placeholder images, text, and alternati
 
 To define an image or shape as a placeholder:
 
-1. Select the layer you'd like to use for a placeholder in the Layers sidebar or directly on the canvas.
+1. [Select the layer](../working-with-layers/select-layers.md#select-a-single-layer-in-a-composition) you'd like to use for a placeholder in the Layers sidebar or directly on the canvas.
 2. Choose **Format > Advanced > Define as Placeholder** from the Format menu at the top of the screen.
 
 To define a group of images, shapes, or text as alternative elements:
