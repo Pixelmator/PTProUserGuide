@@ -14,13 +14,7 @@ layout:
 
 # Convert layers into pixels
 
-In Pixelmator Pro, you can work with raster and vector layers. The main difference between the two is that the primary building blocks of raster layers are pixels, while vector graphics are made up of paths.
-
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1587651842000.jpeg)
-
-You can change the type of vector layer by converting it to pixels, in other words, _rasterizing_ it.
-
-Do one of the following:
+In Pixelmator Pro, you can use both raster and vector layers. To convert a layer to a pixel-based format, try one of the following:
 
 * In the Layers sidebar, `Control ⌃` – click a layer and choose Convert into Pixels.
 * Select a layer, then choose **Format > Convert into Pixels** from the Format menu at the top of your screen.
@@ -29,7 +23,7 @@ Do one of the following:
 
 ***
 
-## What is the difference between raster and vector layers?
+## What is the difference between pixel and vector layers?
 
 Vector layers include shapes, text, and lines you can draw using the Pen tools. Each of these vector objects can be used to create vector graphics, including digital drawings, illustrations, logos, layouts, and more. A raster layer is any other type of layer that consists of pixels — images, masks, paintings, and photos — so when you paint or edit images, you're working with raster layers.
 

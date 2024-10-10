@@ -45,3 +45,6 @@ The zero origin is the location of the rulers’ 0. By default, units increase f
 :bulb: **Tip:** Press and hold `Shift ⇧` on your keyboard to automatically snap to rulers' tick marks as you're adjusting the zero-origin rulers.
 
 To reset the zero origin, double-click the area where the horizontal and vertical rulers meet in the upper-left corner of the canvas.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/use-rulers-2.4.mp4" %}
+
