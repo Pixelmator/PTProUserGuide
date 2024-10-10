@@ -58,7 +58,7 @@ To change the units used for entering layer width and height, `Control ⌃` – 
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/flip-2.4.mp4" %}
 
-## Update the orientation of a shape
+## Update the orientation of the shape handles
 
 When you rotate a shape, Pixelmator Pro remembers its original orientation. As a result, whenever you flip a rotated shape, it is flipped according to the original, rather than the new orientation. To update the orientation of the shape, you can reset its layer handles.
 

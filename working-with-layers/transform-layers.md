@@ -36,11 +36,15 @@ The Transform tool in Pixelmator Pro lets you easily transform images, text, sha
 
 You can use different units, such as centimeters, millimeters, inches, pixels, or percent. `Control ⌃` – click the value field and choose a unit from the shortcut menu that appears.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/free-transform-layers-2.4.mp4" %}
+
 ### Skew a layer vertically or horizontally
 
 1. At the top of the Transform tool options, select the Skew mode or press and hold `Shift ⇧` + `Command ⌘`on your keyboard to temporarily activate the Skew mode.
 2. Drag the midpoint handles to slant two adjacent layer corners at the same time, leaving the other two corners untouched. Drag a corner handle to transform the corner leaving the other three corners locked in place.
 3. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/skew-transform-layers-2.4.mp4" %}
 
 ### Stretch vertically or horizontally
 
@@ -50,6 +54,8 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
    * _Stretch a layer proportionally:_ Press and hold the `Shift ⇧` key while dragging a corner handle in the canvas.
 3. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/distort-transform-layers-2.4.mp4" %}
+
 ### Transform layer perspective
 
 1. Select a layer to transform.
@@ -57,5 +63,7 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
 3. In the Tool Options pane, select the Perspective transform mode. You can also press and hold `Option ⌥` + `Shift ⇧` + `Command ⌘` on your keyboard to temporarily activate the Perspective mode.&#x20;
 4. Drag the corner handles to change the perspective vertically or horizontally. Dragging handles at the sides of the layer slants it vertically or horizontally.
 5. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/perspective-tranform-layers-2.4.mp4" %}
 
 :exclamation:**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform effect](../about-effects/apply-other-effects.md#perspective-transform-effect).
