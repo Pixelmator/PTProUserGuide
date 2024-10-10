@@ -16,12 +16,6 @@ layout:
 
 You can open images in a variety of different image formats saved on your Mac, in iCloud Drive, on connected servers, and third-party storage providers. The following file formats are supported in Pixelmator Pro: PXD, JPEG, PNG, TIFF, HEIC, PSD, SVG, PDF, GIF, BMP, TGA, WebP, JPEG-2000, macOS-supported RAW formats.
 
-When you open an image in one of the above formats, it is automatically converted to PXD — the [Pixelmator Pro file format](create-open-and-save-images/about-the-pixelmator-pro-file-format.md) — so when you save the image, any additional layers and advanced formatting you add are not lost and remain editable. Once you finish editing and would like to share an image with someone else or upload it online, you can save it as a JPEG, PNG, TIFF, WebP, or HEIC image or [export](export-and-share-images/) it.
-
-Alternatively, instead of importing images as PXD documents, you can choose to open them in their original file format — JPEG, PNG, TIFF, WebP, or HEIC — and save changes directly back to the same file format using sidecar files. This workflow lets you share the edited images directly, without having to export them first. You can learn more about different editing workflows in Pixelmator Pro and change how it opens images in the article about Editing settings.
-
-***
-
 ## Open an existing document
 
 * _Open an image or a document on your Mac:_ Launch Pixelmator Pro and in the welcome screen, click "Browse images on your Mac". To open images directly from their original locations on your Mac, drag the images or documents onto the Pixelmator Pro icon in the Dock. You can also `Control ⌃`-click the file in its folder and choose **Open With > Pixelmator Pro**.
@@ -29,17 +23,13 @@ Alternatively, instead of importing images as PXD documents, you can choose to o
 * _Open an image from macOS Photos:_ Launch Pixelmator Pro and in the welcome screen, choose "Open an image from Photos". You can also choose **File > New from Photos** to open the Photos browser. In the sidebar on the left, browse the Photos albums to locate an image you'd like to import. Select and click OK, or simply double-click the image thumbnail to open the image.
 * _Open an image stored somewhere else than your Mac (such as iCloud Drive):_ Launch Pixelmator Pro and in the welcome screen, click "Browse images on your Mac". Click the pop-up menu at the top of the Open dialog (shown below) that appears, then choose the location where the image is saved. Locate and double-click a file to open it.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651483867000.jpeg)
-
 :bulb: **Tip:** You can also open images by simply dragging them from a website on Safari or a folder in Finder onto the Pixelmator Pro icon in the Dock.
 
+![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651483867000.jpeg)
 
+Typically when you open an image in Pixelmator Pro it gets automatically converted to PXD — the [Pixelmator Pro file format](create-open-and-save-images/about-the-pixelmator-pro-file-format.md) — so when you save the image, any additional layers and advanced formatting you add are not lost and remain editable. Once you finish editing and would like to share an image with someone else or upload it online, you can save it as a JPEG, PNG, TIFF, WebP, or HEIC image or [export](export-and-share-images/) it.
 
-If a photo you add happens to be larger than the canvas, some of its content may be hidden beyond the edges of the canvas. [Zoom out](pixelmator-pro-basics/zoom-in-and-out-of-an-image.md) of the image until you see the layer handles, then resize it to fit the canvas. If you don't mind changing the canvas size, you can also choose **Image > Reveal Canvas** from the Image menu at the top of your screen to show the entire image.
-
-***
-
-When you open a Pixelmator Pro document that uses fonts not installed on your Mac, a missing font notification appears briefly at the top of the image. In the notification, click Show and choose a replacement font.
+Alternatively, instead of importing images as PXD documents, you can choose to [open them in their original file format](pixelmator-pro-basics/pixelmator-pro-settings/editing-settings.md) — JPEG, PNG, TIFF, WebP, or HEIC — and save changes directly back to the same file format using sidecar files. This workflow lets you share the edited images directly, without having to export them first. You can learn more about different editing workflows in Pixelmator Pro and change how it opens images in the article about Editing settings.
 
 ## Opening vector and bitmap PDFs
 
@@ -53,3 +43,5 @@ When opening multi-page PDFs in Pixelmator Pro, you can also choose which page y
    * Adjust the Width and Height of the PDF document and set the desired resolution.
    * To open the document as a vector PDF with layers, make sure "Import PDF with layers" is selected. Deselect this option if you want to import a flattened, bitmap PDF.
 3. Click Import.
+
+When you open a Pixelmator Pro document that uses fonts not installed on your Mac, a missing font notification appears briefly at the top of the image. In the notification, click Show and choose a replacement font.
