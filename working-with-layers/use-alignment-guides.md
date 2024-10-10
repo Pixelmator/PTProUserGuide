@@ -27,9 +27,24 @@ Smart Guides appear when a layer or a layer group matches the size or position o
    * Choose **View > Smart Guides** from the View menu at the top of your screen.
 2. Select any of the options:
    * _Show guides at object center:_ Guides appear when the center of an object aligns with the center of another object or the center of the image.
-   * _Show guides at object edges:_ Guides appear when the edges of an object align with the edge of another object or the edge of the image.
-   * _Show guides for relative sizing:_ Guides appear when an object matches the size of another object.
-   * _Show guides for relative spacing:_ Guides appear when three or more objects are placed equally apart in a line.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show_guides_at_object_center.mp4" %}
+
+
+
+* _Show guides at object edges:_ Guides appear when the edges of an object align with the edge of another object or the edge of the image.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show_guides_at_object_edges.mp4" %}
+
+* _Show guides for relative sizing:_ Guides appear when an object matches the size of another object.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show-guides-for-relative-sizing.mp4" %}
+
+* _Show guides for relative spacing:_ Guides appear when three or more objects are placed equally apart in a line.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show_guides_for_relative_spacing_2.4.mp4" %}
+
+
 
 :bulb: **Tip:** If you want, you can change the color of the Smart Guides in [Pixelmator Pro settings](../pixelmator-pro-basics/pixelmator-pro-settings/).
 
@@ -46,13 +61,27 @@ To add a guide, do one of the following:
 
 :bulb: **Tip:** If you want, you can change the color of the alignment guides in Pixelmator Pro settings.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/add_persistent_guides_2.4.mp4" %}
+
 ## Change the location of a persistent alignment guide
+
+Change the location of a persistent alignment guide
+
+1. Choose the Arrange tool by doing one of the following:
+   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png) in the [Tools sidebar](https://help.pixelmator.com/pixelmator-pro/3.5/#glossary).
+   * Choose **Tools > Arrange** (from the Tools menu at the top of your screen).
+   * Press the V key on your keyboard.
+2. Drag a guide.
+
+## Remove or hide persistent alignment guides
 
 Do any of the following:
 
 * _Remove a horizontal guide:_ Drag it to the top of the image.
 * _Remove a vertical guide:_ Drag it to the left of the image.
 * _Show or hide all guides:_ Choose **View > Overlays and select or deselect Guides** from the View menu at the top of your screen.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/delete_persistent_guides_2.4.mp4" %}
 
 ## Lock guides
 
