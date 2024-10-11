@@ -36,13 +36,13 @@ You can replace placeholders in mockups with simple JPEG, PNG, or TIFF images of
 
 Replace the placeholder image by doing one of the following:
 
-* Click the Replace Layer button <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663672798000.png" alt="" data-size="line"> next to the placeholder image on the canvas and choose Replace from Photos, Replace from Files, or Replace from Clipboard.
-* Click the Replace Layer button <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663672798000.png" alt="" data-size="line"> next to the placeholder layer in the Layers sidebar and choose an option.
+* Click the Replace Layer button <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> next to the placeholder image on the canvas and choose Replace from Photos, Replace from Files, or Replace from Clipboard.
+* Click the Replace Layer button <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> next to the placeholder layer in the Layers sidebar and choose an option.
 * Select the placeholder image layer, then choose **Format > Replace Layer** from the Format menu at the top of the screen and choose an option.
 
 Pixelmator Pro will use the machine-learning-powered Smart Replace feature to insert your designs. Smart Replace combines the power of three other ML features — Remove Background, Super Resolution, Auto Fill — and makes sure your designs fit perfectly into mockups.
 
-:blue\_book: **Note:** If you're using multilayered documents and would like to adjust the entire group, make sure the automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the Tool Options pane select the Auto Select option and choose Group from the adjacent pop-up menu.
+:blue\_book: **Note:** If you're using multilayered documents and would like to adjust the entire group, make sure the automatic group selection is enabled. To do that, choose the Arrange tool <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line">, at the bottom of the Tool Options pane select the Auto Select option and choose Group from the adjacent pop-up menu.
 
 When using images or documents from Files, you can additionally choose a preferred fill option — Original Size, Auto Fill, Scale to Fill, Scale to Fit, or Stretch.
 
@@ -68,9 +68,9 @@ To give mockups a look and feel that compliments your design, you can choose fro
 2. If you want, you can further customize the color palette:
    * _Change color in a palette_ — Click any of the color swatches to open the color picker. You can also pick a color from the image using the eyedropper tool.
    * _Add or remove colors_ — Control-click a color swatch and choose Add Color or Remove Color.
-   * _Create a new color palette_ — Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and choose Duplicate, then change colors in the new palette however you want.
-   * _Copy or paste color palettes_ — Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and choose Copy All Palettes to copy or Paste All Palettes to paste them.
-   * _Remove a color palette_ — Select the color palette you'd like to remove, then choose Remove Palette from the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line">.
+   * _Create a new color palette_ — Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Duplicate, then change colors in the new palette however you want.
+   * _Copy or paste color palettes_ — Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Copy All Palettes to copy or Paste All Palettes to paste them.
+   * _Remove a color palette_ — Select the color palette you'd like to remove, then choose Remove Palette from the More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line">.
 
 To change the color of any of the composition elements surrounding your design, double-click the color thumbnail in the Layers sidebar and use the color picker to choose a new color.
 
