@@ -21,7 +21,7 @@ You can improve the colors of a single layer or, using a color adjustments layer
 Do any of the following:
 
 * Choose **Format > Color Adjustments > ML Enhance** from the Format menu at the top of your screen.
-* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and click ML Enhance.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and click ML Enhance.
 * Press `A` on your keyboard and click ML Enhance in the Color Adjustments pane.
 * Press `Shift ⇧` + `Command ⌘` + `M` on your keyboard.
 

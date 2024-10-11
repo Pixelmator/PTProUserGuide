@@ -21,7 +21,7 @@ To learn more about Super Resolution and its development, check out our [compreh
 Do any of the following:
 
 * Choose **Format > Super Resolution** from the Format menu at the top of your screen.
-* Click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar and choose Super Resolution from the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu.
-* Press `A` on your keyboard, then click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> at the very top of the Color Adjustments pane and choose Super Resolution.
+* Click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> in the Tools sidebar and choose Super Resolution from the More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> menu.
+* Press `A` on your keyboard, then click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> at the very top of the Color Adjustments pane and choose Super Resolution.
 * Press `Option ⌥` + `Command ⌘` + `U` on your keyboard.
 * Choose **Image > Image Size** from the Image menu at the top of your screen to scale an image to a specific size using the Super Resolution algorithm.
