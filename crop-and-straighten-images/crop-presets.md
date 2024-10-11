@@ -39,3 +39,8 @@ Pixelmator Pro comes with a number of pre-made presets you can use to quickly cr
    * _Rename a crop preset:_ Click the disclosure triangle next to the preset you'd like to rename and choose Rename. Enter a new name for your preset and press the `Return ↵` key on your keyboard to confirm.
    * _Delete a crop preset:_ Click the disclosure triangle next to the preset you'd like to delete and choose Delete.
    * _Reset all crop presets:_ Click the disclosure button next to any preset, press and hold the `Option ⌥` key, and choose Reset All.  This deletes any custom crop presets and recovers default ones.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/crop/create_new_crop_preset_2.4.mp4" %}
+Creating a Crop preset
+{% endembed %}
+

@@ -16,6 +16,8 @@ layout:
 
 You can crop images to improve their composition or eliminate unwanted parts. When cropping, you can use a preset or custom aspect ratio, or you can constrain the image to its original aspect ratio. You can also straighten or fix the perspective of images that were taken at an angle unintentionally.
 
+## Crop and straighten an image
+
 1. Choose the Crop tool by doing one of the following:
    * Choose Crop <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1578473388000.png" alt="" data-size="line"> in the Pixelmator Pro Tools sidebar.
    * Choose **Tools > Crop** from the Tools menu at the top of your screen.
@@ -31,6 +33,10 @@ To quickly reset the crop box to the original image height, fit the image into a
 
 :blue\_book: **Note:** When resizing, the crop box Pixelmator Pro shows an overlay to help you adjust the crop box more precisely. You can learn more about changing the overlay type or its display settings in the "Choose a crop overlay" section below.&#x20;
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/crop/crop_straighten_2.4.mp4" %}
+
+
+
 ## Constrain the crop box to a custom aspect ratio or size
 
 1. Choose the Crop tool by doing one of the following:
@@ -39,6 +45,8 @@ To quickly reset the crop box to the original image height, fit the image into a
    * Press the `C` key on your keyboard.
 2. If a crop preset is selected, click the Constrain pop-up menu and choose Custom Aspect Ratio or Custom Size.
 3. In the Tool Options pane, enter a new crop ratio or size into the designated fields.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/crop/custom_aspect_ratio_2.4.mp4" %}
 
 ## Choose to hide or delete the cropped areas of an image
 
