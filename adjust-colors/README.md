@@ -16,7 +16,7 @@ layout:
 
 Color adjustments are used to change the color, lighting, and contrast in images. Pixelmator Pro includes a wide range of adjustments that let you adjust these properties in a variety of different ways. For example, you can change the overall brightness and contrast of an image, make it look warmer or cooler, or adjust specific colors or areas. Color adjustments are completely nondestructive, which means the original image and all the settings for the adjustment are always preserved.
 
-You can also take advantage of the machine learning-powered tools to fine-tune the colors of an image automatically using [ML Enhance](../automatically-edit-images/enhance-colors.md), or use [Match Colors](automatically-match-image-colors.md) to match image colors to the colors of any other image.
+You can also take advantage of the machine learning-powered tools to fine-tune the colors of an image automatically using [ML Enhance](../automatically-edit-images/automatically-enhance-colors.md), or use [Match Colors](../automatically-edit-images/automatically-match-image-colors.md) to match image colors to the colors of any other image.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656415887000.jpeg)
 
