@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Enhance colors
+# Automatically enhance colors
 
 ML Enhance is an incredibly intelligent and powerful image enhancement feature, trained on millions of professional photos to automatically take care of the most important things that go into a good photo, like the exposure, white balance, black point, and even individual color ranges. It's designed to give you the best starting point for making your own creative edits to a photo.
 
@@ -26,6 +26,8 @@ Do any of the following:
 * Press `Shift ⇧` + `Command ⌘` + `M` on your keyboard.
 
 After selecting ML Enhance, you can additionally tweak any of the 37 available color adjustments yourself.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/MLEnhance.mp4" %}
 
 ***
 

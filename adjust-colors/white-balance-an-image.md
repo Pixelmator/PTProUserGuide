@@ -43,13 +43,21 @@ You can white balance a single layer or, using a color adjustments layer, multip
 
 Click ML in the Tool Options pane next to the White Balance adjustment
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655990995000.jpeg)
+<div align="left">
+
+<img src="../.gitbook/assets/White Balance.jpg" alt="" width="563">
+
+</div>
 
 ## White balance an image by choosing a neutral gray area
 
 Click the White Balance eyedropper and then click an area in your image that should be a neutral grey.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655990975000.jpeg)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655990975000.jpeg" alt="" width="563">
+
+</div>
 
 After doing this, you can manually fine-tune the automatic adjustments applied to your image by dragging the Temperature and Tint sliders.
 
