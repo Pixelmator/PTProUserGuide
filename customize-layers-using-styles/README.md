@@ -37,6 +37,8 @@ If you apply two or more of the same layer styles to a single layer, you can rea
 
 To rearrange layer styles, click and drag a style up or down the list of styles.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/rearrange-styles-2.4.mp4" %}
+
 ## Copy a layer style from one layer to another
 
 A quick way to apply the same layer style to multiple layers is by using [layer style presets](layer-style-presets.md). However, you can also apply the same layer style to multiple layers by simply copying it over.
