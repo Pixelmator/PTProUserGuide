@@ -22,7 +22,7 @@ The Selective Color adjustment can be applied directly to a single layer or, usi
 ## Edit the currently selected layer
 
 * Choose **Format > Color Adjustments > Selective Color** from the Format menu at the top of your screen.
-* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Selective Color adjustment.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on the Selective Color adjustment.
 * Press `A` on your keyboard and turn on the Selective Color adjustment.
 
 ## Edit multiple layers in a composition

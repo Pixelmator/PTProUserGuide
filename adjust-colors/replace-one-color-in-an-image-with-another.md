@@ -20,7 +20,7 @@ Use the Replace Color adjustment to replace any color in your image with any oth
 ## Replace color in the currently selected layer
 
 * Choose **Format > Color Adjustments > Replace Color** from the Format menu at the top of your screen.
-* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Replace Color adjustment.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on the Replace Color adjustment.
 * Press `A` on your keyboard and turn on the Replace Color adjustment.
 
 ## Replace a color in multiple layers in a composition

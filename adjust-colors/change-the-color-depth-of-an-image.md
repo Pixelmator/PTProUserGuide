@@ -28,7 +28,7 @@ When creating a new project in Pixelmator Pro, you can choose whether you'll be 
 ### Change the color depth of an image
 
 1. Do one of the following:
-   * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605162881000.png" alt="" data-size="line"> in the Pixelmator Pro toolbar and choose Color Depth.
+   * Click More <img src="../.gitbook/assets/More-+-arrow.png" alt="" data-size="line"> in the Pixelmator Pro toolbar and choose Color Depth.
    * Choose **Image > Color Depth** from the Image menu at the top of your screen.
 2. Select 8 bits per channel or 16 bits per channel.
 3. Click OK to apply your changes.

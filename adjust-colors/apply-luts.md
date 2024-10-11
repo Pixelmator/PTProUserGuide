@@ -34,7 +34,7 @@ In Pixelmator Pro, you can choose from 5 different collections of pre-made LUTs 
 
 1. Do one of the following:
    * Choose **Format > Color Adjustments > Custom LUT** from the Format menu at the top of your screen and choose a LUT from the list.
-   * In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the Custom LUT pop-up menu, choose from the available LUTs.
+   * In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the Custom LUT pop-up menu, choose from the available LUTs.
 2. (Optional) Drag the Intensity slider to control the strength of the LUT or how it blends with the other color adjustments.
 
 :bulb: **Tip:** You can see what LUTs will look like before applying them by hovering the pointer over the name of the LUT.
@@ -43,15 +43,15 @@ In Pixelmator Pro, you can choose from 5 different collections of pre-made LUTs 
 
 1. To create a color adjustments layer, do any of the following:
    * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen.
-   * Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604676890000.png" alt="" data-size="line"> at the top of the Color Adjustments pane.
+   * Click Add <img src="../.gitbook/assets/Add.png" alt="" data-size="line"> at the top of the Color Adjustments pane.
    * Press `Shift ⇧` + `Command ⌘` + `A`
-2. In the Tools sidebar, click Color Adjustments ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png) and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane.
+2. In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane.
 
 ## Import a custom LUT
 
 If you have a custom LUT you want to use in Pixelmator Pro, you can import it. The custom LUT will be saved to the Pixelmator Pro LUTs library and will always be available from the LUT collections pop-up menu.
 
-1. In the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> click Choose Custom LUT. Use the documents browser to locate the LUT file on your Mac.
+1. In the More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line"> click Choose Custom LUT. Use the documents browser to locate the LUT file on your Mac.
 2. Double-click the LUT file or click Choose to import.
 
 :blue\_book: **Note:** Pixelmator Pro supports 1D and 3D LUTs in the **.cube** file format.
@@ -62,7 +62,7 @@ If you have a custom LUT you want to use in Pixelmator Pro, you can import it. T
 
 Sometimes, you may want to additionally adjust the LUTs or save them as color adjustment presets. You can do so by converting the LUT files into Pixelmator Pro color adjustments.
 
-* In the More menu ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png), click Convert LUT into Adjustments.
+* In the More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line">, click Convert LUT into Adjustments.
 
 ## Save Pixelmator Pro color adjustments as LUTs
 
@@ -70,14 +70,14 @@ If you have a set of color adjustments you'd like to use in apps other than Pixe
 
 Do any of the following
 
-* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> click Export Adjustments as LUT.
-* Click the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> next to the ML Enhance button and choose Export Adjustments as LUT.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on Custom LUT or add it from the Customize menu at the bottom of the Color Adjustments pane. In the More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line"> click Export Adjustments as LUT.
+* Click the More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the ML Enhance button and choose Export Adjustments as LUT.
 
 ## Reset custom LUTs
 
 If you'd like to roll back the LUTs library to how it originally comes with Pixelmator Pro, you can reset it.
 
-* In the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> press and hold the `Option ⌥` key and click Reset Custom LUTs.
+* In the More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line"> press and hold the `Option ⌥` key and click Reset Custom LUTs.
 
 :exclamation:**Important:** After the reset, any custom LUTs will also be deleted from the "Custom LUTs" folder on your Mac.
 

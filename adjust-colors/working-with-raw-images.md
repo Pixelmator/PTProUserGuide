@@ -48,7 +48,7 @@ Pixelmator Pro natively supports RAW files so you can edit your RAW images and t
 
 Pixelmator Pro has a special Extended Dynamic Range Mode you can turn on if you're using a Pro Display XDR, an HDR-compatible Mac model, or other HDR displays that are supported by macOS. This mode lets you utilize a true 10-bit color depth (1.073 billion colors) and P3 wide color gamut when editing images. For example, you can use it to bring out details in the highlights without compressing the dynamic range of the rest of the photo.
 
-In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and choose EDR Mode from the Customize menu at the bottom of the Color Adjustments pane.
+In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and choose EDR Mode from the Customize menu at the bottom of the Color Adjustments pane.
 
 :blue\_book: **Note:** EDR Mode is available on macOS 10.15 and later when using Pro Display XDR or [Mac models that support HDR](https://support.apple.com/en-us/102205).
 

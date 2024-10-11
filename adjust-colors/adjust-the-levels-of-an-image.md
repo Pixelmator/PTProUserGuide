@@ -33,7 +33,7 @@ The Levels adjustment can be applied directly to a single layer or, using a colo
 ### Edit the currently selected layer
 
 * Choose **Format > Color Adjustments > Levels** from the Format menu at the top of your screen.
-* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Levels adjustment.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on the Levels adjustment.
 * Press `A` on your keyboard and turn on the Levels adjustment.
 * Press `Command ⌘` + `L` on your keyboard.
 
@@ -69,7 +69,7 @@ _Quarter-tone_: Dragging these sliders affects only the tones between either the
 
 Auto Contrast adjusts the Luminance channel to improve brightness and contrast.
 
-* Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and choose Auto Contrast.
+* Click the More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Auto Contrast.
 
 <div align="left">
 
@@ -83,7 +83,7 @@ To fine-tune the automatic contrast improvements, click the Levels pop-up menu i
 
 Auto Color adjusts each of the Red, Green, and Blue channels to improve colors.
 
-* Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu in the Tool Options pane and choose Auto Color.
+* Click the More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> menu in the Tool Options pane and choose Auto Color.
 
 <div align="left">
 

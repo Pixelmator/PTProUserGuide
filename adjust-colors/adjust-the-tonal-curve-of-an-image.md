@@ -33,7 +33,7 @@ The Curves adjustment can be applied directly to a single layer or, using a colo
 ### Edit the currently selected layer
 
 * Choose **Format > Color Adjustments > Curves** from the Format menu at the top of your screen.
-* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Curves adjustment.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on the Curves adjustment.
 * Press `A` on your keyboard and turn on the Curves adjustment.
 * Press `Command ⌘` + `K` on your keyboard.
 
@@ -100,7 +100,7 @@ The Auto Contrast adjustment automatically adjusts the luminance of an image:
 
 The Auto Color adjustment automatically adjusts the Red, Green, and Blue channels of an image:
 
-* Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu and choose Auto Color.
+* Click the More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> menu and choose Auto Color.
 
 <div align="left">
 

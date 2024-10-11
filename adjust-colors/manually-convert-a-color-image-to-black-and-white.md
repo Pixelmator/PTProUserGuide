@@ -21,7 +21,7 @@ Convert a single layer to black and white or, using a color adjustments layer, m
 ## Convert a currently selected layer to black and white
 
 * Choose **Format > Color Adjustments > Black & White** from the Format menu at the top of your screen.
-* In the Tools sidebar, click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> and turn on the Black & White adjustment.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on the Black & White adjustment.
 * Press `A` on your keyboard and turn on the Black & White adjustment.
 
 ## Convert multiple layers in a composition to black and white

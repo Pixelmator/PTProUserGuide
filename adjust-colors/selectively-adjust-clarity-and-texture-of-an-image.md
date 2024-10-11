@@ -23,7 +23,7 @@ The Selective Clarity adjustment can be applied directly to a single layer or, u
 ## Selectively adjust texture and clarity in the currently selected layer
 
 * Choose **Format > Color Adjustments > Selective Clarity** from the Format menu at the top of your screen.
-* In the Tools sidebar, click Color Adjustments ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png) and turn on the Selective Clarity adjustment.
+* In the Tools sidebar, click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> and turn on the Selective Clarity adjustment.
 * Press `A` on your keyboard and turn on the Selective Clarity adjustment.
 
 ## Selectively adjust texture and clarity of multiple layers in a composition
