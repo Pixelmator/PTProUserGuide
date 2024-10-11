@@ -24,7 +24,11 @@ Pixelmator Pro features three different histograms — an RGB histogram, a lumin
 
 The RGB histogram is the default histogram in Pixelmator Pro. It shows you all the tones in your image, from pure black on the left edge to pure white on the right edge of the histogram. The higher the graph is at a given point, the more of the tone is in the image. Therefore, a fairly dark image with lots of shadows will have a histogram that is higher on the left side (the shadows), while a fairly bright image will have a histogram that is higher on the right side (the highlights). The reason the histogram is known as an RGB histogram is that digital images are composed of a mix of three colors — red, green, and blue. These are used to create every other color.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1591963450000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1591963450000.png" alt="" width="375">
+
+</div>
 
 Technically, this histogram shows the amount of each color (or channel) in the image and if separate areas of an image are pure red, pure green, and pure blue, the right side of the histogram will also be high.
 
@@ -32,13 +36,21 @@ Technically, this histogram shows the amount of each color (or channel) in the i
 
 The luminance histogram displays the perceived brightness of an image. It doesn’t look at the individual color channels but at the colors themselves. So, unlike in the RGB histogram, pure blue will not be at the far right edge of the luminance histogram. And the luminance histogram also takes into account the fact that the human eye perceives green light as naturally brighter than red or blue. So any pure green areas will show up further right than pure blue or pure red areas.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1591963437000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1591963437000.png" alt="" width="375">
+
+</div>
 
 ## Color histogram
 
 The color histogram shows the overall distribution of each color range in an image — red, orange, yellow, green, cyan, blue, violet, and magenta.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1591963397000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1591963397000.png" alt="" width="375">
+
+</div>
 
 Color histograms can be useful in determining if any colors in an image have been clipped. If a color channel is clipped, the image areas of that particular color lose texture.
 
