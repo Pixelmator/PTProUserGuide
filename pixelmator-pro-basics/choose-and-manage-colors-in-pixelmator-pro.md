@@ -32,10 +32,10 @@ The top section of the color picker features an eyedropper for picking colors fr
 
 1. To turn on the color picker, click any color well in Pixelmator Pro tools, adjustments, or effects, or click the color picker <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line"> in the toolbar.
 2. Do any of the following:
-   * _Find the value of a color:_ Click the eyedropper <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1585123131000.png" alt="" data-size="line">, then hover the pointer over a color to see its value. The color value changes as you move from one color to another on the canvas. To pick a color, simply click it.
+   * _Find the value of a color:_ Click the eyedropper <img src="../.gitbook/assets/Color-picker.png" alt="" data-size="line">, then hover the pointer over a color to see its value. The color value changes as you move from one color to another on the canvas. To pick a color, simply click it.
    * _Choose a color:_ You can choose a color from the list of available color palettes or use the hue slider and the color field to pick it manually. The color picker uses the HSB-based (hue, saturation, brightness) color model, so to choose a color, you'd typically drag the hue slider first, then specify its saturation and brightness in the color field above. You can also manually enter HEX or RGB values to choose a specific color.
-   * _Manage the color palettes:_ Click the Color Palettes pop-up menu to browse your existing palettes or click the adjacent More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604752027000.png" alt="" data-size="line"> to remove, rename, and add new palettes.
-   * _Save colors to use again:_ In the list of color swatches, click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> or More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604752027000.png" alt="" data-size="line"> and choose Add Preset in the menu that appears. This adds your currently selected color to the currently selected color palette. You can also drag a swatch directly from the recently selected colors to the list of color swatches.
+   * _Manage the color palettes:_ Click the Color Palettes pop-up menu to browse your existing palettes or click the adjacent More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line"> to remove, rename, and add new palettes.
+   * _Save colors to use again:_ In the list of color swatches, click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> or More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Add Preset in the menu that appears. This adds your currently selected color to the currently selected color palette. You can also drag a swatch directly from the recently selected colors to the list of color swatches.
 
 :bulb: **Tip:** To quickly fill an image, drag the color you want from the color well <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line"> in the toolbar or any color well in Pixelmator Pro onto any object, shape, or selection in your image.
 
@@ -45,7 +45,7 @@ When working with gradients, click any of the color stops to open the color pick
 
 Color swatches are individual colors that comprise color palettes or color collections.
 
-* _Save a new color swatch:_ When you have a color selected, in the Color Palettes pop-up menu, choose a palette where you'd like to save it, then click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> or click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604752027000.png" alt="" data-size="line"> and choose Add Preset in the menu that appears.
+* _Save a new color swatch:_ When you have a color selected, in the Color Palettes pop-up menu, choose a palette where you'd like to save it, then click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> or click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Add Preset in the menu that appears.
 * _Redefine a color swatch:_ If you'd like to replace the color of an existing color swatch with your currently selected color, you can redefine it. `Control ⌃` – click a color swatch, then choose Redefine in the menu that appears.
 * _Remove a color swatch:_ `Control ⌃` – click a color swatch, then select Remove in the menu that appears.
 
@@ -53,7 +53,7 @@ Color swatches are individual colors that comprise color palettes or color colle
 
 ### Create, rename, or remove color palettes
 
-1. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604752027000.png" alt="" data-size="line"> next to the Color Palettes pop-up menu.
+1. Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the Color Palettes pop-up menu.
 2. Do any of the following:&#x20;
    1. _Create a color palette:_ Choose New Collection to create an empty new color palette.
    2. _Rename a color palette:_ Choose Rename to give your collection of swatches a different name.
@@ -77,7 +77,7 @@ To reset foreground and background colors to black and white press the `D` key o
 The Color Picker tool is a standalone tool that offers additional options for choosing and managing colors in Pixelmator Pro. In the Color Picker tool options, you can set how all color pickers in Pixelmator Pro sample colors and what information they display.
 
 1. Choose the Color Picker tool by doing one of the following:
-   * Click the Color Picker <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1585123131000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Click the Color Picker <img src="../.gitbook/assets/Color-picker.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Color Picker** from the Tools menu at the top of your screen.
    * Press `I` on your keyboard.
 2. Customize the tool:
