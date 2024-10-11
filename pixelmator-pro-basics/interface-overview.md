@@ -39,7 +39,7 @@ Some tools in the Tools sidebar are grouped with one or a few other tools. To se
 Do one of the following:
 
 * Choose **View > Show (or Hide) Tools** from the View menu at the top of your screen.
-* Click Hide or Show the Tools sidebar <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604258000.png" alt="" data-size="line"> in the toolbar.
+* Click Hide or Show the Tools sidebar <img src="../.gitbook/assets/Sidebar.png" alt="" data-size="line"> in the toolbar.
 * Press `Option ⌥` + `T` on your keyboard.
 
 To temporarily show or hide the tool names (in vertical sidebar mode), press `Control ⌃` + `O` on your keyboard.
@@ -72,16 +72,16 @@ You can `Control ⌃` – click the toolbar and choose Customize Toolbar to add,
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648697083000.png)
 
-1. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line">  in the toolbar to quickly show or hide layers, or the disclosure arrow next to it to show or hide other elements — tools, tool options, presets, rulers, guides, grid, the document Info bar — while creating an image.
+1. Click <img src="../.gitbook/assets/Panel.png" alt="" data-size="line"> in the toolbar to quickly show or hide layers, or the disclosure arrow next to it to show or hide other elements — tools, tool options, presets, rulers, guides, grid, the document Info bar — while creating an image.
 2. Drag the zoom slider to zoom in or out of your image. Double-click the zoom slider to fill the entire work area with the image. See [Zoom in and out of an image ](zoom-in-and-out-of-an-image.md)to learn more about zooming in Pixelmator Pro.
 3. Click the title at the top of the Pixelmator Pro document window to give your document a new name, change its location, or add tags.
 4. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line"> to open the Pixelmator Pro color picker or drag from the color well onto the canvas to fill a layer, text, shape, or selection with the currently selected color.
 5. Click Remove Background to clear the background of a photo and replace it with something else or save the image with a transparent background. See [Remove image background](../automatically-edit-images/remove-image-background.md) to learn more.
-6. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110188000.png" alt="" data-size="line"> to view document info (document type, size, and other properties), and add a description or keywords.
-7. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110328000.png" alt="" data-size="line"> to rotate the image or video to the left. Press and hold the `Option ⌥` key to rotate the image to the right.
-8. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605162881000.png" alt="" data-size="line"> to access various document properties, including the image and canvas sizes, Color Depth, and Color Profile. Here, you’ll also find tools such as [Super Resolution](../automatically-edit-images/automatically-increase-image-resolution.md) and [Trim](../crop-and-straighten-images/trim-away-colored-or-transparent-borders-around-an-image.md).
-9. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605696962000.png" alt="" data-size="line"> to use the [Quick Export options](../export-and-share-images/quickly-export-or-share-an-optimized-image.md), add an edited image or video to Photos, Notes, send it through AirDrop, and more.
-10. Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604258000.png" alt="" data-size="line"> to hide or show the Tools sidebar. See [Pixelmator Pro tools](pixelmator-pro-tools.md) to learn more.
+6. Click <img src="../.gitbook/assets/Info.png" alt="" data-size="line"> to view document info (document type, size, and other properties), and add a description or keywords.
+7. Click <img src="../.gitbook/assets/Rotate.png" alt="" data-size="line"> to rotate the image or video to the left. Press and hold the `Option ⌥` key to rotate the image to the right.
+8. Click <img src="../.gitbook/assets/More-+-arrow.png" alt="" data-size="line"> to access various document properties, including the image and canvas sizes, Color Depth, and Color Profile. Here, you’ll also find tools such as [Super Resolution](../automatically-edit-images/automatically-increase-image-resolution.md) and [Trim](../crop-and-straighten-images/trim-away-colored-or-transparent-borders-around-an-image.md).
+9. Click <img src="../.gitbook/assets/Export.png" alt="" data-size="line"> to use the [Quick Export options](../export-and-share-images/quickly-export-or-share-an-optimized-image.md), add an edited image or video to Photos, Notes, send it through AirDrop, and more.
+10. Click <img src="../.gitbook/assets/Sidebar.png" alt="" data-size="line"> to hide or show the Tools sidebar. See [Pixelmator Pro tools](pixelmator-pro-tools.md) to learn more.
 
 #### Show or hide the Toolbar
 
@@ -106,7 +106,7 @@ The Layers sidebar is one of the most essential parts of the Pixelmator Pro work
 
 In the layers list, you can see a visual layout of your entire project — each thumbnail represents a separate element in your composition or, in other words, a _layer_. You can give layers unique names, change the size of the layer thumbnails, or choose to list thumbnails along with certain layer properties. It’s also possible to hide the Layers sidebar completely if you're not using layers in your project.
 
-At the top of the Layers sidebar, click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and customize the Viewing Options for the layers list:
+At the top of the Layers sidebar, click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and customize the Viewing Options for the layers list:
 
 * _Size._ Choose between three different thumbnail sizes: small, medium, and large.
 * _Show layer descriptions._ Select this option to see additional layer properties when editing, such as layer size, type, or edits applied.
@@ -142,7 +142,7 @@ See [Work with layers](../working-with-layers/) to learn more about managing lay
 
 Do one of the following:
 
-* Click Show or Hide the Layers sidebar <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604253000.png" alt="" data-size="line"> in the toolbar.
+* Click Show or Hide the Layers sidebar <img src="../.gitbook/assets/Panel.png" alt="" data-size="line"> in the toolbar.
 * Choose **View > Show (or Hide) Layers** from the View menu at the top of your screen.
 * Press `Option ⌥` + `L` on your keyboard.
 
@@ -156,7 +156,7 @@ Pixelmator Pro opens documents in tabs by default but if you'd like to have a do
 
 Also, if you'd like to see the previews of the documents in tabs, choose **Window > Show Tab Overview** from the Window menu at the top of your screen.
 
-:bulb: **Tip:** You can create new empty images or open pre-designed templates and mockups from the Tab bar. Click Add new tab <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> on the right of the Tab bar to do so.
+:bulb: **Tip:** You can create new empty images or open pre-designed templates and mockups from the Tab bar. Click Add new tab <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> on the right of the Tab bar to do so.
 
 #### Show or hide the Tab bar:
 
@@ -193,7 +193,7 @@ For more information about guides and rulers, see [Use rulers](../working-with-l
 Do one of the following:
 
 * Choose **View > Show (or Hide) Rulers** from the View menu at the top of your screen.
-* Click the disclosure arrow next to the Show or Hide the Layers sidebar <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line"> button in the toolbar, then choose Show (or Hide) Rulers.
+* Click the disclosure arrow next to the Show or Hide the Layers sidebar <img src="../.gitbook/assets/Panel.png" alt="" data-size="line"> button in the toolbar, then choose Show (or Hide) Rulers.
 * Press `Command ⌘` + `R` on your keyboard.
 
 ***
@@ -243,7 +243,7 @@ The Info bar also offers quick access to Image Size, Color Profile, and Color De
 Do one of the following:
 
 * Click **View > Show (or Hide) Info Bar** from the View menu at the top of your screen.
-* Click the disclosure arrow next to the Show or Hide the Layers sidebar <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line"> button in the toolbar, then choose Show (or hide) Info Bar.
+* Click the disclosure arrow next to the Show or Hide the Layers sidebar <img src="../.gitbook/assets/Panel.png" alt="" data-size="line"> button in the toolbar, then choose Show (or hide) Info Bar.
 * Press `Command ⌘` + Forward Slash `/` on your keyboard.
 
 #### See also
