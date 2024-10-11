@@ -20,7 +20,7 @@ The Stroke layer style adds a customizable outline around your selected layer.
 
 1. Select the layer or layers you would like to edit.
 2. Choose the Style tool by doing one of the following:
-   * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Click the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
    * Press the `S` key on your keyboard.
 3. In the Tool Options pane, click Add Style and choose Stroke. You can add as many of the same styles as you like.
@@ -33,7 +33,7 @@ Once you've added a style, you can fully customize it. You can fill it with soli
 
 * _Stroke Fill:_ Click the Fill pop-up menu below the Stroke Style pop-up menu and choose a Color stroke for a solid color outline, Gradient to fill the outline with a transition between multiple colors, or pattern fill to fill the stroke with your custom pattern.
 * _Stroke Width:_ In the number field, enter a value from 1 px to 200 px, and use steppers, or Up and Down arrow keys to change the thickness of the stroke.
-* _Stroke Color:_ Click the color well to choose a color or click the eyedropper <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
+* _Stroke Color:_ Click the color well to choose a color or click the eyedropper <img src="../.gitbook/assets/Color-picker.png" alt="" data-size="line"> to pick a color from the image.
 
 ### Customize the stroke style and end cap settings
 

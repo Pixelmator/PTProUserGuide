@@ -21,7 +21,7 @@ Layer style presets are pre-made combinations of layer styles that you can apply
 ## Apply a layer style preset
 
 1. Choose the Style tool by doing one of the following:
-   * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Click the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
    * Press the `S` key on your keyboard.
 2. Select the layer or layers you would like to edit.
@@ -33,23 +33,23 @@ Layer style presets are pre-made combinations of layer styles that you can apply
 
 With the help of presets, you can save the specific layer styles and their settings applied to one layer and instantly apply them to others in the same or a newly created document.
 
-1. Choose the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line">  tool in the Tools sidebar.
+1. Choose the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line">  tool in the Tools sidebar.
 2. Apply and customize any number of layer styles.
 3. Do any of the following:
-   * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
-   * Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any layer style collection to save the style preset to that collection.
+   * Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
+   * Click Add <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> in any layer style collection to save the style preset to that collection.
 
 ## Create a custom style presets collection
 
-1. Choose the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
-2. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
+1. Choose the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line"> tool in the Tools sidebar.
+2. Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
 
 ## Manage style presets and preset collections
 
 Once you've created a preset or a preset collection, you can rename, redefine them, or share them with others.
 
-1. Choose the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line">  tool in the Tools sidebar.
-2. `Control ⌃` – click an individual preset or More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the collection you want to manage.
+1. Choose the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line">  tool in the Tools sidebar.
+2. `Control ⌃` – click an individual preset or More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the collection you want to manage.
 3. Do any of the following:&#x20;
    * _Redefine a style preset:_ If you’d like to overwrite or update an existing preset with new settings, you can redefine it.
    * _Add a style preset to favorites:_ To quickly access your favorite and most-used presets, save them to the special Favorites collection.
@@ -62,5 +62,5 @@ Once you've created a preset or a preset collection, you can rename, redefine th
 
 ## Show or hide the preset browser
 
-1. Choose the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
+1. Choose the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line"> tool in the Tools sidebar.
 2. Drag the line that separates presets from the Add Style button up to hide the presets, or drag it down to reveal or expand the presets section.

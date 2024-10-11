@@ -25,7 +25,7 @@ When working with layer styles, there are a couple of useful things to know that
 When a layer style is turned off, it no longer shows on the layer but is still visible in the Tool Options pane. Turning the layer style back on restores all of its previous settings.
 
 1. Choose the Style tool by doing one of the following:
-   * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Click the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
    * Press the `S` key on your keyboard.
 2. Select the layer or layers you would like to edit.

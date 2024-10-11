@@ -20,8 +20,8 @@ You can easily edit these masks using on-canvas controls, which appear when a ma
 
 ## Add a bitmap mask
 
-* Open the Mask <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649061178000.png" alt="" data-size="line"> menu at the top of the layers sidebar and choose Add Mask.
-* In the Mask <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649061178000.png" alt="" data-size="line"> choose [Hide Background](../automatically-edit-images/hide-image-background.md) to automatically mask the background of an image.
+* Open the Mask <img src="../.gitbook/assets/Mask.png" alt="" data-size="line"> menu at the top of the layers sidebar and choose Add Mask.
+* In the Mask <img src="../.gitbook/assets/Mask.png" alt="" data-size="line"> choose [Hide Background](../automatically-edit-images/hide-image-background.md) to automatically mask the background of an image.
 * With the Arrange tool selected, double-click an image layer while holding `Option ⌥.`
 * With the Arrange tool selected, double-click a selection while holding `Shift⇧`.
 * Choose **Format > Mask > Add Mask** or **Choose Image Mask** from the Format menu at the top of your screen.

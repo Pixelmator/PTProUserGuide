@@ -24,7 +24,7 @@ You can also change the blend mode of certain tools, like the [Color Fill tool](
 
 1. Select the layer or layers you would like to edit.
 2. Choose the Style tool by doing one of the following:
-   * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Click the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
    * Press the `S` key on your keyboard.
 3. Click the Blend Mode pop-up menu — the words "Opacity (Normal)" — in the Tool Options pane and choose a blend mode.
