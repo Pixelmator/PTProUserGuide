@@ -70,6 +70,8 @@ To lock or unlock a layer or layer group, do one of the following:
 * In the Layers list, move the mouse pointer over the layer or layer group you’d like to lock and click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802756000.png" alt="" data-size="line">. To unlock layers, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802719000.png" alt="" data-size="line">.
 * In the Layers sidebar, `Control ⌃` – click a layer or layer group choose Lock or Unlock.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/lock-layers-2.4.mp4" %}
+
 ## Manage layer groups
 
 You can group layers to apply effects and adjustments to all of them at a time, move or resize layers together, and create structure in more complex projects. Additionally, you can expand or collapse layer groups for a cleaner workspace, and hide or show layer groups without removing them from your composition.
@@ -104,6 +106,8 @@ To expand or collapse a layer group and all the groups nested within it:
 
 * In the Layers sidebar, `Option ⌥` – click the disclosure triangle next to the layer group's name.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/expand-group-2.4.mp4" %}
+
 ### Hide or show a layer or layer group
 
 In the Layers list, you can disable layers and groups to make them invisible in the canvas without removing them from your composition. For example, if a large image layer obstructs the layers below, you can temporarily hide it. If you hide a group, you also hide all layers and groups nested in it. However, hidden layers and groups can still be deleted, renamed, and rearranged in the Layers sidebar.
@@ -116,6 +120,8 @@ In the Layers list, you can disable layers and groups to make them invisible in 
    * In the Layers sidebar, `Control ⌃` – click a layer or group and choose Hide or Show.
 
 :blue\_book: **Note:** Hidden layers and groups are not included when your image is exported.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/show-hide-layer-2.4.mp4" %}
 
 ## Organize and sort layers
 
