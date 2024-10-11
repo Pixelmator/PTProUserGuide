@@ -40,7 +40,7 @@ Editing vector masks is easy with handy on-canvas controls that appear when you 
 
 ## **Refine a vector mask**
 
-Vector masks are fully editable and allow you to adjust individual points just like editing regular shapes. They also offer resolution-independent scaling, making them ideal for high-quality designs at any size, such as web or print graphics.
+Vector masks are fully editable and allow you to adjust individual points just like editing regular shapes. They also offer resolution-independent scaling, making them ideal for high-quality designs of any size, such as web or print graphics.
 
 See the section [Draw shapes and vector graphics](../draw-shapes-and-vector-graphics/) to learn more about editing shapes and managing your shapes library.
 

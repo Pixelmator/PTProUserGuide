@@ -14,7 +14,7 @@ layout:
 
 # Open and edit images with Portrait Masks
 
-Portrait Masks make it easy to edit, manipulate or swap one image background for another, leaving the subject in the foreground untouched. To create an image with a Portrait Mask, you simply need to take an image in Portrait Mode on an iPhone that supports iOS 12 or later, and open it in Pixelmator Pro.
+Portrait Masks make it easy to edit, manipulate, or swap one image background for another, leaving the subject in the foreground untouched. To create an image with a Portrait Mask, you simply need to take an image in Portrait Mode on an iPhone that supports iOS 12 or later, and open it in Pixelmator Pro.
 
 ## Open an image with a Portrait Mask
 
