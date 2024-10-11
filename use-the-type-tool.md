@@ -33,5 +33,5 @@ The Type tool is used to add and customize text in images. The Type tool is grou
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/text/bounding-text-box.mp4" %}
 
-3. To begin typing, double-click within the text box to highlight the placeholder text or place the insertion point where you want the first character to appear. The text appears on its own layer. Each time you click to create a text box, a new text layer is added.
+3. To begin typing, double-click within the text box to highlight the placeholder text or place the insertion point where you want the first character to appear. The text appears on its layer. Each time you click to create a text box, a new text layer is added.
 4. When you've finished typing, click outside the text box.

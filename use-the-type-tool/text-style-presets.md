@@ -36,7 +36,7 @@ Text styles let you apply a number of text formatting options at once to instant
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
    * Press the `T` key on your keyboard.
 2. Do any of the following:
-   1. _Save a new text style preset:_ In the Tool Options pane, click the Text Styles pop-up menu at the top, then click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> to add a new style preset based on the currently selected text.&#x20;
-   2. _Redefine a text style preset:_ Format any selected preset as desired. In the Text Styles pop-up menu, hover over the style to redefine, then choose Redefine to update the style with the latest changes.
-   3. _Delete a text style preset:_ Move the pointer over the style name, then click the arrow that appears and choose Remove.
-   4. _Rename a text style preset:_ Move the pointer over the style name, then click the arrow that appears and choose Rename.
+   * _Save a new text style preset:_ In the Tool Options pane, click the Text Styles pop-up menu at the top, then click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> to add a new style preset based on the currently selected text.&#x20;
+   * _Redefine a text style preset:_ Format any selected preset as desired. In the Text Styles pop-up menu, hover over the style to redefine, then choose Redefine to update the style with the latest changes.
+   * _Delete a text style preset:_ Move the pointer over the style name, then click the arrow that appears and choose Remove.
+   * _Rename a text style preset:_ Move the pointer over the style name, then click the arrow that appears and choose Rename.

@@ -22,9 +22,13 @@ Another way to affect character spacing is to use _ligatures_, a decorative join
 
 You can turn ligatures on or off from the Action pop-up menu in the Tool Options pane.&#x20;
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1624867278000.png)
+<div align="left">
 
-Format the characters Adjust the space between characters
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1624867278000.png" alt="" width="375">
+
+</div>
+
+## Adjust the space between characters
 
 1. Choose the Type tool by doing one of the following:
    * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
@@ -35,10 +39,10 @@ Format the characters Adjust the space between characters
     To change all of the text in a text box, click in front of the first character, then press `Command ⌘` + `A` to highlight the entire text.
 3. Click the Action pop-up below the Text Size slider.
 4. Do one of the following:
-   1. Adjust the space between characters: In the Character Spacing value field, enter the desired character spacing percentage or use the arrow buttons to adjust it. You can enter a value from -0% to 1000%. You can also press `Option ⌥` – Right Arrow to increase character spacing or `Option ⌥` – Left Arrow to decrease it.
-   2. _Make text subscript or superscript:_ Click the Baseline pop-up menu and choose an option.\
-      If you want to continue typing regular text right after the superscript or subscript, click directly after the superscript or subscript character and choose the Default baseline option.
-   3. _Raise and lower text without changing its size:_ Click the Baseline Shift value field and enter a desired value. You can enter a value from -127 to 127 pixels.
+   * Adjust the space between characters: In the Character Spacing value field, enter the desired character spacing percentage or use the arrow buttons to adjust it. You can enter a value from -0% to 1000%. You can also press `Option ⌥` – Right Arrow to increase character spacing or `Option ⌥` – Left Arrow to decrease it.
+   * _Make text subscript or superscript:_ Click the Baseline pop-up menu and choose an option.\
+     If you want to continue typing regular text right after the superscript or subscript, click directly after the superscript or subscript character and choose the Default baseline option.
+   * _Raise and lower text without changing its size:_ Click the Baseline Shift value field and enter a desired value. You can enter a value from -127 to 127 pixels.
 
 ## Enter special characters and symbols
 
