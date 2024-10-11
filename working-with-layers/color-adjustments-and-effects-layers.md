@@ -27,8 +27,8 @@ Since color adjustments and effects layers can be added as separate elements of 
 Do any of the following:
 
 * Choose **Insert > Color Adjustments** or **Insert > Effects** from the Insert menu at the top of your screen.
-* Click the Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604676890000.png" alt="" data-size="line"> at the top of the Color Adjustments or Effects pane.
+* Click the Add <img src="../.gitbook/assets/Add.png" alt="" data-size="line"> at the top of the Color Adjustments or Effects pane.
 * Click the Insert Layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Color Adjustments or Effects.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard to add a color adjustments layer or `Shift ⇧` + `Command ⌘` + `F` to add an effects layer.
 
-:bulb: **Tip:** If you'd like to apply color adjustments or effects layer to only one layer below it, you can do that using a [clipping mask](../mask-layers/use-clipping-masks.md). Alternatively, you can press and hold `Option ⌥` when clicking <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604676890000.png" alt="" data-size="line"> at the top of the Color Adjustments or Effects pane to create a new color adjustments or effects layer as a clipping mask.
+:bulb: **Tip:** If you'd like to apply color adjustments or effects layer to only one layer below it, you can do that using a [clipping mask](../mask-layers/use-clipping-masks.md). Alternatively, you can press and hold `Option ⌥` when clicking <img src="../.gitbook/assets/Add.png" alt="" data-size="line"> at the top of the Color Adjustments or Effects pane to create a new color adjustments or effects layer as a clipping mask.

@@ -22,7 +22,7 @@ Below, you'll learn all the different ways you can add layers to your projects. 
 
 Do one of the following:
 
-* Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604676890000.png" alt="" data-size="line"> at the top of the Layers sidebar.
+* Click Add <img src="../.gitbook/assets/Add.png" alt="" data-size="line"> at the top of the Layers sidebar.
 * Choose **Insert > Empty Layer** from the Insert menu at the top of your screen.
 * Press `Shift ⇧` + `Command ⌘` + `N` on your keyboard.
 

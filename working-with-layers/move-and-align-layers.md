@@ -14,12 +14,12 @@ layout:
 
 # Move and align layers
 
-You can move and align any layer or multiple layers using the Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> tool. You can move layers around manually or enter specific coordinates of where exactly on the canvas you want your layer to be placed.
+You can move and align any layer or multiple layers using the Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> tool. You can move layers around manually or enter specific coordinates of where exactly on the canvas you want your layer to be placed.
 
 ## Move a layer
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. Do any of the following:&#x20;
@@ -32,7 +32,7 @@ When you move layers, they automatically snap to other layers on the canvas. You
 ## Position a layer using x and y coordinates
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. [Select the layer](select-layers.md) you'd like to position.
@@ -52,7 +52,7 @@ When you move layers, they automatically snap to other layers on the canvas. You
 You can align objects so they line up along a vertical or horizontal axis.
 
 1. Do one of the following:
-   * Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Arrange > Align Objects** from the Arrange menu at the top of your screen.
 2. Select the layer you'd like to align. If one layer is selected, it aligns to the canvas. If two or more layers are selected, the layers align to the layer which is closest to the direction you selected. For instance, if you align three layers to the left, the leftmost layer doesn’t move, and the other objects align to it.
 3.  Click one of the alignment buttons below the layer order slider in the Tool Options pane or choose one of the alignment options:

@@ -18,7 +18,7 @@ The Arrange tool lets you select, move, resize, and rotate the shapes, images, a
 
 Do one of the following:
 
-* Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+* Click Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> in the Tools sidebar.
 * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
 * Press the `V` key on your keyboard.
 * Press and hold the `Command ⌘` key to temporarily switch to the Arrange tool when any other tool is selected.
