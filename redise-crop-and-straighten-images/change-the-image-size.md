@@ -31,7 +31,7 @@ When resizing images, you can also choose from four image scaling algorithms, in
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1654695671000.jpeg)
 
-3. Enter a new width and height for the image or use [text field math](pixelmator-pro-basics/use-text-field-math.md) to calculate it.\
+3. Enter a new width and height for the image or use [text field math](../pixelmator-pro-basics/use-text-field-math.md) to calculate it.\
    :bulb: **Tip:** If you’d like to resize the image without keeping its original proportions, deselect the _Scale proportionally_ checkbox.
 4. Click OK to apply your changes or Cancel to cancel them.
 
@@ -43,7 +43,7 @@ When resizing images, you can also choose from four image scaling algorithms, in
    * Choose **Image > Image Size** from the Image menu at the top of your screen.
    * Press `Option ⌥` + `Command ⌘` + `I` on your keyboard.
 2. Choose a print unit (inches, cm, mm, or points) from the Unit pop-up menu.
-3.  Enter a new width and height for the image or use [text field math](pixelmator-pro-basics/use-text-field-math.md) to calculate it.
+3.  Enter a new width and height for the image or use [text field math](../pixelmator-pro-basics/use-text-field-math.md) to calculate it.
 
     :blue\_book: **Note:** If you’d like to resize the image without keeping its original proportions, deselect _Scale proportionally_.
 4.  Enter a new resolution for the image.
@@ -77,7 +77,7 @@ Changing the canvas size of an image changes its overall size without changing t
    * Choose **Image > Canvas Size** from the Image menu at the top of your screen.
    * Press `Option ⌥` + `Command ⌘` + `C` on your keyboard.
 2. Choose a unit from the Unit pop-up menu.
-3.  Enter a new canvas size for the image or use [text field math](pixelmator-pro-basics/use-text-field-math.md) to calculate it.
+3.  Enter a new canvas size for the image or use [text field math](../pixelmator-pro-basics/use-text-field-math.md) to calculate it.
 
     Select the _Relative_ checkbox if you’d like to specify how much to add to or subtract from the current canvas instead of entering a specific canvas size.
 4. Move the canvas box to choose where the original image should be placed on the new canvas.
