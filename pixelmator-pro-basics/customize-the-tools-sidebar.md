@@ -19,12 +19,12 @@ The Tools sidebar in Pixelmator Pro is fully customizable. You can add, remove, 
 ## Customize the Tools sidebar
 
 1. Open the Tools customization window by doing one of the following:
-   * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> at the bottom of the Tools sidebar and choose Customize Tools.
+   * Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> at the bottom of the Tools sidebar and choose Customize Tools.
    * Choose **Window > Customize Tools** from the Window menu at the top of your screen.
    * `Control ⌃` – click the Pixelmator Pro toolbar and choose Customize Tools.
 2. Do any of the following:
    * _Rearrange items in the tools sidebar_: Drag a tool or a group of tools to reorder.
-   * _Group tools or remove tools from a group_: Drag a tool over another tool in the list of tools to group them. Click the tool group in the list of tools at the top, and click Remove <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605698182000.png" alt="" data-size="line"> next to the tool you want to remove from the group.
+   * _Group tools or remove tools from a group_: Drag a tool over another tool in the list of tools to group them. Click the tool group in the list of tools at the top, and click Remove <img src="../.gitbook/assets/Remove.png" alt="" data-size="line"> next to the tool you want to remove from the group.
    * _Add or remove tools from the Tools sidebar_: Drag a tool to the list of tools at the top to add it. Drag a tool away from the list of tools to remove it.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/tools/CustomizeTools.mp4" %}
