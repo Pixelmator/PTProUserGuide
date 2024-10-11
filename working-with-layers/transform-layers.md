@@ -20,7 +20,7 @@ The Transform tool in Pixelmator Pro lets you easily transform images, text, sha
 
 1. Select a layer you'd like to transform.
 2. Do any of the following:
-   1. Choose the Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> tool, then click Transform at the bottom of the tool options pane.
+   1. Choose the Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> tool, then click Transform at the bottom of the tool options pane.
    2. Choose **Edit > Transform** from the Edit menu at the top of your screen.
    3. Press `Command ⌘` + `T` on your keyboard.&#x20;
 

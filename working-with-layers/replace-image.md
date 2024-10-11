@@ -26,4 +26,4 @@ Use the Replace Image feature to quickly swap one image for another while preser
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/fill-replace-image-2.4.mp4" %}
 
-If the replacement image happens to be larger than the canvas, some of its content may be hidden beyond the edges of the canvas. Select the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> and [zoom out](../pixelmator-pro-basics/zoom-in-and-out-of-an-image.md) of the image until you see the layer handles, then resize it to fit the canvas. You can also choose **Image > Reveal Canvas** from the Image menu at the top of your screen.
+If the replacement image happens to be larger than the canvas, some of its content may be hidden beyond the edges of the canvas. Select the Arrange tool <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> and [zoom out](../pixelmator-pro-basics/zoom-in-and-out-of-an-image.md) of the image until you see the layer handles, then resize it to fit the canvas. You can also choose **Image > Reveal Canvas** from the Image menu at the top of your screen.

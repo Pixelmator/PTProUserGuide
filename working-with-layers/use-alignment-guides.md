@@ -54,7 +54,7 @@ You can add alignment guides that remain visible on your image while you’re wo
 
 To add a guide, do one of the following:
 
-* Click the disclosure arrow next to the Show or hide Layers <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605110032000.png" alt="" data-size="line"> button in the Pixelmator Pro toolbar, then choose Show Rulers. Move the pointer over the vertical or horizontal ruler, then click and drag to the image.
+* Click the disclosure arrow next to the Show or hide Layers <img src="../.gitbook/assets/Panel.png" alt="" data-size="line"> button in the Pixelmator Pro toolbar, then choose Show Rulers. Move the pointer over the vertical or horizontal ruler, then click and drag to the image.
 * `Control ⌃` – click the vertical or horizontal ruler, and choose Add Guide.
 * Double-click a ruler, choose the orientation and position of the ruler, and click OK to add the guide.
 * Choose **View > Guides > Add Guide** from the View menu at the top of your screen. Choose the orientation of the guide and type in its position. Click OK to add the guide.
@@ -68,7 +68,7 @@ To add a guide, do one of the following:
 Change the location of a persistent alignment guide
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png) in the [Tools sidebar](https://help.pixelmator.com/pixelmator-pro/3.5/#glossary).
+   * Click <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> in the [Tools sidebar](https://help.pixelmator.com/pixelmator-pro/3.5/#glossary).
    * Choose **Tools > Arrange** (from the Tools menu at the top of your screen).
    * Press the V key on your keyboard.
 2. Drag a guide.
