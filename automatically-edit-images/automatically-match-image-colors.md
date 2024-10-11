@@ -20,7 +20,7 @@ You can match colors with single layer or, using a color adjustments layer, with
 
 1. Do any of the following:
    1. Choose **Format > Color Adjustments > Match Colors** from the Format menu at the top of your screen.
-   2. Click Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> in the Tools sidebar and choose Match Colors from the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu at the top of the Color Adjustments pane.
+   2. Click Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> in the Tools sidebar and choose Match Colors from the More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> menu at the top of the Color Adjustments pane.
 2. In the dialog, choose an image to use for color matching and click Match Colors. Alternatively, you can also drag an image from your Layers sidebar, desktop, Finder, web browser, or macOS Photos app to the Color Adjustments pane.
 
 ## Match colors with Clipboard items
