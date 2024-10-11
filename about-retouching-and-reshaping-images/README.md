@@ -19,23 +19,23 @@ The retouching tools are used to make certain edits (like removing objects, brig
 
 ## Retouching Tools
 
-| Tool                                                                                                                           | Description                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999369000.png" alt="" data-size="line"> Repair     | Remove small imperfections or entire objects from images.    |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999383000.png" alt="" data-size="line"> Clone      | Copy parts of an image from one area to another.             |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999589000.png" alt="" data-size="line"> Lighten    | Brighten a specific area of an image.                        |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999603000.png" alt="" data-size="line"> Darken     | Darken a specific area of an image.                          |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999616000.png" alt="" data-size="line"> Saturate   | Make the colors in a specific area of an image more vibrant. |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999627000.png" alt="" data-size="line"> Desaturate | Make the colors in a specific area of an image less vibrant. |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586513696000.png" alt="" data-size="line"> Sharpen    | Make a specific area of an image sharper.                    |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586513692000.png" alt="" data-size="line"> Soften     | Make a specific area of an image softer.                     |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586516270000.png" alt="" data-size="line"> Smudge     | Naturally smudge a specific area of an image.                |
+| Tool                                                                             | Description                                                  |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="../.gitbook/assets/Repair.png" alt="" data-size="line"> Repair         | Remove small imperfections or entire objects from images.    |
+| <img src="../.gitbook/assets/Clone.png" alt="" data-size="line"> Clone           | Copy parts of an image from one area to another.             |
+| <img src="../.gitbook/assets/Lighten.png" alt="" data-size="line"> Lighten       | Brighten a specific area of an image.                        |
+| <img src="../.gitbook/assets/Darken.png" alt="" data-size="line"> Darken         | Darken a specific area of an image.                          |
+| <img src="../.gitbook/assets/Saturate.png" alt="" data-size="line"> Saturate     | Make the colors in a specific area of an image more vibrant. |
+| <img src="../.gitbook/assets/Desaturate.png" alt="" data-size="line"> Desaturate | Make the colors in a specific area of an image less vibrant. |
+| <img src="../.gitbook/assets/Sharpen.png" alt="" data-size="line"> Sharpen       | Make a specific area of an image sharper.                    |
+| <img src="../.gitbook/assets/Soften.png" alt="" data-size="line"> Soften         | Make a specific area of an image softer.                     |
+| <img src="../.gitbook/assets/Smudge.png" alt="" data-size="line"> Smudge         | Naturally smudge a specific area of an image.                |
 
 ## Reshaping Tools
 
-| Tool                                                                                                                      | Description                                                 |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999642000.png" alt="" data-size="line"> Warp  | Push and pull a specific area of an image in any direction. |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999656000.png" alt="" data-size="line"> Bump  | Bump a specific area of an image.                           |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999668000.png" alt="" data-size="line"> Pinch | Pinch a specific area of an image                           |
-| <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999685000.png" alt="" data-size="line"> Twirl | Twirl a specific area of an image.                          |
+| Tool                                                                   | Description                                                 |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------- |
+| <img src="../.gitbook/assets/Wrap.png" alt="" data-size="line"> Warp   | Push and pull a specific area of an image in any direction. |
+| <img src="../.gitbook/assets/Bump.png" alt="" data-size="line"> Bump   | Bump a specific area of an image.                           |
+| <img src="../.gitbook/assets/Pinch.png" alt="" data-size="line"> Pinch | Pinch a specific area of an image                           |
+| <img src="../.gitbook/assets/Twirl.png" alt="" data-size="line"> Twirl | Twirl a specific area of an image.                          |
