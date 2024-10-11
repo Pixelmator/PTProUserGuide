@@ -21,7 +21,7 @@ When zoomed in, you can scroll to view the parts of the image that are out of vi
 Do any of the following:
 
 * Scroll by sliding two fingers on your Multi-Touch trackpad, just like you would in apps like Safari.
-* Choose the Hand tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1613733192000.png" alt="" data-size="line"> from the Tools sidebar.
+* Choose the Hand tool <img src="../.gitbook/assets/Hand.png" alt="" data-size="line"> from the Tools sidebar.
 * Choose **Tools > Hand** from the Tools menu at the top of your screen.
 * Press the `H` key on your keyboard.
 * Press and hold `Space` on your keyboard and drag to scroll the image. When you do this, the cursor will change from a pointer to a hand. This lets you know the Hand tool is active. With certain tools, like the Color Adjustments or Effects, the Hand tool is automatically activated.
