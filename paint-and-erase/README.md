@@ -44,7 +44,11 @@ In the Brushes Browser, you can choose a brush from the collections on the left 
         \
         :bulb: **Tip:** `Control ⌃` – click the canvas to bring up a shortcut menu with Brush Size and Softness slider to adjust the settings of your brush more quickly. You can also use the `[` and `]` keys on your keyboard to change the size of the Paint tool brush.
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1624368333000.png)
+    <div align="left">
+
+    <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1624368333000.png" alt="" width="375">
+
+    </div>
 2. Drag on the canvas to paint using your selected brush. You can temporarily switch from painting to erasing by pressing and holding `` ` `` or `~` on your keyboard.
 
 ## Erase using the Erase tool

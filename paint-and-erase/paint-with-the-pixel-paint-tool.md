@@ -26,7 +26,11 @@ The Pixel Paint tool lets you paint or erase using square, pixel-shaped blocks.
    *   _Opacity:_ Drag the Opacity slider to adjust the transparency of the Pixel Paint tool.\
 
 
-       ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625135311000.png)
+       <div align="left">
+
+       <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625135311000.png" alt="" width="563">
+
+       </div>
 3. Drag on the canvas to paint.
 
 ## Erase with the Pixel Paint tool

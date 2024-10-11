@@ -137,7 +137,7 @@
 * [Make selections](make-selections/README.md)
   * [Select areas by shape or color](make-selections/select-areas-by-shape-or-color.md)
   * [Select areas by drawing](make-selections/select-areas-by-drawing.md)
-  * [Make rectangular or elliptical selections](make-selections/make-rectangular-or-elliptical-selections.md)
+  * [Make rectangular, elliptical, or row selections](make-selections/make-rectangular-elliptical-or-row-selections.md)
   * [Select all opaque areas of a layer](make-selections/select-all-opaque-areas-of-a-layer.md)
   * [Select the entire image](make-selections/select-the-entire-image.md)
   * [Automatically select a subject in an image](make-selections/automatically-select-a-subject-in-an-image.md)

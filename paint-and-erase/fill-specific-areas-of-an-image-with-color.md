@@ -28,7 +28,11 @@ The Color Fill tool fills in similarly colored areas of an image with your chose
    * _Smooth Edges:_ Select Smooth Edges to naturally smooth the outline of the Color Fill tool. With Smooth Edges unselected, the outline will be a little more precise but jagged.
    *   _Preserve Transparency:_ Select Preserve Transparency to only fill the opaque areas of an image, leaving the transparent areas untouched, or deselect it to disregard transparency in an image.
 
-       ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625134798000.png)
+       <div align="left">
+
+       <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625134798000.png" alt="" width="563">
+
+       </div>
 3.  Drag on the canvas to fill in similarly colored areas.
 
     The more you drag, the larger the area Color Fill tool will fill. If you’d like to fill the entire layer regardless of any existing colors in it, drag until the Tolerance value reaches 100%.

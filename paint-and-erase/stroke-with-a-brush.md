@@ -31,3 +31,6 @@ You can customize the brush stroke using the basic or advanced brush settings, j
 Note that some of the stylus-related settings, like the ones in the Stroke or Dynamics categories, cannot be edited.
 
 _Simulate Pressure:_ You can use Simulate Pressure to take into account the brush pressure settings. The Max Pressure Location slider lets you set the location where brush stroke is the thickest or thinnest as if drawing with a graphics tablet.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/paint-and-erase/simulate-pressure.mp4" %}
+

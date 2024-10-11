@@ -29,7 +29,11 @@ Quickly fill images, selections, or individual objects with a solid color. You c
 
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625134955000.png)
+    <div align="left">
+
+    <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1625134955000.png" alt="" width="563">
+
+    </div>
 
 ## Fill with foreground or background color
 
@@ -39,3 +43,6 @@ Quickly fill images, selections, or individual objects with a solid color. You c
 When using quick fill shortcuts, you can also press and hold the `Shift ⇧` key to fill only the opaque areas of a layer.
 
 :blue\_book:**Tip:** To quickly fill an image, text, or shape, you can also drag a color from the color well in the toolbar or any color well in Pixelmator Pro directly onto a layer.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/quick-fill-2.4.mp4" %}
+

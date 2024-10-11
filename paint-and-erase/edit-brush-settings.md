@@ -14,7 +14,7 @@ layout:
 
 # Edit brush settings
 
-Each brush in Pixelmator Pro has a range of settings that can be modified to change the way the brush paints. The settings for the Paint tool let you quickly adjust the size, softness, opacity, blend mode, and color. Additional specifications like the brush grain spacing, shape direction, and others can be found in the Advanced Settings menu.
+Each brush in Pixelmator Pro has a range of settings that can be modified to change the way the brush paints. The settings for the [Paint tool](./) let you quickly adjust the size, softness, opacity, blend mode, and color. Additional specifications like the brush grain spacing, shape direction, and others can be found in the Advanced Settings menu.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656671925000.jpeg)
 
