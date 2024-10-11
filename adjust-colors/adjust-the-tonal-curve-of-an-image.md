@@ -18,7 +18,11 @@ The Curves adjustment is one of the most versatile color adjustments. You can us
 
 The Curves adjustment works by selectively adjusting the tonal values of an image. The image tonality itself is represented by a diagonal line crossing a square graph.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337597000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337597000.png" alt="" height="331" width="341">
+
+</div>
 
 The dark values are on the left side of the graph and the light values on the right. You can add points to the tonal curve and drag the tonal curve up or down depending on whether you wish to darken, lighten, or change a particular value in an image. The shape of the diagonal line changes as you add and drag the points and often ends up looking like a curve which gave the adjustment its name.
 
@@ -45,7 +49,11 @@ The Curves adjustment can be applied directly to a single layer or, using a colo
 
 The Curves adjustment consists of a few different sections:
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337223000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337223000.png" alt="" width="375">
+
+</div>
 
 1. **Histogram.** Shows the distribution of highlights, shadows, or midtones to help adjust the curves accordingly.
 2. **The Curves adjustment pop-up menu.** Click it to choose which channels to adjust.
@@ -82,7 +90,11 @@ The Auto Contrast adjustment automatically adjusts the luminance of an image:
 
 * Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu and choose Auto Contrast.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337719000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337719000.png" alt="" height="331" width="300.5">
+
+</div>
 
 ## Automatically enhance image colors
 
@@ -90,7 +102,11 @@ The Auto Color adjustment automatically adjusts the Red, Green, and Blue channel
 
 * Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu and choose Auto Color.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337773000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656337773000.png" alt="" height="331" width="301">
+
+</div>
 
 ## Automatically enhance an image by setting black, gray, and white points
 

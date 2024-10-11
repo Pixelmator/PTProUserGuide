@@ -41,19 +41,29 @@ The color wheel interface is inspired by professional color grading tools found 
 1. To get started, click the Color Balance pop-up menu in the Tool Options pane to choose how you want to adjust your image.
    * Click Master to use the master color wheel to add a color tint to the entire image. This can be a useful starting point if you want one color to be more prominent than others.
    * Click 3-Way Color to add color tints to the shadows, midtones, and highlights individually. This is the best option for getting unique looks and lighting effects for your images.
-2.  To adjust the color balance:
 
-    * Drag the central point in the middle of the wheel towards a color at the edges to add more of that color to the shadows, midtones, or highlights (when using the 3-Way Color wheels) or the entire image (when using the Master wheel).
-    * Drag the brightness slider on the right to adjust the brightness of the colors in the shadows, midtones, or highlights (when using the 3-Way Color wheels) or the entire image (when using the Master wheel).
-    * Drag the saturation slider on the left to adjust the saturation of the colors in the shadows, midtones, or highlights (when using the 3-Way Color wheels) or the entire image (when using the Master wheel).
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/3WayColor.mp4" %}
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656323943000.png)
+2. To adjust the color balance:
+   * Drag the central point in the middle of the wheel towards a color at the edges to add more of that color to the shadows, midtones, or highlights (when using the 3-Way Color wheels) or the entire image (when using the Master wheel).
+   * Drag the brightness slider on the right to adjust the brightness of the colors in the shadows, midtones, or highlights (when using the 3-Way Color wheels) or the entire image (when using the Master wheel).
+   * Drag the saturation slider on the left to adjust the saturation of the colors in the shadows, midtones, or highlights (when using the 3-Way Color wheels) or the entire image (when using the Master wheel).
+
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656323943000.png" alt="" height="323.5" width="401">
+
+</div>
 
 ## Selectively balance the colors in an image using sliders
 
 1. Click the Color Balance pop-up menu in the Tool Options pane to choose the tonal range (shadows, midtones, or highlights) that you’d like to edit.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326444000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326444000.png" alt="" height="282.5" width="378">
+
+</div>
 
 2. Drag the Red/Cyan, Green/Magenta, Yellow/Blue sliders to add to one color (while subtracting from the other).
 
@@ -61,7 +71,11 @@ The color wheel interface is inspired by professional color grading tools found 
 
 Click ML next to the Color Balance adjustment to automatically balance the image colors.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326342000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326342000.png" alt="" height="582.5" width="261.5">
+
+</div>
 
 ## Show before and after or reset adjustments
 

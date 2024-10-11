@@ -16,7 +16,11 @@ layout:
 
 The Levels adjustment lets you adjust the brightness, contrast, and tonal range of an image. These properties are determined by the distribution of shadows, highlights, and midtones, and with Levels, you can control each one separately. The Levels histogram also works as a map to show the amount of shadows, highlights, and midtones in an image.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656328099000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656328099000.png" alt="" width="375">
+
+</div>
 
 The shadows can be adjusted using the Black point slider. Dragging it to the right makes the dark areas of an image darker. The White point controls the highlights and makes the bright areas brighter. The Midtones slider shifts all the midtone values to make them closer to black or white. As you drag the Levels sliders to redefine, say, the black or white points, the other tones in the image are evenly redistributed, increasing the tonal range and contrast in the image.
 
@@ -53,7 +57,11 @@ _White point_: Dragging the white point slider redefines the white point in the 
 
 _Quarter-tone_: Dragging these sliders affects only the tones between either the shadows and midtones, or midtones and highlights, without affecting the other tones.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333377000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333377000.png" alt="" width="375">
+
+</div>
 
 :exclamation:**Important**: If you clip too far into either the black or white tonal values, tonal values that were originally near pure black and pure white are now changed to pure black and pure white, resulting in lost image detail.
 
@@ -63,7 +71,11 @@ Auto Contrast adjusts the Luminance channel to improve brightness and contrast.
 
 * Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and choose Auto Contrast.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333661000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333661000.png" alt="" width="375">
+
+</div>
 
 To fine-tune the automatic contrast improvements, click the Levels pop-up menu in the Tool Options pane and choose Luminance, then drag the sliders in the Luminance channel of the Levels adjustments.
 
@@ -73,7 +85,11 @@ Auto Color adjusts each of the Red, Green, and Blue channels to improve colors.
 
 * Click the More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> menu in the Tool Options pane and choose Auto Color.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333629000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656333629000.png" alt="" width="375">
+
+</div>
 
 To fine-tune the automatic color improvements, click the Levels pop-up menu in the Tool Options pane and choose Red, Green, or Blue, then drag the sliders in the Red, Green, or Blue channels of the Levels adjustments.
 
@@ -87,7 +103,11 @@ The Levels adjustment includes five channels that you can edit — RGB, Luminanc
 
 Click the Levels pop-up menu in the Tool Options pane and choose RGB, Luminance, Red, Green, or Blue.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656335926000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656335926000.png" alt="" width="375">
+
+</div>
 
 ## Show before and after or reset adjustments
 

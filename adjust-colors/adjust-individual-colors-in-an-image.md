@@ -37,7 +37,11 @@ The Selective Color adjustment can be applied directly to a single layer or, usi
 
 1. Click to select one of the color ranges in the Selective Color adjustment.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326836000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656326836000.png" alt="" width="375">
+
+</div>
 
 2. Drag the sliders in the Selective Color adjustment to make adjustments to your selected color range.
    * _Hue_: Drag the Hue slider to shift the hue of the colors in the selected color range towards a neighboring color range. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the Hue slider beyond 100%. You can also enter a percentage value from –400% to 400%.
@@ -50,7 +54,11 @@ The ML adjustment improves individual color ranges in your image automatically u
 
 * Click ML next to the Selective Color adjustment to automatically improve image colors.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656327707000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656327707000.png" alt="" height="339.5" width="260">
+
+</div>
 
 ## Show before and after or reset adjustments
 

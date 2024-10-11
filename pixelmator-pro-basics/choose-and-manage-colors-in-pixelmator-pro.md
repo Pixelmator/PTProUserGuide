@@ -94,7 +94,7 @@ The Colors window in Pixelmator Pro lets you access the system color palettes, a
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="355"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="355"><figcaption></figcaption></figure>
 
 </div>
 
