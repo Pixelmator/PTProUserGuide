@@ -42,7 +42,11 @@ By default, the color to be removed is set to chroma key green. To change it to 
 2. Drag the Luminance Range slider to adjust how much color is removed based on the lightness of the tones in the selected color range.
 3. Drag the Intensity slider to adjust the transparency of the selected color range.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677231596000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677231596000.png" alt="" width="375">
+
+</div>
 
 ## Show before and after or reset adjustments
 

@@ -37,6 +37,12 @@ You can convert a single layer to black and white or, using a color adjustments 
 1. To select the tint color, click the color well, or pick a color directly from the image using the color picker.
 2. Drag the Intensity slider to adjust the strength of the Color Monochrome adjustment.
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 ## Show before and after or reset adjustments
 
 _Show Original:_ Click the Show Original button or press `Control ⌃` + `M` on your keyboard to see what the image looks like without any color adjustments.

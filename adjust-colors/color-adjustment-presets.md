@@ -29,12 +29,16 @@ Pixelmator Pro includes pre-made combinations of color adjustments called preset
 
 You can also fine-tune the adjustments applied to your image in the Tool Options pane.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/apply-preset-2.4.mp4" %}
+
 ## Save a combination of color adjustments as a preset
 
 1. Apply any number of adjustments to an image.
 2. Do one of the following:
    * Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any color adjustments collection to save the preset to that collection.
    * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/save-preset-2.4.mp4" %}
 
 ## Create a new color adjustment presets collection
 
@@ -58,3 +62,8 @@ Once you've created a preset or a preset collection, you can rename, redefine th
 * _Delete a color adjustment preset:_ In the list of presets, `Control ⌃` – click a preset and choose Remove "Preset".
 * _Delete a color adjustment presets collection:_ In the Collection pop-up, select the collection you want to remove, then click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Remove.
 * _Show or hide presets:_ Drag the line that separates presets from the ML Enhance button up to hide the presets, or drag it down to reveal or expand the presets section.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/presets-browser-2.4.mp4" %}
+Showing and hiding color adjustment presets
+{% endembed %}
+

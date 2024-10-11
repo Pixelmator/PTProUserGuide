@@ -18,7 +18,7 @@ LUT (or the "lookup table") offers a means of changing, managing, and matching c
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1619689176000.jpeg)
 
-What's different about LUTs, is that unlike the color adjustments presets which are Pixelmator Pro-exclusive (i.e. can be created and used within the Pixelmator ecosystem only), LUTs are universal. This means that the same LUT can be used across different editing programs and different mediums. With that, all sorts of handy workflows become possible. For instance, you can use LUTs to apply a look of any image you've edited in Pixelmator Pro to a video you're working on in Final Cut Pro. See [Using Pixelmator Pro to color grade video in Final Cut Pro](https://www.pixelmator.com/tutorials/video/using-pixelmator-pro-to-color-grade-video-in-final-cut-pro/) to learn more about this workflow.
+What's different about LUTs, is that unlike the color adjustments presets which are Pixelmator Pro-exclusive (i.e. can be created and used within the Pixelmator ecosystem only), LUTs are universal. This means that the same LUT can be used across different editing programs and different mediums. With that, all sorts of handy workflows become possible. For instance, you can use LUTs to apply a look of any image you've edited in Pixelmator Pro to a video you're working on in Final Cut Pro. See [Using Pixelmator Pro to color grade video in Final Cut Pro](https://www.youtube.com/watch?v=2MK3AA5FLLA) to learn more about this workflow.
 
 Pixelmator Pro supports LUTs in the .cube file format. If read as plain text, the .cube file will often feature a list or table of colors expressed by values ranging from 0.0 to 1.0. Pixelmator Pro can then use these lists or tables to look up exactly to which new color values the already existing values should be changed. Once that's done, the pixels featuring those colors (or their closest shades) will change in the image as well.
 
@@ -27,6 +27,8 @@ If you’d like to find out more about how LUTs work in Pixelmator Pro, you can 
 ## Apply a custom LUT to an image
 
 In Pixelmator Pro, you can choose from 5 different collections of pre-made LUTs that come with Pixelmator Pro or apply the custom LUTs you've installed yourself. Since LUTs work like any other color adjustment, they can be non-destructively applied to individual layers or layer groups and combined with other adjustments.
+
+{% embed url="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1619621429000.jpeg" %}
 
 ## Apply a film grain to the currently selected layer
 
@@ -53,6 +55,8 @@ If you have a custom LUT you want to use in Pixelmator Pro, you can import it. T
 2. Double-click the LUT file or click Choose to import.
 
 :blue\_book: **Note:** Pixelmator Pro supports 1D and 3D LUTs in the **.cube** file format.
+
+{% embed url="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1619694714000.jpeg" %}
 
 ## Convert LUT into Pixelmator Pro color adjustments
 

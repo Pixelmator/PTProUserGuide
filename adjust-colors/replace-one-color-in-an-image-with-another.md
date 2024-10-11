@@ -38,7 +38,11 @@ Use the Replace Color adjustment to replace any color in your image with any oth
 3. Drag the Range slider to adjust how many of the colors similar to your selected color should be replaced.
 4. Drag the Intensity slider to adjust how much the new color should blend with the old color.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605601033000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605601033000.png" alt="" width="375">
+
+</div>
 
 ## Show before and after or reset adjustments
 

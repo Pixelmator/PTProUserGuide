@@ -24,7 +24,7 @@ Pixelmator Pro natively supports RAW files so you can edit your RAW images and t
 
 ## Open a RAW image or insert it as a new layer
 
-* To open a RAW image or add it as a new layer, simply open it like any other image or add it like any other image layer.
+* To open a RAW image or add it as a new layer, simply [open it](../open-an-image.md) like any other image or [add it](../working-with-layers/create-layers.md) like any other image layer.
 
 ## Open a RAW image from Photos
 
@@ -73,7 +73,7 @@ The Repair, Clone, and Perspective Transform tools in Pixelmator Pro apply chang
 You can apply local adjustments to specific areas of RAW images using color adjustment layers.
 
 1. In the Layers sidebar, select the RAW layer you'd like to edit.
-2. Using any of the selection tools, select the area to which you'd like to apply the color adjustments.
+2. Using any of the [selection tools](../make-selections/), select the area to which you'd like to apply the color adjustments.
 3. Press `A` on your keyboard and click Create Layer in the Tool Options pane to create a color adjustments layer.
 
 The areas without adjustments will be automatically masked out for you, only showing adjustments in the areas you have selected.
