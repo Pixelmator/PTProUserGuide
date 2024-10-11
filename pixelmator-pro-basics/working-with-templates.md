@@ -35,13 +35,13 @@ You can replace the placeholder images in templates with your images. All the ef
 
 To replace a placeholder image, do any of the following:
 
-* Click the Replace Layer button <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663672798000.png" alt="" data-size="line"> on the placeholder image, then choose Replace from Photos, Replace from Files, or Replace from Clipboard.
-* Click the Replace Layer button <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663672798000.png" alt="" data-size="line"> next to the placeholder layer in the Layers sidebar.
+* Click the Replace Layer button <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> on the placeholder image, then choose Replace from Photos, Replace from Files, or Replace from Clipboard.
+* Click the Replace Layer button <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> next to the placeholder layer in the Layers sidebar.
 * Select the placeholder image layer, then choose **Format > Replace Layer** from the Format menu at the top of the screen and choose an option.
 
 The new images will be inserted with the help of Smart Replace — a machine learning-powered feature that combines the power of three other ML features: Remove Background, Super Resolution, and Auto Fill.
 
-:bulb: **Tip:** If you're replacing images with multilayered documents and would like to move the entire group, make sure automatic group selection is enabled. To do that, choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line">, at the bottom of the Tool Options pane select the Auto Select option and choose Group from the adjacent pop-up menu.
+:bulb: **Tip:** If you're replacing images with multilayered documents and would like to move the entire group, make sure automatic group selection is enabled. To do that, choose the Arrange tool <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line">, at the bottom of the Tool Options pane select the Auto Select option and choose Group from the adjacent pop-up menu.
 
 When replacing placeholders with images from Files, you can additionally choose a preferred fill option — Original Size, Auto Fill, Scale to Fill, Scale to Fit, or Stretch.
 
@@ -49,7 +49,7 @@ When replacing placeholders with images from Files, you can additionally choose 
 
 You can replace any written text in templates with your own text. All the formatting applied to the placeholder text will be applied to your text, too.
 
-To replace a placeholder text, double-click the text layer you want to edit, click and drag over the text you want to replace and start typing. If you can't select the text, make sure the Auto Select feature is enabled. Choose the Arrange tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> and select Auto Select at the bottom of the Tool Options pane.
+To replace a placeholder text, double-click the text layer you want to edit, click and drag over the text you want to replace and start typing. If you can't select the text, make sure the Auto Select feature is enabled. Choose the Arrange tool <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> and select Auto Select at the bottom of the Tool Options pane.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663833394000.jpeg)
 
@@ -58,7 +58,7 @@ When replacing text in templates, the Shrink text to fit option is enabled by de
 If you'd like to turn off Shrink text to fit:
 
 1. Select the layer you'll be editing.
-2. Choose the Type tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line">.
+2. Choose the Type tool <img src="../.gitbook/assets/Type.png" alt="" data-size="line">.
 3. Deselect Shrink text to fit in the Tool Options pane.
 
 ## Choose element alternatives
@@ -80,9 +80,9 @@ To give templates a unique look and feel, you can choose from a set of ready-mad
 2. If you want, you can further customize the color palette:
    * _Change color in a palette_ — Click any of the color swatches to open the color picker. You can also pick a color from the image using the eyedropper tool.
    * _Add or remove colors_ — Control-click a color swatch and choose Add Color or Remove Color.
-   * _Create a new color palette_ — Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and choose Duplicate Palette, then change colors in the new palette however you want.
-   * _Copy or paste color palettes_ — Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line"> and choose Copy All Palettes to copy or Paste All Palettes to paste them.
-   * _Remove a color palette_ — Select the color palette you'd like to remove, then choose Remove Palette from the More menu <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605111967000.png" alt="" data-size="line">.
+   * _Create a new color palette_ — Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Duplicate Palette, then change colors in the new palette however you want.
+   * _Copy or paste color palettes_ — Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Copy All Palettes to copy or Paste All Palettes to paste them.
+   * _Remove a color palette_ — Select the color palette you'd like to remove, then choose Remove Palette from the More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line">.
 
 ## Define custom placeholder images, shapes, or alternative elements
 
