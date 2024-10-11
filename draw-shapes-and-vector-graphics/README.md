@@ -14,7 +14,7 @@ layout:
 
 # Draw shapes and vector graphics
 
-The term _drawing_ in image editing apps refers to creating or adding simple forms (such as triangles, ovals, and so on) to the composition. We call those forms shapes. Shapes can be used to enhance your photos, create Web elements, icons, logos, posters, and much more. The reason why shapes are so popular is that they are vector-based image elements. This means that you can go back to the image element and adjust the changes you’ve made without losing any quality. You can also freely enlarge or reduce the shape’s size, and the quality will stay intact.
+The term _drawing_ in image editing apps refers to creating or adding simple forms (such as triangles, ovals, and so on) to the composition. We call those forms shapes. Shapes can be used to enhance your photos, create Web elements, icons, logos, posters, and much more. The reason why shapes are so popular is that they are [vector-based](../working-with-layers/convert-layers-into-pixels.md#what-is-the-difference-between-pixel-and-vector-layers) image elements. This means that you can go back to the image element and adjust the changes you’ve made without losing any quality. You can also freely enlarge or reduce the shape’s size, and the quality will stay intact.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656926454000.jpeg)
 
@@ -29,6 +29,8 @@ The Shape tool in Pixelmator Pro offers a collection of custom vector shapes —
 3. Click or drag on the canvas to add the selected shape. The more you drag, the bigger the shape will be drawn.
 
 :bulb: **Tip:** To switch from drawing to selecting shapes, press and hold the `Command ⌘` key on your keyboard.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/insert-shape-3.1.mp4" %}
 
 ## Insert a commonly used shape
 
@@ -53,6 +55,8 @@ When customizing rounded rectangles, you can additionally adjust the radius of i
 :blue\_book: **Note:** To adjust the radius of any individual corner, `Command ⌘` — drag the corner handle.
 
 In the Corner Style pop-up menu, you can also switch from rounded to smooth corner style to create especially smooth rounded rectangles.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/rounded-rectangle.mp4" %}
 
 ## Edit a shape
 

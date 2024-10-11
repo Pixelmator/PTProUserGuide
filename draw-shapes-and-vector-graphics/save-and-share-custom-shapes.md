@@ -28,6 +28,8 @@ The Shape tool comes with tons of unique shapes you'll find across a number of d
 
 :blue\_book: **Note:** When you save a custom shape, the shape’s size and rotation are saved, but its style properties aren’t.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/save-custom-shape-2.4.mp4" %}
+
 ## Create a new shape collection
 
 1. Choose the Shape tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605106203000.png" alt="" data-size="line"> in the toolbar.

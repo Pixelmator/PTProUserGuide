@@ -40,7 +40,11 @@ After you make a vector path editable, you can select one or more of its points 
 
 To select a single point, simply click it.&#x20;
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596021797000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596021797000.png" alt="" width="375">
+
+</div>
 
 To select multiple points, do one of the following:
 
@@ -55,6 +59,8 @@ To select multiple points, do one of the following:
 2. Do one of the following:
    * Double-click part of a path segment between two points.
    * `Control ⌃` – click part of a path segment between two points and choose Add Point.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/add-a-vector-point.mp4" %}
 
 ## Remove points from a vector path
 
@@ -74,13 +80,19 @@ Sharp points have straight lines connecting to them, while smooth points have cu
 
 :bulb: **Tip:** To sharpen or smooth all the points in a path, `Control ⌃` – click a vector path on the canvas (without making it editable) and choose Sharpen Path or Smooth Path from the shortcut menu.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/make-sharp-point.mp4" %}
+
 ## Reshape a smooth point
 
 1. Make a vector path editable.
 2. Click to select the point you’d like to reshape.
 3. Drag the direction handles that appear.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590504764000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590504764000.png" alt="" width="375">
+
+</div>
 
 ## Convert a smooth point into an adjustable sharp point
 
@@ -104,6 +116,8 @@ _Divide_ lets you open closed paths (if you'd like to continue drawing, for inst
     :blue\_book: **Note:** To split a closed path into two open paths, make sure you select two points on the path. If you divide a closed path in one place only, you'll open the path instead of splitting it. When a path is split, the style of the original path (such as stroke weight, fill color, and shadows) applies to the newly created ones.
 
     Open paths essentially become lines, so their stroke position is automatically reset to Center.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/split-path.mp4" %}
 
 _Join_ option lets you connect two open paths in a shape to create one single open path or form a closed path.
 
