@@ -18,7 +18,7 @@ The Inner Shadow layer style adds a drop shadow inside your selected layer, givi
 
 ## Add an inner shadow style
 
-1. Select the layer or layers you would like to edit.
+1. [Select the layer or layers](../working-with-layers/select-layers.md) you would like to edit.
 2. Choose the Style tool by doing one of the following:
    * Click the Style <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1576511015000.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
@@ -35,3 +35,7 @@ The Inner Shadow layer style adds a drop shadow inside your selected layer, givi
 * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a different blend mode.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/inner-shadow-2.4.mp4" %}
+
+If you have applied multiple Inner Shadow layer styles to a single layer and you’d like to [rearrange](./#rearrange-the-order-of-layer-styles) them, simply drag the style up or down the list of styles.
+
+To reset all styles applied to an image, click Reset Style at the bottom of the Tool Options pane.

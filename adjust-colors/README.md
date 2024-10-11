@@ -34,6 +34,8 @@ You can apply color adjustments to layers directly or add them as adjustment lay
 
 :bulb: **Tip:** In Pixelmator Pro, the color adjustments have a set order in which they appear within the adjustments list and can't be rearranged. If you'd like to change the order of adjustments, you can add them as separate color adjustment layers and arrange them as needed in the Layers list.
 
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/add-color-adjustments.mp4" %}
+
 ## Create color adjustment layers
 
 Color adjustment layers work as individual elements you can add to a project and edit separately from the layer (or layers) to which they are applied. Just like the regular color adjustments, color adjustment layers offer nondestructive editing. These layers can be moved freely up or down the layers list and will change the appearance of all layers below them. Other than that, all the color adjustment controls function the same way as they do when editing layers directly.
@@ -60,6 +62,8 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
    * Press the `A` key on your keyboard.
 2. Click Customize at the bottom of the list of color adjustments.
 3. Select effects to add them or deselect them to remove them from the list of adjustments. The changes you make apply to all Pixelmator Pro documents.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/add-remove-color-adjustments.mp4" %}
 
 ## Temporarily hide a single adjustment
 
@@ -89,6 +93,8 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
    * Press the `A` key on your keyboard.
 2. In the Layers sidebar, click to select the layer you'd like to see without the color adjustments.
 3. Click and hold the Show Original button at the bottom of the Tool Options pane, or press `Control ⌃` + `M` on your keyboard.
+
+{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/before-after-adjustments.mp4" %}
 
 ## Turn on the Split Comparison view
 

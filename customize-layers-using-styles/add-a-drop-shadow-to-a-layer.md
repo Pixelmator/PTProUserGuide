@@ -35,3 +35,7 @@ The Shadow layer style adds a drop shadow below your selected layer, making it l
 *  _Blend Mode:_ Click the Blend Mode pop-up menu to choose a different blend mode.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/drop-shadow-2.4.mp4" %}
+
+If you have applied multiple Drop Shadow layer styles to a single layer and you’d like to [rearrange](./#rearrange-the-order-of-layer-styles) them, simply drag the style up or down the list of styles.
+
+To reset all styles applied to an image, click Reset Style at the bottom of the Tool Options pane.
