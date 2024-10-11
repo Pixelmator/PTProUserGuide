@@ -58,7 +58,11 @@ The ML adjustment improves hue and saturation in your image automatically using 
 
 Click the ML button in the Tool Options pane next to the Hue & Saturation adjustment to adjust the colors automatically.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656314694000.jpeg)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656314694000.jpeg" alt="" width="375">
+
+</div>
 
 ## Show before and after or reset adjustments
 

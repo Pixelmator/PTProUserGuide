@@ -95,7 +95,11 @@ Texture lets you subtly add contrast to images, especially the edges of objects,
 
 The machine learning-powered Basic adjustment improves the lighting in your image automatically. Click ML in the Tool Options pane next to the Basic adjustment to apply it.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677581342000.png)
+<div align="left">
+
+<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1677581342000.png" alt="" width="375">
+
+</div>
 
 ## Show before and after or reset adjustments
 
