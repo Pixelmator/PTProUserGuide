@@ -25,7 +25,7 @@ After you've downloaded Pixelmator Pro, the Pixelmator Pro extension will automa
 1. Open the Photos app.
 2. Find the image you want to edit and double-click to open it.
 3. In the top-right corner of the screen, click Edit.
-4. Then, in the toolbar at the top of the screen, click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> and choose Pixelmator Pro.
+4. Then, in the toolbar at the top of the screen, click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Pixelmator Pro.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/photos-extension-2.4.mp4" %}
 
@@ -60,6 +60,6 @@ You can also import existing [Pixelmator Pro documents](../create-open-and-save-
 
 1. Select any photo in your Photos library and choose **Image > Duplicate 1 Photo**.
 2. In the top-right corner of the screen click Edit.
-3. In the toolbar at the top of your screen, click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> and choose Pixelmator Pro.
+3. In the toolbar at the top of your screen, click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Pixelmator Pro.
 4. Press the `Command ⌘` + `O` keyboard shortcut to bring up the Replace dialog.
 5. Navigate to the Pixelmator Pro document you’d like to import and click Replace.
