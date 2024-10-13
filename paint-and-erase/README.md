@@ -51,7 +51,7 @@ In the Brushes Browser, you can choose a brush from the collections on the left 
     </div>
 2. Drag on the canvas to paint using your selected brush. You can temporarily switch from painting to erasing by pressing and holding `` ` `` or `~` on your keyboard.
 
-## Erase with the Erase tool
+## Erase using the Erase tool
 
 The Erase tool lets you erase image areas using any brush in your collection.
 
