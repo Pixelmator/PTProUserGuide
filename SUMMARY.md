@@ -170,6 +170,7 @@
   * [Reveal parts of an image beyond the canvas](resize-crop-and-straighten-images/reveal-parts-of-an-image-beyond-the-canvas.md)
   * [Crop presets](resize-crop-and-straighten-images/crop-presets.md)
   * [Change the image size](resize-crop-and-straighten-images/change-the-image-size.md)
+  * [Change the canvas size](resize-crop-and-straighten-images/change-the-canvas-size.md)
 * [Export and share images](export-and-share-images/README.md)
   * [Export an image or video for the web](export-and-share-images/export-an-image-or-video-for-the-web.md)
   * [Slice designs into individual images](export-and-share-images/slice-designs-into-individual-images.md)
