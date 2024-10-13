@@ -29,7 +29,7 @@ Pixelmator Pro is a nondestructive, layer-based image editor. In order to preser
 3. To choose where to export the image, click the Locations pop-up menu, or the disclosure button next to it, then choose a location (for example, a folder or your desktop).
 4.  Customize the export file — choose a file format, color profile, quality, size, etc. The available options vary based on the file format selected.
 
-    :blue\_book: **Note:** When resizing images for export, Pixelmator Pro uses the most universal, Bilinear scaling algorithm. It works best for scaling down images. If, instead, you'd like to upscale your image (using Super Resolution) or use a different algorithm for downscaling, you can do so in the [Image Size](../redise-crop-and-straighten-images/change-the-image-size.md) menu before export.&#x20;
+    :blue\_book: **Note:** When resizing images for export, Pixelmator Pro uses the most universal, Bilinear scaling algorithm. It works best for scaling down images. If, instead, you'd like to upscale your image (using Super Resolution) or use a different algorithm for downscaling, you can do so in the [Image Size](../resize-crop-and-straighten-images/change-the-image-size.md) menu before export.&#x20;
 5. Click Export.
 
 ## Image formats
