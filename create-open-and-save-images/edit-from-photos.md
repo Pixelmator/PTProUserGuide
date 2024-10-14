@@ -44,7 +44,7 @@ Use this method to overwrite original images with changes, merging all layers, a
 5. Choose **File > Save** from the File menu at the top of your screen to save changes.
 6. The changes have been saved to the Photos library. Now, you can close and delete the document.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655115861000.jpeg)
+![](<../.gitbook/assets/Send an image from Photos to edit in Pixelmator Pro\_Screenshot.png>)
 
 :blue\_book: **Note:** When opening images using Edit With, additional data of RAW files is not kept. Images are converted to TIFF file format instead.
 
