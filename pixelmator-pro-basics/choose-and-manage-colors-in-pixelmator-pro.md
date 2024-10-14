@@ -30,14 +30,14 @@ The top section of the color picker features an eyedropper for picking colors fr
 
 ### How to use the color picker
 
-1. To turn on the color picker, click any color well in Pixelmator Pro tools, adjustments, or effects, or click the color picker <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line"> in the toolbar.
+1. To turn on the color picker, click any color well in Pixelmator Pro tools, adjustments, or effects, or click the color picker <img src="../.gitbook/assets/Color-Picker-02.png" alt="" data-size="line"> in the toolbar.
 2. Do any of the following:
    * _Find the value of a color:_ Click the eyedropper <img src="../.gitbook/assets/Color-picker.png" alt="" data-size="line">, then hover the pointer over a color to see its value. The color value changes as you move from one color to another on the canvas. To pick a color, simply click it.
    * _Choose a color:_ You can choose a color from the list of available color palettes or use the hue slider and the color field to pick it manually. The color picker uses the HSB-based (hue, saturation, brightness) color model, so to choose a color, you'd typically drag the hue slider first, then specify its saturation and brightness in the color field above. You can also manually enter HEX or RGB values to choose a specific color.
    * _Manage the color palettes:_ Click the Color Palettes pop-up menu to browse your existing palettes or click the adjacent More menu <img src="../.gitbook/assets/More.png" alt="" data-size="line"> to remove, rename, and add new palettes.
    * _Save colors to use again:_ In the list of color swatches, click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> or More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Add Preset in the menu that appears. This adds your currently selected color to the currently selected color palette. You can also drag a swatch directly from the recently selected colors to the list of color swatches.
 
-:bulb: **Tip:** To quickly fill an image, drag the color you want from the color well <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line"> in the toolbar or any color well in Pixelmator Pro onto any object, shape, or selection in your image.
+:bulb: **Tip:** To quickly fill an image, drag the color you want from the color well <img src="../.gitbook/assets/Color-Picker-02.png" alt="" data-size="line"> in the toolbar or any color well in Pixelmator Pro onto any object, shape, or selection in your image.
 
 When working with gradients, click any of the color stops to open the color picker.
 
@@ -66,7 +66,7 @@ Foreground and background colors are the two primary colors Pixelmator Pro will 
 To switch between foreground and background colors, do one of the following:
 
 * Press `X` on your keyboard.
-* Click the switch arrow next to the color well <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1623920552000.png" alt="" data-size="line">.
+* Click the switch arrow next to the color well <img src="../.gitbook/assets/Color-Picker-02.png" alt="" data-size="line">.
 
 To reset foreground and background colors to black and white press the `D` key on your keyboard.
 
@@ -101,7 +101,7 @@ The Colors window in Pixelmator Pro lets you access the system color palettes, a
 The Colors window has four sections: the different color pickers at the top (color wheel, color sliders, color palettes, image palettes, and pencils); the active color picker in the middle; the large color swatch in the lower-left to show the currently selected color; the eyedropper for picking colors; and the row of boxes to pick or save new color swatches.
 
 1. To open the Colors window, do one of the following:
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1582542017000.png) in the color picker popover.&#x20;
+   * Click <img src="../.gitbook/assets/Color-Picker-03.png" alt="" data-size="line"> in the color picker popover.&#x20;
    * Choose **View > Show Colors** (from the View menu at the top of your screen).
    * Press `Shift ⇧` + `Command ⌘` + `C` on your keyboard.
 2. Do any of the following:

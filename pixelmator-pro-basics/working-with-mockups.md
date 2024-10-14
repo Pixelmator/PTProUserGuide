@@ -52,7 +52,7 @@ Choose from a range of different lighting effects — Direct Light, Spotlight, S
 
 To change an alternative element in a mockup, do any of the following:
 
-* Click the Alternative Elements button <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663673742000.png" alt="" data-size="line"> on the canvas, then choose an element to apply it. You can also hover your pointer over menu items to see different lighting previews.
+* Click the Alternative Elements button <img src="../.gitbook/assets/Alternative-Elements.png" alt="" data-size="line"> on the canvas, then choose an element to apply it. You can also hover your pointer over menu items to see different lighting previews.
 * In the Layers sidebar, open the Alternative Elements layer group and select an element you'd like to apply.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663834634000.jpeg)
@@ -61,7 +61,7 @@ To change an alternative element in a mockup, do any of the following:
 
 To give mockups a look and feel that compliments your design, you can choose from a set of ready-made color schemes using Document Colors, or change the colors of individual design elements manually.
 
-1. Click Document Colors <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663671997000.png" alt="" data-size="line"> to learn how to add it.
+1. Click Document Colors <img src="../.gitbook/assets/Document-Colors.png" alt="" data-size="line"> to learn how to add it.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663834627000.jpeg)
 

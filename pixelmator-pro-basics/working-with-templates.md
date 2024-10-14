@@ -69,14 +69,14 @@ Individual templates in Pixelmator Pro include a wide range of unique shapes, il
 
 To change an alternative element, do any of the following:
 
-* Click the Alternative Elements button <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663673742000.png" alt="" data-size="line"> next to the element you'd like to replace, then choose an element to apply it. You can also hover your pointer over menu items to see previews.
+* Click the Alternative Elements button <img src="../.gitbook/assets/Alternative-Elements.png" alt="" data-size="line"> next to the element you'd like to replace, then choose an element to apply it. You can also hover your pointer over menu items to see previews.
 * In the Layers sidebar, open the Alternative Elements layer group and select an element you'd like to apply.
 
 ## Customize template colors
 
 To give templates a unique look and feel, you can choose from a set of ready-made Document Colors palettes.
 
-1. Click Document Colors <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1663671997000.png" alt="" data-size="line"> to learn how to add it.
+1. Click Document Colors <img src="../.gitbook/assets/Document-Colors.png" alt="" data-size="line"> to learn how to add it.
 2. If you want, you can further customize the color palette:
    * _Change color in a palette_ — Click any of the color swatches to open the color picker. You can also pick a color from the image using the eyedropper tool.
    * _Add or remove colors_ — Control-click a color swatch and choose Add Color or Remove Color.

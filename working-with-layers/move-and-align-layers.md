@@ -58,18 +58,18 @@ You can align objects so they line up along a vertical or horizontal axis.
 3.  Click one of the alignment buttons below the layer order slider in the Tool Options pane or choose one of the alignment options:
 
     \
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159388000.png) _Top Edges:_ Aligns all your selected layers to the top edge of the topmost layer.\
+    <img src="../.gitbook/assets/Align_Top-Edges.png" alt="" data-size="line"> _Top Edges:_ Aligns all your selected layers to the top edge of the topmost layer.\
     \
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159471000.png) _Vertical Centers:_ Vertically moves all your selected layers to align them along one central horizontal axis.\
+    <img src="../.gitbook/assets/Align_Vertical-Centers.png" alt="" data-size="line"> _Vertical Centers:_ Vertically moves all your selected layers to align them along one central horizontal axis.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159494000.png) _Bottom Edges:_ Aligns all your selected layers to the bottom edge of the bottom layer.\
+    <img src="../.gitbook/assets/Align_Bottom-Edges.png" alt="" data-size="line"> _Bottom Edges:_ Aligns all your selected layers to the bottom edge of the bottom layer.\
     \
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159519000.png) _Left Edges:_ Aligns all your selected layers to the left edge of the leftmost layer.\
+    <img src="../.gitbook/assets/Align_Left-Edges.png" alt="" data-size="line"> _Left Edges:_ Aligns all your selected layers to the left edge of the leftmost layer.\
     \
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159547000.png) _Horizontal Centers:_ Horizontally moves all your selected layers to align them along one central vertical axis.\
+    <img src="../.gitbook/assets/Align_Horizontal-Centers.png" alt="" data-size="line"> _Horizontal Centers:_ Horizontally moves all your selected layers to align them along one central vertical axis.\
     \
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583159573000.png) _Right Edges:_ Aligns all your selected layers to the right edge of the rightmost layer.
+    <img src="../.gitbook/assets/Align_Right-Edges.png" alt="" data-size="line"> _Right Edges:_ Aligns all your selected layers to the right edge of the rightmost layer.
 
 You can also align objects to selections — for example, if you make a selection with the Rectangular Selection tool, any objects will align to the edges of the selection.
 
@@ -77,27 +77,27 @@ You can also align objects to selections — for example, if you make a selectio
 
 Distributing layers lets you arrange them according to their edges or centers. For example, you can automatically space objects to set equal distances between every left edge.
 
-1. Click Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590505056000.png" alt="" data-size="line"> in the Tools sidebar.
+1. Click Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> in the Tools sidebar.
 2. Select three or more layers you’d like to equally space.
 3.  Click one of the alignment buttons below the layer order slider in the Tool Options pane or choose one of the distribution options (you can also choose **Arrange > Distribute Objects** and select an option):\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160132000.png) _Top Edges:_ Equally space any layers between the top and bottom selected layers according to their top edges.\
+    <img src="../.gitbook/assets/Equally_Top-Edges.png" alt="" data-size="line"> _Top Edges:_ Equally space any layers between the top and bottom selected layers according to their top edges.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160159000.png) _Vertical Centers:_ Equally space any layers between the top and bottom selected layers according to their vertical centers.\
+    <img src="../.gitbook/assets/Equally_Vertical-Centers.png" alt="" data-size="line"> _Vertical Centers:_ Equally space any layers between the top and bottom selected layers according to their vertical centers.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160185000.png) _Bottom Edges:_ Equally spaces any layers between the top and bottom selected layers according to their bottom edges.\
+    <img src="../.gitbook/assets/Equally_Bottom-Edges.png" alt="" data-size="line"> _Bottom Edges:_ Equally spaces any layers between the top and bottom selected layers according to their bottom edges.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160206000.png) _Left Edges:_ Equally spaces any layers between the leftmost and rightmost selected layers according to their left edges.\
+    <img src="../.gitbook/assets/Equally_Left-Edges.png" alt="" data-size="line"> _Left Edges:_ Equally spaces any layers between the leftmost and rightmost selected layers according to their left edges.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160230000.png) _Horizontal Centers:_ Equally spaces any layers between the leftmost and rightmost selected layers according to their horizontal centers.\
+    <img src="../.gitbook/assets/Equally_Horizontal-Centers.png" alt="" data-size="line"> _Horizontal Centers:_ Equally spaces any layers between the leftmost and rightmost selected layers according to their horizontal centers.\
 
 
-    ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583160253000.png) _Right Edges:_ Equally spaces any layers between the leftmost and rightmost selected layers according to their right edges.
+    <img src="../.gitbook/assets/Equally_Right-Edges.png" alt="" data-size="line"> _Right Edges:_ Equally spaces any layers between the leftmost and rightmost selected layers according to their right edges.
 
 ## Evenly space objects of different sizes
 
