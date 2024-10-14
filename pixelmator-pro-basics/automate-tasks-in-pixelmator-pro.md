@@ -79,25 +79,3 @@ You can go as simple or as complex as you want with your scripts, adding differe
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1599042228000.png)
 
 If you'd like to learn more about scripting, check out our tutorial on [advanced automation and scripting with AppleScript](https://pixelmator.com/tutorials/resources/advanced-automation-and-scripting-with-applescript/).
-
-***
-
-## Batch process images using the Automator app
-
-Automator is a great tool even for complete beginners as it offers a quick and easy approach to automation. It doesn't require any actual coding — you simply pick one or more of the pre-made Pixelmator Pro actions, add them to a workflow, and run it. You can also create Quick Actions, folder actions, or save individual workflows to use in the future.
-
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1599657323000.jpeg)
-
-There are currently 9 different Pixelmator Pro actions you can find in Automator:
-
-* _Auto White Balance Images_: Automatically corrects the white balance of photos using the White Balance feature of Pixelmator Pro.
-* _Apply Color Adjustments to Images_: Applies the selected Pixelmator Pro color adjustment preset to images.
-* _Change Type of Images_: Converts the image file type from one format to another.
-* _Increase Resolution of Images_: Increases the resolution of images by 3 times using the Super Resolution algorithm.
-* _Trim Images_: Deletes transparent or solid colored areas from the edges of images.
-* _Auto Enhance Image_: Automatically enhances photos, balancing colors and improving exposure, using the ML Enhance feature of Pixelmator Pro.
-* _Apply Effects to Images_: Applies the selected Pixelmator Pro effect preset to images.
-* _Denoise Images_: Automatically removes camera noise from images using the Denoise algorithm.
-* _Scale Images_: Resizes the images passed to it, either proportionally or freely.
-
-See our tutorial on [batch processing images with Pixelmator Pro](https://www.pixelmator.com/tutorials/resources/batch-process-images-with-pixelmator-pro/) to learn more about working with Automator.
