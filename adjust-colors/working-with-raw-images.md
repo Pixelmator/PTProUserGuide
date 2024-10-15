@@ -37,7 +37,7 @@ Pixelmator Pro natively supports RAW files so you can edit your RAW images and t
 ## Insert a RAW layer from Photos
 
 1. Do one of the following:
-   * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Photos.
+   * Click Insert a layer <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Photos.
    * Choose **Insert > Photos** from the Insert menu at the top of your screen.
 2. Locate the RAW image you’d like to insert.
 3. Click Insert to insert it in the original file format.

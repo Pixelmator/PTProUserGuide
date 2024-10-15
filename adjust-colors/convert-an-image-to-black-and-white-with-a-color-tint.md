@@ -27,7 +27,7 @@ You can convert a single layer to black and white or, using a color adjustments 
 ## Convert multiple layers in a composition to black and white with a color tint
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Color Monochrome adjustment in the Tool Options pane.
-* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Color Monochrome adjustment.
+* Click Insert a layer <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Color Monochrome adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Color Monochrome adjustment.
 
 :bulb: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
