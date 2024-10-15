@@ -27,7 +27,7 @@ You can apply the Hue & Saturation adjustment to a single layer or, using a colo
 ## Edit multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Hue & Saturation adjustment in the Tool Options pane.
-* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Hue and Saturation adjustment.
+* Click Insert a layer <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Hue and Saturation adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Hue & Saturation adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.

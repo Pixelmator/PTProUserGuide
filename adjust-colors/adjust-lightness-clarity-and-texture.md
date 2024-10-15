@@ -23,13 +23,13 @@ You can adjust the lightness, clarity, and texture of a single layer or, using a
 ## Adjust the currently selected layer
 
 * Choose **Format > Color Adjustments > Basic** from the Format menu at the top of your screen.
-* In the Tools sidebar, click the Color Adjustments <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000192000.png" alt="" data-size="line"> tool and turn on Basic.
+* In the Tools sidebar, click the Color Adjustments <img src="../.gitbook/assets/Color-Adjustments.png" alt="" data-size="line"> tool and turn on Basic.
 * Press `A` on your keyboard and turn on the Basic adjustment.
 
 ## Adjust multiple layers in a composition
 
 * Choose **Insert > Color Adjustments** from the Insert menu at the top of your screen and turn on the Basic adjustment in the Tool Options pane.
-* Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Basic adjustment.
+* Click Insert a layer <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Color Adjustments, and turn on the Basic adjustment.
 * Press `Shift ⇧` + `Command ⌘` + `A` on your keyboard, and turn on the Basic adjustment.
 
 :blue\_book: **Note:** If the adjustment isn't visible, you can turn it on from the Customize menu at the bottom of the Color Adjustments pane.
@@ -38,7 +38,7 @@ You can adjust the lightness, clarity, and texture of a single layer or, using a
 
 Texture-aware algorithm is turned off by default. You can turn it on in a couple of simple ways:
 
-* Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> at the top of the Color Adjustments pane and choose Use texture-aware algorithm.
+* Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> at the top of the Color Adjustments pane and choose Use texture-aware algorithm.
 * Drag Clarity or Texture sliders, or adjust clarity and texture using the [Selective Clarity](selectively-adjust-clarity-and-texture-of-an-image.md) adjustment.
 
 :exclamation:**Important:** If you turn on the texture-aware algorithm for documents that have been edited using older versions of Shadows, Highlights, Exposure, and Brightness adjustments, your images may look different.

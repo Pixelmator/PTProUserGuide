@@ -67,7 +67,7 @@ When you lock a layer or layer group, it stays visible in your image but it will
 To lock or unlock a layer or layer group, do one of the following:
 
 * Choose **Arrange > Lock** or **Arrange > Unlock** from the Arrange menu at the top of your screen. 
-* In the Layers list, move the mouse pointer over the layer or layer group you’d like to lock and click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802756000.png" alt="" data-size="line">. To unlock layers, click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586802719000.png" alt="" data-size="line">.
+* In the Layers list, move the mouse pointer over the layer or layer group you’d like to lock and click <img src="../.gitbook/assets/Unlock.png" alt="" data-size="line">. To unlock layers, click <img src="../.gitbook/assets/Lock.png" alt="" data-size="line">.
 * In the Layers sidebar, `Control ⌃` – click a layer or layer group choose Lock or Unlock.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/lock-layers-2.4.mp4" %}
@@ -140,6 +140,6 @@ You can use the layer filtering option to quickly view all group layers, masks, 
 To filter layers do one of the following:
 
 * At the bottom of the Layers sidebar, start typing the layer name into the search field.&#x20;
-* Click Filter <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586516424000.png" alt="" data-size="line"> at the bottom of the Layers sidebar and pick the desired option.
+* Click Filter <img src="../.gitbook/assets/Filter.png" alt="" data-size="line"> at the bottom of the Layers sidebar and pick the desired option.
 
 To reset all filters, click Clear All.
