@@ -27,7 +27,7 @@ A vector path can be closed, which means it has no beginning or end (like a squa
 To draw a straight line segment with the Pen tool:
 
 1. Choose the Pen tool by doing any of the following:
-   * Click the Pen <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999700000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Pen <img src="../.gitbook/assets/Pen.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Draw > Pen** from the Tools menu at the top of your screen.
    * Press the `P` key on your keyboard (selects the last used Pen tool).
 2. Click (don’t drag) anywhere in your image to begin drawing the line.
@@ -55,7 +55,7 @@ After you draw a vector path, you can further refine, remove, or add anchor poin
 To draw a curved line segment with the Pen tool:
 
 1. Choose the Pen tool by doing any of the following:
-   * Click the Pen <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999700000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Pen <img src="../.gitbook/assets/Pen.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Draw > Pen** from the Tools menu at the top of your screen)
    * Press the `P` key on your keyboard (selects the last used Pen tool).
 2. Drag anywhere in your image to begin drawing the line, release the mouse to finish customizing the first anchor point. Where you first press and hold the mouse will determine the location of the anchor point, where you release the mouse will determine the location of the anchor point’s direction line.

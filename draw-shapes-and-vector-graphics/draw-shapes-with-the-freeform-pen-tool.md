@@ -17,7 +17,7 @@ layout:
 The Freeform Pen tool is a somewhat simpler and easier to use version of the [Pen tool](draw-shapes-with-the-pen-tool.md) — it lets you draw as if with a pencil on paper, adding anchor points and adjusting their direction lines automatically.
 
 1. Choose the Freeform Pen tool by doing any of the following:
-   * Click the Freeform Pen <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999700000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Freeform Pen <img src="../.gitbook/assets/Pen.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Draw > Freeform Pen** from the Tools menu at the top of your screen.
    * Press the `P` key on your keyboard (selects the last used Pen tool).
 2. Drag to begin drawing your path.

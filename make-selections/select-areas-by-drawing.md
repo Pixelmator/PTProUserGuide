@@ -20,7 +20,7 @@ The Free Selection (or the lasso) tool lets you freely draw selections by hand. 
 
 1.  Choose the Free Selection tool by doing one of the following:
 
-    * Click Free Selection <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586513284000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+    * Click Free Selection <img src="../.gitbook/assets/Free-Selection.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
     * Choose **Tools > Select > Free Selection** from the Tools menu at the top of your screen.
     * Press the `L` key on your keyboard.
 
@@ -35,7 +35,7 @@ The Polygonal Selection (or the polygonal lasso) tool lets you make straight-edg
 
 1.  Choose the Polygonal Selection tool by doing one of the following:
 
-    * Click Polygonal Selection <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586513688000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+    * Click Polygonal Selection <img src="../.gitbook/assets/Polygonal-Selection.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
     * Choose **Tools > Select > Polygonal Selection** from the Tools menu at the top of your screen.
     * Press the `L` key on your keyboard.
 
@@ -51,7 +51,7 @@ The Magnetic Selection tool is used to trace selections around objects and areas
 
 1.  Choose the Magnetic Selection tool by doing one of the following:
 
-    * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586513602000.png" alt="" data-size="line"> in the [Tools sidebar](https://help.pixelmator.com/pixelmator-pro/3.5/#glossary) or choose it from the [grouped tools](https://help.pixelmator.com/pixelmator-pro/3.5/#glossary).
+    * Click <img src="../.gitbook/assets/Magnetic-Selection.png" alt="" data-size="line"> in the [Tools sidebar](https://help.pixelmator.com/pixelmator-pro/3.5/#glossary) or choose it from the [grouped tools](https://help.pixelmator.com/pixelmator-pro/3.5/#glossary).
     * Choose **Tools > Select > Magnetic Selection** (from the Tools menu at the top of your screen).
 
     &#x20;**Tip:** You can cycle through Magnetic, Free, and Polygonal selection tools by pressing `Shift ⇧` + `L` on your keyboard.

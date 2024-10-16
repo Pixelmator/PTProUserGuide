@@ -19,7 +19,7 @@ Once you have made a selection, you can move, copy, delete, or cut the selected 
 ## Move a selected area
 
 1. Choose the Arrange tool by doing one of the following:
-   * Click the Arrange <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998658000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Click the Arrange <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Arrange** from the Tools menu at the top of your screen.
    * Press the `V` key on your keyboard.
 2. Move the pointer inside the selection and drag the selected area to a new position.

@@ -12,14 +12,14 @@ layout:
     visible: true
 ---
 
-# Make rectangular or elliptical selections
+# Make rectangular, elliptical, or row selections
 
 ## Make an elliptical selection
 
 The Elliptical Selection tool lets you make elliptical or circular selections in your images.
 
 1. Choose the Elliptical Selection tool by doing one of the following:
-   * Click Elliptical Selection <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999081000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click Elliptical Selection <img src="../.gitbook/assets/Elliptical-Selection.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Select > Elliptical Selection** from the Tools menu at the top of your screen.
    * Press the `Y` key on your keyboard.
 2.  Drag in your image to make the selection.
@@ -33,7 +33,7 @@ The Elliptical Selection tool lets you make elliptical or circular selections in
 Using the Rectangular Selection tool you can easily make rectangular or square selections in your images.
 
 1. Choose the Rectangular Selection tool by doing one of the following:
-   * Click the Rectangular Selection  <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999068000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Rectangular Selection  <img src="../.gitbook/assets/Rectangular-Selection.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Select > Rectangular Selection** from the Tools menu at the top of your screen.
    * Press the `M` key on your keyboard.
 2.  Drag in your image to make the selection.
@@ -59,7 +59,7 @@ Using the Column Selection tool you can easily make vertical selections of a spe
 Using the Row Selection tool you can easily make horizontal selections of a specified height.&#x20;
 
 1. Choose the Row Selection tool by doing one of the following:
-   * Click the Row Selection <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589550306000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Row Selection <img src="../.gitbook/assets/Row-Selection.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Select > Row Selection** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, enter the height of the column into the Row Height field.&#x20;
 3. Click the image to make the selection. You can also click and drag a new selection to position it more precisely.&#x20;
