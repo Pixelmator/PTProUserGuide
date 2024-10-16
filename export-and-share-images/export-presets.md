@@ -21,10 +21,10 @@ Export presets let you save a combination of export settings and quickly apply t
 ## Apply an export preset to an image
 
 1. Do one of the following:
-   * Click Slice <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604663000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Click Slice <img src="../.gitbook/assets/Export-for-Web.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **File > Export for Web** from the File menu at the top of your screen.
    * Press the `K` key on your keyboard.
-2. In the Tool Options pane, click Presets <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605104039000.png" alt="" data-size="line"> and choose from the available presets.
+2. In the Tool Options pane, click Presets <img src="../.gitbook/assets/Presets.png" alt="" data-size="line"> and choose from the available presets.
 
 ## Apply an export preset to a slice
 
@@ -34,19 +34,19 @@ Export presets let you save a combination of export settings and quickly apply t
 ## Save a combination of export settings as a preset
 
 1. Add and customize any number of [export formats](export-an-image-or-video-for-the-web.md).
-2. In the Tool Options pane, click Presets <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605104039000.png" alt="" data-size="line"> and click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line">.
+2. In the Tool Options pane, click Presets <img src="../.gitbook/assets/Presets.png" alt="" data-size="line"> and click Add <img src="../.gitbook/assets/Plus.png" alt="" data-size="line">.
 
 ## Redefine an export preset
 
 If you’d like to overwrite or update an existing preset with new settings, you can redefine it.
 
 1. Add and customize any number of export formats.
-2. In the Tool Options pane, click Presets <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605104039000.png" alt="" data-size="line">.
+2. In the Tool Options pane, click Presets <img src="../.gitbook/assets/Presets.png" alt="" data-size="line">.
 3. Open the preset submenu and choose Redefine.
 
 ## Customize quick export presets
 
-1. In the Tool Options pane, click Presets <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605104039000.png" alt="" data-size="line">.
+1. In the Tool Options pane, click Presets <img src="../.gitbook/assets/Presets.png" alt="" data-size="line">.
 2. Do any of the following:
    * _Rename an export preset:_ Open the preset submenu and choose Rename. This can help better organize the presets or find them more easily.
    * _Remove an export preset:_ Open the preset submenu and choose Remove if you will not be using this preset anymore.

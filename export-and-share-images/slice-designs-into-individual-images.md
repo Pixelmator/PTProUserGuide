@@ -23,8 +23,8 @@ In Pixelmator Pro, you can create slices from layers or layer groups in your ima
 ## Draw a slice by hand
 
 1. Choose the Slice tool by doing one of the following:
-   * Click Slice <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605604663000.png" alt="" data-size="line"> in the Pixelmator Pro toolbar or select it from the Tools sidebar.
-   * Click Share <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580744717000.png" alt="" data-size="line"> in the Pixelmator Pro toolbar and choose Export for Web.
+   * Click Slice <img src="../.gitbook/assets/Export-for-Web.png" alt="" data-size="line"> in the Pixelmator Pro toolbar or select it from the Tools sidebar.
+   * Click Share <img src="../.gitbook/assets/Export.png" alt="" data-size="line"> in the Pixelmator Pro toolbar and choose Export for Web.
    * Choose **File > Export for Web** from the File menu at the top of your screen.
    * Choose **Tools > Export for Web** from the Tools menu at the top of your screen.
    * Press `K` or `Shift ⇧` + `Command ⌘` + `E` on your keyboard.
