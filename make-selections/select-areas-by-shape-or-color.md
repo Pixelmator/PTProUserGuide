@@ -37,7 +37,7 @@ The Quick Selection tool lets you easily select individual elements or entire ob
 The Color Selection (or the magic wand) tool, lets you select elements or entire areas in your images according to their color.
 
 1. Choose the Color Selection tool by doing one of the following:
-   * Click Color Selection <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999163000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
+   * Click Color Selection <img src="../.gitbook/assets/Color-Selection.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Select > Color Selection** from the Tools menu at the top of your screen.
    * Press the `W` key on your keyboard.
 2. In the Tool Options pane, customize the options for the Color Selection tool:
