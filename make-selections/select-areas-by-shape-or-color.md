@@ -21,7 +21,7 @@ In Pixelmator Pro, you can easily select parts of your image based on shape and 
 The Quick Selection tool lets you easily select individual elements or entire objects in an image by simply drawing over them. A clever selection algorithm analyzes the colors and textures of the objects in images to detect their edges and make precise selections.
 
 1. Choose the Quick Selection tool by doing one of the following:
-   * Click the Quick Selection <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999176000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Quick Selection <img src="../.gitbook/assets/Quick-Selection.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Quick Selection** from the Tools menu at the top of your screen.
    * Press the `Q` key on your keyboard.
 2. In the Tool Options pane, customize the options for the Quick Selection tool:
