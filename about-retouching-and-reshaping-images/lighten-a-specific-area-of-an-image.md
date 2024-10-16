@@ -17,7 +17,7 @@ layout:
 The Lighten tool is used to lighten a specific area of an image. You could, for example, lighten a dark area of an otherwise well-exposed image to add extra emphasis to it.
 
 1. Do one of the following:
-   * Choose the Lighten <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999589000.png" alt="" data-size="line"> tool in the Tools sidebar, or choose it from the [grouped tools](#user-content-fn-1)[^1].
+   * Choose the Lighten <img src="../.gitbook/assets/Lighten.png" alt="" data-size="line"> tool in the Tools sidebar, or choose it from the grouped tools.
    * Choose **Tools > Retouch > Lighten** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Lighten tool.
    * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Lighten tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. \
@@ -40,5 +40,3 @@ _Show Original:_ Click the Show Original button to see what the image looked lik
 _Show Split Comparison:_ `Option ⌥` – click the Show Original button or press `Control ⌃` + `C` on your keyboard.
 
 Click Reset to discard all the current changes.
-
-[^1]: 

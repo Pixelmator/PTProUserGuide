@@ -17,11 +17,11 @@ layout:
 The Color Fill tool fills in similarly colored areas of an image with your chosen solid color.
 
 1. Choose the Color Fill tool by doing one of the following:&#x20;
-   * Click Color Fill <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999220000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
+   * Click Color Fill <img src="../.gitbook/assets/_Color-Fill.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Color Fill** from the Tools menu at the top of your screen.
    * Press the `N` key on your keyboard.
 2. Customize the Color Fill tool:
-   * _Color:_ Click the color well to choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line">to pick a color from the image.
+   * _Color:_ Click the color well to choose a color or click <img src="../.gitbook/assets/Color-picker.png" alt="" data-size="line">to pick a color from the image.
    * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a blend mode.
    * _Opacity:_ Drag the Opacity slider to adjust the transparency of the Color Fill tool.
    * _Sample All Layers:_ Select Sample All Layers to make the Color Fill take into account the contents of every layer in your image, not just the selected layer.

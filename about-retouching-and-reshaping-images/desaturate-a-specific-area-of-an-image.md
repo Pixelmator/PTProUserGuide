@@ -17,7 +17,7 @@ layout:
 The Desaturate tool is used to make the colors in a specific area of an image less vivid and vibrant. Using this tool, you can also take out all the color from a specific area to turn it black and white, while leaving the rest of the image in color.
 
 1. Do one of the following:
-   * In the Tools sidebar, click Desaturate <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999627000.png" alt="" data-size="line"> or choose it from the grouped tools.
+   * In the Tools sidebar, click Desaturate <img src="../.gitbook/assets/Desaturate.png" alt="" data-size="line"> or choose it from the grouped tools.
    * Choose **Tools > Retouch > Desaturate** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Desaturate tool:
    * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Desaturate tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. \

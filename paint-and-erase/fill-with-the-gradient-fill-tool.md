@@ -19,7 +19,7 @@ The Gradient Fill tool fills layers with your chosen gradient — a gradual tran
 A gradient will always have at least two colors. Each color is represented by color stops on a fill bar. You can change how the gradient looks by adding or removing stops, adjusting their position, and setting the color and transparency of each.
 
 1. Choose the Gradient Fill tool by doing one of the following:&#x20;
-   * Click Gradient <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999231000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
+   * Click Gradient <img src="../.gitbook/assets/Gradient-Fill.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Gradient Fill** from the Tools menu at the top of your screen.
    * Press the `G` key on your keyboard.
 2.  Click the presets well to choose from the available presets or customize any selected gradient:

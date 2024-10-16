@@ -25,14 +25,14 @@ Color Adjustments effects can be applied directly to a single layer or, using an
     \
     Apply effects to a currently selected layer:
 
-    * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Color Adjustments collection.
+    * Click Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Color Adjustments collection.
     * Choose **Format > Effects > Color Adjustments** and choose an effect.
     * Press `F` on your keyboard, click Add Effect, and select an effect from the Color Adjustments collection.
 
     Apply effects to multiple layers:
 
     * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Color Adjustments collection.
-    * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Color Adjustments collection.
+    * Click Insert a layer <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Color Adjustments collection.
     * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Color Adjustments collection.
 
 ### Color Controls effect
@@ -69,7 +69,7 @@ The Color Monochrome effect converts an image to black and white while also addi
 
 Customize the effect:
 
-* Click the color well to choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1582542017000.png" alt="" data-size="line"> to open the Colors window.
+* Click the color well to choose a color or click <img src="../.gitbook/assets/Color-Picker-03.png" alt="" data-size="line"> to open the Colors window.
 * Move the _Intensity_ slider to the left to bring back some of the original colors to the image. You can also enter a value from 0% to 100%.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1589987343000.png)

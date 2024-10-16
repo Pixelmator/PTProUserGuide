@@ -17,7 +17,7 @@ layout:
 The Warp tool lets you push and pull a specific area of an image in any direction. You can use Warp to subtly fix certain imperfections or completely distort images, creating a melted or liquified look.
 
 1. Do one of the following:
-   * In the Tools sidebar, click Smudge <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999642000.png" alt="" data-size="line"> or choose if from the grouped tools.
+   * In the Tools sidebar, click Smudge <img src="../.gitbook/assets/Wrap.png" alt="" data-size="line"> or choose if from the grouped tools.
    * Choose **Tools > Reshape > Warp** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Warp tool:
    * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Warp tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 

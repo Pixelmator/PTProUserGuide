@@ -25,7 +25,7 @@ Because the effects in Pixelmator Pro are nondestructive, you can apply any numb
 You can apply effects to layers directly or add them as effects layers. Adding effects directly will automatically link them with the layer to which they are applied. This means that when editing, the changes applied to the layer will also affect the effect and vice versa. For instance, if you try painting on a layer that has some of the Distortion effects applied, the brush stroke have the same distortions as well.
 
 1. Choose the Effects tool by doing one of the following:
-   * Choose Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Choose Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Effects** from the Tools menu at the top of your screen.
    * Press the `F` key on your keyboard.
 2. Select the layer or layers you would like to edit.
@@ -40,9 +40,9 @@ Effects layers work as individual elements you can add to a project and edit sep
 To add an effects layer, do any of the following:
 
 * Choose **Insert > Effects** from the Insert menu at the top of your screen.
-* Click the Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604676890000.png" alt="" data-size="line"> at the top of the Effects pane.
-* Click the Insert Layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Effects.
-* Click the Add Layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in the Toolbar and choose Effects.
+* Click the Add <img src="../.gitbook/assets/Add.png" alt="" data-size="line"> at the top of the Effects pane.
+* Click the Insert Layer <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar and choose Effects.
+* Click the Add Layer <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> in the Toolbar and choose Effects.
 * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard.
 
 :bulb: **Tip:** If you'd like to apply an effects layer to only one layer or layer group below it, you can do that using a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more about working with clipping masks.
@@ -101,4 +101,4 @@ There are a few ways you can compare or turn on the Split Comparison view:
 ## Remove an effect
 
 1. In the Layers sidebar, click to select the layer that has an unwanted effect.
-2. Click Remove <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604317638000.png" alt="" data-size="line"> next to the effect you want to remove.
+2. Click Remove <img src="../.gitbook/assets/Remove 02.png" alt="" data-size="line"> next to the effect you want to remove.

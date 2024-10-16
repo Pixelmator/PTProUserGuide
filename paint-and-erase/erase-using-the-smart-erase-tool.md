@@ -17,7 +17,7 @@ layout:
 The Smart Erase tool erases similarly colored areas of an image, which is very useful for removing solid color backgrounds.
 
 1. Do one of the following:
-   * Click Smart Erase <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999260000.png" alt="" data-size="line"> in the Tools sidebar or choose if from the grouped tools.
+   * Click Smart Erase <img src="../.gitbook/assets/Smart-Erase.png" alt="" data-size="line"> in the Tools sidebar or choose if from the grouped tools.
    * Choose **Tools > Smart Erase** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Smart Erase tool:
    * _Opacity:_ Drag the Opacity slider to adjust the transparency of the Smart Erase tool.

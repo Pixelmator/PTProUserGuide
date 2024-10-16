@@ -17,7 +17,7 @@ layout:
 When you click or drag an area in your image with the Bump tool, it moves the central areas away toward the edges of the brush, creating a bump in that part of your image. You can use Bump to make certain elements in an image larger and more prominent.
 
 1. Do one of the following:
-   * In the Tools sidebar, click Bump <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999656000.png" alt="" data-size="line"> or choose it from the grouped tools.
+   * In the Tools sidebar, click Bump <img src="../.gitbook/assets/Bump.png" alt="" data-size="line"> or choose it from the grouped tools.
    * Choose **Tools > Reshape > Bump** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Bump tool:
    * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Bump tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 

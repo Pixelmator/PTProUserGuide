@@ -17,7 +17,7 @@ layout:
 When you click or drag an area in your image with the Twirl tool, it rotates the areas inside the brush around in a circle, creating a twirl. You can use Twirl to add a wavy look to an image, create twirls, or other artistic effects.
 
 1. Do one of the following:
-   * In the Tools sidebar, click Twirl <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999685000.png" alt="" data-size="line"> or choose if from the grouped tools.
+   * In the Tools sidebar, click Twirl <img src="../.gitbook/assets/Twirl.png" alt="" data-size="line"> or choose if from the grouped tools.
    * Choose **Tools > Reshape > Twirl** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Twirl tool:
    1. _Brush Size:_ Drag the Brush Size slider to adjust the size of the Twirl tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 

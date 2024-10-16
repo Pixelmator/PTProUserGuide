@@ -19,12 +19,12 @@ Each brush in Pixelmator Pro has a range of settings that can be modified to cha
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656671925000.jpeg)
 
 1. Choose the Paint tool by doing one of the following:&#x20;
-   * Click the Paint <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999191000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Paint <img src="../.gitbook/assets/Paint.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Paint** from the Tools menu at the top of your screen.
    * Press the `B` key on your keyboard.
 2. At the top of the Tool Options pane, click the name of the current brush to open the Brushes Browser and select a brush you'd like to edit.
 3. Edit the brush settings:
-   * _Color:_ Click the color well in the Tool Options pane and choose a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
+   * _Color:_ Click the color well in the Tool Options pane and choose a color or click <img src="../.gitbook/assets/Color-picker.png" alt="" data-size="line"> to pick a color from the image.
    * _Brush Size:_ Drag the Brush Size slider to adjust the size of the brush.
    * _Softness:_ Drag the Softness slider to adjust the softness of the edges of the brush.&#x20;
    * _Opacity:_ Drag the Opacity slider to adjust the transparency of the brush.

@@ -17,7 +17,7 @@ layout:
 Use the Repair tool to remove anything from small imperfections, like specks of dust or blemishes, to entire objects from an image. The Repair tool is brush-based, so you brush over an object to remove it. When you paint over an area with the Repair tool, it takes parts of the surrounding areas and intelligently stitches them together, matching the colors, textures, and lighting, to seamlessly recreate the area of the image left behind after removing an object.
 
 1. Do one of the following:
-   * Choose the Repair <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999369000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Choose the Repair <img src="../.gitbook/assets/Repair.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Retouch > Repair** from the Tools menu at the top of your screen.
    * Press `R` on your keyboard.
 2. In the Tool Options pane, customize the Repair tool:
@@ -32,7 +32,7 @@ Use the Repair tool to remove anything from small imperfections, like specks of 
 If you’d like to repair a very precise part of an image, you can make a selection and then use the Repair Selection option of the Repair tool.
 
 1. Make a selection using any of the selection tools.
-2. Choose the Repair <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999369000.png" alt="" data-size="line"> tool in the Tools sidebar.
+2. Choose the Repair <img src="../.gitbook/assets/Repair.png" alt="" data-size="line"> tool in the Tools sidebar.
 3. In the Tool Options pane, click Repair Selection.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/repair-selection-2.4.mp4" %}

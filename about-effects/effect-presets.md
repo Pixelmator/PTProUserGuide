@@ -21,7 +21,7 @@ Effect presets are pre-made combinations of effects that you can apply to automa
 ## Apply an effect preset
 
 1. Do one of the following:
-   * Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Choose the Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Effects** from the Tools menu at the top of your screen.
    * Press the `F` key on your keyboard.
 2. Select the layer or layers you’d like to edit.
@@ -33,23 +33,23 @@ Effect presets are pre-made combinations of effects that you can apply to automa
 
 With presets, you can save specific effect combinations and quickly apply them to other layers in the same or a new document.
 
-1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
+1. Choose the Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar.
 2. Apply and customize any number of effects to a layer.
 3. Do one of the following:
-   * Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> in any effects collection to save the preset to that collection.
-   * Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
+   * Click Add <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> in any effects collection to save the preset to that collection.
+   * Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
 
 ## Create a custom effect presets collection
 
-1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
-2. Click More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
+1. Choose the Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar.
+2. Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the Collection pop-up menu and choose New Collection.
 
 ## Manage effect presets and preset collections
 
 Once you've created a preset or a preset collection, you can rename, redefine them, or share them with others.
 
-1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
-2. `Control ⌃` – click an individual preset or More <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1603810631000.png" alt="" data-size="line"> next to the collection you want to manage.
+1. Choose the Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar.
+2. `Control ⌃` – click an individual preset or More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the collection you want to manage.
 3. Do any of the following:&#x20;
    * _Redefine an effects preset:_ If you’d like to overwrite or update an existing preset with new settings, you can redefine it.
    * _Add an effects preset to favorites:_ To quickly access your favorite and most-used presets, save them to the special Favorites collection.
@@ -62,5 +62,5 @@ Once you've created a preset or a preset collection, you can rename, redefine th
 
 ## Show or hide the presets browser
 
-1. Choose the Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1581000204000.png" alt="" data-size="line"> in the Tools sidebar.
+1. Choose the Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar.
 2. Drag the line that separates presets from the Add Effect button up to hide the presets, or drag it down to reveal or expand the presets section.

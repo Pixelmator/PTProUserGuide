@@ -25,14 +25,14 @@ Stylize effects can be applied directly to a single layer or, using an effects l
     \
     Apply effects to a currently selected layer:
 
-    * Click Effects <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590058938000.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Stylize collection.
+    * Click Effects <img src="../.gitbook/assets/Effects.png" alt="" data-size="line"> in the Tools sidebar, then click Add Effect and select an effect from the Stylize collection.
     * Choose **Format > Effects > Stylize** and choose an effect.
     * Press `F` on your keyboard, click Add Effect, and select an effect from the Stylize collection.
 
     Apply effects to multiple layers:
 
     * Choose **Insert > Effects** from the Insert menu at the top of your screen, click Add Effect, and select an effect from the Stylize collection.
-    * Click Insert a layer <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Stylize collection.
+    * Click Insert a layer <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar, choose Effects, click Add Effect, and select an effect from the Stylize collection.
     * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard, click Add Effect, and select an effect from the Stylize collection.
 
 ### Apply a Light Leak effect

@@ -20,7 +20,7 @@ Using the Stroke with Brush feature, you can automatically convert the outline o
 
 1. Select the layer you want to stroke
 2. Do one of the following:
-   1. Choose the Paint tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999191000.png" alt="" data-size="line"> and click Stroke with Brush at the bottom of the tool options pane.
+   1. Choose the Paint tool <img src="../.gitbook/assets/Paint.png" alt="" data-size="line"> and click Stroke with Brush at the bottom of the tool options pane.
    2. Choose **Format > Stroke with Brush** from the Format menu at the top of your screen.
    3. Press `Option ⌥` + `Command ⌘` + `B` on your keyboard.
 

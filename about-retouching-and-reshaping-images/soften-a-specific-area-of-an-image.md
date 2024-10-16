@@ -17,7 +17,7 @@ layout:
 The Soften tool is used to make a specific area of an image softer.
 
 1. Do one of the following:
-   * In the Tools sidebar, click Soften <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586513692000.png" alt="" data-size="line"> or choose if from the grouped tools.
+   * In the Tools sidebar, click Soften <img src="../.gitbook/assets/Soften.png" alt="" data-size="line"> or choose if from the grouped tools.
    * Choose **Tools > Retouch > Soften** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Soften tool:
    * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Soften tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. \

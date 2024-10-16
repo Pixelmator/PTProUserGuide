@@ -23,7 +23,7 @@ Along with the Paint tool, the other painting tools are the Quick Fill, Color Fi
 The Paint tool is a versatile painting tool — it can be used to paint traditional or fully digital paintings, create effects in your photos or designs, or just add a touch of artistic flair to an image.
 
 1. Choose the Paint tool by doing one of the following:
-   * Click the Paint <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999191000.png" alt="" data-size="line"> tool in the Tools sidebar or choose if from the grouped tools.
+   * Click the Paint <img src="../.gitbook/assets/Paint.png" alt="" data-size="line"> tool in the Tools sidebar or choose if from the grouped tools.
    * Choose **Tools > Paint** from the Tools menu at the top of your screen.&#x20;
    * Press the `B` key on your keyboard.
 2. In the Tool Options pane, click the [brushes browser](use-the-brushes-browser.md) to select a brush.
@@ -34,7 +34,7 @@ In the Brushes Browser, you can choose a brush from the collections on the left 
 
 1.  Customize the Paint tool:
 
-    * _Color:_ In the Tool Options pane, click the color well to choose a color or click the eyedropper <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1588174408000.png" alt="" data-size="line"> to pick a color from the image.
+    * _Color:_ In the Tool Options pane, click the color well to choose a color or click the eyedropper <img src="../.gitbook/assets/Color-picker.png" alt="" data-size="line"> to pick a color from the image.
     * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Paint tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 500 pixels. You can also manually enter a value from 1 px to 5000 px.
     * _Softness:_ Drag the Softness slider to adjust the softness of the edges of the Paint tool brush.
     * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a blend mode.
@@ -56,7 +56,7 @@ In the Brushes Browser, you can choose a brush from the collections on the left 
 The Erase tool lets you erase image areas using any brush in your collection.
 
 1. Choose the Erase tool by doing one of the following:&#x20;
-   * Click Erase <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999243000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
+   * Click Erase <img src="../.gitbook/assets/Erase.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Erase** from the Tools menu at the top of your screen.
    * Press the `E` key on your keyboard.
 2. In the Tool Options pane, click the Brushes Browser to select an eraser brush.&#x20;

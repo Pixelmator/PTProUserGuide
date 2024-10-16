@@ -17,7 +17,7 @@ layout:
 When you click or drag an area in your image with the Pinch tool, it moves the outer areas toward the center of the brush, pinching that part of your image. You can use Pinch to make certain elements in an image smaller and less prominent.
 
 1. Do one of the following:
-   * In the Tools sidebar, click Pinch <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999668000.png" alt="" data-size="line"> or choose if from the grouped tools.
+   * In the Tools sidebar, click Pinch <img src="../.gitbook/assets/Pinch.png" alt="" data-size="line"> or choose if from the grouped tools.
    * Choose **Tools > Reshape > Pinch** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Pinch tool:
    * _Brush Size:_ Drag the Brush Size slider to adjust the size of the Pinch tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 

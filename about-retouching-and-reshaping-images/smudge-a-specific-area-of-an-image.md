@@ -17,7 +17,7 @@ layout:
 The Smudge tool is used to smudge a specific area of an image. The effect created is similar to smudging wet paint.
 
 1. Do one of the following:
-   * In the Tools sidebar, click Smudge <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1586516270000.png" alt="" data-size="line"> or choose if from the grouped tools.
+   * In the Tools sidebar, click Smudge <img src="../.gitbook/assets/Smudge.png" alt="" data-size="line"> or choose if from the grouped tools.
    * Choose **Tools > Retouch > Smudge** from the Tools menu at the top of your screen.
 2. In the Tool Options pane, customize the Smudge tool:
    1.  _Brush Size:_ Drag the Brush Size slider to adjust the size of the Smudge tool brush. Press and hold the `Option ⌥` key to extend the range of the Brush Size slider beyond 100%. You can also manually enter a value from 0% to 200%. 

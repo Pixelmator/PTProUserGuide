@@ -17,7 +17,7 @@ layout:
 To copy part of an image from one area to another, use the Clone tool. Just like the other retouching tools, the Clone tool is brush-based, so you choose a clone source and then use the Clone brush to paint the source area in a new part of your image. 
 
 1. Do one of the following:
-   * Choose the Clone tool <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580999383000.png" alt="" data-size="line"> in the Tools sidebar.
+   * Choose the Clone tool <img src="../.gitbook/assets/Clone.png" alt="" data-size="line"> in the Tools sidebar.
    * Choose **Tools > Retouch > Clone** from the Tools menu at the top of your screen.
    * Press `O` on your keyboard.
 2. In the Tool Options pane, customize the Clone tool:
