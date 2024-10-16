@@ -17,7 +17,7 @@ layout:
 Add text on a path or shape that you draw using the [Pen tool](../draw-shapes-and-vector-graphics/draw-shapes-with-the-pen-tool.md).
 
 1. Choose the Path Type tool by doing one of the following:
-   * Click the Path Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1593759729000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Click the Path Type <img src="../.gitbook/assets/Path-Type.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Type > Path Type** from the Tools menu at the top of your screen.
 2. Draw a path or a shape you want your text to wrap around or follow along.
 
@@ -32,7 +32,7 @@ Once you've added text, you can `Shift ⇧`-drag one of the text box handles to 
 Add text on a path or shape that you draw using the [Freeform Pen tool](../draw-shapes-and-vector-graphics/draw-shapes-with-the-freeform-pen-tool.md).
 
 1. Choose the Freeform Type tool by doing one of the following:
-   * Click Freeform Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1593759721000.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
+   * Click Freeform Type <img src="../.gitbook/assets/Freeform-Type.png" alt="" data-size="line"> in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Type > Freeform Type** from the Tools menu at the top of your screen.
 2. Draw a path or a shape you want your text to wrap around or follow along.
 3. To begin typing, double-click within the text box to highlight the placeholder text or place the insertion point where you want the first character to appear.
@@ -42,7 +42,7 @@ Add text on a path or shape that you draw using the [Freeform Pen tool](../draw-
 Use the Circular Type tool to add curved or circular text.
 
 1. Press `Option ⌥` + `Shift ⇧` + `Command ⌘` + `T` on your keyboard or choose the Circular Type tool by doing one of the following:
-   * Choose the Circular Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1593759714000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Choose the Circular Type <img src="../.gitbook/assets/Circular-Type.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Type > Circular Type** from the Tools menu at the top of your screen.
 2. Draw on the canvas to create a circular path.
 
@@ -58,9 +58,9 @@ You can add or draw any shape you want, then add text that runs along the outlin
 
 1. Add or draw a shape.
 2. Choose the Type tool by doing one of the following:
-   * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
+   * Choose the Type <img src="../.gitbook/assets/Type.png" alt="" data-size="line"> tool in the Tools sidebar or choose it from the grouped tools.
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
-3. Hover your pointer over the inner or the outer outline of the shape. When the pointer changes to <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1593759707000.png" alt="" data-size="line">click to add a new text box.
+3. Hover your pointer over the inner or the outer outline of the shape. When the pointer changes to <img src="../.gitbook/assets/Path-Type_changes-to.png" alt="" data-size="line">click to add a new text box.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/text/type-on-shape.mp4" %}
 

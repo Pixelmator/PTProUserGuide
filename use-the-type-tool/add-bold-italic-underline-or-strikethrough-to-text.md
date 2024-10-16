@@ -15,7 +15,7 @@ layout:
 # Add bold, italic, underline, or strikethrough to text
 
 1. Choose the Type tool by doing one of the following:
-   * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Choose the Type <img src="../.gitbook/assets/Type.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
    * Press the `T` key on your keyboard.
 2.  Select the text you want to change.

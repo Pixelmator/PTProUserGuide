@@ -21,7 +21,7 @@ Text styles let you apply a number of text formatting options at once to instant
 ## Apply a text style preset
 
 1. Choose the Type tool by doing one of the following:
-   * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Choose the Type <img src="../.gitbook/assets/Type.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
    * Press the `T` key on your keyboard.
 2. Select the layer or layers you would like to edit.
@@ -32,11 +32,11 @@ Text styles let you apply a number of text formatting options at once to instant
 ## Customize text style presets
 
 1. Choose the Type tool by doing one of the following:
-   * Choose the Type <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   * Choose the Type <img src="../.gitbook/assets/Type.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Type** from the Tools menu at the top of your screen.
    * Press the `T` key on your keyboard.
 2. Do any of the following:
-   * _Save a new text style preset:_ In the Tool Options pane, click the Text Styles pop-up menu at the top, then click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1579274394000.png" alt="" data-size="line"> to add a new style preset based on the currently selected text.&#x20;
+   * _Save a new text style preset:_ In the Tool Options pane, click the Text Styles pop-up menu at the top, then click Add <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> to add a new style preset based on the currently selected text.&#x20;
    * _Redefine a text style preset:_ Format any selected preset as desired. In the Text Styles pop-up menu, hover over the style to redefine, then choose Redefine to update the style with the latest changes.
    * _Delete a text style preset:_ Move the pointer over the style name, then click the arrow that appears and choose Remove.
    * _Rename a text style preset:_ Move the pointer over the style name, then click the arrow that appears and choose Rename.

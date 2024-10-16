@@ -19,15 +19,15 @@ You can format text so it aligns to the left, right, center, or both sides of th
 ## Align and justify text horizontally
 
 1. Choose the Type tool by doing one of the following:
-   1. Choose the Type  <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1580998705000.png" alt="" data-size="line"> tool in the Tools sidebar.
+   1. Choose the Type  <img src="../.gitbook/assets/Type.png" alt="" data-size="line"> tool in the Tools sidebar.
    2. Choose **Tools > Type** from the Tools menu at the top of your screen.
    3. Press the `T` key on your keyboard.
 2. Click a text box to select it.
 3. In the Tool Options pane, choose the alignment:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583163290000.png" alt="" data-size="line"> to align text to the left.
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583163295000.png) to center the text.
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583163299000.png) to align text to the right.
-   * Click ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583163306000.png) to justify on the left and right edges.
+   * Click <img src="../.gitbook/assets/Align-text-to-the-left.png" alt="" data-size="line"> to align text to the left.
+   * Click <img src="../.gitbook/assets/Center-the-text.png" alt="" data-size="line"> to center the text.
+   * Click <img src="../.gitbook/assets/Align-text-to-the-right.png" alt="" data-size="line"> to align text to the right.
+   * Click <img src="../.gitbook/assets/Justify-text.png" alt="" data-size="line"> to justify on the left and right edges.
 
 ## Align text vertically
 
@@ -38,9 +38,9 @@ You can format text so it aligns to the left, right, center, or both sides of th
 <figure><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596021443000.png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. In the Tool Options pane, choose the alignment:
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583163635000.png" alt="" data-size="line"> to align text to the top of the text box.
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583163639000.png" alt="" data-size="line"> to align text to the middle of the text box.
-   * Click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1583163645000.png" alt="" data-size="line"> to align text to the bottom of the text box.
+   * Click <img src="../.gitbook/assets/Align-text-to-the-top.png" alt="" data-size="line"> to align text to the top of the text box.
+   * Click <img src="../.gitbook/assets/Align-text-to-the-middle.png" alt="" data-size="line"> to align text to the middle of the text box.
+   * Click <img src="../.gitbook/assets/Align-text-to-the-bottom.png" alt="" data-size="line"> to align text to the bottom of the text box.
 
 ## Adjust text spacing
 
