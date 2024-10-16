@@ -44,4 +44,4 @@ You can also click Rotate in the Tool Options pane to rotate the image by 180º,
    * _Flip Horizontal_: Flips the image horizontally.
    * _Flip Vertical_: Flips the image vertically.
 
-Also, with the Crop tool <img src="../.gitbook/assets/Crop.png" alt="" data-size="line"> selected, you can click Flip Horizontally <img src="../.gitbook/assets/Flip-Horizontally.png" alt="" data-size="line"> to flip the image horizontally or Flip Vertically <img src="../.gitbook/assets/Flip-Vertically.png" alt="" data-size="line"> to flip it vertically.
+Also, with the Crop tool <img src="../.gitbook/assets/Crop.png" alt="" data-size="line"> selected, you can click Flip Horizontally <img src="../.gitbook/assets/_Flip-Vertically-.png" alt="" data-size="line"> to flip the image horizontally or Flip Vertically <img src="../.gitbook/assets/Flip-Horizontally.png" alt="" data-size="line"> to flip it vertically.
