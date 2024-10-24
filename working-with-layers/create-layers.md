@@ -26,7 +26,7 @@ Do one of the following:
 * Choose **Insert > Empty Layer** from the Insert menu at the top of your screen.
 * Press `Shift ⇧` + `Command ⌘` + `N` on your keyboard.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655726035000.jpeg)
+![](../.gitbook/assets/Pixelmator-Pro\_Create-layers.png)
 
 New empty layers are completely transparent and have no content yet. This means they don't show up on the canvas and can only be selected from the Layers sidebar. If you don't see the Layers sidebar, choose **View > Show Layers** from the View menu at the top of your screen.
 
