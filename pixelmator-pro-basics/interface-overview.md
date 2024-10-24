@@ -18,7 +18,7 @@ Pixelmator Pro features a single-window, easy-to-use interface, designed for edi
 
 There are also additional elements such as overlays or rulers that are hidden by default. You can choose to view them if you need them from the View menu at the top of your screen.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651071070000.jpeg)
+![](../.gitbook/assets/Pixelmator-Pro\_Interface-overview.png)
 
 ## Tools sidebar
 
@@ -52,7 +52,7 @@ The Tool Options pane is where you customize the Pixelmator Pro tools, effects, 
 
 <div align="center">
 
-<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1652772804000.png" alt="">
+<img src="../.gitbook/assets/Tool-Options-pane.png" alt="">
 
 </div>
 
