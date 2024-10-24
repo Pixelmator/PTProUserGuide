@@ -52,7 +52,7 @@ New empty layers are completely transparent and have no content yet. This means 
    * Choose **Edit > Copy**, then **Edit > Paste** from the Edit menu at the top of your screen.
    * `Control ⌃` – click the selection and choose Copy and Paste as Layer.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655725499000.jpeg)
+![](../.gitbook/assets/Pixelmator-Pro\_Create-a-new-layer-from-a-selection.png)
 
 Once you copy the selection, you can deselect it by pressing Command ⌘ + D on your keyboard or continue working within the boundaries of the selection.
 
