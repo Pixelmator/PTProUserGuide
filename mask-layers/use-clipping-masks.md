@@ -25,7 +25,7 @@ A clipping mask is a type of layer that clips two or more layers together, formi
    * Press and hold the `Option ⌥` key and click between the layers you want to become a clipping set.
    * Press `Option ⌥` + `Command ⌘` + `G` on your keyboard.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656666408000.jpeg)
+![](../.gitbook/assets/Pixelmator-Pro\_Add-a-clipping-mask.png)
 
 ## Release a clipping mask
 
