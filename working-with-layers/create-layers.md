@@ -32,7 +32,7 @@ New empty layers are completely transparent and have no content yet. This means 
 
 ## Add image, shape, text, effect, and color adjustment layers
 
-1. Click Add <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648724547000.png" alt="" data-size="line"> at the top of the Layers sidebar or open the Insert menu in the menu bar at the top of your screen.
+1. Click Add <img src="../.gitbook/assets/Layer.png" alt="" data-size="line"> at the top of the Layers sidebar or open the Insert menu in the menu bar at the top of your screen.
 2. Choose any of the following:
    * _Insert layer._ Create a new empty layer.
    * _Color Adjustments._ Create a new color adjustments layer.
