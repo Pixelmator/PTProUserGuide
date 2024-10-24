@@ -25,7 +25,7 @@ You can open images in a variety of different image formats saved on your Mac, i
 
 :bulb: **Tip:** You can also open images by simply dragging them from a website on Safari or a folder in Finder onto the Pixelmator Pro icon in the Dock.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651483867000.jpeg)
+![](.gitbook/assets/Pixelmator-Pro\_Open-an-existing-document.png)
 
 Typically when you open an image in Pixelmator Pro it gets automatically converted to PXD — the [Pixelmator Pro file format](create-open-and-save-images/about-the-pixelmator-pro-file-format.md) — so when you save the image, any additional layers and advanced formatting you add are not lost and remain editable. Once you finish editing and would like to share an image with someone else or upload it online, you can save it as a JPEG, PNG, TIFF, WebP, or HEIC image or [export](export-and-share-images/) it.
 
