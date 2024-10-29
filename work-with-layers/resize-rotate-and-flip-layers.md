@@ -54,7 +54,7 @@ To change the units used for entering layer width and height, `Control ⌃` – 
 2. Select a layer or a layer group.
 3. Do one of the following:
    * Choose **Arrange > Flip Horizontally** or **Arrange > Flip Vertically** from the Arrange menu at the top of your screen.
-   * In the Tool Options pane, click <img src="../.gitbook/assets/Flip-Horizontally.png" alt="" data-size="line"> to flip the layer vertically, or <img src="../.gitbook/assets/_Flip-Vertically-.png" alt="" data-size="line"> to flip it horizontally.
+   * In the Tool Options pane, click <img src="../.gitbook/assets/Flip-Vertically.png" alt="" data-size="line"> to flip the layer vertically, or <img src="../.gitbook/assets/Flip-Horizontally.png" alt="" data-size="line"> to flip it horizontally.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/flip-2.4.mp4" %}
 

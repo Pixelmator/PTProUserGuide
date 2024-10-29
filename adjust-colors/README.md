@@ -50,7 +50,7 @@ To add a color adjustments layer, do any of the following:
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1649238285000.jpeg)
 
-:bulb: **Tip:** If you'd like to apply a color adjustments layer to only one layer below it, you can do that using a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more about working with clipping masks.
+:bulb: **Tip:** If you'd like to apply a color adjustments layer to only one layer below it, you can do that using a clipping mask. See [Use clipping masks](../add-masks/use-clipping-masks.md) to learn more about working with clipping masks.
 
 ## Add and remove color adjustments
 

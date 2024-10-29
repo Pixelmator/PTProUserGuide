@@ -14,7 +14,7 @@ layout:
 
 # Draw shapes and vector graphics
 
-The term _drawing_ in image editing apps refers to creating or adding simple forms (such as triangles, ovals, and so on) to the composition. We call those forms shapes. Shapes can be used to enhance your photos, create Web elements, icons, logos, posters, and much more. The reason why shapes are so popular is that they are [vector-based](../working-with-layers/convert-layers-into-pixels.md#what-is-the-difference-between-pixel-and-vector-layers) image elements. This means that you can go back to the image element and adjust the changes you’ve made without losing any quality. You can also freely enlarge or reduce the shape’s size, and the quality will stay intact.
+The term _drawing_ in image editing apps refers to creating or adding simple forms (such as triangles, ovals, and so on) to the composition. We call those forms shapes. Shapes can be used to enhance your photos, create Web elements, icons, logos, posters, and much more. The reason why shapes are so popular is that they are [vector-based](../work-with-layers/convert-layers-into-pixels.md#what-is-the-difference-between-pixel-and-vector-layers) image elements. This means that you can go back to the image element and adjust the changes you’ve made without losing any quality. You can also freely enlarge or reduce the shape’s size, and the quality will stay intact.
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1656926454000.jpeg)
 
@@ -66,8 +66,8 @@ Once you add a shape to the canvas, the options for its customization will appea
 
 There are several other ways you can edit shapes in Pixelmator Pro:
 
-* Use the [Arrange tool](../working-with-layers/use-the-arrange-tool.md) to move, resize, flip, or rotate the shape.&#x20;
-* Use the [Transform tool](../working-with-layers/transform-layers.md#choose-the-transform-tool) to freely transform the shape, stretch, skew, or change its perspective.
+* Use the [Arrange tool](../work-with-layers/use-the-arrange-tool.md) to move, resize, flip, or rotate the shape.&#x20;
+* Use the [Transform tool](../work-with-layers/transform-layers.md#choose-the-transform-tool) to freely transform the shape, stretch, skew, or change its perspective.
 * Make the [shape editable](edit-vector-paths.md) and adjust individual anchor points of the shape.
 
 :blue\_book: **Note:** After making Smart Shapes editable, they become no longer customizable and lose their special controls, such as the corner radius for Rounded Rectangle, etc.\

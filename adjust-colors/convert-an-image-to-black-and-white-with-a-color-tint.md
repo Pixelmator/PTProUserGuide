@@ -39,7 +39,7 @@ You can convert a single layer to black and white or, using a color adjustments 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

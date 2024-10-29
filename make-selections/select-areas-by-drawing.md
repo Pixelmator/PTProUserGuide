@@ -43,7 +43,7 @@ The Polygonal Selection (or the polygonal lasso) tool lets you make straight-edg
 2. Click in your image to add straight selection lines to make your selection.
 3. Click the start of the selection to finish it. Alternatively, double-click anywhere in your image or press the `Return ↵` key.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Snap a selection around an object or area in an image
 

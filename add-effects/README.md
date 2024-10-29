@@ -45,7 +45,7 @@ To add an effects layer, do any of the following:
 * Click the Add Layer <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> in the Toolbar and choose Effects.
 * Press `Shift ⇧` + `Command ⌘` + `F` on your keyboard.
 
-:bulb: **Tip:** If you'd like to apply an effects layer to only one layer or layer group below it, you can do that using a clipping mask. See [Use clipping masks](../mask-layers/use-clipping-masks.md) to learn more about working with clipping masks.
+:bulb: **Tip:** If you'd like to apply an effects layer to only one layer or layer group below it, you can do that using a clipping mask. See [Use clipping masks](../add-masks/use-clipping-masks.md) to learn more about working with clipping masks.
 
 ## Rearrange the order of effects
 

@@ -44,7 +44,7 @@ Guides are nonprinting lines that help you arrange objects on the canvas and are
 
 ## Change the Smart Guides settings
 
-[Smart Guides](../../working-with-layers/use-alignment-guides.md) are nonprinting lines that temporarily appear to help you space and arrange objects and are not part of the image themselves. Customize the Smart Guides to change color or turn specific Smart Guides on or off.
+[Smart Guides](../../work-with-layers/use-alignment-guides.md) are nonprinting lines that temporarily appear to help you space and arrange objects and are not part of the image themselves. Customize the Smart Guides to change color or turn specific Smart Guides on or off.
 
 * _Change the color of smart guides:_ Click the Smart Guides color well to pick a color or click <img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1582542017000.png" alt="" data-size="line"> to open the Colors window. You can also change the brightness and opacity of the smart guides by dragging the Brightness and Opacity sliders.
 * _Turn Smart Guides on or off:_

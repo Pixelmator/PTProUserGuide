@@ -21,7 +21,7 @@ Do any of the following:
 *   Drag the Zoom slider in the toolbar.\
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * If you’re using a MacBook with a Multi-Touch trackpad or the Magic Trackpad, move the mouse pointer over your image, then pinch using two fingers to zoom in or out.
 * Choose **View > Zoom In** or **View > Zoom Out** from the View menu at the top of the screen.
 * Press `Command ⌘` and Plus `+` on your keyboard to zoom in, or `Command ⌘` and Minus `-` to zoom out.

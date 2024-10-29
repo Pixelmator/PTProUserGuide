@@ -67,6 +67,6 @@ The new image will be created using the image you have saved to the clipboard. T
 4. In the template browser, choose the Clipboard option.
 5. Click Create or press the `Return ↵` key.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 And, with [Universal Clipboard](https://support.apple.com/en-lamr/102430), you can even copy media on one Apple device and create a new document in Pixelmator Pro on another.

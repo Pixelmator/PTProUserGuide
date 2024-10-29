@@ -112,7 +112,7 @@ At the top of the Layers sidebar, click More <img src="../.gitbook/assets/More.p
 * _Show layer descriptions._ Select this option to see additional layer properties when editing, such as layer size, type, or edits applied.
 * _Blending position._ Select Top to pin the blend modes and opacity to the top of the Layers sidebar or Bottom, to pin them to the bottom.
 
-See [Work with layers](../working-with-layers/) to learn more about working with layers.
+See [Work with layers](../work-with-layers/) to learn more about working with layers.
 
 #### Layer opacity
 
@@ -134,7 +134,7 @@ See [Change the blend mode of a layer](../customize-layers-using-styles/change-t
 
 You can search your document for specific layers by typing their name into the search field at the bottom of the Layers sidebar. The filter search can also help sort layers based on their type (images, shapes, text, RAW images, groups, masks, color adjustments, effects, videos) or tags.
 
-See [Work with layers](../working-with-layers/) to learn more about managing layers.
+See [Work with layers](../work-with-layers/) to learn more about managing layers.
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/layer-search-2.4.mp4" %}
 
@@ -184,7 +184,7 @@ Rulers almost always come hand in hand with guides — another great tool to hel
 
 :blue\_book: **Note:** Rulers in new documents will be turned on automatically if a document before it had Rulers activated.
 
-For more information about guides and rulers, see [Use rulers](../working-with-layers/use-rulers.md) and [Use alignment guides](../working-with-layers/use-alignment-guides.md).
+For more information about guides and rulers, see [Use rulers](../work-with-layers/use-rulers.md) and [Use alignment guides](../work-with-layers/use-alignment-guides.md).
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/rulers-2.4.mp4" %}
 

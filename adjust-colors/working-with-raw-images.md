@@ -24,7 +24,7 @@ Pixelmator Pro natively supports RAW files so you can edit your RAW images and t
 
 ## Open a RAW image or insert it as a new layer
 
-* To open a RAW image or add it as a new layer, simply [open it](../open-an-image.md) like any other image or [add it](../working-with-layers/create-layers.md) like any other image layer.
+* To open a RAW image or add it as a new layer, simply [open it](../open-an-image.md) like any other image or [add it](../work-with-layers/create-layers.md) like any other image layer.
 
 ## Open a RAW image from Photos
 

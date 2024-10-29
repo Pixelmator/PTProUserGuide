@@ -66,4 +66,4 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
 
 {% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/perspective-tranform-layers-2.4.mp4" %}
 
-:exclamation:**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform effect](../about-effects/apply-other-effects.md#perspective-transform-effect).
+:exclamation:**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform effect](../add-effects/apply-other-effects.md#perspective-transform-effect).

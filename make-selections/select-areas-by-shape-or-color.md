@@ -45,7 +45,7 @@ The Color Selection (or the magic wand) tool, lets you select elements or entire
    * _Smooth Edges:_ Select to naturally smooth the selection outline.
 3. Drag in your image to make a selection.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Select a color range
 

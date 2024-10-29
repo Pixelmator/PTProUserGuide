@@ -16,7 +16,7 @@ layout:
 
 LUT (or the "lookup table") offers a means of changing, managing, and matching colors, and is commonly used in cinema and photography. LUTs are similar to the [color adjustment presets](color-adjustment-presets.md) in Pixelmator Pro. Both are sets of color, shadow, and contrast adjustments that combined give an image a particular look and feel. In fact, LUTs themselves can be used together with Pixelmator Pro-native color adjustments.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1619689176000.jpeg)
+![](../.gitbook/assets/Pixelmator-Pro\_replacing-screenshotsApply-LUTs.png)
 
 What's different about LUTs, is that unlike the color adjustments presets which are Pixelmator Pro-exclusive (i.e. can be created and used within the Pixelmator ecosystem only), LUTs are universal. This means that the same LUT can be used across different editing programs and different mediums. With that, all sorts of handy workflows become possible. For instance, you can use LUTs to apply a look of any image you've edited in Pixelmator Pro to a video you're working on in Final Cut Pro. See [Using Pixelmator Pro to color grade video in Final Cut Pro](https://www.youtube.com/watch?v=2MK3AA5FLLA) to learn more about this workflow.
 
@@ -28,7 +28,7 @@ If you’d like to find out more about how LUTs work in Pixelmator Pro, you can 
 
 In Pixelmator Pro, you can choose from 5 different collections of pre-made LUTs that come with Pixelmator Pro or apply the custom LUTs you've installed yourself. Since LUTs work like any other color adjustment, they can be non-destructively applied to individual layers or layer groups and combined with other adjustments.
 
-{% embed url="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1619621429000.jpeg" %}
+<figure><img src="../.gitbook/assets/Pixelmator-Pro_replacing-screenshotsApply-a-custom-LUT-to-an-image.png" alt=""><figcaption></figcaption></figure>
 
 ## Apply a film grain to the currently selected layer
 
@@ -56,7 +56,7 @@ If you have a custom LUT you want to use in Pixelmator Pro, you can import it. T
 
 :blue\_book: **Note:** Pixelmator Pro supports 1D and 3D LUTs in the **.cube** file format.
 
-{% embed url="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1619694714000.jpeg" %}
+<figure><img src="../.gitbook/assets/Pixelmator-Pro_replacing-screenshotsImport-a-custom-LUT.png" alt=""><figcaption></figcaption></figure>
 
 ## Convert LUT into Pixelmator Pro color adjustments
 

@@ -24,7 +24,7 @@ Using the Touch Bar, you can easily select any tool in Pixelmator Pro.
 
 Some of the Pixelmator Pro tools are grouped with other tools. The grouped tools slide out as you tap the primary tool.
 
-When arranging layers, the Arrange tool options in the Touch Bar let you quickly rotate, scale layers, or move them up or down the [layers list](../working-with-layers/).
+When arranging layers, the Arrange tool options in the Touch Bar let you quickly rotate, scale layers, or move them up or down the [layers list](../work-with-layers/).
 
 ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596031123000.png)
 

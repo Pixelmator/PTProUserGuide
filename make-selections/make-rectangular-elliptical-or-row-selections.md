@@ -40,7 +40,7 @@ Using the Rectangular Selection tool you can easily make rectangular or square s
 
     :bulb: **Tip:** To select a perfect square, press and hold the Shift ⇧ on your keyboard before starting to select.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Make a column selection
 

@@ -18,7 +18,7 @@ The Inner Shadow layer style adds a drop shadow inside your selected layer, givi
 
 ## Add an inner shadow style
 
-1. [Select the layer or layers](../working-with-layers/select-layers.md) you would like to edit.
+1. [Select the layer or layers](../work-with-layers/select-layers.md) you would like to edit.
 2. Choose the Style tool by doing one of the following:
    * Click the Style <img src="../.gitbook/assets/Style.png" alt="" data-size="line"> tool in the Tools sidebar.
    * Choose **Tools > Style** from the Tools menu at the top of your screen.
