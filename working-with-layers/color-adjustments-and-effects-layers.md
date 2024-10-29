@@ -16,7 +16,7 @@ layout:
 
 Color adjustments and effects layers are separate layers you can create if you'd like to change the appearance of all the layers below them. Color adjustments layers let you change the color, lightness, and contrast of an image, while effects layers, let you create various artistic effects. Instead of affecting a single layer or a layer group like the regular Color Adjustments and Effects tools do, color adjustments and effects layers affect all the elements of a composition that are placed below them. And just like the regular color adjustments, color adjustments, and effects layers offer a completely nondestructive editing experience.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1651756833000.jpeg)
+![](../.gitbook/assets/Pixelmator-Pro\_Color-adjustments-and-effects-layers.png)
 
 Since color adjustments and effects layers can be added as separate elements of a composition, you can also edit them separately from the layer (or layers) to which they are applied — you can mask, hide, rename, rearrange them, and more. This makes different editing workflows — like selectively adjusting the specific parts of images — much more convenient.
 
