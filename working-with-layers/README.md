@@ -20,7 +20,7 @@ Each layer type is displayed differently in the Layers sidebar to help you quick
 
 <div align="right">
 
-<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1653045214000.png" alt="">
+<img src="../.gitbook/assets/Pixelmator-Pro_Work-with-layers.png" alt="">
 
 </div>
 
@@ -30,7 +30,7 @@ You can use layers for a wide variety of different tasks in image editing, but a
 
 A new image in Pixelmator Pro contains one layer — either the image you opened, or an empty layer if you chose to create a graphic from scratch. To create new layers, you can add photos or other pictures as layers, create layers from selections, add shapes or text. Pixelmator Pro can even add a layer to your composition directly from your FaceTime camera.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1652705362000.jpeg)
+![](../.gitbook/assets/Pixelmator-Pro\_Work-with-layers-02.png)
 
 To work with layers, you should have the Layers sidebar visible. In the Layers sidebar, you can select layers, [create new layers](create-layers.md), remove layers, show and hide layers, arrange layers in the layer stack, group layers, add layer masks, create adjustment layers, and more.
 
