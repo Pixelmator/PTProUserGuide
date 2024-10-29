@@ -16,7 +16,7 @@ layout:
 
 Pixelmator Pro includes pre-made combinations of color adjustments called presets. These presets let you quickly give an image a certain look. In addition, you can add your own presets to save, reuse, and share the adjustment combinations you create.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1655133484000.jpeg)
+![](../.gitbook/assets/Color-adjustment-presets.png)
 
 ## Apply a color adjustment preset
 
