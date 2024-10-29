@@ -37,7 +37,7 @@ You can sharpen a single layer or, using a color adjustments layer, multiple lay
 1. Drag the Radius slider to control how much of an area around an edge should be sharpened. You can also manually enter a value from 0 to 10 pixels. Press and hold the `Option ⌥` key before dragging if you’d like to extend the range of the slider beyond 10 pixels. You can also enter a percentage value from 0 to 100 pixels.
 2. Drag the Intensity slider to control how much the edges in the image should be sharpened. You can also manually enter a value from 0% to 100%.
 
-The Sharpen adjustment nondestructively sharpens entire layers and selections. To sharpen a specific area in an image by drawing over it, check out [sharpen](../about-retouching-and-reshaping-images/sharpen-a-specific-area-of-an-image.md) under the Retouch tools.
+The Sharpen adjustment nondestructively sharpens entire layers and selections. To sharpen a specific area in an image by drawing over it, check out [sharpen](../retouch-and-reshape-layers/sharpen-a-specific-area-of-an-image.md) under the Retouch tools.
 
 ## Show before and after or reset adjustments
 
