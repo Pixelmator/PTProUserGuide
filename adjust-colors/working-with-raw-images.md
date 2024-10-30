@@ -16,7 +16,7 @@ layout:
 
 RAW images are a popular format for capturing images with digital cameras. They are sometimes called digital negatives — the files themselves aren’t exactly images yet, but contain a lot of information captured by the camera sensor that has everything needed to create an image. Because of the extended range data, shooting RAW is the best option for getting the most out of your photos.
 
-![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1587651887000.jpeg)
+![JPEG | RAW](../.gitbook/assets/Pixelmator-Pro\_Working-with-RAW-images.png)
 
 Pixelmator Pro natively supports RAW files so you can edit your RAW images and take advantage of all the extended detail they contain. There isn’t anything special you need to do when working with RAW images as they are imported as RAW layers and all the extended detail is available when editing with any of the color adjustments. You can even edit multiple RAW layers in a single image — each RAW layer will have a special "R" badge next to it in the Layers sidebar and in the Tool Options pane with the Color Adjustments tool selected.
 
