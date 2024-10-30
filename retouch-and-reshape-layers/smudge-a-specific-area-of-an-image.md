@@ -27,8 +27,6 @@ The Smudge tool is used to smudge a specific area of an image. The effect create
    3. _Strength_: Drag the Strength slider to adjust the intensity of the smudging effect. 
 3. Brush over an area in your image to smudge it.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/smudge-2.4.mp4" %}
-
 ## Show before and after or reset effects
 
 _Show Original:_ Click the Show Original button to see what the image looked like before.
