@@ -27,7 +27,7 @@ Do any of the following:
 
 After selecting ML Enhance, you can additionally tweak any of the 37 available color adjustments yourself.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/MLEnhance.mp4" %}
+<figure><img src="../.gitbook/assets/Pixelmator-Pro_Automatically-enhance-colors.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
