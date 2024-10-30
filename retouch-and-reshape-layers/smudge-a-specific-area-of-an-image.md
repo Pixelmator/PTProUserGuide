@@ -27,6 +27,10 @@ The Smudge tool is used to smudge a specific area of an image. The effect create
    3. _Strength_: Drag the Strength slider to adjust the intensity of the smudging effect. 
 3. Brush over an area in your image to smudge it.
 
+
+
+<figure><img src="../.gitbook/assets/Pixelmator-Pro_Smudge-a-specific-area-of-an-image.png" alt=""><figcaption></figcaption></figure>
+
 ## Show before and after or reset effects
 
 _Show Original:_ Click the Show Original button to see what the image looked like before.
