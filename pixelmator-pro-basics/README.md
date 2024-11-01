@@ -18,7 +18,7 @@ Pixelmator Pro is a powerful and easy-to-use image editor for Mac. You can use i
 
 To start editing, [open](../open-an-image.md) an existing image or [create a new document](create-a-new-image.md). Just choose an option from the Pixelmator Pro welcome screen or the File menu at the top of the screen.
 
-![](../.gitbook/assets/Pixelmator-Pro-basics\_welcome-window.png)
+![](../.gitbook/assets/Welcome.png)
 
 Select [tools](pixelmator-pro-tools.md) from the Tools sidebar to nondestructively edit, arrange, and transform your images, or add text, pictures, and shapes to build multi-layered compositions. You can use the options in the Tool Options pane to additionally customize the tools’ settings.
 
