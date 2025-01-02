@@ -32,7 +32,7 @@ The Darken tool is used to darken a specific area of an image. You could, for ex
    * _Highlights_: When you brush over an area to darken it, only the highlights in that area are darkened.
 4. Brush over the area of your image you’d like to darken.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/darken.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F6oalB7dODAQbQiGliYYI%2Fdarken.mp4?alt=media&token=f60daf57-926b-4be4-9b58-7a262ea9fd89" %}
 
 ## Show before and after or reset effects
 
