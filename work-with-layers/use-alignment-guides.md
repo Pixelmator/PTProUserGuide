@@ -28,23 +28,19 @@ Smart Guides appear when a layer or a layer group matches the size or position o
 2. Select any of the options:
    * _Show guides at object center:_ Guides appear when the center of an object aligns with the center of another object or the center of the image.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show_guides_at_object_center.mp4" %}
-
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FY9ReIPl7VKrzkZSsxsFv%2Fshow_guides_at_object_center.mp4?alt=media&token=27378cba-eb8c-4850-820c-d5ce753c81a4" %}
 
 * _Show guides at object edges:_ Guides appear when the edges of an object align with the edge of another object or the edge of the image.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show_guides_at_object_edges.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FMwNEmsATLDcObycUQUQI%2Fshow_guides_at_object_edges.mp4?alt=media&token=ec121858-aa15-436c-8994-468316c7beb9" %}
 
 * _Show guides for relative sizing:_ Guides appear when an object matches the size of another object.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show-guides-for-relative-sizing.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F4cUWlTKPxwGarvHyRLPg%2Fshow-guides-for-relative-sizing.mp4?alt=media&token=028c5aaa-f86e-47fb-8637-e0007b06e462" %}
 
 * _Show guides for relative spacing:_ Guides appear when three or more objects are placed equally apart in a line.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/show_guides_for_relative_spacing_2.4.mp4" %}
-
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FCdX6T6UixBFTet0F4dWQ%2Fshow_guides_for_relative_spacing_2.4.mp4?alt=media&token=ce71feb5-bf88-408d-a7ac-49f2357996c3" %}
 
 :bulb: **Tip:** If you want, you can change the color of the Smart Guides in [Pixelmator Pro settings](../pixelmator-pro-basics/pixelmator-pro-settings/).
 
@@ -61,7 +57,7 @@ To add a guide, do one of the following:
 
 :bulb: **Tip:** If you want, you can change the color of the alignment guides in Pixelmator Pro settings.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/add_persistent_guides_2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FcvKjhBAvwYTDTtenIu8a%2Fadd_persistent_guides_2.4.mp4?alt=media&token=c76f6e28-21ed-4e24-949c-48d8ad14c860" %}
 
 ## Change the location of a persistent alignment guide
 
@@ -81,7 +77,7 @@ Do any of the following:
 * _Remove a vertical guide:_ Drag it to the left of the image.
 * _Show or hide all guides:_ Choose **View > Overlays and select or deselect Guides** from the View menu at the top of your screen.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/guides/delete_persistent_guides_2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FXrs4C6zfxvhTfT2SrmMj%2Fdelete_persistent_guides_2.4.mp4?alt=media&token=101664a7-7d4d-4896-b97b-1374924af0c2" %}
 
 ## Lock guides
 
