@@ -33,9 +33,7 @@ To quickly reset the crop box to the original image height, fit the image into a
 
 :blue\_book: **Note:** When resizing, the crop box Pixelmator Pro shows an overlay to help you adjust the crop box more precisely. You can learn more about changing the overlay type or its display settings in the "Choose a crop overlay" section below.&#x20;
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/crop/crop_straighten_2.4.mp4" %}
-
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FDa7FOTSjN5ZWhKDh6X8P%2Fcrop_straighten_2.4.mp4?alt=media&token=51a9047a-4879-4f31-b181-c96e712f1595" %}
 
 ## Constrain the crop box to a custom aspect ratio or size
 
@@ -46,7 +44,7 @@ To quickly reset the crop box to the original image height, fit the image into a
 2. If a crop preset is selected, click the Constrain pop-up menu and choose Custom Aspect Ratio or Custom Size.
 3. In the Tool Options pane, enter a new crop ratio or size into the designated fields.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/crop/custom_aspect_ratio_2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FnoAefXJrZzrYsaTYqz31%2Fcustom_aspect_ratio_2.4.mp4?alt=media&token=b2be091b-8d3f-499e-a7f6-76659e794e56" %}
 
 ## Choose to hide or delete the cropped areas of an image
 
