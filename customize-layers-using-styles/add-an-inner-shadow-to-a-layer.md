@@ -34,7 +34,7 @@ The Inner Shadow layer style adds a drop shadow inside your selected layer, givi
 * _Opacity:_ Move the slider to adjust the transparency of the shadow. You can also enter a value between 0% and 100%.
 * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a different blend mode.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/inner-shadow-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FUJQGzsP3VhEWQDkJKd0L%2Finner-shadow-2.4.mp4?alt=media&token=a5edb340-4e7b-4abc-a0c7-2b9ca1f2ec98" %}
 
 If you have applied multiple Inner Shadow layer styles to a single layer and you’d like to [rearrange](./#rearrange-the-order-of-layer-styles) them, simply drag the style up or down the list of styles.
 
