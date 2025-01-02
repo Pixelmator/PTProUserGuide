@@ -37,7 +37,7 @@ If you apply two or more of the same layer styles to a single layer, you can rea
 
 To rearrange layer styles, click and drag a style up or down the list of styles.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/rearrange-styles-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F1kzZ3PsO2u87ry5CfAcH%2Frearrange-styles-2.4.mp4?alt=media&token=8f5eb704-74e3-40b0-acb1-5198f8f44562" %}
 
 ## Copy a layer style from one layer to another
 
