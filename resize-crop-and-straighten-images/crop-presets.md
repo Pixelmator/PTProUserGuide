@@ -40,7 +40,4 @@ Pixelmator Pro comes with a number of pre-made presets you can use to quickly cr
    * _Delete a crop preset:_ Click the disclosure triangle next to the preset you'd like to delete and choose Delete.
    * _Reset all crop presets:_ Click the disclosure button next to any preset, press and hold the `Option ⌥` key, and choose Reset All.  This deletes any custom crop presets and recovers default ones.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/crop/create_new_crop_preset_2.4.mp4" %}
-Creating a Crop preset
-{% endembed %}
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FuM4Pf7193TCSevTVvt57%2Fcreate_new_crop_preset_2.4.mp4?alt=media&token=e8209b86-9ea1-4819-ba5d-9d970dd9d0e9" %}
