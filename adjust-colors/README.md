@@ -34,7 +34,7 @@ You can apply color adjustments to layers directly or add them as adjustment lay
 
 :bulb: **Tip:** In Pixelmator Pro, the color adjustments have a set order in which they appear within the adjustments list and can't be rearranged. If you'd like to change the order of adjustments, you can add them as separate color adjustment layers and arrange them as needed in the Layers list.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/add-color-adjustments.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FXYdFQqaAN2i9B3yQdg54%2Fadd-color-adjustments.mp4?alt=media&token=1dff1f07-fee1-4860-8f97-8cd5dc7c62ce" %}
 
 ## Create color adjustment layers
 
@@ -63,7 +63,7 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
 2. Click Customize at the bottom of the list of color adjustments.
 3. Select effects to add them or deselect them to remove them from the list of adjustments. The changes you make apply to all Pixelmator Pro documents.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/add-remove-color-adjustments.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FuVzzDTAuUvvMvmDQnS4k%2Fadd-remove-color-adjustments.mp4?alt=media&token=1e41e1ab-ebe4-4100-aa10-927d0e9a0e35" %}
 
 ## Temporarily hide a single adjustment
 
@@ -94,7 +94,7 @@ If a certain color adjustment isn't visible in the list of adjustments, it may b
 2. In the Layers sidebar, click to select the layer you'd like to see without the color adjustments.
 3. Click and hold the Show Original button at the bottom of the Tool Options pane, or press `Control ⌃` + `M` on your keyboard.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/before-after-adjustments.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FnvP7CtumhsWwUzKCIX3L%2Fbefore-after-adjustments.mp4?alt=media&token=22d7344e-b462-478f-a43c-4a94ea1343b4" %}
 
 ## Turn on the Split Comparison view
 
