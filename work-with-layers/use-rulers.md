@@ -46,5 +46,4 @@ The zero origin is the location of the rulers’ 0. By default, units increase f
 
 To reset the zero origin, double-click the area where the horizontal and vertical rulers meet in the upper-left corner of the canvas.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/use-rulers-2.4.mp4" %}
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FIpBHKCnND9ezEm3PZV5d%2Fuse-rulers-2.4.mp4?alt=media&token=9ed95e56-715c-416b-a6a1-091f8c530075" %}
