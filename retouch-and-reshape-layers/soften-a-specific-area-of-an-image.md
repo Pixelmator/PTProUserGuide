@@ -31,7 +31,7 @@ The Soften tool is used to make a specific area of an image softer.
    * _Highlights_: When you brush over an area to soften it, only the highlights in that area are softened.
 4. Brush over the area of your image you’d like to soften.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/soften-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FWHjxvCcsHthQf9HMyrWa%2Fsoften-2.4.mp4?alt=media&token=d0de76e5-25b7-4e7d-92ef-500adb78ddca" %}
 
 ## Show before and after or reset effects
 
