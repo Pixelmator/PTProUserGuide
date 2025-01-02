@@ -31,7 +31,7 @@ The Desaturate tool is used to make the colors in a specific area of an image le
    * _Highlights_: When you brush over an area to desaturate it, only the highlights in that area are desaturated.
 4. Brush over the area of your image you’d like to desaturate.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/desaturate-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FGQPA54SAqQglZSpewXrA%2Fdesaturate-2.4.mp4?alt=media&token=e2c030c2-1bba-4ead-bbba-c6ef02b9578b" %}
 
 ## Show before and after or reset effects
 
