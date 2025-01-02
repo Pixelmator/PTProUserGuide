@@ -28,7 +28,7 @@ The Shape tool comes with tons of unique shapes you'll find across a number of d
 
 :blue\_book: **Note:** When you save a custom shape, the shape’s size and rotation are saved, but its style properties aren’t.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/save-custom-shape-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FNmjyw8CuI0ZJH0y3P4B0%2Fsave-custom-shape-2.4.mp4?alt=media&token=5d5719c0-18d7-477c-b008-6b7944a63169" %}
 
 ## Create a new shape collection
 
