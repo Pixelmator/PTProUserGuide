@@ -33,7 +33,7 @@ To draw a straight line segment with the Pen tool:
 2. Click (don’t drag) anywhere in your image to begin drawing the line.
 3. Click anywhere else in your image to add another anchor point and create a straight-line segment. The last anchor point you added will be solid red, while any points you added previously will be outlined in red.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/straight-pen.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F4j8S7J6r6uFV4tSkk6Pt%2Fstraight-pen.mp4?alt=media&token=a1c37ee9-514f-4529-87f2-ca9f5a7d7f41" %}
 
 4. Continue clicking to add additional straight segments to your path.
 5. To finish the path and leave it open, do any of the following:
@@ -61,7 +61,7 @@ To draw a curved line segment with the Pen tool:
 2. Drag anywhere in your image to begin drawing the line, release the mouse to finish customizing the first anchor point. Where you first press and hold the mouse will determine the location of the anchor point, where you release the mouse will determine the location of the anchor point’s direction line.
 3. Drag anywhere else in your image to add another smooth anchor point and adjust its direction lines. The last anchor point you added will be solid red, while any points you added previously will be outlined in red.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/curved-pen.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F8kLbfk2C1YBxj7Ga2bKd%2Fcurved-pen.mp4?alt=media&token=bbb83fc7-c312-44f8-94b7-46b3178c3dba" %}
 
 &#x20;:bulb: **Tip:** To adjust the direction lines after adding an anchor point, `Command ⌘` – drag one of the direction handles.
 
