@@ -26,7 +26,7 @@ When you click or drag an area in your image with the Pinch tool, it moves the o
        :bulb: **Tip:** You can use the `[` and `]` keys on your keyboard to change the size of the Pinch tool brush.
 3. Click and hold or drag an area of your image to pinch it. 
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/pinch-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FVm4UQaNJsZ2OCyAgKmHe%2Fpinch-2.4.mp4?alt=media&token=ee29b73a-6a4c-45dd-b908-cf34197c9c67" %}
 
 ## Show before and after or reset effects
 
