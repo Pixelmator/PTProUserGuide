@@ -32,7 +32,7 @@ The Fill layer style fills the area of your selected layer with a color or gradi
 * _Opacity:_ Move the slider to adjust the transparency of the fill. You can also enter a value between 0% and 100%.  
 * _Blend Mode:_ Click the Blend Mode pop-up menu to choose a different blend mode.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/fill-with-gradient-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FGsbwmARuj9mQVxkAITwc%2Ffill-with-gradient-2.4.mp4?alt=media&token=36089e67-5448-432c-9889-3c776af5d28d" %}
 
 If you have applied multiple Fill layer styles to a single layer and you’d like to [rearrange](./#rearrange-the-order-of-layer-styles) them, simply drag the style up or down the list of styles.
 
