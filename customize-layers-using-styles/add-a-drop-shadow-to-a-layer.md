@@ -34,7 +34,7 @@ The Shadow layer style adds a drop shadow below your selected layer, making it l
 * _Opacity:_ Move the Opacity slider to adjust the transparency of the shadow. You can also enter a value between 0% and 100%.
 *  _Blend Mode:_ Click the Blend Mode pop-up menu to choose a different blend mode.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/drop-shadow-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FS8jSVMhUHJZFjUDXT0u9%2Fdrop-shadow-2.4.mp4?alt=media&token=4f030f81-f7b9-4f28-a980-703c49616311" %}
 
 If you have applied multiple Drop Shadow layer styles to a single layer and you’d like to [rearrange](./#rearrange-the-order-of-layer-styles) them, simply drag the style up or down the list of styles.
 
