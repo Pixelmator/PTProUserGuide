@@ -28,7 +28,7 @@ When you click or drag an area in your image with the Twirl tool, it rotates the
        :bulb: **Tip:** You can use the `[` and `]` keys on your keyboard to change the size of the Twirl tool brush.
 3. Click and hold or drag an area of your image to twirl it. 
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/twirl-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F8Re6TFgrP1CilE5T0CDF%2Ftwirl-2.4.mp4?alt=media&token=f72c5419-a6c0-4175-a128-aac23bebbc00" %}
 
 ## Show before and after or reset effects
 
