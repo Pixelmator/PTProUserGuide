@@ -26,7 +26,7 @@ When you click or drag an area in your image with the Bump tool, it moves the ce
        :bulb: **Tip:** You can use the `[` and `]` keys on your keyboard to change the size of the Bump tool brush.
 3. Click and hold or drag an area of your image to bump it. 
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/bump-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FpB96laKKPAwWTUPYWXkI%2Fbump-2.4.mp4?alt=media&token=92c7b1bb-7fef-474d-88e4-d6bbb89f551d" %}
 
 ## Show before and after or reset effects
 
