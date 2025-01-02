@@ -24,6 +24,6 @@ Use the Replace Image feature to quickly swap one image for another while preser
 3. In the Scale pop-up menu, choose a scaling option: Original Size, Stretch, Scale to Fill, or Scale to Fit. If you don't choose an option, Scale to Fill will be selected by default.
 4. Choose the replacement image and click Replace Image.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/fill-replace-image-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FiShDRHfQKBOmTu3KTr6O%2Ffill-replace-image-2.4.mp4?alt=media&token=d672b77e-a44f-47db-940d-b7c60db33509" %}
 
 If the replacement image happens to be larger than the canvas, some of its content may be hidden beyond the edges of the canvas. Select the Arrange tool <img src="../.gitbook/assets/Arrange.png" alt="" data-size="line"> and [zoom out](../pixelmator-pro-basics/zoom-in-and-out-of-an-image.md) of the image until you see the layer handles, then resize it to fit the canvas. You can also choose **Image > Reveal Canvas** from the Image menu at the top of your screen.
