@@ -66,7 +66,7 @@ To add to an existing selection, do one of the following:
 
 To see the size information when drawing selections, make sure information labels are turned on in the [Pixelmator Pro settings](../pixelmator-pro-basics/pixelmator-pro-settings/).
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/selections/add-to-selection-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F4zLwBdbtEk8RypPpBfgw%2Fadd-to-selection-2.4.mp4?alt=media&token=59d0a929-5ba1-4ba0-9350-1ad7dfa15e9e" %}
 
 ### Subtract from your existing selection
 
@@ -77,7 +77,7 @@ To subtract from an existing selection, do one of the following:
 * Change the selection mode to Subtract in the Tool Options pane.
 * Press and hold the `Option ⌥` key before starting to select.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/selections/subtract-from-selection-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FPTzheKwNJ1i5Juc9KTnp%2Fsubtract-from-selection-2.4.mp4?alt=media&token=a4e9bfde-c12a-4b42-8e0f-2047cbc45584" %}
 
 ### Intersect one selection with another
 
@@ -88,7 +88,7 @@ To intersect an existing selection, do one of the following:
 * Change the selection mode to Intersect in the Tool Options pane.
 * Press and hold the `Shift ⇧` and `Option ⌥` keys before starting to select.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/selections/intersect-selection-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FvvO0dV3tDU8xUg3of57j%2Fintersect-selection-2.4.mp4?alt=media&token=f9b6fc4b-7705-4d90-bf4b-559d4607b765" %}
 
 ## Hide the selection handles
 
