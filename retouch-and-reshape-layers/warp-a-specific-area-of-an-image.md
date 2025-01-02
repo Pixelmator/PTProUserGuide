@@ -26,7 +26,7 @@ The Warp tool lets you push and pull a specific area of an image in any directio
        &#x20;:bulb: **Tip:** You can use the `[` and `]` keys on your keyboard to change the size of the Warp tool brush.  
 3. Click and drag an area of your image to warp it. 
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/warp-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FFTDZUztNupHT0uF3IOre%2Fwarp-2.4.mp4?alt=media&token=1b314436-2e78-44f4-8fee-4c35f072eba9" %}
 
 ## Show before and after or reset effects
 
