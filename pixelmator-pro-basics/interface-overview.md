@@ -18,7 +18,7 @@ Pixelmator Pro features a single-window, easy-to-use interface, designed for edi
 
 There are also additional elements such as overlays or rulers that are hidden by default. You can choose to view them if you need them from the View menu at the top of your screen.
 
-![](../.gitbook/assets/Pixelmator-Pro\_Interface-overview.png)
+![](../.gitbook/assets/Pixelmator-Pro_Interface-overview.png)
 
 ## Tools sidebar
 
@@ -26,11 +26,7 @@ The Tools sidebar contains the tools you need to create graphic designs, draw, o
 
 You can also [customize the Tools sidebar ](customize-the-tools-sidebar.md)to create a toolset for your specific editing style.
 
-<div align="left">
-
-<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1652093242000.png" alt="" height="645.5" width="694">
-
-</div>
+<div align="left"><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1652093242000.png" alt="" height="645.5" width="694"></div>
 
 Some tools in the Tools sidebar are grouped with one or a few other tools. To select a different tool from a group, click the grouped tool twice, force click, or `Control ⌃` – click it. For more information about the different tools and their functions, see [Pixelmator Pro tools](pixelmator-pro-tools.md).
 
@@ -50,11 +46,7 @@ To temporarily show or hide the tool names (in vertical sidebar mode), press `Co
 
 The Tool Options pane is where you customize the Pixelmator Pro tools, effects, and manage presets. If you're using Pixelmator Pro for the first time, the Tool Options pane will automatically appear once you select a tool from the Tools sidebar. The options in the Tool Options pane change when you select different tools. Below you can see a few examples of the various Tool Options views:
 
-<div align="center">
-
-<img src="../.gitbook/assets/Tool-Options-pane.png" alt="">
-
-</div>
+<div align="center"><img src="../.gitbook/assets/Tool-Options-pane.png" alt=""></div>
 
 On smaller displays, you may need to scroll down to see all the options.
 
@@ -96,11 +88,7 @@ Do one of the following:
 
 The Layers sidebar is one of the most essential parts of the Pixelmator Pro workspace. The Layers sidebar lets you view and select the different levels of a project you're working on, add new layers, manage layer visibility, and lots more.
 
-<div align="right">
-
-<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648711912000.png" alt="">
-
-</div>
+<div align="right"><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1648711912000.png" alt=""></div>
 
 #### Layers list
 
@@ -120,7 +108,7 @@ You can adjust how transparent or opaque the layers should be using the Opacity 
 
 See [Adjust the opacity of a layer](../customize-layers-using-styles/adjust-the-opacity-of-a-layer.md) to learn more about adjusting layer opacity.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/opacity-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FVgOeLtFOUrYTnBr4iKDJ%2Fopacity-2.4.mp4?alt=media&token=e795b9c6-2d7e-4ede-a61b-a900bb3e43c8" %}
 
 #### Layer blending
 
@@ -128,7 +116,7 @@ Blend modes let you change the look of layers by mixing and combining layer colo
 
 See [Change the blend mode of a layer](../customize-layers-using-styles/change-the-blend-mode-of-a-layer.md) to learn more about layer blending.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/blend-modes-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FB4dHGw4ddAA7PKd6WuFV%2Fblend-modes-2.4.mp4?alt=media&token=8d0e92c3-bfe9-4e6e-ab05-5f06ad48b467" %}
 
 #### Search and filter layers
 
@@ -136,7 +124,7 @@ You can search your document for specific layers by typing their name into the s
 
 See [Work with layers](../work-with-layers/) to learn more about managing layers.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/layer-search-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FHTk8nmxjH49WrFw3nqtO%2Flayer-search-2.4.mp4?alt=media&token=183ce509-fad4-4b4d-b6c0-d5c481010a12" %}
 
 #### Show or hide the Layers sidebar
 
@@ -186,7 +174,7 @@ Rulers almost always come hand in hand with guides — another great tool to hel
 
 For more information about guides and rulers, see [Use rulers](../work-with-layers/use-rulers.md) and [Use alignment guides](../work-with-layers/use-alignment-guides.md).
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/rulers-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FLNExC2zc7SlMF3jvj2JA%2Frulers-2.4.mp4?alt=media&token=16e2450e-b3f3-4795-8a6d-6975874f6df6" %}
 
 #### Show or hide Rulers
 
@@ -236,7 +224,7 @@ The Info bar provides useful information about the image or a selected layer. Th
 
 The Info bar also offers quick access to Image Size, Color Profile, and Color Depth settings. Double-click the desired setting in the Info bar to open a dedicated edit sheet.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/info-bar-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FSbcSHxpTguZxPtDtvahB%2Finfo-bar-2.4.mp4?alt=media&token=9c48e99f-136f-47fb-893d-ec679d52fadb" %}
 
 #### Show or hide the Info bar
 

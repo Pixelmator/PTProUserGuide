@@ -106,7 +106,7 @@ Distributing layers vertically or horizontally lets you automatically create equ
 1. Select three or more layers you’d like to equally space.
 2.  Do one of the following:\
     \
-    _Equally space objects across a vertical axis:_
+    &#xNAN;_&#x45;qually space objects across a vertical axis:_
 
     * Choose **Arrange > Distribute Objects > Vertical Spacing** from the Arrange menu at the top of your screen.
     * Press `Option ⌥` + `Command ⌘` + `Control ⌃` + `V`

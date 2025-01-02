@@ -29,9 +29,9 @@ A gradient will always have at least two colors. Each color is represented by co
     * _Remove colors_: To remove a color stop, drag it away from the gradient fill bar.
     * _Reverse colors_: Click Reverse to reverse the gradient colors.
     * _Choose a gradient type_: \
-      _Linear gradient:_ Blends colors between color stops, all along a line.\
-      _Radial gradient_: Blends from start to end in a circular pattern.\
-      _Angle gradient_: Blends colors in a sweep.
+      &#xNAN;_&#x4C;inear gradient:_ Blends colors between color stops, all along a line.\
+      &#xNAN;_&#x52;adial gradient_: Blends from start to end in a circular pattern.\
+      &#xNAN;_&#x41;ngle gradient_: Blends colors in a sweep.
 
     ![](https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1605706640000.png)
 3. Drag on the canvas to fill the selected layer with a gradient.
