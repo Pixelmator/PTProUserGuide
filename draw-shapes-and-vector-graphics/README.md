@@ -30,7 +30,7 @@ The Shape tool in Pixelmator Pro offers a collection of custom vector shapes —
 
 :bulb: **Tip:** To switch from drawing to selecting shapes, press and hold the `Command ⌘` key on your keyboard.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/insert-shape-3.1.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FSfEsTpMqscu5UKBDaVU6%2Finsert-shape-3.1.mp4?alt=media&token=1fe3fc03-48a6-426c-804f-b8e31b91beaf" %}
 
 ## Insert a commonly used shape
 
@@ -56,7 +56,7 @@ When customizing rounded rectangles, you can additionally adjust the radius of i
 
 In the Corner Style pop-up menu, you can also switch from rounded to smooth corner style to create especially smooth rounded rectangles.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/rounded-rectangle.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2Fb1L4W3FzCx275vL0mau7%2Frounded-rectangle.mp4?alt=media&token=16f94091-d482-419d-ac2a-7c8270d8799d" %}
 
 ## Edit a shape
 
