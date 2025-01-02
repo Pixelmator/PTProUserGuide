@@ -31,19 +31,19 @@ If you're unable to select a layer directly in your image, make sure the automat
 
 _Select multiple contiguous layers:_ In the Layers sidebar, click any layer to select it (choose **View > Show Layers** if the Layers sidebar isn’t visible), then `Shift ⇧` – click any other layer. Every layer in between those two layers will also be selected.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/shift-select-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F79G99Mxm2lxG6cJT6j9n%2Fshift-select-2.4.mp4?alt=media&token=44310763-ddab-4be9-9b3a-c20b69349ffb" %}
 
 _Select multiple noncontiguous layers:_ In the Layers sidebar, click any layer to select it (choose **View > Show Layers** if the Layers sidebar isn’t visible), then `Command ⌘` – click any other layers you’d like to select.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/select-noncontiguous-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FNt1QfMg9YGYOXRo17vJC%2Fselect-noncontiguous-2.4.mp4?alt=media&token=44fa01d8-9f7c-49cb-b753-ccf82a855852" %}
 
 _Select multiple layers directly in your image:_ Select the Arrange tool (choose **Tools > Arrange** or press the `V` key on your keyboard), then click a layer to select it and `Command ⌘` – click any other layers you’d like to select.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/select-layers-on-canvas-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FYDza0mGJAMMm3taFf2y7%2Fselect-layers-on-canvas-2.4.mp4?alt=media&token=79f2c4e4-b688-4efc-bfdb-b4979c4f537c" %}
 
 _Drag-select multiple layers:_ Select the Arrange tool (choose **Tools > Arrange** or press the `V` key on your keyboard) and make sure Auto Select is turned on. Then, click and drag over the layers you’d like to select. Note that you might need to lock the background layer if you don't want it to be selected.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/drag-select-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FBQeEEZcTcFcoi7RM4djA%2Fdrag-select-2.4.mp4?alt=media&token=4cb442af-c2c2-485b-92cb-70d1406f4f29" %}
 
 ## Select all layers
 
