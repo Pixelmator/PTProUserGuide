@@ -45,7 +45,7 @@ When you move layers, they automatically snap to other layers on the canvas. You
 
     To change the units used for the x and y coordinates `Control ⌃` – click the number field and choose a different unit.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/layer-position-change-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FZBs2bWGriOHxerKmanw2%2Flayer-position-change-2.4.mp4?alt=media&token=b4d87a6a-7f68-4982-80e5-d825cb7c39d3" %}
 
 ## Align objects vertically or horizontally
 
