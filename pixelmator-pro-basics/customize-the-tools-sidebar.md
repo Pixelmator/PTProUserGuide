@@ -27,7 +27,7 @@ The Tools sidebar in Pixelmator Pro is fully customizable. You can add, remove, 
    * _Group tools or remove tools from a group_: Drag a tool over another tool in the list of tools to group them. Click the tool group in the list of tools at the top, and click Remove <img src="../.gitbook/assets/Remove.png" alt="" data-size="line"> next to the tool you want to remove from the group.
    * _Add or remove tools from the Tools sidebar_: Drag a tool to the list of tools at the top to add it. Drag a tool away from the list of tools to remove it.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/tools/CustomizeTools.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F2rdJebmsEHCzOBxeUhj9%2FCustomizeTools.mp4?alt=media&token=5ef4cf1a-9841-45f2-ac98-8968e49255c3" %}
 
 3. Click Done to confirm the changes.
 
