@@ -32,7 +32,7 @@ The Saturate tool is used to make the colors in a specific area of an image more
    * _Highlights_: When you brush over an area to saturate it, only the highlights in that area are saturated.
 4. Brush over the area of your image you’d like to saturate.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/saturation-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F48xqP4VhFZ5clcNoSp6a%2Fsaturation-2.4.mp4?alt=media&token=ccee2f2d-4974-44b7-9214-791761b7c535" %}
 
 ## Show before and after or reset effects
 
