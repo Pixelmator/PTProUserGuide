@@ -66,7 +66,7 @@ The Pixelmator Pro Zoom tool lets you zoom in and out of the image using the zoo
    * Click the disclosure triangle next to the current zoom to choose a default zoom percentage, or type in a custom zoom percentage into the percentage field.
    * Under Mode, select Zoom In or Zoom Out and click the area of an image that you’d like to zoom in or zoom out.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/zoom-tool-new-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FjisTAbM1Cu8A2QgwM59h%2Fzoom-tool.mp4?alt=media&token=dcc09339-6bb8-4586-9eba-bcab91cdc4ad" %}
 
 ### Zoom using the scrubby zoom
 
