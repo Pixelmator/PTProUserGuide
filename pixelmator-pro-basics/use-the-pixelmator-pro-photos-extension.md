@@ -27,7 +27,7 @@ After you've downloaded Pixelmator Pro, the Pixelmator Pro extension will automa
 3. In the top-right corner of the screen, click Edit.
 4. Then, in the toolbar at the top of the screen, click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> and choose Pixelmator Pro.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/photos-extension-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FgLwfEiCmAUpKmtl5qxKg%2Fphotos-extension-2.4.mp4?alt=media&token=f1faca1f-f145-4d96-acb8-7739453f891e" %}
 
 :bulb: **Tip:** If Pixelmator Pro isn’t available in the list, click Manage, then click Photos Editing in the left sidebar, and turn on Pixelmator Pro.
 

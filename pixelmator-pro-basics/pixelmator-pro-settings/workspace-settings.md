@@ -36,7 +36,7 @@ The Pixelmator Pro workspace is freely customizable — you can change the arran
 
 In the layout customization window, drag any of the highlighted elements to start rearranging the workspace. If you simply click and hold an element, special indicators will appear suggesting where you can move it.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/tools/cuztomizeLayout.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FRe5b1LMgyA0ldWj3AjYi%2FcuztomizeLayout.mp4?alt=media&token=520c9ce3-2be7-4bc9-b5a4-6d6c95a407fc" %}
 
 For instance, the Tools sidebar will snap to any edge of the application window, while the Tool Options pane and the Layers sidebar can be placed on the left or the right side of the screen.
 
