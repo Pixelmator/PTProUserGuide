@@ -40,11 +40,7 @@ After you make a vector path editable, you can select one or more of its points 
 
 To select a single point, simply click it.&#x20;
 
-<div align="left">
-
-<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596021797000.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1596021797000.png" alt="" width="375"></div>
 
 To select multiple points, do one of the following:
 
@@ -60,7 +56,7 @@ To select multiple points, do one of the following:
    * Double-click part of a path segment between two points.
    * `Control ⌃` – click part of a path segment between two points and choose Add Point.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/add-a-vector-point.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F6sGnqdxseUwLuZOzGRMI%2Fadd-a-vector-point.mp4?alt=media&token=89a6922a-f860-41f6-b99c-3faf256927c6" %}
 
 ## Remove points from a vector path
 
@@ -80,7 +76,7 @@ Sharp points have straight lines connecting to them, while smooth points have cu
 
 :bulb: **Tip:** To sharpen or smooth all the points in a path, `Control ⌃` – click a vector path on the canvas (without making it editable) and choose Sharpen Path or Smooth Path from the shortcut menu.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/make-sharp-point.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FVubj3AOj9UCmw5Mm0ILp%2Fmake-sharp-point.mp4?alt=media&token=37b7f0e8-2926-4c3c-ad2e-35eeb94cda82" %}
 
 ## Reshape a smooth point
 
@@ -88,11 +84,7 @@ Sharp points have straight lines connecting to them, while smooth points have cu
 2. Click to select the point you’d like to reshape.
 3. Drag the direction handles that appear.
 
-<div align="left">
-
-<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590504764000.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1590504764000.png" alt="" width="375"></div>
 
 ## Convert a smooth point into an adjustable sharp point
 
@@ -117,7 +109,7 @@ _Divide_ lets you open closed paths (if you'd like to continue drawing, for inst
 
     Open paths essentially become lines, so their stroke position is automatically reset to Center.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/split-path.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FaqMsdFlq9oHb4jWIViT3%2Fsplit-path.mp4?alt=media&token=0d028a6e-fdf3-4a03-8ae4-31bbbca0016c" %}
 
 _Join_ option lets you connect two open paths in a shape to create one single open path or form a closed path.
 
