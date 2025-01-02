@@ -31,7 +31,7 @@ You can also change the blend mode of certain tools, like the [Color Fill tool](
 
 You can also quickly change the blend mode and layer opacity in the Layers sidebar.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/blend-mode-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F8NAz68JIq5uF0jiwN7j8%2Fblend-mode-2.4.mp4?alt=media&token=11bc4001-64f9-49e3-a3d3-08efeb96e932" %}
 
 ## Types of blend modes
 
