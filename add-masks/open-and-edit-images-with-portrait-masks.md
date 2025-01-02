@@ -36,7 +36,7 @@ When you open a portrait, the Portrait Mask is turned off by default. To turn on
 * Select the mask layer and choose **Format > Mask > Enable Mask** or **Disable Mask** from the Format menu at the top of your screen.
 * In the Layers sidebar, `Control ⌃`–click the mask layer and choose Enable Mask.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/tools/portrait-mask-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FFlJzWBoh02zENuaEezE9%2Fportrait-mask-2.4.mp4?alt=media&token=35ba9a81-8644-42fb-8283-6197d00a39a5" %}
 
 ## Permanently remove a Portrait Mask
 
