@@ -70,7 +70,7 @@ To lock or unlock a layer or layer group, do one of the following:
 * In the Layers list, move the mouse pointer over the layer or layer group you’d like to lock and click <img src="../.gitbook/assets/Unlock.png" alt="" data-size="line">. To unlock layers, click <img src="../.gitbook/assets/Lock.png" alt="" data-size="line">.
 * In the Layers sidebar, `Control ⌃` – click a layer or layer group choose Lock or Unlock.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/lock-layers-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2Fe3lQkppxMHbL4LtNuTVB%2Flock-layers-2.4.mp4?alt=media&token=c4612dd0-36e4-4988-a31e-ead992a024f0" %}
 
 ## Manage layer groups
 
@@ -106,7 +106,7 @@ To expand or collapse a layer group and all the groups nested within it:
 
 * In the Layers sidebar, `Option ⌥` – click the disclosure triangle next to the layer group's name.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/expand-group-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FAceZ3VrgFOdX12WmZFOp%2Fexpand-group-2.4.mp4?alt=media&token=5a43fc51-bc94-4b57-b020-e9383913147b" %}
 
 ### Hide or show a layer or layer group
 
@@ -121,7 +121,7 @@ In the Layers list, you can disable layers and groups to make them invisible in 
 
 :blue\_book: **Note:** Hidden layers and groups are not included when your image is exported.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layers/show-hide-layer-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FThymI8MoeTQCcLpdgaBA%2Fshow-hide-layer-2.4.mp4?alt=media&token=c3974133-8865-4bc8-a6c0-51a589c78b83" %}
 
 ## Organize and sort layers
 
