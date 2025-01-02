@@ -18,7 +18,7 @@ Using effects, you can completely change the look of images, shapes, and text in
 
 Because the effects in Pixelmator Pro are nondestructive, you can apply any number of them to your graphic, combining them to develop artistic or special effects of your own. The presets feature lets you save effect combinations, reuse them in any of your images, and even share them with other Pixelmator Pro users.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/effects/split-comparison-working-with-effects-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FBkyzIW5GmNRFUGB7ToRO%2Fsplit-comparison-working-with-effects-2.4.mp4?alt=media&token=150ab540-677b-4c2c-95ef-eefb0e0c6de4" %}
 
 ## Turn effects on or off
 
