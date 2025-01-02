@@ -54,7 +54,7 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
    * _Stretch a layer proportionally:_ Press and hold the `Shift ⇧` key while dragging a corner handle in the canvas.
 3. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/distort-transform-layers-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FGk27ZaLEwDv9KpUy1zKL%2Fdistort-transform-layers-2.4.mp4?alt=media&token=3e333500-47d3-4929-84f1-de39bd0bc63a" %}
 
 ### Transform layer perspective
 
@@ -64,6 +64,6 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
 4. Drag the corner handles to change the perspective vertically or horizontally. Dragging handles at the sides of the layer slants it vertically or horizontally.
 5. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/perspective-tranform-layers-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2Fd2J17Lw44QFZMdH9HUub%2Fperspective-tranform-layers-2.4.mp4?alt=media&token=3bfa4e0e-8021-4a10-9065-87d5f996d15f" %}
 
 :exclamation:**Important:** Changing the perspective of text layers converts them into shape, so you can no longer change their font, typeface, or alignment. To transform a text layer and keep it formattable, you can use the nondestructive [Perspective Transform effect](../add-effects/apply-other-effects.md#perspective-transform-effect).
