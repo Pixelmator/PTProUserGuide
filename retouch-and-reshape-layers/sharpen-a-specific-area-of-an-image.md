@@ -33,7 +33,7 @@ The Sharpen tool is used to make a specific area of an image sharper.
 
 :blue\_book: **Note:** Images shot with digital cameras are often a bit soft in focus because of the demosaic filter applied by the camera’s processor. The Sharpen tool is designed to add focus to images that are already relatively sharp — as opposed to completely blurry or out-of-focus images. You can also use the [Sharpen adjustment](../adjust-colors/sharpen-an-image.md) to reduce the softness of images taken with digital cameras.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/sharpen-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FsxBiv4fioEdhVXOEznBb%2Fsharpen-2.4.mp4?alt=media&token=6eeb21fd-7920-4759-9fa4-cbd66cf90c07" %}
 
 ## Show before and after or reset effects
 
