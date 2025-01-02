@@ -44,7 +44,7 @@ Once you've added a style, you can fully customize it. You can fill it with soli
 * _Endpoints:_ Choose a particular shape to use for the endings of a stroke. You can choose endpoints such as arrows, diamond, square, and others for the end and start points of a stroke. Use the percentage fields to scale endpoints separately or together.
 * _Dashed Line:_ Select Dashed Line to convert solid stroke lines into dashed ones. Change numbers in the Gap and Dash fields to customize the line spacing.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/stroke-styles-3.3.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2Fwxpq7FUJdFKjmSlqLiGL%2Fstroke-styles-3.3.mp4?alt=media&token=44791864-69d8-4191-b932-57200ca0d1e5" %}
 
 If you have applied multiple Stroke styles to a single layer and you’d like to [rearrange](./#rearrange-the-order-of-layer-styles) them, simply drag the style up or down the list of styles.
 
