@@ -22,11 +22,7 @@ Pixelmator Pro lets you quickly choose colors for different tools, color adjustm
 
 The top section of the color picker features an eyedropper for picking colors from the image, the color square with a hue slider for choosing custom colors, and the HEX and RGB color code fields for entering specific color values. In the Swatches section, you can choose a color from the existing color palettes or reuse some of your recently selected colors.
 
-<div align="left">
-
-<img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604751877000.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="https://help.pixelmator.com/pixelmator-pro/3.5/assets/English/1604751877000.png" alt="" width="563"></div>
 
 ### How to use the color picker
 
@@ -70,7 +66,7 @@ To switch between foreground and background colors, do one of the following:
 
 To reset foreground and background colors to black and white press the `D` key on your keyboard.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/paint-and-erase/fg-bg-switch.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FGKF7XECPnkA4aodfzBUI%2Ffg-bg-switch.mp4?alt=media&token=a7681c41-7c39-4005-99b4-193038f19872" %}
 
 ## Use the Color Picker tool
 
@@ -92,11 +88,7 @@ The Color Picker tool is a standalone tool that offers additional options for ch
 
 The Colors window in Pixelmator Pro lets you access the system color palettes, and all the macOS-native color pickers such as the color wheel, sliders, and pencils.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="355"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="355"><figcaption></figcaption></figure></div>
 
 The Colors window has four sections: the different color pickers at the top (color wheel, color sliders, color palettes, image palettes, and pencils); the active color picker in the middle; the large color swatch in the lower-left to show the currently selected color; the eyedropper for picking colors; and the row of boxes to pick or save new color swatches.
 
