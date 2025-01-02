@@ -20,4 +20,4 @@ The Reveal Canvas command resizes the image canvas to reveal any parts of the im
 * Click More <img src="../.gitbook/assets/More-+-arrow.png" alt="" data-size="line"> in the Pixelmator Pro toolbar, then choose Reveal Canvas.
 * Choose the [Crop tool](./) and double-click inside the crop box.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/crop/reveal_canvas_2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FlhyBWL3fP852DpDq6iNj%2Freveal_canvas_2.4.mp4?alt=media&token=cbd7e615-7740-4a1a-9a7e-52661955cff5" %}
