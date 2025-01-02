@@ -36,7 +36,7 @@ The Transform tool in Pixelmator Pro lets you easily transform images, text, sha
 
 You can use different units, such as centimeters, millimeters, inches, pixels, or percent. `Control ⌃` – click the value field and choose a unit from the shortcut menu that appears.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/free-transform-layers-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FrnfCYUfuqA0P1WWy1WK8%2Ffree-transform-layers-2.4.mp4?alt=media&token=abbd6c7f-ca1a-4eb7-bb2b-ffaf791a9eeb" %}
 
 ### Skew a layer vertically or horizontally
 
@@ -44,7 +44,7 @@ You can use different units, such as centimeters, millimeters, inches, pixels, o
 2. Drag the midpoint handles to slant two adjacent layer corners at the same time, leaving the other two corners untouched. Drag a corner handle to transform the corner leaving the other three corners locked in place.
 3. To finish transforming and apply your changes, click Apply at the bottom of the Tool Options pane.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/transform/skew-transform-layers-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FfyyqjF7GC6PAmEQfLVQb%2Fskew-transform-layers-2.4.mp4?alt=media&token=ddbc2cf6-3750-40df-b7c2-113ea4132809" %}
 
 ### Stretch vertically or horizontally
 
