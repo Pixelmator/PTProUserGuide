@@ -23,4 +23,4 @@ You can convert selections into shapes and continue working on them as you would
 
 :blue\_book: **Note:** When converting selections into shapes, Pixelmator Pro will apply your last-used styles to them. If you'd like to change how the shape looks after you add it, you can do so using the [Style tool](../customize-layers-using-styles/).
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/convert-selection-to-shape-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FQj338jJpKZ0bEDrzzCL5%2Fconvert-selection-to-shape-2.4.mp4?alt=media&token=7cf399b1-4a97-46dd-816e-2a6ee38f06e9" %}
