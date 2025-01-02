@@ -29,7 +29,7 @@ Pixelmator Pro includes pre-made combinations of color adjustments called preset
 
 You can also fine-tune the adjustments applied to your image in the Tool Options pane.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/apply-preset-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FElSiKn4ytbJfZde5SADg%2Fapply-preset-2.4.mp4?alt=media&token=2b3c56df-8e23-47d4-b960-c39f025d7225" %}
 
 ## Save a combination of color adjustments as a preset
 
@@ -38,7 +38,7 @@ You can also fine-tune the adjustments applied to your image in the Tool Options
    * Click Add <img src="../.gitbook/assets/Plus.png" alt="" data-size="line"> in any color adjustments collection to save the preset to that collection.
    * Click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Add Preset.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/save-preset-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FHOdVOjBWteZzgmu34q8Q%2Fsave-preset-2.4.mp4?alt=media&token=10fcbbb9-3785-42ab-b560-1a9731a64aa0" %}
 
 ## Create a new color adjustment presets collection
 
@@ -63,7 +63,5 @@ Once you've created a preset or a preset collection, you can rename, redefine th
 * _Delete a color adjustment presets collection:_ In the Collection pop-up, select the collection you want to remove, then click More <img src="../.gitbook/assets/More.png" alt="" data-size="line"> next to the Collection pop-up menu and choose Remove.
 * _Show or hide presets:_ Drag the line that separates presets from the ML Enhance button up to hide the presets, or drag it down to reveal or expand the presets section.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/color-adjustments/presets-browser-2.4.mp4" %}
-Showing and hiding color adjustment presets
-{% endembed %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FeeXchERIL7gxAtohjuYx%2Fpresets-browser-2.4.mp4?alt=media&token=845a9955-fe0b-4f38-80c4-52ee13972d6f" %}
 
