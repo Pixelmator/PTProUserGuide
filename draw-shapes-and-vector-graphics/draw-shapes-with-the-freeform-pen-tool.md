@@ -22,7 +22,7 @@ The Freeform Pen tool is a somewhat simpler and easier to use version of the [Pe
    * Press the `P` key on your keyboard (selects the last used Pen tool).
 2. Drag to begin drawing your path.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/shapes-and-vectors/freeform-pen.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FKufXqVtrd5K5xwVSoRYU%2Ffreeform-pen.mp4?alt=media&token=a0d59ece-ffce-437d-b165-ff348cdd3b76" %}
 
 3. To finish the path and leave it open, release your mouse or trackpad.
 4. To finish the path and close it to create a shape, move the path over to its beginning, then stop holding down your mouse or trackpad.
