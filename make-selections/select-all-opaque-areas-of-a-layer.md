@@ -25,4 +25,4 @@ Do any of the following:
 * Press `Command ⌘` + `Option ⌥` + `L` on your keyboard.
 * `Command ⌘` – click a layer thumbnail in the Layers sidebar.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/selections/load_selection_2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2F5KYi5CJUgVt5Q2B4v0fE%2Fload_selection_2.4.mp4?alt=media&token=0f2c9db2-9850-48c4-8d6d-acc5b747d289" %}
