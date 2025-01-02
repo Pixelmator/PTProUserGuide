@@ -58,4 +58,4 @@ The Select Color Range tool lets you select noncontiguous, similarly-colored are
 3. Click the canvas to pick a color range, or click the color well in the Tool Options pane to choose a specific color.
 4. Drag the Range slider to adjust how many other color values close to your selected color will be included in the selection.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/selections/select_color_range_2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FRIwtntaLLUXZSJ53Ms15%2Fselect_color_range_2.4.mp4?alt=media&token=00120bbc-6d1f-496a-b58d-cc2e0db9d04f" %}
