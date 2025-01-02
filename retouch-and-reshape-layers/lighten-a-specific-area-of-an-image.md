@@ -31,7 +31,7 @@ The Lighten tool is used to lighten a specific area of an image. You could, for 
    * _Highlights_: When you brush over an area to lighten it, only the highlights are lightened.
 4. Brush over the area of your image you’d like to lighten.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/lighten.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FENzUD4RhwFRjN4oGNYkJ%2Flighten.mp4?alt=media&token=05798449-5306-4454-bb70-ab8cce126efb" %}
 
 ## Show before and after or reset effects
 
