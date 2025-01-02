@@ -20,9 +20,9 @@ Using the Stroke with Brush feature, you can automatically convert the outline o
 
 1. Select the layer you want to stroke
 2. Do one of the following:
-   1. Choose the Paint tool <img src="../.gitbook/assets/Paint.png" alt="" data-size="line"> and click Stroke with Brush at the bottom of the tool options pane.
-   2. Choose **Format > Stroke with Brush** from the Format menu at the top of your screen.
-   3. Press `Option ⌥` + `Command ⌘` + `B` on your keyboard.
+   * Choose the Paint tool <img src="../.gitbook/assets/Paint.png" alt="" data-size="line"> and click Stroke with Brush at the bottom of the tool options pane.
+   * Choose **Format > Stroke with Brush** from the Format menu at the top of your screen.
+   * Press `Option ⌥` + `Command ⌘` + `B` on your keyboard.
 
 ## Customize the brush stroke
 
@@ -32,5 +32,5 @@ Note that some of the stylus-related settings, like the ones in the Stroke or Dy
 
 _Simulate Pressure:_ You can use Simulate Pressure to take into account the brush pressure settings. The Max Pressure Location slider lets you set the location where brush stroke is the thickest or thinnest as if drawing with a graphics tablet.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/paint-and-erase/simulate-pressure.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FjVPhoDvbng67OWtGMWaj%2Fsimulate-pressure.mp4?alt=media&token=d30dfee1-174a-45a2-9ed3-d2b12b28f56e" %}
 
