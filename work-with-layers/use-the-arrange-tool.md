@@ -30,4 +30,4 @@ With the Arrange tool, you can:
 * [Resize, rotate, and flip layers.](resize-rotate-and-flip-layers.md) Make layers bigger or scale them down, rotate, or mirror layers by flipping vertically or horizontally.
 * [Transform layers.](transform-layers.md) Freely transform text, image, or shape layers to adjust perspective, skew, stretch layers in any direction, or resize using special scaling algorithms.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/arrange-tool-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FUZwzDGKhpVz0Kv57MTEZ%2Farrange-tool-2.4.mp4?alt=media&token=12bc4505-4c90-4009-8aee-34a43821c7b5" %}

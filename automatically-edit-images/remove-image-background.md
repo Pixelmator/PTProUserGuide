@@ -31,7 +31,7 @@ Do any of the following:
 
 * Choose **Tools > Smart Erase** from the Tools menu at the top of the screen and click Remove Background.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/basics/removeBackground.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FalYiuOZBiwVI7f3ndRXM%2FremoveBackground.mp4?alt=media&token=b13eb712-81f4-455a-aa63-22ae632c066b" %}
 
 ***
 
