@@ -29,5 +29,5 @@ You can also quickly change the layer opacity and [blend mode](change-the-blend-
 
 :bulb: **Tip:** If you’d like to save an image with transparency, make sure to [export it](../export-and-share-images/) to a compatible file format. PXD, PNG, PSD, TIFF, and GIF file formats currently support transparency.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/layer-styles/opacity-layer-styles-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FWAqUy9EVUdM1olyQaRVv%2Fopacity-layer-styles-2.4.mp4?alt=media&token=06cd0ffd-e85a-4050-83f5-8174ee9cba65" %}
 
