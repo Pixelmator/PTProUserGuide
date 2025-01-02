@@ -25,7 +25,7 @@ Use the Repair tool to remove anything from small imperfections, like specks of 
    2. _Sample All Layers:_ Select Sample All Layers to repair areas using every layer in your image. This option is useful when you want to repair an area nondestructively. In that case, you’d need to add a new, empty layer, select Sample All Layers and paint on the empty layer. Another use is when you have several images on separate layers and you’d like to repair the image as if it was one layer.
 3. Paint over the object in your image you’d like to remove.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/repair-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FFpxki7uTIcP3bkbzEU69%2Frepair-2.4.mp4?alt=media&token=3a64d5c7-187f-4dfd-b6e5-a2d61a538f2e" %}
 
 ## Repair a selection
 
@@ -35,7 +35,7 @@ If you’d like to repair a very precise part of an image, you can make a select
 2. Choose the Repair <img src="../.gitbook/assets/Repair.png" alt="" data-size="line"> tool in the Tools sidebar.
 3. In the Tool Options pane, click Repair Selection.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/repair-selection-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FXd9mfNGI6PxxoQ5NFcaw%2Frepair-selection-2.4.mp4?alt=media&token=f8e85df8-67f6-4c43-a77f-f80dd7909049" %}
 
 ## Show before and after or reset effects
 
