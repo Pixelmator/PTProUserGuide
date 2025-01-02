@@ -32,7 +32,7 @@ To copy part of an image from one area to another, use the Clone tool. Just like
 3. Drag the clone source marker to choose the area of the image you’d like to clone from. Alternatively, `Option ⌥` – click the area you’d like to clone from.
 4. Paint over the area in your image to which you'd like to clone.
 
-{% embed url="https://d2hh90bli6ucxp.cloudfront.net/help/retouch-and-reshape/clone-2.4.mp4" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLT86jsJoVnFy3L9z7CMi%2Fuploads%2FZzCtl7rl8svjJiZBwRcb%2Fclone-2.4.mp4?alt=media&token=1e125cf9-faee-403b-b66b-14f834ff40c7" %}
 
 ## Show before and after or reset effects
 
